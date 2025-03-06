@@ -3832,7 +3832,7 @@
 9 The Game Cube
 9 Arena for the Fallen
 9 One More Round
-[CommonSlot(10)]
+[CommonSlot(7)]
 30 Grand Hexetic
 30 Peak Performer
 30 Practice Drills
@@ -4265,3 +4265,9 @@
 10 Maddening Hex
 10 Overweening Hex
 10 Eve Inn, the Paradoxical
+[LandSlot(1)]
+10 Plains
+10 Island
+10 Swamp
+10 Mountain
+10 Forest
