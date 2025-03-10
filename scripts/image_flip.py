@@ -13,6 +13,6 @@ def flipImages(setCode):
 			continue
 		width = img.width
 		if width == 523:
-			img_rotated = img.rotate(0, expand=True) #90
-			img_rotated.save(file_path)
-			print (filename + " rotated.")
+			#img_rotated = img.rotate(0, expand=True) #90
+			#img_rotated.save(file_path)
+			print(filename + "should not be rotated.") #print (filename + " rotated.")
