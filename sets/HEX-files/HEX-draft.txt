@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/25_Grand Hexetic.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/24_Grand Hexetic.png"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/22_Dearing Combatant.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/21_Dearing Combatant.png"
 			}
 		},
 		{
@@ -63,7 +63,7 @@
 		{
 			"name": "Battle Medic",
 			"rarity": "common",
-			"mana_cost": "{1{W}/B}{W/B}",
+			"mana_cost": "{1}{W/B}{W/B}",
 			"type": "Creature — Human Cleric ",
 			"collector_number": "257",
 			"image_uris": {
@@ -185,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{X}{W}",
 			"type": "Sorcery",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/24_Gift of Pardon.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/23_Gift of Pardon.png"
 			}
 		},
 		{
@@ -233,7 +233,7 @@
 		{
 			"name": "Hex Seeker",
 			"rarity": "common",
-			"mana_cost": "{1{U}/R}{U/R}",
+			"mana_cost": "{1}{U/R}{U/R}",
 			"type": "Creature — Human Wizard ",
 			"collector_number": "267",
 			"image_uris": {
@@ -651,13 +651,13 @@
 			}
 		},
 		{
-			"name": "Competitor's Steed",
+			"name": "Guided Competitor",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Insect Warrior ",
-			"collector_number": "21",
+			"type": "Creature — Orc Warrior ",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/21_Competitor's Steed.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/25_Guided Competitor.png"
 			}
 		},
 		{
@@ -753,7 +753,7 @@
 		{
 			"name": "Round Three",
 			"rarity": "common",
-			"mana_cost": "{1{R}/W}{R/W}",
+			"mana_cost": "{1}{R/W}{R/W}",
 			"type": "Sorcery",
 			"collector_number": "271",
 			"image_uris": {
@@ -1133,7 +1133,7 @@
 		{
 			"name": "Trophy Hunter",
 			"rarity": "common",
-			"mana_cost": "{mana_v.png}{mana_v.png}",
+			"mana_cost": "{S}{S}",
 			"type": "Artifact Creature — Golem ",
 			"collector_number": "294",
 			"image_uris": {
@@ -1183,7 +1183,7 @@
 		{
 			"name": "Api's Chosen",
 			"rarity": "uncommon",
-			"mana_cost": "{mana_v.png}{mana_v.png}",
+			"mana_cost": "{S}{S}",
 			"type": "Artifact Creature — Insect Golem ",
 			"collector_number": "279",
 			"image_uris": {
@@ -1243,7 +1243,7 @@
 		{
 			"name": "Harmon, the Messenger",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{mana_v.png}{mana_v.png}",
+			"mana_cost": "{4}{S}{S}",
 			"type": "Legendary Creature — Demi-God ",
 			"collector_number": "6",
 			"image_uris": {
@@ -1253,7 +1253,7 @@
 		{
 			"name": "Api's Wish",
 			"rarity": "uncommon",
-			"mana_cost": "{mana_v.png}{mana_v.png}",
+			"mana_cost": "{S}{S}",
 			"type": "Sorcery",
 			"collector_number": "3",
 			"image_uris": {
@@ -1263,7 +1263,7 @@
 		{
 			"name": "Prismatic Elemental",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{mana_v.png}{mana_v.png}{mana_v.png}",
+			"mana_cost": "{3}{S}{S}{S}",
 			"type": "Creature — Elemental ",
 			"collector_number": "9",
 			"image_uris": {
@@ -1810,7 +1810,7 @@
 		{
 			"name": "Api's Trial",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{mana_v.png}{mana_v.png}",
+			"mana_cost": "{1}{S}{S}",
 			"type": "Enchantment",
 			"collector_number": "2",
 			"image_uris": {
@@ -1870,7 +1870,7 @@
 		{
 			"name": "Follow",
 			"rarity": "uncommon",
-			"mana_cost": "{1{G}/U}{G/U}",
+			"mana_cost": "{1}{G/U}{G/U}",
 			"type": "Sorcery",
 			"collector_number": "263",
 			"back": {
@@ -1921,7 +1921,7 @@
 		{
 			"name": "Succumb",
 			"rarity": "uncommon",
-			"mana_cost": "{1{W}/B}",
+			"mana_cost": "{1}{W/B}",
 			"type": "Sorcery",
 			"collector_number": "274",
 			"back": {
@@ -2356,7 +2356,7 @@
 		{
 			"name": "Opening Belt",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{mana_v.png}{mana_v.png}",
+			"mana_cost": "{2}{S}{S}",
 			"type": "Battle — Challenge  ",
 			"collector_number": "8",
 			"back": {
@@ -2635,7 +2635,7 @@
 		{
 			"name": "Opposing Form",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{mana_v.png}{mana_v.png}{G}",
+			"mana_cost": "{2}{S}{S}{G}",
 			"type": "Creature — Ooze ",
 			"collector_number": "181",
 			"image_uris": {
@@ -2665,7 +2665,7 @@
 		{
 			"name": "Game Promotor",
 			"rarity": "uncommon",
-			"mana_cost": "{mana_v.png}{mana_v.png}",
+			"mana_cost": "{S}{S}",
 			"type": "Artifact — Vehicle ",
 			"collector_number": "285",
 			"image_uris": {
@@ -2765,7 +2765,7 @@
 		{
 			"name": "Idolized Colossus",
 			"rarity": "rare",
-			"mana_cost": "{10}{mana_v.png}{mana_v.png}",
+			"mana_cost": "{10}{S}{S}",
 			"type": "Artifact Creature — Golem ",
 			"collector_number": "289",
 			"image_uris": {
@@ -2777,9 +2777,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/23_Finality.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/22_Finality.png"
 			}
 		},
 		{
@@ -3022,7 +3022,7 @@
 		{
 			"name": "Not Niv-Mizzet Reborn",
 			"rarity": "mythic",
-			"mana_cost": "{2}{mana_v.png}{mana_v.png}{mana_v.png}",
+			"mana_cost": "{2}{S}{S}{S}",
 			"type": "Legendary Creature — Dragon ",
 			"collector_number": "7",
 			"image_uris": {
@@ -3127,7 +3127,7 @@
 		{
 			"name": "Event Helper",
 			"rarity": "rare",
-			"mana_cost": "{mana_v.png}{mana_v.png}",
+			"mana_cost": "{S}{S}",
 			"type": "Creature — Faerie Wizard ",
 			"collector_number": "5",
 			"back": {
@@ -3212,13 +3212,13 @@
 			}
 		},
 		{
-			"name": "Brood Infiltrator",
+			"name": "Brood Rivalbreaker",
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Insect Warrior ",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/199_Brood Infiltrator.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/199_Brood Rivalbreaker.png"
 			}
 		},
 		{
@@ -3511,7 +3511,7 @@
 		{
 			"name": "Work Assistant",
 			"rarity": "rare",
-			"mana_cost": "{mana_v.png}{mana_v.png}",
+			"mana_cost": "{S}{S}",
 			"type": "Creature — Faerie Wizard ",
 			"collector_number": "10",
 			"image_uris": {
@@ -3639,7 +3639,7 @@
 			}
 		}
 	]
-[RareSlot(1)]
+[RareSlot(2)]
 2 Highend Security
 2 Mirror Match
 2 Comfy, the Final Game
@@ -3696,7 +3696,7 @@
 2 Master of the Craft
 2 Lady of the Hiveheart
 2 Remove the Competition
-2 Brood Infiltrator
+2 Brood Rivalbreaker
 2 Titanic Dreadbeak
 2 King of the House
 2 Sefolian Sproutling
@@ -3730,7 +3730,7 @@
 1 Field Designer
 1 Not Niv-Mizzet Reborn
 1 The Champion's Prize
-[UncommonSlot(3)]
+[UncommonSlot(4)]
 9 Sweetsong Whisperer
 9 Overseer of the Show
 9 Streetsmart Gambler
@@ -3838,7 +3838,7 @@
 9 Arena for the Fallen
 9 One More Round
 9 Al's Disciple
-[CommonSlot(10)]
+[CommonSlot(9)]
 30 Grand Hexetic
 30 Peak Performer
 30 Practice Drills
@@ -3904,7 +3904,7 @@
 30 Child of Chance
 30 Idow Fighter
 30 Diabolical Doctor
-30 Competitor's Steed
+30 Guided Competitor
 30 Petty Adversary
 30 Hex Mage
 30 Champion Ringleader
@@ -3954,316 +3954,3 @@
 30 Ceremonial Opening
 30 Trophy Hunter
 30 Embrace the Chaos
-[WildcardSlot(2)]
-10 Grand Hexetic
-10 Peak Performer
-10 Practice Drills
-10 Dearing Combatant
-10 Soaring Striker
-10 Idow Hunter
-10 Battle Medic
-10 Hiveheart Guard
-10 Tournament Favorite
-10 Hunter's Game
-10 Hiveheart Champion
-10 Senaric Gifter
-10 Competitor's Hammer
-10 Just Like We Practiced
-10 Shake the Arena
-10 Unmake
-10 Triumphant Reward
-10 Warrior's Bond
-10 Gift of Pardon
-10 Display of Power
-10 Diving Contestant
-10 Fairy Duelist
-10 Hex-Event Host
-10 Hex Seeker
-10 Festive Jester
-10 Sefolian Athlete
-10 Sih's Combatant
-10 Ice Hockey Elemental
-10 Gateway Gambler
-10 Determined Image
-10 Sefol Dragon
-10 Take Your Chances
-10 Kick Off
-10 At Odds Gate
-10 Gift of Knowledge
-10 Unbroken Resolve
-10 Gambler's Hex
-10 Ward Off
-10 Final Preperations
-10 Acceptance
-10 Cenari's Youngling
-10 Undazzling Magician
-10 Al's Experiment
-10 Hiveheart Contestant
-10 Tarase's Disiciple
-10 Hiveheart Challenger
-10 Training Partner
-10 Sind's Rule Setter
-10 Ex-House Dealer
-10 Royal Hexurity
-10 Cenari's Brood
-10 Gift of Infection
-10 Bitter History
-10 Concede
-10 Tarase's Influence
-10 Crowd's Favorite
-10 Hexbound Duel
-10 Waste None
-10 Match Fix
-10 Grim Salvage
-10 Rookie's Mentor
-10 Dribble Bomber
-10 Child of Chance
-10 Idow Fighter
-10 Diabolical Doctor
-10 Competitor's Steed
-10 Petty Adversary
-10 Hex Mage
-10 Champion Ringleader
-10 Idow Rider
-10 Dragonborn Spear
-10 Coming to Aid
-10 Gift of Favors
-10 Highroller's Blaze
-10 Morgan's Teachings
-10 Round Three
-10 Reality Shatter
-10 Personal Gain
-10 Burning Desire
-10 Experimental Research
-10 Champion's Strike
-10 Explorer of the Den
-10 Lady's Favorite
-10 Challenger Mantis
-10 Wayfarer's Companion
-10 Cenari's Pulverizer
-10 Field Stitcher
-10 Thorn In Your Side
-10 Retired General
-10 Crawling Infestation
-10 Api's Blessing
-10 Push Forward
-10 Experimental Results
-10 Chance Awakening
-10 Gift of Cycles
-10 Flight of the Bumblebee
-10 Sticky Situation
-10 Hexrena Golem
-10 Sunlit Marsh
-10 Sacred Peaks
-10 Tangled Islet
-10 Molten Tributary
-10 Haunted Mire
-10 Ba's Reward
-10 Tarase's Reward
-10 Sih's Reward
-10 Al's Reward
-10 Cenari's Reward
-10 Api's Reward
-10 Shifting Arena
-10 Gift of Truth
-10 Stack the Odds
-10 Ceremonial Opening
-10 Trophy Hunter
-10 Sweetsong Whisperer
-10 Overseer of the Show
-10 Streetsmart Gambler
-10 Acewing Striker
-10 Api's Chosen
-10 Matthue, Forever Dreaming
-10 Morgan, Hexetic Leader
-10 Jaroh, Wager of Lives
-10 Det, Cenari's Favorite
-10 Sers, the Unbound
-10 Harmon, the Messenger
-10 Api's Wish
-10 Prismatic Elemental
-10 Wayward Warrior
-10 Adversy's Navigator
-10 Paragon of Competition
-10 Victory Summoner
-10 Tarase's Immortal
-10 Training Regiment
-10 Mimi, Grounds Explorer
-10 Seto San's Wake
-10 Claimed by Trials
-10 Sefolian Javlineer
-10 Sefolian Wide Receiver
-10 Trophy Mage
-10 Sefolian Golem
-10 Bringer of Bad Luck
-10 Sunstan Prodigy
-10 Sunstan Ring Dancer
-10 Reality Slip
-10 Let the Games Begin
-10 Cast Away
-10 Al's Trial
-10 Fortune's Favor
-10 Corrupted Worker
-10 Hiveheart Mother
-10 Last of the Lost
-10 Guard Fixer
-10 Verce, the Big Dreamer
-10 Expendable Paladin
-10 The House and The Brood
-10 Forgotten Champion
-10 Morgan's Order
-10 Woven Lies
-10 Kiss of Defeat
-10 Tarase's Trial
-10 Chaotic Pyromancer
-10 Game Master
-10 Self-Made Challenger
-10 Half-Time Performer
-10 Wild Invoker
-10 Sunsta Risktaker
-10 Will of Ba
-10 Play Dice
-10 Plan Bee
-10 Competitive Spirit Tamer
-10 Ba's Trial
-10 Brave Bird
-10 Detached Finger
-10 Aggressive Hazard
-10 Sih's Servant
-10 Tacky B-Sentinel
-10 Hive Explorer
-10 Grist's Devoted
-10 Power to Devour
-10 Sih's Trial
-10 Api's Trial
-10 Catch the Show
-10 Attention Grab
-10 Sponsor's Decree
-10 Overwhelming Offense
-10 Host the Tournament
-10 Follow
-10 Foster
-10 Risk
-10 Succumb
-10 Gain
-10 Aspire
-10 Highend Security
-10 Mirror Match
-10 Comfy, the Final Game
-10 Cenari's Keeper
-10 Knight of the Black Stinger
-10 Living Infestation
-10 Brutal Victory
-10 Accept Defeat
-10 I Like Those Odds
-10 Buzz Off
-10 Hexagon Enforcer
-10 Path to Victory
-10 Brood Hunter
-10 Cenari Warrior
-10 Fraid's Mercenary
-10 Princess of the Hive
-10 Royal Jewel
-10 Glazed Palace
-10 Ba, the Sixth Sense
-10 Sih, the Fourth Corner
-10 Tarase, the Third Charm
-10 Al, the Second Chance
-10 Cenari, the Fifth Desire
-10 Api, the First Thought
-10 Eye of Api
-10 Medical Field
-10 Long Tournament
-10 Heat of the Moment
-10 Unlikely Allies
-10 Uneven Match
-10 Opening Belt
-10 Crucible of the Worthy
-10 Tournament Duel
-10 Blast Area
-10 Underdog Story
-10 Divine Rivalry
-10 Let It Commence
-10 Grim Bastion
-10 Sunlit Highland
-10 Magmatic Torrent
-10 Barren Desolation
-10 Mysterious Cataract
-10 Sih's Haven
-10 Cenari's Nest
-10 Tarase's Network
-10 Ba's Arena
-10 Al's Illusion
-10 Hexrena
-10 Brood Infiltrator
-10 Train Bot
-10 Brothers in Arms
-10 Arcane Rallier
-10 Arena Boss
-10 Opposing Form
-10 Pit Hydra
-10 Pollination Crossing
-10 Game Promotor
-10 Praying Mantis
-10 Victory Chimes
-10 Reap Benefits
-10 The Game Cube
-10 Arena for the Fallen
-10 One More Round
-10 Cycle of Ascendancy
-10 Sunstan Oddsmaker
-10 Patron of the Bold
-10 Idolized Colossus
-10 Finality
-10 Final Opponent
-10 Tournament Recruiter
-10 Sinful Blessing
-10 Ascendancy
-10 The Competitive Spirit
-10 Gift of Revelation
-10 Pina, the Returned
-10 Verce's Nightmare
-10 Pactbound Contestant
-10 Ripples of Influence
-10 Gigi, the Game Ender
-10 Glimpse at Greatness
-10 Brood War
-10 Soul Painter
-10 Fraid, Once Banished
-10 Saba, the First Champion
-10 Seto San, the Defending
-10 Grist, the World Hunger
-10 Conflicting Minds
-10 Dicey Gambit
-10 Obeka, Bracket Breaker
-10 The Living Dream
-10 Field Designer
-10 Not Niv-Mizzet Reborn
-10 The Champion's Prize
-10 Sind Herald
-10 Sunstan Mage
-10 Brood Pactmaker
-10 RR07 — Legacy
-10 RG07 — Legacy
-10 Event Helper
-10 Challenge Seeker
-10 Small Bet
-10 Conqueror of Challengers
-10 Trophyless
-10 Master of the Craft
-10 Lady of the Hiveheart
-10 Remove the Competition
-10 Brood Infiltrator
-10 Titanic Dreadbeak
-10 King of the House
-10 Sefolian Sproutling
-10 Rex, Two-Time Champion
-10 Leyline of the Guildpact
-10 Work Assistant
-10 Nari, Archmagi of Possibility
-10 Eve's Will
-10 Eve Inn, the Paradoxical
-10 Al's Disciple
-10 Embrace the Chaos
-10 Wade Through Chaos
-10 Next Challenge
