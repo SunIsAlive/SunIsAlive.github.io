@@ -63,7 +63,7 @@
 		{
 			"name": "Battle Medic",
 			"rarity": "common",
-			"mana_cost": "{1{W}/B}{W/B}",
+			"mana_cost": "{1}{W/B}{W/B}",
 			"type": "Creature — Human Cleric ",
 			"collector_number": "254",
 			"image_uris": {
@@ -233,7 +233,7 @@
 		{
 			"name": "Hex Seeker",
 			"rarity": "common",
-			"mana_cost": "{1{U}/R}{U/R}",
+			"mana_cost": "{1}{U/R}{U/R}",
 			"type": "Creature — Human Wizard ",
 			"collector_number": "264",
 			"image_uris": {
@@ -733,7 +733,7 @@
 		{
 			"name": "Round Three",
 			"rarity": "common",
-			"mana_cost": "{1{R}/W}{R/W}",
+			"mana_cost": "{1}{R/W}{R/W}",
 			"type": "Sorcery",
 			"collector_number": "270",
 			"image_uris": {
@@ -1850,7 +1850,7 @@
 		{
 			"name": "Follow",
 			"rarity": "uncommon",
-			"mana_cost": "{1{G}/U}{G/U}",
+			"mana_cost": "{1}{G/U}{G/U}",
 			"type": "Sorcery",
 			"collector_number": "260",
 			"back": {
@@ -1901,7 +1901,7 @@
 		{
 			"name": "Succumb",
 			"rarity": "uncommon",
-			"mana_cost": "{1{W}/B}",
+			"mana_cost": "{1}{W/B}",
 			"type": "Sorcery",
 			"collector_number": "273",
 			"back": {
