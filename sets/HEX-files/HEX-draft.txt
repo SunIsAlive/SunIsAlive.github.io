@@ -585,9 +585,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "152",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/152_Rookie's Mentor.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/153_Rookie's Mentor.png"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "150",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/150_Reality Shatter.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/151_Reality Shatter.png"
 			}
 		},
 		{
@@ -1605,9 +1605,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "153",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/153_Self-Made Challenger.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/154_Self-Made Challenger.png"
 			}
 		},
 		{
@@ -1635,19 +1635,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "154",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/154_Sunsta Risktaker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/155_Sunsta Risktaker.png"
 			}
 		},
 		{
-			"name": "Warrior's Calling",
+			"name": "Rage of the Warrior",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "156",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/156_Warrior's Calling.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/150_Rage of the Warrior.png"
 			}
 		},
 		{
@@ -1811,7 +1811,7 @@
 			"name": "Attention Grab",
 			"rarity": "uncommon",
 			"mana_cost": "{X}{U}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "52",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/52_Attention Grab.png"
@@ -1820,8 +1820,8 @@
 		{
 			"name": "Sponsor's Decree",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Sorcery",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
 			"collector_number": "112",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/112_Sponsor's Decree.png"
@@ -2717,9 +2717,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Demon Wizard ",
-			"collector_number": "155",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/155_Sunstan Oddsmaker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/156_Sunstan Oddsmaker.png"
 			}
 		},
 		{
@@ -2837,9 +2837,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "151",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/151_Ripples of Influence.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/152_Ripples of Influence.png"
 			}
 		},
 		{
@@ -3783,7 +3783,7 @@
 9 Half-Time Performer
 9 Wild Invoker
 9 Sunsta Risktaker
-9 Warrior's Calling
+9 Rage of the Warrior
 9 Play Dice
 9 Plan Bee
 9 Competitive Spirit Tamer
