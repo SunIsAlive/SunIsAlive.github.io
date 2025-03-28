@@ -1425,19 +1425,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/69_Let the Games Begin.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/68_Let the Games Begin.png"
 			}
 		},
 		{
-			"name": "Left Behind",
+			"name": "Lost Cause",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/68_Left Behind.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/70_Lost Cause.png"
 			}
 		},
 		{
@@ -2158,16 +2158,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Battle — Challenge  ",
-			"collector_number": "70",
+			"collector_number": "69",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/HEX-files/img/70_Long Tournament_back.png"
+					"en": "https://sunisalive.github.io/sets/HEX-files/img/69_Long Tournament_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/70_Long Tournament_front.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/69_Long Tournament_front.png"
 			}
 		},
 		{
@@ -3373,7 +3373,7 @@
 			"name": "black Demon 44HEX",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Demon ",
+			"type": "Token Creature — Demon Inkling ",
 			"collector_number": "8",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/8_black Demon 44HEX.png"
@@ -3383,7 +3383,7 @@
 			"name": "white Fox 22HEX",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Fox ",
+			"type": "Token Creature — Fox Inkling ",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/5_white Fox 22HEX.png"
@@ -3393,7 +3393,7 @@
 			"name": "white Wall 04HEX",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Wall ",
+			"type": "Token Creature — Wall Inkling ",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/6_white Wall 04HEX.png"
@@ -3403,7 +3403,7 @@
 			"name": "black Dog 31HEX",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Dog ",
+			"type": "Token Creature — Dog Inkling ",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/9_black Dog 31HEX.png"
@@ -3762,7 +3762,7 @@
 9 Sunstan Ring Dancer
 9 Reality Slip
 9 Let the Games Begin
-9 Left Behind
+9 Lost Cause
 9 Al's Trial
 9 Fortune's Favor
 9 Corrupted Worker
