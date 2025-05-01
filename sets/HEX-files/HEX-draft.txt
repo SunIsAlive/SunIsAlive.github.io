@@ -3647,26 +3647,6 @@
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/12_Spirit Dragon.png"
 			}
-		},
-		{
-			"name": "",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/0_.png"
-			}
-		},
-		{
-			"name": "",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/0_.png"
-			}
 		}
 	]
 [RareSlot(2)]
@@ -3984,5 +3964,3 @@
 30 Sefolian Acrobat
 30 Embrace the Chaos
 30 Sih's Combatant
-30 
-30 
