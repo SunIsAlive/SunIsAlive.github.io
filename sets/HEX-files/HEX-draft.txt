@@ -3094,9 +3094,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Trophy ",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/17_Saba's Trophy.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/18_Saba's Trophy.png"
 			}
 		},
 		{
@@ -3114,9 +3114,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Trophy ",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/20_Chest of Desires HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/21_Chest of Desires HEX.png"
 			}
 		},
 		{
@@ -3124,9 +3124,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Trophy ",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/22_Sword of Victory HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/23_Sword of Victory HEX.png"
 			}
 		},
 		{
@@ -3134,9 +3134,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Trophy ",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/21_Sigil of Conquest HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/22_Sigil of Conquest HEX.png"
 			}
 		},
 		{
@@ -3154,9 +3154,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect ",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/12_green Insect 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/13_green Insect 11HEX.png"
 			}
 		},
 		{
@@ -3184,9 +3184,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect ",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/14_black and green Insect 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/15_black and green Insect 11HEX.png"
 			}
 		},
 		{
@@ -3204,9 +3204,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure ",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/23_Treasure HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/24_Treasure HEX.png"
 			}
 		},
 		{
@@ -3214,9 +3214,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect ",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/15_black and green Insect 33HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/16_black and green Insect 33HEX.png"
 			}
 		},
 		{
@@ -3224,9 +3224,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect ",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/16_red Insect 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/17_red Insect 11HEX.png"
 			}
 		},
 		{
@@ -3234,9 +3234,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Warrior ",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/19_Warrior 22HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/20_Warrior 22HEX.png"
 			}
 		},
 		{
@@ -3274,9 +3274,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit Warrior ",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/18_white and black Spirit Warrior 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/19_white and black Spirit Warrior 11HEX.png"
 			}
 		},
 		{
@@ -3414,9 +3414,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Dice ",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/13_blue and red Dice 33HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/14_blue and red Dice 33HEX.png"
 			}
 		},
 		{
@@ -3499,7 +3499,7 @@
 		{
 			"name": "A Queen is Waiting",
 			"rarity": "mythic",
-			"mana_cost": "{1}{S}{S}{S}",
+			"mana_cost": "{S}{S}{S}",
 			"type": "Sorcery",
 			"collector_number": "9",
 			"image_uris": {
@@ -3554,7 +3554,7 @@
 			}
 		},
 		{
-			"name": "Sih, the Fourth Corner",
+			"name": "Sih, the Fourth Season",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Druid ",
@@ -3563,11 +3563,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/HEX-files/img/188_Sih, the Fourth Corner_back.png"
+					"en": "https://sunisalive.github.io/sets/HEX-files/img/188_Sih, the Fourth Season_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/188_Sih, the Fourth Corner_front.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/188_Sih, the Fourth Season_front.png"
 			}
 		},
 		{
@@ -3637,6 +3637,36 @@
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/1_Api, the First Thought_front.png"
 			}
+		},
+		{
+			"name": "Spirit Dragon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit Dragon ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/12_Spirit Dragon.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/0_.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/0_.png"
+			}
 		}
 	]
 [RareSlot(2)]
@@ -3703,7 +3733,7 @@
 2 Api's Assessor
 2 Assassin's Trophy
 2 Ba, the Sixth Sense
-2 Sih, the Fourth Corner
+2 Sih, the Fourth Season
 2 Tarase, the Third Charm
 2 Al, the Second Chance
 2 Cenari, the Fifth Desire
@@ -3954,3 +3984,5 @@
 30 Sefolian Acrobat
 30 Embrace the Chaos
 30 Sih's Combatant
+30 
+30 
