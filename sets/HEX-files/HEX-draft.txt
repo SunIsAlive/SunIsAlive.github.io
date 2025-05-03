@@ -3647,6 +3647,16 @@
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/12_Spirit Dragon.png"
 			}
+		},
+		{
+			"name": "Trophy Reminder",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/25_Trophy Reminder.png"
+			}
 		}
 	]
 [RareSlot(2)]
@@ -3964,3 +3974,5 @@
 30 Sefolian Acrobat
 30 Embrace the Chaos
 30 Sih's Combatant
+[WildcardSlot(1)]
+10 Trophy Reminder
