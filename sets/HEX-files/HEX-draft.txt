@@ -7,7 +7,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/24_Grand Hexetic.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/24_Grand Hexetic.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/32_Peak Performer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/32_Peak Performer.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Enchantment",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/33_Practice Drills.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/33_Practice Drills.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/21_Dearing Combatant.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/21_Dearing Combatant.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/37_Soaring Striker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/37_Soaring Striker.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/140_Idow Hunter.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/140_Idow Hunter.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/255_Battle Medic.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/255_Battle Medic.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Artifact Creature — Construct Warrior",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/220_House Guard.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/220_House Guard.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Creature — Human Noble",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/41_Tournament Favorite.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/41_Tournament Favorite.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Creature — Angel Warrior",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/38_Syld Avenger.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/38_Syld Avenger.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Creature — Faerie Warrior",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/219_Hiveheart Champion.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/219_Hiveheart Champion.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Creature — Faerie Beast",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/273_Senaric Gifter.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/273_Senaric Gifter.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/20_Competitor's Hammer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/20_Competitor's Hammer.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Enchantment",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/27_Just Like We Practiced.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/27_Just Like We Practiced.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Instant",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/35_Shake the Arena.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/35_Shake the Arena.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Instant",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/276_Unmake.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/276_Unmake.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Sorcery",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/44_Triumphant Reward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/44_Triumphant Reward.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Sorcery",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/46_Warrior's Bond.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/46_Warrior's Bond.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Sorcery",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/23_Gift of Pardon.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/23_Gift of Pardon.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Sorcery",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/208_Display of Power.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/208_Display of Power.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Creature — Merfolk Warrior",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/56_Diving Contestant.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/56_Diving Contestant.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Creature — Faerie Warrior",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/59_Fairy Duelist.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/59_Fairy Duelist.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/216_Hex-Event Broadcaster.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/216_Hex-Event Broadcaster.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/263_Hex Seeker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/263_Hex Seeker.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Creature — Elf Wizard",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/60_Festive Jester.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/60_Festive Jester.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/68_Ice Hockey Elemental.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/68_Ice Hockey Elemental.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Creature — Demon Wizard",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/213_Gateway Gambler.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/213_Gateway Gambler.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Creature — Spirit Wizard",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/259_Determined Image.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/259_Determined Image.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/272_Sefol Dragon.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/272_Sefol Dragon.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Instant",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/80_Take Your Chances.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/80_Take Your Chances.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Enchantment",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/69_Kick Off.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/69_Kick Off.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Enchantment",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/49_Aftershow.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/49_Aftershow.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Instant",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/64_Gift of Knowledge.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/64_Gift of Knowledge.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/82_Unbroken Resolve.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/82_Unbroken Resolve.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/63_Gambler's Hex.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/63_Gambler's Hex.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Instant",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/83_Ward Off.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/83_Ward Off.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Sorcery",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/61_Final Preperations.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/61_Final Preperations.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Sorcery",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/48_Acceptance.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/48_Acceptance.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/92_Cenari's Youngling.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/92_Cenari's Youngling.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Creature — Demon Wizard",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/117_Undazzling Magician.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/117_Undazzling Magician.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Creature — Zombie Insect",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/86_Al's Experiment.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/86_Al's Experiment.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Creature — Faerie Warrior",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/101_Hiveheart Contestant.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/101_Hiveheart Contestant.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Creature — Demon Advisor",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/114_Tarase's Disiciple.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/114_Tarase's Disiciple.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Creature — Insect Warrior",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/218_Hiveheart Challenger.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/218_Hiveheart Challenger.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Creature — Insect Warrior",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/262_Guardian of the Brood.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/262_Guardian of the Brood.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Creature — Elf Advisor",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/112_Sind's Rule Setter.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/112_Sind's Rule Setter.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Creature — Demon Advisor",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/96_Ex-House Dealer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/96_Ex-House Dealer.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Creature — Insect Warrior",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/237_Royal Hexurity.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/237_Royal Hexurity.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/256_Cenari's Brood.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/256_Cenari's Brood.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Sorcery",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/99_Gift of Infection.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/99_Gift of Infection.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Instant",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/87_Bitter History.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/87_Bitter History.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Sorcery",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/93_Concede.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/93_Concede.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Sorcery",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/115_Tarase's Influence.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/115_Tarase's Influence.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/95_Crowd's Favorite.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/95_Crowd's Favorite.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Instant",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/217_Hexbound Duel.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/217_Hexbound Duel.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Instant",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/120_Waste None.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/120_Waste None.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/109_Match Fix.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/109_Match Fix.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Instant",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/261_Grim Salvage.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/261_Grim Salvage.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/150_Rookie's Mentor.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/150_Rookie's Mentor.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Creature — Goblin Warrior",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/133_Dribble Bomber.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/133_Dribble Bomber.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/129_Child of Chance.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/129_Child of Chance.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/221_Idow Fighter.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/221_Idow Fighter.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/156_Sunstan Wildsword.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/156_Sunstan Wildsword.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Creature — Orc Warrior",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/25_Guided Competitor.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/25_Guided Competitor.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Creature — Troll Warrior",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/145_Petty Adversary.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/145_Petty Adversary.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/66_Hex Mage.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/66_Hex Mage.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/204_Champion Ringleader.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/204_Champion Ringleader.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Creature — Human Insect Warrior",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/264_Idow Rider.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/264_Idow Rider.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/132_Dragonborn Spear.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/132_Dragonborn Spear.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Instant",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/257_Coming to Aid.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/257_Coming to Aid.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Sorcery",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/136_Gift of Favors.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/136_Gift of Favors.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Instant",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/139_Highroller's Blaze.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/139_Highroller's Blaze.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Sorcery",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/226_Morgan's Teachings.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/226_Morgan's Teachings.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Sorcery",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/271_Round Three.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/271_Round Three.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Sorcery",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/148_Reality Shatter.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/148_Reality Shatter.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Enchantment",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/144_Personal Gain.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/144_Personal Gain.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/126_Burning Desire.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/126_Burning Desire.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Sorcery",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/260_Experimental Research.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/260_Experimental Research.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Instant",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/127_Champion's Strike.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/127_Champion's Strike.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/170_Explorer of the Den.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/170_Explorer of the Den.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Creature — Human Noble",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/180_Lady's Favorite.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/180_Lady's Favorite.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Creature — Insect Warrior",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/167_Challenger Mantis.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/167_Challenger Mantis.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Creature — Insect Scout",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/277_Wayfarer's Companion.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/277_Wayfarer's Companion.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Creature — Insect Warrior",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/166_Cenari's Pulverizer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/166_Cenari's Pulverizer.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Creature — Elf Shaman",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/171_Field Stitcher.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/171_Field Stitcher.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Instant",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/195_Thorn In Your Side.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/195_Thorn In Your Side.png"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Creature — Insect Warrior",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/188_Retired General.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/188_Retired General.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Enchantment",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/168_Crawling Infestation.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/168_Crawling Infestation.png"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Sorcery",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/162_Api's Blessing.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/162_Api's Blessing.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/187_Push Forward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/187_Push Forward.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Enchantment",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/181_Little Victory.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/181_Little Victory.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Sorcery",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/268_Nature's Awakening.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/268_Nature's Awakening.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Sorcery",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/173_Gift of Cycles.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/173_Gift of Cycles.png"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Instant",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/172_Flight of the Bumblebee.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/172_Flight of the Bumblebee.png"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Sorcery",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/194_Sticky Situation.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/194_Sticky Situation.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/289_Hexrena Golem.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/289_Hexrena Golem.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Land — Plains Swamp",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/297_Desolate Barrens.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/297_Desolate Barrens.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Land — Mountain Plains",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/301_Jagged Crag.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/301_Jagged Crag.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Land — Forest Island",
 			"collector_number": "305",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/305_Rainforest Spring.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/305_Rainforest Spring.png"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Land — Island Mountain",
 			"collector_number": "306",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/306_Roaring Cascade.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/306_Roaring Cascade.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Land — Swamp Forest",
 			"collector_number": "309",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/309_Somber Marsh.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/309_Somber Marsh.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Artifact — Trophy",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/282_Ba's Reward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/282_Ba's Reward.png"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Artifact — Trophy",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/293_Tarase's Reward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/293_Tarase's Reward.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Artifact — Trophy",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/292_Sih's Reward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/292_Sih's Reward.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Artifact — Trophy",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/278_Al's Reward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/278_Al's Reward.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Artifact — Trophy",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/284_Cenari's Reward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/284_Cenari's Reward.png"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Artifact — Trophy",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/281_Api's Reward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/281_Api's Reward.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Land",
 			"collector_number": "307",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/307_Shifting Arena.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/307_Shifting Arena.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Artifact — Clue",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/287_Gift of Truth.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/287_Gift of Truth.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Enchantment",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/245_Stack the Odds.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/245_Stack the Odds.png"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Instant",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/203_Ceremonial Opening.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/203_Ceremonial Opening.png"
 			}
 		},
 		{
@@ -1117,7 +1117,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/295_Trophy Hunter.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/295_Trophy Hunter.png"
 			}
 		},
 		{
@@ -1127,7 +1127,7 @@
 			"type": "Creature — Faerie Bard",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/247_Sweetsong Whisperer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/247_Sweetsong Whisperer.png"
 			}
 		},
 		{
@@ -1137,7 +1137,7 @@
 			"type": "Creature — Human Advisor",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/231_Overseer of the Show.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/231_Overseer of the Show.png"
 			}
 		},
 		{
@@ -1147,7 +1147,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/246_Streetsmart Gambler.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/246_Streetsmart Gambler.png"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"type": "Creature — Angel Warrior",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/197_Acewing Striker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/197_Acewing Striker.png"
 			}
 		},
 		{
@@ -1167,7 +1167,7 @@
 			"type": "Artifact Creature — Insect Golem",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/280_Api's Chosen.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/280_Api's Chosen.png"
 			}
 		},
 		{
@@ -1177,7 +1177,7 @@
 			"type": "Legendary Creature — Demigod",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/224_Matthue, Forever Dreaming.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/224_Matthue, Forever Dreaming.png"
 			}
 		},
 		{
@@ -1187,7 +1187,7 @@
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/225_Morgan, Hexetic Leader.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/225_Morgan, Hexetic Leader.png"
 			}
 		},
 		{
@@ -1197,7 +1197,7 @@
 			"type": "Legendary Creature — Bear Pirate",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/222_Jaroh, Wager of Lives.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/222_Jaroh, Wager of Lives.png"
 			}
 		},
 		{
@@ -1207,7 +1207,7 @@
 			"type": "Legendary Creature — Insect Warrior",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/207_Det, Cenari's Favorite.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/207_Det, Cenari's Favorite.png"
 			}
 		},
 		{
@@ -1217,7 +1217,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/241_Sers, the Unbound.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/241_Sers, the Unbound.png"
 			}
 		},
 		{
@@ -1227,7 +1227,7 @@
 			"type": "Legendary Creature — Demigod",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/6_Harmon, the Messenger.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/6_Harmon, the Messenger.png"
 			}
 		},
 		{
@@ -1237,7 +1237,7 @@
 			"type": "Instant",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/3_Api's Wish.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/3_Api's Wish.png"
 			}
 		},
 		{
@@ -1247,7 +1247,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/8_Prismatic Elemental.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/8_Prismatic Elemental.png"
 			}
 		},
 		{
@@ -1257,7 +1257,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/47_Wayward Warrior.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/47_Wayward Warrior.png"
 			}
 		},
 		{
@@ -1267,7 +1267,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/11_Adversary's Navigator.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/11_Adversary's Navigator.png"
 			}
 		},
 		{
@@ -1277,7 +1277,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/30_Paragon of Competition.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/30_Paragon of Competition.png"
 			}
 		},
 		{
@@ -1287,7 +1287,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/45_Victory Summoner.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/45_Victory Summoner.png"
 			}
 		},
 		{
@@ -1297,7 +1297,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/40_Tarase's Immortal.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/40_Tarase's Immortal.png"
 			}
 		},
 		{
@@ -1307,7 +1307,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/43_Training Regiment.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/43_Training Regiment.png"
 			}
 		},
 		{
@@ -1317,7 +1317,7 @@
 			"type": "Legendary Creature — Human Scout",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/29_Mimi, Grounds Explorer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/29_Mimi, Grounds Explorer.png"
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"type": "Instant",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/34_Seto San's Wake.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/34_Seto San's Wake.png"
 			}
 		},
 		{
@@ -1337,7 +1337,7 @@
 			"type": "Enchantment",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/18_Claimed by Trials.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/18_Claimed by Trials.png"
 			}
 		},
 		{
@@ -1347,7 +1347,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/76_Sefolian Javlineer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/76_Sefolian Javlineer.png"
 			}
 		},
 		{
@@ -1357,7 +1357,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/84_Wide Receiver.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/84_Wide Receiver.png"
 			}
 		},
 		{
@@ -1367,7 +1367,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/81_Trophy Mage.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/81_Trophy Mage.png"
 			}
 		},
 		{
@@ -1377,7 +1377,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/75_Sefolian Golem.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/75_Sefolian Golem.png"
 			}
 		},
 		{
@@ -1387,7 +1387,7 @@
 			"type": "Creature — Elemental Horror",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/54_Bringer of Bad Luck.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/54_Bringer of Bad Luck.png"
 			}
 		},
 		{
@@ -1397,7 +1397,7 @@
 			"type": "Creature — Demon Wizard",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/77_Sunstan Exemplar.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/77_Sunstan Exemplar.png"
 			}
 		},
 		{
@@ -1407,7 +1407,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/79_Sunstan Ring Dancer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/79_Sunstan Ring Dancer.png"
 			}
 		},
 		{
@@ -1417,7 +1417,7 @@
 			"type": "Insant",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/74_Reality Slip.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/74_Reality Slip.png"
 			}
 		},
 		{
@@ -1427,7 +1427,7 @@
 			"type": "Enchantment",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/70_Let the Games Begin.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/70_Let the Games Begin.png"
 			}
 		},
 		{
@@ -1437,7 +1437,7 @@
 			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/71_Lost Cause.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/71_Lost Cause.png"
 			}
 		},
 		{
@@ -1447,7 +1447,7 @@
 			"type": "Enchantment",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/52_Al's Trial.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/52_Al's Trial.png"
 			}
 		},
 		{
@@ -1457,7 +1457,7 @@
 			"type": "Instant",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/62_Fortune's Favor.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/62_Fortune's Favor.png"
 			}
 		},
 		{
@@ -1467,7 +1467,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/94_Corrupted Worker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/94_Corrupted Worker.png"
 			}
 		},
 		{
@@ -1477,7 +1477,7 @@
 			"type": "Creature — Faerie Noble",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/102_Hiveheart Mother.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/102_Hiveheart Mother.png"
 			}
 		},
 		{
@@ -1487,7 +1487,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/107_Last of the Lost.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/107_Last of the Lost.png"
 			}
 		},
 		{
@@ -1497,7 +1497,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/100_Guard Fixer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/100_Guard Fixer.png"
 			}
 		},
 		{
@@ -1507,7 +1507,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/118_Verce, the Big Dreamer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/118_Verce, the Big Dreamer.png"
 			}
 		},
 		{
@@ -1517,7 +1517,7 @@
 			"type": "Creature — Insect Warrior",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/97_Expendable Paladin.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/97_Expendable Paladin.png"
 			}
 		},
 		{
@@ -1527,7 +1527,7 @@
 			"type": "Creature — Elf Warrior",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/104_The House and The Brood.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/104_The House and The Brood.png"
 			}
 		},
 		{
@@ -1537,7 +1537,7 @@
 			"type": "Creature — Spirit Warrior",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/98_Forgotten Champion.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/98_Forgotten Champion.png"
 			}
 		},
 		{
@@ -1547,7 +1547,7 @@
 			"type": "Instant",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/110_Morgan's Order.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/110_Morgan's Order.png"
 			}
 		},
 		{
@@ -1557,7 +1557,7 @@
 			"type": "Sorcery",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/121_Woven Lies.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/121_Woven Lies.png"
 			}
 		},
 		{
@@ -1567,7 +1567,7 @@
 			"type": "Instant",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/105_Kiss of Defeat.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/105_Kiss of Defeat.png"
 			}
 		},
 		{
@@ -1577,7 +1577,7 @@
 			"type": "Enchantment",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/116_Tarase's Trial.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/116_Tarase's Trial.png"
 			}
 		},
 		{
@@ -1587,7 +1587,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/128_Chaotic Pyromancer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/128_Chaotic Pyromancer.png"
 			}
 		},
 		{
@@ -1597,7 +1597,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/135_Game Master.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/135_Game Master.png"
 			}
 		},
 		{
@@ -1607,7 +1607,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/152_Self-Made Challenger.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/152_Self-Made Challenger.png"
 			}
 		},
 		{
@@ -1617,7 +1617,7 @@
 			"type": "Creature — Orc Bard",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/138_Half-Time Performer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/138_Half-Time Performer.png"
 			}
 		},
 		{
@@ -1627,7 +1627,7 @@
 			"type": "Creature — Boar Shaman",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/158_Wild Invoker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/158_Wild Invoker.png"
 			}
 		},
 		{
@@ -1637,7 +1637,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/154_Sunsta Risktaker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/154_Sunsta Risktaker.png"
 			}
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/147_Rage of the Warrior.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/147_Rage of the Warrior.png"
 			}
 		},
 		{
@@ -1657,7 +1657,7 @@
 			"type": "Sorcery",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/151_Second Burst.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/151_Second Burst.png"
 			}
 		},
 		{
@@ -1667,7 +1667,7 @@
 			"type": "Enchantment",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/146_Plan Bee.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/146_Plan Bee.png"
 			}
 		},
 		{
@@ -1677,7 +1677,7 @@
 			"type": "Creature — Human Demon Warrior",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/130_Competitive Spirit Tamer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/130_Competitive Spirit Tamer.png"
 			}
 		},
 		{
@@ -1687,7 +1687,7 @@
 			"type": "Enchantment",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/125_Ba's Trial.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/125_Ba's Trial.png"
 			}
 		},
 		{
@@ -1697,7 +1697,7 @@
 			"type": "Creature — Faerie Warrior",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/239_Sefolian Acrobat.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/239_Sefolian Acrobat.png"
 			}
 		},
 		{
@@ -1707,7 +1707,7 @@
 			"type": "Creature — Insect Shaman",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/169_Detached Finger.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/169_Detached Finger.png"
 			}
 		},
 		{
@@ -1717,7 +1717,7 @@
 			"type": "Creature — Plant",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/160_Aggressive Hazard.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/160_Aggressive Hazard.png"
 			}
 		},
 		{
@@ -1727,7 +1727,7 @@
 			"type": "Creature — Dryad",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/192_Sih's Servant.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/192_Sih's Servant.png"
 			}
 		},
 		{
@@ -1737,7 +1737,7 @@
 			"type": "Artifact Creature — Insect Golem",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/177_Hive Sentinel.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/177_Hive Sentinel.png"
 			}
 		},
 		{
@@ -1747,7 +1747,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/176_Hive Explorer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/176_Hive Explorer.png"
 			}
 		},
 		{
@@ -1757,7 +1757,7 @@
 			"type": "Creature — Insect Warrior",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/175_Grist's Devoted.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/175_Grist's Devoted.png"
 			}
 		},
 		{
@@ -1767,7 +1767,7 @@
 			"type": "Sorcery",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/186_Power to Devour.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/186_Power to Devour.png"
 			}
 		},
 		{
@@ -1777,7 +1777,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/193_Sih's Trial.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/193_Sih's Trial.png"
 			}
 		},
 		{
@@ -1787,7 +1787,7 @@
 			"type": "Enchantment",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/2_Api's Trial.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/2_Api's Trial.png"
 			}
 		},
 		{
@@ -1797,7 +1797,7 @@
 			"type": "Instant",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/16_Catch the Show.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/16_Catch the Show.png"
 			}
 		},
 		{
@@ -1807,7 +1807,7 @@
 			"type": "Instant",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/53_Attention Grab.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/53_Attention Grab.png"
 			}
 		},
 		{
@@ -1817,7 +1817,7 @@
 			"type": "Instant",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/113_Sponsor's Decree.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/113_Sponsor's Decree.png"
 			}
 		},
 		{
@@ -1827,7 +1827,7 @@
 			"type": "Instant",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/142_Overwhelming Offense.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/142_Overwhelming Offense.png"
 			}
 		},
 		{
@@ -1837,7 +1837,7 @@
 			"type": "Instant",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/178_Host the Tournament.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/178_Host the Tournament.png"
 			}
 		},
 		{
@@ -1847,7 +1847,7 @@
 			"type": "Sorcery",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/274_Shared Dreams.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/274_Shared Dreams.png"
 			}
 		},
 		{
@@ -1857,7 +1857,7 @@
 			"type": "Sorcery",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/267_Mother's Touch.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/267_Mother's Touch.png"
 			}
 		},
 		{
@@ -1867,7 +1867,7 @@
 			"type": "Instant",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/270_Risk and Reward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/270_Risk and Reward.png"
 			}
 		},
 		{
@@ -1877,7 +1877,7 @@
 			"type": "Sorcery",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/258_Deepest Desires.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/258_Deepest Desires.png"
 			}
 		},
 		{
@@ -1887,7 +1887,7 @@
 			"type": "Instant",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/275_Sponsor's Gift.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/275_Sponsor's Gift.png"
 			}
 		},
 		{
@@ -1897,7 +1897,7 @@
 			"type": "Sorcery",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/4_Aspire.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/4_Aspire.png"
 			}
 		},
 		{
@@ -1907,7 +1907,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/26_Highend Security.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/26_Highend Security.png"
 			}
 		},
 		{
@@ -1917,7 +1917,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/72_Mirror Match.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/72_Mirror Match.png"
 			}
 		},
 		{
@@ -1927,7 +1927,7 @@
 			"type": "Legendary Creature — Serpent",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/55_Comfy, the Final Game.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/55_Comfy, the Final Game.png"
 			}
 		},
 		{
@@ -1937,7 +1937,7 @@
 			"type": "Creature — Troll Shaman",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/91_Cenari's Keeper.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/91_Cenari's Keeper.png"
 			}
 		},
 		{
@@ -1947,7 +1947,7 @@
 			"type": "Creature — Insect Knight",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/106_Knight of the Black Stinger.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/106_Knight of the Black Stinger.png"
 			}
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"type": "Creature — Zombie Insect Horror",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/108_Living Infestation.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/108_Living Infestation.png"
 			}
 		},
 		{
@@ -1967,7 +1967,7 @@
 			"type": "Enchantment",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/89_Brutal Victory.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/89_Brutal Victory.png"
 			}
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"type": "Sorcery",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/85_Accept Defeat.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/85_Accept Defeat.png"
 			}
 		},
 		{
@@ -1987,7 +1987,7 @@
 			"type": "Sorcery",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/122_Ascendant's Fire.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/122_Ascendant's Fire.png"
 			}
 		},
 		{
@@ -1997,7 +1997,7 @@
 			"type": "Instant",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/202_Buzz Off.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/202_Buzz Off.png"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Sorcery",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/143_Path to Victory.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/143_Path to Victory.png"
 			}
 		},
 		{
@@ -2017,7 +2017,7 @@
 			"type": "Creature — Faerie Warrior",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/163_Brood Hunter.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/163_Brood Hunter.png"
 			}
 		},
 		{
@@ -2027,7 +2027,7 @@
 			"type": "Creature — Insect Warrior",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/165_Cenari Warrior.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/165_Cenari Warrior.png"
 			}
 		},
 		{
@@ -2037,7 +2037,7 @@
 			"type": "Creature — Human Mercenary",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/211_Fraid's Mercenary.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/211_Fraid's Mercenary.png"
 			}
 		},
 		{
@@ -2047,7 +2047,7 @@
 			"type": "Creature — Insect Noble",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/233_Princess of the Hive.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/233_Princess of the Hive.png"
 			}
 		},
 		{
@@ -2060,11 +2060,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/HEX-files/img/291_Royal Jewel_back.png"
+					"en": "https://sunisalive.github.io/sets/HEX-files/img/291_Royal Jewel_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/291_Royal Jewel_front.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/291_Royal Jewel_front.png"
 			}
 		},
 		{
@@ -2074,7 +2074,7 @@
 			"type": "Land",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/299_Glazed Palace.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/299_Glazed Palace.png"
 			}
 		},
 		{
@@ -2084,7 +2084,7 @@
 			"type": "Land",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/298_Eye of Api.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/298_Eye of Api.png"
 			}
 		},
 		{
@@ -2094,7 +2094,7 @@
 			"type": "Land",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/300_Grim Bastion.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/300_Grim Bastion.png"
 			}
 		},
 		{
@@ -2104,7 +2104,7 @@
 			"type": "Land",
 			"collector_number": "310",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/310_Sunlit Highland.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/310_Sunlit Highland.png"
 			}
 		},
 		{
@@ -2114,7 +2114,7 @@
 			"type": "Land",
 			"collector_number": "303",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/303_Magmatic Torrent.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/303_Magmatic Torrent.png"
 			}
 		},
 		{
@@ -2124,7 +2124,7 @@
 			"type": "Land",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/296_Barren Desolation.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/296_Barren Desolation.png"
 			}
 		},
 		{
@@ -2134,7 +2134,7 @@
 			"type": "Land",
 			"collector_number": "304",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/304_Mysterious Cataract.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/304_Mysterious Cataract.png"
 			}
 		},
 		{
@@ -2144,7 +2144,7 @@
 			"type": "Land — Forest",
 			"collector_number": "312",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/312_Vioradell, Sih's Haven.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/312_Vioradell, Sih's Haven.png"
 			}
 		},
 		{
@@ -2154,7 +2154,7 @@
 			"type": "Land — Swamp",
 			"collector_number": "313",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/313_Xysth, Cenari's Nest.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/313_Xysth, Cenari's Nest.png"
 			}
 		},
 		{
@@ -2164,7 +2164,7 @@
 			"type": "Land — Plains",
 			"collector_number": "308",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/308_Sinis, Tarase's Network.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/308_Sinis, Tarase's Network.png"
 			}
 		},
 		{
@@ -2174,7 +2174,7 @@
 			"type": "Land — Mountain",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/302_Kaomar, Ba's Arena.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/302_Kaomar, Ba's Arena.png"
 			}
 		},
 		{
@@ -2184,7 +2184,7 @@
 			"type": "Land — Island",
 			"collector_number": "311",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/311_Verrith, Al's Illusion.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/311_Verrith, Al's Illusion.png"
 			}
 		},
 		{
@@ -2194,7 +2194,7 @@
 			"type": "Artifact Creature — Wall",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/288_Hexrena.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/288_Hexrena.png"
 			}
 		},
 		{
@@ -2204,7 +2204,7 @@
 			"type": "Artifact Creature — Insect Construct",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/283_Brood Infiltrator.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/283_Brood Infiltrator.png"
 			}
 		},
 		{
@@ -2214,7 +2214,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/294_Train Bot.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/294_Train Bot.png"
 			}
 		},
 		{
@@ -2224,7 +2224,7 @@
 			"type": "Enchantment",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/15_Bound as Brothers.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/15_Bound as Brothers.png"
 			}
 		},
 		{
@@ -2234,7 +2234,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/12_Arcane Rallier.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/12_Arcane Rallier.png"
 			}
 		},
 		{
@@ -2244,7 +2244,7 @@
 			"type": "Creature — Seal Warrior",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/13_Arena Boss.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/13_Arena Boss.png"
 			}
 		},
 		{
@@ -2254,7 +2254,7 @@
 			"type": "Creature — Ooze",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/183_Opposing Form.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/183_Opposing Form.png"
 			}
 		},
 		{
@@ -2264,7 +2264,7 @@
 			"type": "Creature — Hydra",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/184_Pit Hydra.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/184_Pit Hydra.png"
 			}
 		},
 		{
@@ -2274,7 +2274,7 @@
 			"type": "Enchantment",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/185_Pollination Crossing.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/185_Pollination Crossing.png"
 			}
 		},
 		{
@@ -2284,7 +2284,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/286_Game Promotor.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/286_Game Promotor.png"
 			}
 		},
 		{
@@ -2294,7 +2294,7 @@
 			"type": "Creature — Insect Assasin",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/232_Praying Mantis.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/232_Praying Mantis.png"
 			}
 		},
 		{
@@ -2304,7 +2304,7 @@
 			"type": "Enchantment",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/253_Victory Chimes.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/253_Victory Chimes.png"
 			}
 		},
 		{
@@ -2314,7 +2314,7 @@
 			"type": "Instant",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/234_Reap Benefits.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/234_Reap Benefits.png"
 			}
 		},
 		{
@@ -2324,7 +2324,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/212_The Game Cube.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/212_The Game Cube.png"
 			}
 		},
 		{
@@ -2334,7 +2334,7 @@
 			"type": "Artifact",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/199_Arena for the Fallen.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/199_Arena for the Fallen.png"
 			}
 		},
 		{
@@ -2344,7 +2344,7 @@
 			"type": "Sorcery",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/229_One More Round.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/229_One More Round.png"
 			}
 		},
 		{
@@ -2354,7 +2354,7 @@
 			"type": "Enchantment",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/206_Cycle of Ascendancy.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/206_Cycle of Ascendancy.png"
 			}
 		},
 		{
@@ -2364,7 +2364,7 @@
 			"type": "Creature — Demon Wizard",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/155_Sunstan Oddsmaker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/155_Sunstan Oddsmaker.png"
 			}
 		},
 		{
@@ -2374,7 +2374,7 @@
 			"type": "Creature — Angel Warrior",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/31_Patron of the Bold.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/31_Patron of the Bold.png"
 			}
 		},
 		{
@@ -2384,7 +2384,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/290_Idolized Colossus.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/290_Idolized Colossus.png"
 			}
 		},
 		{
@@ -2394,7 +2394,7 @@
 			"type": "Sorcery",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/22_Finality.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/22_Finality.png"
 			}
 		},
 		{
@@ -2404,7 +2404,7 @@
 			"type": "Creature — Demon Warrior",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/251_Vengeful Adversary.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/251_Vengeful Adversary.png"
 			}
 		},
 		{
@@ -2414,7 +2414,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/42_Tournament Recruiter.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/42_Tournament Recruiter.png"
 			}
 		},
 		{
@@ -2424,7 +2424,7 @@
 			"type": "Enchantment",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/14_Ascendancy.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/14_Ascendancy.png"
 			}
 		},
 		{
@@ -2434,7 +2434,7 @@
 			"type": "Legendary Creature — Spirit Avatar",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/19_The Competitive Spirit.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/19_The Competitive Spirit.png"
 			}
 		},
 		{
@@ -2444,7 +2444,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/65_Gift of Revelation.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/65_Gift of Revelation.png"
 			}
 		},
 		{
@@ -2454,7 +2454,7 @@
 			"type": "Legendary Planeswalker — Pina",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/73_Pina, the Returned.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/73_Pina, the Returned.png"
 			}
 		},
 		{
@@ -2464,7 +2464,7 @@
 			"type": "Enchantment",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/119_Verce's Nightmare.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/119_Verce's Nightmare.png"
 			}
 		},
 		{
@@ -2474,7 +2474,7 @@
 			"type": "Creature — Human Demon Warrior",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/111_Pactbound Contestant.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/111_Pactbound Contestant.png"
 			}
 		},
 		{
@@ -2484,7 +2484,7 @@
 			"type": "Enchantment",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/149_Ripples of Influence.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/149_Ripples of Influence.png"
 			}
 		},
 		{
@@ -2494,7 +2494,7 @@
 			"type": "Legendary Creature — Dragon",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/137_Gigi, the Game Ender.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/137_Gigi, the Game Ender.png"
 			}
 		},
 		{
@@ -2504,7 +2504,7 @@
 			"type": "Enchantment",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/174_Glimpse at Greatness.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/174_Glimpse at Greatness.png"
 			}
 		},
 		{
@@ -2514,7 +2514,7 @@
 			"type": "Enchantment",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/164_Brood War.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/164_Brood War.png"
 			}
 		},
 		{
@@ -2524,7 +2524,7 @@
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/210_Fraid, Once Banished.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/210_Fraid, Once Banished.png"
 			}
 		},
 		{
@@ -2534,7 +2534,7 @@
 			"type": "Legendary Creature — Angel Warrior",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/238_Saba, the First Champion.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/238_Saba, the First Champion.png"
 			}
 		},
 		{
@@ -2544,7 +2544,7 @@
 			"type": "Legendary Planeswalker — Seto",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/242_Seto San, the Defending.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/242_Seto San, the Defending.png"
 			}
 		},
 		{
@@ -2554,7 +2554,7 @@
 			"type": "Legendary Planeswalker — Grist",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/215_Grist, the World Hunger.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/215_Grist, the World Hunger.png"
 			}
 		},
 		{
@@ -2564,7 +2564,7 @@
 			"type": "Sorcery",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/205_Conflicting Minds.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/205_Conflicting Minds.png"
 			}
 		},
 		{
@@ -2574,7 +2574,7 @@
 			"type": "Sorcery",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/198_Archmage's Gambit.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/198_Archmage's Gambit.png"
 			}
 		},
 		{
@@ -2584,7 +2584,7 @@
 			"type": "Legendary Creature — Ogre Wizard",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/269_Obeka, Bracket Breaker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/269_Obeka, Bracket Breaker.png"
 			}
 		},
 		{
@@ -2594,7 +2594,7 @@
 			"type": "Legendary Enchantment Creature — Avatar",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/266_The Living Dream.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/266_The Living Dream.png"
 			}
 		},
 		{
@@ -2604,7 +2604,7 @@
 			"type": "Creature — Human Artist",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/209_Field Designer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/209_Field Designer.png"
 			}
 		},
 		{
@@ -2614,7 +2614,7 @@
 			"type": "Legendary Artifact — Trophy",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/285_The Champion's Prize.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/285_The Champion's Prize.png"
 			}
 		},
 		{
@@ -2624,7 +2624,7 @@
 			"type": "Creature — Human Advisor",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/36_Sind Herald.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/36_Sind Herald.png"
 			}
 		},
 		{
@@ -2634,7 +2634,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/78_Sunstan Mage.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/78_Sunstan Mage.png"
 			}
 		},
 		{
@@ -2644,7 +2644,7 @@
 			"type": "Creature — Insect Horror",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/103_Host Seeker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/103_Host Seeker.png"
 			}
 		},
 		{
@@ -2654,7 +2654,7 @@
 			"type": "Creature — Faerie Wizard",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/5_Event Helper.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/5_Event Helper.png"
 			}
 		},
 		{
@@ -2664,7 +2664,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/17_Challenge Seeker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/17_Challenge Seeker.png"
 			}
 		},
 		{
@@ -2674,7 +2674,7 @@
 			"type": "Instant",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/50_Afterthought.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/50_Afterthought.png"
 			}
 		},
 		{
@@ -2684,7 +2684,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/131_Conqueror of Challengers.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/131_Conqueror of Challengers.png"
 			}
 		},
 		{
@@ -2694,7 +2694,7 @@
 			"type": "Instant",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/196_Trophyless.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/196_Trophyless.png"
 			}
 		},
 		{
@@ -2704,7 +2704,7 @@
 			"type": "Creature — Elf Artist",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/182_Master of the Craft.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/182_Master of the Craft.png"
 			}
 		},
 		{
@@ -2714,7 +2714,7 @@
 			"type": "Creature — Faerie Noble",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/179_Lady of the Hiveheart.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/179_Lady of the Hiveheart.png"
 			}
 		},
 		{
@@ -2724,7 +2724,7 @@
 			"type": "Sorcery",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/235_Remove the Competition.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/235_Remove the Competition.png"
 			}
 		},
 		{
@@ -2734,7 +2734,7 @@
 			"type": "Creature — Insect Warrior",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/201_Brood Rivalbreaker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/201_Brood Rivalbreaker.png"
 			}
 		},
 		{
@@ -2744,7 +2744,7 @@
 			"type": "Creature — Phoenix",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/249_Titanic Dreadbeak.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/249_Titanic Dreadbeak.png"
 			}
 		},
 		{
@@ -2754,7 +2754,7 @@
 			"type": "Creature — Spirit Noble",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/223_King of the House.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/223_King of the House.png"
 			}
 		},
 		{
@@ -2764,7 +2764,7 @@
 			"type": "Token Artifact — Trophy",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/17_Saba's Trophy.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/17_Saba's Trophy.png"
 			}
 		},
 		{
@@ -2774,7 +2774,7 @@
 			"type": "Legendary Creature — Demon Warrior",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/236_Rex, Two-Time Champion.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/236_Rex, Two-Time Champion.png"
 			}
 		},
 		{
@@ -2784,7 +2784,7 @@
 			"type": "Token Artifact — Trophy",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/20_Chest of Desires HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/20_Chest of Desires HEX.png"
 			}
 		},
 		{
@@ -2794,7 +2794,7 @@
 			"type": "Token Artifact — Trophy",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/22_Sword of Victory HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/22_Sword of Victory HEX.png"
 			}
 		},
 		{
@@ -2804,7 +2804,7 @@
 			"type": "Token Artifact — Trophy",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/21_Sigil of Conquest HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/21_Sigil of Conquest HEX.png"
 			}
 		},
 		{
@@ -2814,7 +2814,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/1_colorless Spirit 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/1_colorless Spirit 11HEX.png"
 			}
 		},
 		{
@@ -2824,7 +2824,7 @@
 			"type": "Token Creature — Insect",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/12_green Insect 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/12_green Insect 11HEX.png"
 			}
 		},
 		{
@@ -2834,7 +2834,7 @@
 			"type": "Token Creature — Zombie Insect",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/9_black Zombie Insect 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/9_black Zombie Insect 11HEX.png"
 			}
 		},
 		{
@@ -2844,7 +2844,7 @@
 			"type": "Token Creature — Insect",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/14_black and green Insect 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/14_black and green Insect 11HEX.png"
 			}
 		},
 		{
@@ -2854,7 +2854,7 @@
 			"type": "Token Creature — Warrior",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/6_white Warrior 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/6_white Warrior 11HEX.png"
 			}
 		},
 		{
@@ -2864,7 +2864,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/23_Treasure HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/23_Treasure HEX.png"
 			}
 		},
 		{
@@ -2874,7 +2874,7 @@
 			"type": "Token Creature — Insect",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/15_black and green Insect 33HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/15_black and green Insect 33HEX.png"
 			}
 		},
 		{
@@ -2884,7 +2884,7 @@
 			"type": "Token Creature — Insect",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/16_red Insect 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/16_red Insect 11HEX.png"
 			}
 		},
 		{
@@ -2894,7 +2894,7 @@
 			"type": "Token Creature — Warrior",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/19_Warrior 22HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/19_Warrior 22HEX.png"
 			}
 		},
 		{
@@ -2904,7 +2904,7 @@
 			"type": "Token Creature — Cleric",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/3_white Cleric 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/3_white Cleric 11HEX.png"
 			}
 		},
 		{
@@ -2914,7 +2914,7 @@
 			"type": "Token Creature — Angel",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/2_white Angel 44HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/2_white Angel 44HEX.png"
 			}
 		},
 		{
@@ -2924,7 +2924,7 @@
 			"type": "Token Creature — Demon",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/10_red Demon 44HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/10_red Demon 44HEX.png"
 			}
 		},
 		{
@@ -2934,7 +2934,7 @@
 			"type": "Token Creature — Spirit Warrior",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/18_white and black Spirit Warrior 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/18_white and black Spirit Warrior 11HEX.png"
 			}
 		},
 		{
@@ -2944,7 +2944,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "314",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/314_Plains.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/314_Plains.png"
 			}
 		},
 		{
@@ -2954,7 +2954,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "315",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/315_Island.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/315_Island.png"
 			}
 		},
 		{
@@ -2964,7 +2964,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "316",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/316_Swamp.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/316_Swamp.png"
 			}
 		},
 		{
@@ -2974,7 +2974,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "317",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/317_Mountain.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/317_Mountain.png"
 			}
 		},
 		{
@@ -2984,7 +2984,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "318",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/318_Forest.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/318_Forest.png"
 			}
 		},
 		{
@@ -2994,7 +2994,7 @@
 			"type": "Creature — Faerie Wizard",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/10_Work Assistant.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/10_Work Assistant.png"
 			}
 		},
 		{
@@ -3004,7 +3004,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/227_Nari, Possibility Archmagi.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/227_Nari, Possibility Archmagi.png"
 			}
 		},
 		{
@@ -3014,7 +3014,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/58_Eve's Will.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/58_Eve's Will.png"
 			}
 		},
 		{
@@ -3024,7 +3024,7 @@
 			"type": "Token Creature — Demon Inkling",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/7_black Demon 44HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/7_black Demon 44HEX.png"
 			}
 		},
 		{
@@ -3034,7 +3034,7 @@
 			"type": "Token Creature — Fox Inkling",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/4_white Fox 22HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/4_white Fox 22HEX.png"
 			}
 		},
 		{
@@ -3044,7 +3044,7 @@
 			"type": "Token Creature — Wall Inkling",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/5_white Wall 04HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/5_white Wall 04HEX.png"
 			}
 		},
 		{
@@ -3054,7 +3054,7 @@
 			"type": "Token Creature — Dog Inkling",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/8_black Dog 31HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/8_black Dog 31HEX.png"
 			}
 		},
 		{
@@ -3064,7 +3064,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/13_blue and red Dice 33HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/13_blue and red Dice 33HEX.png"
 			}
 		},
 		{
@@ -3074,7 +3074,7 @@
 			"type": "Sorcery",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/159_Will of Ba.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/159_Will of Ba.png"
 			}
 		},
 		{
@@ -3084,7 +3084,7 @@
 			"type": "Enchantment",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/254_Wade Through Chaos.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/254_Wade Through Chaos.png"
 			}
 		},
 		{
@@ -3094,7 +3094,7 @@
 			"type": "Enchantment",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/228_Next Challenge.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/228_Next Challenge.png"
 			}
 		},
 		{
@@ -3104,7 +3104,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/141_Nari's Disciple.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/141_Nari's Disciple.png"
 			}
 		},
 		{
@@ -3114,7 +3114,7 @@
 			"type": "Legendary Creature — Dryad Warrior",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/161_Anvy, Thorns of Sefol.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/161_Anvy, Thorns of Sefol.png"
 			}
 		},
 		{
@@ -3124,7 +3124,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/124_Ba's Prodigy.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/124_Ba's Prodigy.png"
 			}
 		},
 		{
@@ -3134,7 +3134,7 @@
 			"type": "Artifact Creature — Angel Advisor",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/279_Api's Assessor.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/279_Api's Assessor.png"
 			}
 		},
 		{
@@ -3144,7 +3144,7 @@
 			"type": "Sorcery",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/9_A Queen is Waiting.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/9_A Queen is Waiting.png"
 			}
 		},
 		{
@@ -3154,7 +3154,7 @@
 			"type": "Creature — Dryad Warrior",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/243_Sih's Combatant.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/243_Sih's Combatant.png"
 			}
 		},
 		{
@@ -3164,7 +3164,7 @@
 			"type": "Creature — Dryad Warrior",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/190_Sefolian Athlete.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/190_Sefolian Athlete.png"
 			}
 		},
 		{
@@ -3177,11 +3177,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/HEX-files/img/123_Ba, the Sixth Sense_back.png"
+					"en": "https://sunisalive.github.io/sets/HEX-files/img/123_Ba, the Sixth Sense_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/123_Ba, the Sixth Sense_front.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/123_Ba, the Sixth Sense_front.png"
 			}
 		},
 		{
@@ -3194,11 +3194,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/HEX-files/img/191_Sih, the Fourth Season_back.png"
+					"en": "https://sunisalive.github.io/sets/HEX-files/img/191_Sih, the Fourth Season_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/191_Sih, the Fourth Season_front.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/191_Sih, the Fourth Season_front.png"
 			}
 		},
 		{
@@ -3211,11 +3211,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/HEX-files/img/39_Tarase, the Third Charm_back.png"
+					"en": "https://sunisalive.github.io/sets/HEX-files/img/39_Tarase, the Third Charm_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/39_Tarase, the Third Charm_front.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/39_Tarase, the Third Charm_front.png"
 			}
 		},
 		{
@@ -3228,11 +3228,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/HEX-files/img/51_Al, the Second Chance_back.png"
+					"en": "https://sunisalive.github.io/sets/HEX-files/img/51_Al, the Second Chance_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/51_Al, the Second Chance_front.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/51_Al, the Second Chance_front.png"
 			}
 		},
 		{
@@ -3245,11 +3245,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/HEX-files/img/90_Cenari, the Fifth Desire_back.png"
+					"en": "https://sunisalive.github.io/sets/HEX-files/img/90_Cenari, the Fifth Desire_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/90_Cenari, the Fifth Desire_front.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/90_Cenari, the Fifth Desire_front.png"
 			}
 		},
 		{
@@ -3262,11 +3262,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/HEX-files/img/1_Api, the First Thought_back.png"
+					"en": "https://sunisalive.github.io/sets/HEX-files/img/1_Api, the First Thought_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/1_Api, the First Thought_front.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/1_Api, the First Thought_front.png"
 			}
 		},
 		{
@@ -3276,7 +3276,7 @@
 			"type": "Token Creature — Spirit Dragon",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/11_Spirit Dragon.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/11_Spirit Dragon.png"
 			}
 		},
 		{
@@ -3286,7 +3286,7 @@
 			"type": "",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/24_Trophy Reminder.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/24t_Trophy Reminder.png"
 			}
 		},
 		{
@@ -3296,7 +3296,7 @@
 			"type": "Sorcery",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/134_Embrace the Chaos.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/134_Embrace the Chaos.png"
 			}
 		},
 		{
@@ -3306,7 +3306,7 @@
 			"type": "Legendary Creature — Insect God",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/214_Grist and Cenari.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/214_Grist and Cenari.png"
 			}
 		},
 		{
@@ -3316,7 +3316,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/57_Eve Inn, the Paradoxical.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/57_Eve Inn, the Paradoxical.png"
 			}
 		},
 		{
@@ -3326,7 +3326,7 @@
 			"type": "Sorcery",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/157_Supreme Blast.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/157_Supreme Blast.png"
 			}
 		},
 		{
@@ -3336,7 +3336,7 @@
 			"type": "Battle — Fate",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/189_Return from the Fallen.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/189_Return from the Fallen.png"
 			}
 		},
 		{
@@ -3346,7 +3346,7 @@
 			"type": "Battle — Fate",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/153_Strike the Moment.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/153_Strike the Moment.png"
 			}
 		},
 		{
@@ -3356,7 +3356,7 @@
 			"type": "Battle — Fate",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/28_Medical Field.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/28_Medical Field.png"
 			}
 		},
 		{
@@ -3366,7 +3366,7 @@
 			"type": "Battle — Fate",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/67_Hold Down.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/67_Hold Down.png"
 			}
 		},
 		{
@@ -3376,7 +3376,7 @@
 			"type": "Battle — Fate",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/88_Brooding Pact.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/88_Brooding Pact.png"
 			}
 		},
 		{
@@ -3386,7 +3386,7 @@
 			"type": "Battle — Fate",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/7_Opening Belt.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/7_Opening Belt.png"
 			}
 		},
 		{
@@ -3396,7 +3396,7 @@
 			"type": "Battle — Fate",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/248_Take Fate.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/248_Take Fate.png"
 			}
 		},
 		{
@@ -3406,7 +3406,7 @@
 			"type": "Battle — Fate",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/252_Victims of Fate.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/252_Victims of Fate.png"
 			}
 		},
 		{
@@ -3416,7 +3416,7 @@
 			"type": "Battle — Fate",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/230_Order of the Tribunal.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/230_Order of the Tribunal.png"
 			}
 		},
 		{
@@ -3426,7 +3426,7 @@
 			"type": "Battle — Fate",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/250_Underdog Story.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/250_Underdog Story.png"
 			}
 		},
 		{
@@ -3436,7 +3436,7 @@
 			"type": "Battle — Fate",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/200_Born to Entertainment.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/200_Born to Entertainment.png"
 			}
 		},
 		{
@@ -3446,7 +3446,7 @@
 			"type": "Battle — Fate",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/265_Let It Commence.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/265_Let It Commence.png"
 			}
 		},
 		{
@@ -3456,7 +3456,7 @@
 			"type": "Creature — Plant Dragon",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/240_Sefolian Sproutling.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/240_Sefolian Sproutling.png"
 			}
 		},
 		{
@@ -3466,12 +3466,12 @@
 			"type": "Creature — Human Artist",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://mse-hub/sets/HEX-files/img/244_Soul Painter.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/244_Soul Painter.png"
 			}
 		}
 	]
 
-[rare(1)]
+[rare(2)]
 	2 Highend Security
 	2 Mirror Match
 	2 Comfy, the Final Game
@@ -3562,856 +3562,230 @@
 	2 Born to Entertainment
 	2 Sefolian Sproutling
 	1 Soul Painter
-[uncommon(3)]
-	4 Sweetsong Whisperer
-	4 Overseer of the Show
-	4 Streetsmart Gambler
-	4 Acewing Striker
-	4 Api's Chosen
-	4 Matthue, Forever Dreaming
-	4 Morgan, Hexetic Leader
-	4 Jaroh, Wager of Lives
-	4 Det, Cenari's Favorite
-	4 Sers, the Unbound
-	4 Harmon, the Messenger
-	4 Api's Wish
-	4 Prismatic Elemental
-	4 Wayward Warrior
-	4 Adversary's Navigator
-	4 Paragon of Competition
-	4 Victory Summoner
-	4 Tarase's Immortal
-	4 Training Regiment
-	4 Mimi, Grounds Explorer
-	4 Seto San's Wake
-	4 Claimed by Trials
-	4 Sefolian Javlineer
-	4 Wide Receiver
-	4 Trophy Mage
-	4 Sefolian Golem
-	4 Bringer of Bad Luck
-	4 Sunstan Exemplar
-	4 Sunstan Ring Dancer
-	4 Reality Slip
-	4 Let the Games Begin
-	4 Lost Cause
-	4 Al's Trial
-	4 Fortune's Favor
-	4 Corrupted Worker
-	4 Hiveheart Mother
-	4 Last of the Lost
-	4 Guard Fixer
-	4 Verce, the Big Dreamer
-	4 Expendable Paladin
-	4 The House and The Brood
-	4 Forgotten Champion
-	4 Morgan's Order
-	4 Woven Lies
-	4 Kiss of Defeat
-	4 Tarase's Trial
-	4 Chaotic Pyromancer
-	4 Game Master
-	4 Self-Made Challenger
-	4 Half-Time Performer
-	4 Wild Invoker
-	4 Sunsta Risktaker
-	4 Rage of the Warrior
-	4 Second Burst
-	4 Plan Bee
-	4 Competitive Spirit Tamer
-	4 Ba's Trial
-	4 Detached Finger
-	4 Aggressive Hazard
-	4 Sih's Servant
-	4 Hive Sentinel
-	4 Hive Explorer
-	4 Grist's Devoted
-	4 Power to Devour
-	4 Sih's Trial
-	4 Api's Trial
-	4 Catch the Show
-	4 Attention Grab
-	4 Sponsor's Decree
-	4 Overwhelming Offense
-	4 Host the Tournament
-	4 Shared Dreams
-	4 Mother's Touch
-	4 Risk and Reward
-	4 Deepest Desires
-	4 Sponsor's Gift
-	4 Aspire
-	4 Eye of Api
-	4 Vioradell, Sih's Haven
-	4 Xysth, Cenari's Nest
-	4 Sinis, Tarase's Network
-	4 Kaomar, Ba's Arena
-	4 Verrith, Al's Illusion
-	4 Hexrena
-	4 Brood Infiltrator
-	4 Train Bot
-	4 Bound as Brothers
-	4 Arcane Rallier
-	4 Arena Boss
-	4 Opposing Form
-	4 Pit Hydra
-	4 Pollination Crossing
-	4 Game Promotor
-	4 Praying Mantis
-	4 Victory Chimes
-	4 Reap Benefits
-	4 The Game Cube
-	4 Arena for the Fallen
-	4 One More Round
-	4 Ba's Prodigy
-	4 Sefolian Athlete
-	4 Return from the Fallen
-	4 Strike the Moment
-	4 Medical Field
-	4 Hold Down
-	4 Brooding Pact
-	4 Opening Belt
-	4 Let It Commence
-[common(7)]
-	8 Grand Hexetic
-	8 Peak Performer
-	8 Practice Drills
-	8 Dearing Combatant
-	8 Soaring Striker
-	8 Idow Hunter
-	8 Battle Medic
-	8 House Guard
-	8 Tournament Favorite
-	8 Syld Avenger
-	8 Hiveheart Champion
-	8 Senaric Gifter
-	8 Competitor's Hammer
-	8 Just Like We Practiced
-	8 Shake the Arena
-	8 Unmake
-	8 Triumphant Reward
-	8 Warrior's Bond
-	8 Gift of Pardon
-	8 Display of Power
-	8 Diving Contestant
-	8 Fairy Duelist
-	8 Hex-Event Broadcaster
-	8 Hex Seeker
-	8 Festive Jester
-	8 Ice Hockey Elemental
-	8 Gateway Gambler
-	8 Determined Image
-	8 Sefol Dragon
-	8 Take Your Chances
-	8 Kick Off
-	8 Aftershow
-	8 Gift of Knowledge
-	8 Unbroken Resolve
-	8 Gambler's Hex
-	8 Ward Off
-	8 Final Preperations
-	8 Acceptance
-	8 Cenari's Youngling
-	8 Undazzling Magician
-	8 Al's Experiment
-	8 Hiveheart Contestant
-	8 Tarase's Disiciple
-	8 Hiveheart Challenger
-	8 Guardian of the Brood
-	8 Sind's Rule Setter
-	8 Ex-House Dealer
-	8 Royal Hexurity
-	8 Cenari's Brood
-	8 Gift of Infection
-	8 Bitter History
-	8 Concede
-	8 Tarase's Influence
-	8 Crowd's Favorite
-	8 Hexbound Duel
-	8 Waste None
-	8 Match Fix
-	8 Grim Salvage
-	8 Rookie's Mentor
-	8 Dribble Bomber
-	8 Child of Chance
-	8 Idow Fighter
-	8 Sunstan Wildsword
-	8 Guided Competitor
-	8 Petty Adversary
-	8 Hex Mage
-	8 Champion Ringleader
-	8 Idow Rider
-	8 Dragonborn Spear
-	8 Coming to Aid
-	8 Gift of Favors
-	8 Highroller's Blaze
-	8 Morgan's Teachings
-	8 Round Three
-	8 Reality Shatter
-	8 Personal Gain
-	8 Burning Desire
-	8 Experimental Research
-	8 Champion's Strike
-	8 Explorer of the Den
-	8 Lady's Favorite
-	8 Challenger Mantis
-	8 Wayfarer's Companion
-	8 Cenari's Pulverizer
-	8 Field Stitcher
-	8 Thorn In Your Side
-	8 Retired General
-	8 Crawling Infestation
-	8 Api's Blessing
-	8 Push Forward
-	8 Little Victory
-	8 Nature's Awakening
-	8 Gift of Cycles
-	8 Flight of the Bumblebee
-	8 Sticky Situation
-	8 Hexrena Golem
-	8 Desolate Barrens
-	8 Jagged Crag
-	8 Rainforest Spring
-	8 Roaring Cascade
-	8 Somber Marsh
-	8 Ba's Reward
-	8 Tarase's Reward
-	8 Sih's Reward
-	8 Al's Reward
-	8 Cenari's Reward
-	8 Api's Reward
-	8 Shifting Arena
-	8 Gift of Truth
-	8 Stack the Odds
-	8 Ceremonial Opening
-	8 Trophy Hunter
-	8 Sefolian Acrobat
-	8 Will of Ba
-	8 Sih's Combatant
-[foil(1)]
-	12 Grand Hexetic
-	12 Peak Performer
-	12 Practice Drills
-	12 Dearing Combatant
-	12 Soaring Striker
-	12 Idow Hunter
-	12 Battle Medic
-	12 House Guard
-	12 Tournament Favorite
-	12 Syld Avenger
-	12 Hiveheart Champion
-	12 Senaric Gifter
-	12 Competitor's Hammer
-	12 Just Like We Practiced
-	12 Shake the Arena
-	12 Unmake
-	12 Triumphant Reward
-	12 Warrior's Bond
-	12 Gift of Pardon
-	12 Display of Power
-	12 Diving Contestant
-	12 Fairy Duelist
-	12 Hex-Event Broadcaster
-	12 Hex Seeker
-	12 Festive Jester
-	12 Ice Hockey Elemental
-	12 Gateway Gambler
-	12 Determined Image
-	12 Sefol Dragon
-	12 Take Your Chances
-	12 Kick Off
-	12 Aftershow
-	12 Gift of Knowledge
-	12 Unbroken Resolve
-	12 Gambler's Hex
-	12 Ward Off
-	12 Final Preperations
-	12 Acceptance
-	12 Cenari's Youngling
-	12 Undazzling Magician
-	12 Al's Experiment
-	12 Hiveheart Contestant
-	12 Tarase's Disiciple
-	12 Hiveheart Challenger
-	12 Guardian of the Brood
-	12 Sind's Rule Setter
-	12 Ex-House Dealer
-	12 Royal Hexurity
-	12 Cenari's Brood
-	12 Gift of Infection
-	12 Bitter History
-	12 Concede
-	12 Tarase's Influence
-	12 Crowd's Favorite
-	12 Hexbound Duel
-	12 Waste None
-	12 Match Fix
-	12 Grim Salvage
-	12 Rookie's Mentor
-	12 Dribble Bomber
-	12 Child of Chance
-	12 Idow Fighter
-	12 Sunstan Wildsword
-	12 Guided Competitor
-	12 Petty Adversary
-	12 Hex Mage
-	12 Champion Ringleader
-	12 Idow Rider
-	12 Dragonborn Spear
-	12 Coming to Aid
-	12 Gift of Favors
-	12 Highroller's Blaze
-	12 Morgan's Teachings
-	12 Round Three
-	12 Reality Shatter
-	12 Personal Gain
-	12 Burning Desire
-	12 Experimental Research
-	12 Champion's Strike
-	12 Explorer of the Den
-	12 Lady's Favorite
-	12 Challenger Mantis
-	12 Wayfarer's Companion
-	12 Cenari's Pulverizer
-	12 Field Stitcher
-	12 Thorn In Your Side
-	12 Retired General
-	12 Crawling Infestation
-	12 Api's Blessing
-	12 Push Forward
-	12 Little Victory
-	12 Nature's Awakening
-	12 Gift of Cycles
-	12 Flight of the Bumblebee
-	12 Sticky Situation
-	12 Hexrena Golem
-	12 Desolate Barrens
-	12 Jagged Crag
-	12 Rainforest Spring
-	12 Roaring Cascade
-	12 Somber Marsh
-	12 Ba's Reward
-	12 Tarase's Reward
-	12 Sih's Reward
-	12 Al's Reward
-	12 Cenari's Reward
-	12 Api's Reward
-	12 Shifting Arena
-	12 Gift of Truth
-	12 Stack the Odds
-	12 Ceremonial Opening
-	12 Trophy Hunter
-	6 Sweetsong Whisperer
-	6 Overseer of the Show
-	6 Streetsmart Gambler
-	6 Acewing Striker
-	6 Api's Chosen
-	6 Matthue, Forever Dreaming
-	6 Morgan, Hexetic Leader
-	6 Jaroh, Wager of Lives
-	6 Det, Cenari's Favorite
-	6 Sers, the Unbound
-	6 Harmon, the Messenger
-	6 Api's Wish
-	6 Prismatic Elemental
-	6 Wayward Warrior
-	6 Adversary's Navigator
-	6 Paragon of Competition
-	6 Victory Summoner
-	6 Tarase's Immortal
-	6 Training Regiment
-	6 Mimi, Grounds Explorer
-	6 Seto San's Wake
-	6 Claimed by Trials
-	6 Sefolian Javlineer
-	6 Wide Receiver
-	6 Trophy Mage
-	6 Sefolian Golem
-	6 Bringer of Bad Luck
-	6 Sunstan Exemplar
-	6 Sunstan Ring Dancer
-	6 Reality Slip
-	6 Let the Games Begin
-	6 Lost Cause
-	6 Al's Trial
-	6 Fortune's Favor
-	6 Corrupted Worker
-	6 Hiveheart Mother
-	6 Last of the Lost
-	6 Guard Fixer
-	6 Verce, the Big Dreamer
-	6 Expendable Paladin
-	6 The House and The Brood
-	6 Forgotten Champion
-	6 Morgan's Order
-	6 Woven Lies
-	6 Kiss of Defeat
-	6 Tarase's Trial
-	6 Chaotic Pyromancer
-	6 Game Master
-	6 Self-Made Challenger
-	6 Half-Time Performer
-	6 Wild Invoker
-	6 Sunsta Risktaker
-	6 Rage of the Warrior
-	6 Second Burst
-	6 Plan Bee
-	6 Competitive Spirit Tamer
-	6 Ba's Trial
-	12 Sefolian Acrobat
-	6 Detached Finger
-	6 Aggressive Hazard
-	6 Sih's Servant
-	6 Hive Sentinel
-	6 Hive Explorer
-	6 Grist's Devoted
-	6 Power to Devour
-	6 Sih's Trial
-	6 Api's Trial
-	6 Catch the Show
-	6 Attention Grab
-	6 Sponsor's Decree
-	6 Overwhelming Offense
-	6 Host the Tournament
-	6 Shared Dreams
-	6 Mother's Touch
-	6 Risk and Reward
-	6 Deepest Desires
-	6 Sponsor's Gift
-	6 Aspire
-	2 Highend Security
-	2 Mirror Match
-	2 Comfy, the Final Game
-	2 Cenari's Keeper
-	2 Knight of the Black Stinger
-	2 Living Infestation
-	2 Brutal Victory
-	2 Accept Defeat
-	2 Ascendant's Fire
-	2 Buzz Off
-	1 Path to Victory
-	2 Brood Hunter
-	2 Cenari Warrior
-	2 Fraid's Mercenary
-	2 Princess of the Hive
-	2 Royal Jewel
-	2 Glazed Palace
-	6 Eye of Api
-	2 Grim Bastion
-	2 Sunlit Highland
-	2 Magmatic Torrent
-	2 Barren Desolation
-	2 Mysterious Cataract
-	6 Vioradell, Sih's Haven
-	6 Xysth, Cenari's Nest
-	6 Sinis, Tarase's Network
-	6 Kaomar, Ba's Arena
-	6 Verrith, Al's Illusion
-	6 Hexrena
-	6 Brood Infiltrator
-	6 Train Bot
-	6 Bound as Brothers
-	6 Arcane Rallier
-	6 Arena Boss
-	6 Opposing Form
-	6 Pit Hydra
-	6 Pollination Crossing
-	6 Game Promotor
-	6 Praying Mantis
-	6 Victory Chimes
-	6 Reap Benefits
-	6 The Game Cube
-	6 Arena for the Fallen
-	6 One More Round
-	2 Cycle of Ascendancy
-	2 Sunstan Oddsmaker
-	2 Patron of the Bold
-	2 Idolized Colossus
-	2 Finality
-	2 Vengeful Adversary
-	2 Tournament Recruiter
-	1 Ascendancy
-	1 The Competitive Spirit
-	1 Gift of Revelation
-	1 Pina, the Returned
-	1 Verce's Nightmare
-	1 Pactbound Contestant
-	1 Ripples of Influence
-	1 Gigi, the Game Ender
-	1 Glimpse at Greatness
-	1 Brood War
-	1 Fraid, Once Banished
-	1 Saba, the First Champion
-	1 Seto San, the Defending
-	1 Grist, the World Hunger
-	2 Conflicting Minds
-	1 Archmage's Gambit
-	1 Obeka, Bracket Breaker
-	1 The Living Dream
-	1 Field Designer
-	1 The Champion's Prize
-	2 Sind Herald
-	2 Sunstan Mage
-	2 Host Seeker
-	2 Event Helper
-	2 Challenge Seeker
-	2 Afterthought
-	2 Conqueror of Challengers
-	2 Trophyless
-	2 Master of the Craft
-	2 Lady of the Hiveheart
-	2 Remove the Competition
-	2 Brood Rivalbreaker
-	2 Titanic Dreadbeak
-	2 King of the House
-	2 Rex, Two-Time Champion
-	2 Work Assistant
-	2 Nari, Possibility Archmagi
-	2 Eve's Will
-	12 Will of Ba
-	2 Wade Through Chaos
-	2 Next Challenge
-	2 Nari's Disciple
-	2 Anvy, Thorns of Sefol
-	6 Ba's Prodigy
-	2 Api's Assessor
-	1 A Queen is Waiting
-	12 Sih's Combatant
-	6 Sefolian Athlete
-	2 Ba, the Sixth Sense
-	2 Sih, the Fourth Season
-	2 Tarase, the Third Charm
-	2 Al, the Second Chance
-	2 Cenari, the Fifth Desire
-	2 Api, the First Thought
-	2 Embrace the Chaos
-	1 Grist and Cenari
-	2 Eve Inn, the Paradoxical
-	2 Supreme Blast
-	6 Return from the Fallen
-	6 Strike the Moment
-	6 Medical Field
-	6 Hold Down
-	6 Brooding Pact
-	6 Opening Belt
-	2 Take Fate
-	2 Victims of Fate
-	2 Order of the Tribunal
-	2 Underdog Story
-	2 Born to Entertainment
-	6 Let It Commence
-	2 Sefolian Sproutling
-	1 Soul Painter
-[wildcard(1)]
-	6 Grand Hexetic
-	6 Peak Performer
-	6 Practice Drills
-	6 Dearing Combatant
-	6 Soaring Striker
-	6 Idow Hunter
-	6 Battle Medic
-	6 House Guard
-	6 Tournament Favorite
-	6 Syld Avenger
-	6 Hiveheart Champion
-	6 Senaric Gifter
-	6 Competitor's Hammer
-	6 Just Like We Practiced
-	6 Shake the Arena
-	6 Unmake
-	6 Triumphant Reward
-	6 Warrior's Bond
-	6 Gift of Pardon
-	6 Display of Power
-	6 Diving Contestant
-	6 Fairy Duelist
-	6 Hex-Event Broadcaster
-	6 Hex Seeker
-	6 Festive Jester
-	6 Ice Hockey Elemental
-	6 Gateway Gambler
-	6 Determined Image
-	6 Sefol Dragon
-	6 Take Your Chances
-	6 Kick Off
-	6 Aftershow
-	6 Gift of Knowledge
-	6 Unbroken Resolve
-	6 Gambler's Hex
-	6 Ward Off
-	6 Final Preperations
-	6 Acceptance
-	6 Cenari's Youngling
-	6 Undazzling Magician
-	6 Al's Experiment
-	6 Hiveheart Contestant
-	6 Tarase's Disiciple
-	6 Hiveheart Challenger
-	6 Guardian of the Brood
-	6 Sind's Rule Setter
-	6 Ex-House Dealer
-	6 Royal Hexurity
-	6 Cenari's Brood
-	6 Gift of Infection
-	6 Bitter History
-	6 Concede
-	6 Tarase's Influence
-	6 Crowd's Favorite
-	6 Hexbound Duel
-	6 Waste None
-	6 Match Fix
-	6 Grim Salvage
-	6 Rookie's Mentor
-	6 Dribble Bomber
-	6 Child of Chance
-	6 Idow Fighter
-	6 Sunstan Wildsword
-	6 Guided Competitor
-	6 Petty Adversary
-	6 Hex Mage
-	6 Champion Ringleader
-	6 Idow Rider
-	6 Dragonborn Spear
-	6 Coming to Aid
-	6 Gift of Favors
-	6 Highroller's Blaze
-	6 Morgan's Teachings
-	6 Round Three
-	6 Reality Shatter
-	6 Personal Gain
-	6 Burning Desire
-	6 Experimental Research
-	6 Champion's Strike
-	6 Explorer of the Den
-	6 Lady's Favorite
-	6 Challenger Mantis
-	6 Wayfarer's Companion
-	6 Cenari's Pulverizer
-	6 Field Stitcher
-	6 Thorn In Your Side
-	6 Retired General
-	6 Crawling Infestation
-	6 Api's Blessing
-	6 Push Forward
-	6 Little Victory
-	6 Nature's Awakening
-	6 Gift of Cycles
-	6 Flight of the Bumblebee
-	6 Sticky Situation
-	6 Hexrena Golem
-	6 Desolate Barrens
-	6 Jagged Crag
-	6 Rainforest Spring
-	6 Roaring Cascade
-	6 Somber Marsh
-	6 Ba's Reward
-	6 Tarase's Reward
-	6 Sih's Reward
-	6 Al's Reward
-	6 Cenari's Reward
-	6 Api's Reward
-	6 Shifting Arena
-	6 Gift of Truth
-	6 Stack the Odds
-	6 Ceremonial Opening
-	6 Trophy Hunter
-	15 Sweetsong Whisperer
-	15 Overseer of the Show
-	15 Streetsmart Gambler
-	15 Acewing Striker
-	15 Api's Chosen
-	15 Matthue, Forever Dreaming
-	15 Morgan, Hexetic Leader
-	15 Jaroh, Wager of Lives
-	15 Det, Cenari's Favorite
-	15 Sers, the Unbound
-	15 Harmon, the Messenger
-	15 Api's Wish
-	15 Prismatic Elemental
-	15 Wayward Warrior
-	15 Adversary's Navigator
-	15 Paragon of Competition
-	15 Victory Summoner
-	15 Tarase's Immortal
-	15 Training Regiment
-	15 Mimi, Grounds Explorer
-	15 Seto San's Wake
-	15 Claimed by Trials
-	15 Sefolian Javlineer
-	15 Wide Receiver
-	15 Trophy Mage
-	15 Sefolian Golem
-	15 Bringer of Bad Luck
-	15 Sunstan Exemplar
-	15 Sunstan Ring Dancer
-	15 Reality Slip
-	15 Let the Games Begin
-	15 Lost Cause
-	15 Al's Trial
-	15 Fortune's Favor
-	15 Corrupted Worker
-	15 Hiveheart Mother
-	15 Last of the Lost
-	15 Guard Fixer
-	15 Verce, the Big Dreamer
-	15 Expendable Paladin
-	15 The House and The Brood
-	15 Forgotten Champion
-	15 Morgan's Order
-	15 Woven Lies
-	15 Kiss of Defeat
-	15 Tarase's Trial
-	15 Chaotic Pyromancer
-	15 Game Master
-	15 Self-Made Challenger
-	15 Half-Time Performer
-	15 Wild Invoker
-	15 Sunsta Risktaker
-	15 Rage of the Warrior
-	15 Second Burst
-	15 Plan Bee
-	15 Competitive Spirit Tamer
-	15 Ba's Trial
-	6 Sefolian Acrobat
-	15 Detached Finger
-	15 Aggressive Hazard
-	15 Sih's Servant
-	15 Hive Sentinel
-	15 Hive Explorer
-	15 Grist's Devoted
-	15 Power to Devour
-	15 Sih's Trial
-	15 Api's Trial
-	15 Catch the Show
-	15 Attention Grab
-	15 Sponsor's Decree
-	15 Overwhelming Offense
-	15 Host the Tournament
-	15 Shared Dreams
-	15 Mother's Touch
-	15 Risk and Reward
-	15 Deepest Desires
-	15 Sponsor's Gift
-	15 Aspire
-	7 Highend Security
-	7 Mirror Match
-	7 Comfy, the Final Game
-	7 Cenari's Keeper
-	7 Knight of the Black Stinger
-	7 Living Infestation
-	7 Brutal Victory
-	7 Accept Defeat
-	7 Ascendant's Fire
-	7 Buzz Off
-	4 Path to Victory
-	7 Brood Hunter
-	7 Cenari Warrior
-	7 Fraid's Mercenary
-	7 Princess of the Hive
-	7 Royal Jewel
-	7 Glazed Palace
-	15 Eye of Api
-	7 Grim Bastion
-	7 Sunlit Highland
-	7 Magmatic Torrent
-	7 Barren Desolation
-	7 Mysterious Cataract
-	15 Vioradell, Sih's Haven
-	15 Xysth, Cenari's Nest
-	15 Sinis, Tarase's Network
-	15 Kaomar, Ba's Arena
-	15 Verrith, Al's Illusion
-	15 Hexrena
-	15 Brood Infiltrator
-	15 Train Bot
-	15 Bound as Brothers
-	15 Arcane Rallier
-	15 Arena Boss
-	15 Opposing Form
-	15 Pit Hydra
-	15 Pollination Crossing
-	15 Game Promotor
-	15 Praying Mantis
-	15 Victory Chimes
-	15 Reap Benefits
-	15 The Game Cube
-	15 Arena for the Fallen
-	15 One More Round
-	7 Cycle of Ascendancy
-	7 Sunstan Oddsmaker
-	7 Patron of the Bold
-	7 Idolized Colossus
-	7 Finality
-	7 Vengeful Adversary
-	7 Tournament Recruiter
-	4 Ascendancy
-	4 The Competitive Spirit
-	4 Gift of Revelation
-	4 Pina, the Returned
-	4 Verce's Nightmare
-	4 Pactbound Contestant
-	4 Ripples of Influence
-	4 Gigi, the Game Ender
-	4 Glimpse at Greatness
-	4 Brood War
-	4 Fraid, Once Banished
-	4 Saba, the First Champion
-	4 Seto San, the Defending
-	4 Grist, the World Hunger
-	7 Conflicting Minds
-	4 Archmage's Gambit
-	4 Obeka, Bracket Breaker
-	4 The Living Dream
-	4 Field Designer
-	4 The Champion's Prize
-	7 Sind Herald
-	7 Sunstan Mage
-	7 Host Seeker
-	7 Event Helper
-	7 Challenge Seeker
-	7 Afterthought
-	7 Conqueror of Challengers
-	7 Trophyless
-	7 Master of the Craft
-	7 Lady of the Hiveheart
-	7 Remove the Competition
-	7 Brood Rivalbreaker
-	7 Titanic Dreadbeak
-	7 King of the House
-	7 Rex, Two-Time Champion
-	7 Work Assistant
-	7 Nari, Possibility Archmagi
-	7 Eve's Will
-	6 Will of Ba
-	7 Wade Through Chaos
-	7 Next Challenge
-	7 Nari's Disciple
-	7 Anvy, Thorns of Sefol
-	15 Ba's Prodigy
-	7 Api's Assessor
-	4 A Queen is Waiting
-	6 Sih's Combatant
-	15 Sefolian Athlete
-	7 Ba, the Sixth Sense
-	7 Sih, the Fourth Season
-	7 Tarase, the Third Charm
-	7 Al, the Second Chance
-	7 Cenari, the Fifth Desire
-	7 Api, the First Thought
-	7 Embrace the Chaos
-	4 Grist and Cenari
-	7 Eve Inn, the Paradoxical
-	7 Supreme Blast
-	15 Return from the Fallen
-	15 Strike the Moment
-	15 Medical Field
-	15 Hold Down
-	15 Brooding Pact
-	15 Opening Belt
-	7 Take Fate
-	7 Victims of Fate
-	7 Order of the Tribunal
-	7 Underdog Story
-	7 Born to Entertainment
-	15 Let It Commence
-	7 Sefolian Sproutling
-	4 Soul Painter
+[uncommon(4)]
+	9 Sweetsong Whisperer
+	9 Overseer of the Show
+	9 Streetsmart Gambler
+	9 Acewing Striker
+	9 Api's Chosen
+	9 Matthue, Forever Dreaming
+	9 Morgan, Hexetic Leader
+	9 Jaroh, Wager of Lives
+	9 Det, Cenari's Favorite
+	9 Sers, the Unbound
+	9 Harmon, the Messenger
+	9 Api's Wish
+	9 Prismatic Elemental
+	9 Wayward Warrior
+	9 Adversary's Navigator
+	9 Paragon of Competition
+	9 Victory Summoner
+	9 Tarase's Immortal
+	9 Training Regiment
+	9 Mimi, Grounds Explorer
+	9 Seto San's Wake
+	9 Claimed by Trials
+	9 Sefolian Javlineer
+	9 Wide Receiver
+	9 Trophy Mage
+	9 Sefolian Golem
+	9 Bringer of Bad Luck
+	9 Sunstan Exemplar
+	9 Sunstan Ring Dancer
+	9 Reality Slip
+	9 Let the Games Begin
+	9 Lost Cause
+	9 Al's Trial
+	9 Fortune's Favor
+	9 Corrupted Worker
+	9 Hiveheart Mother
+	9 Last of the Lost
+	9 Guard Fixer
+	9 Verce, the Big Dreamer
+	9 Expendable Paladin
+	9 The House and The Brood
+	9 Forgotten Champion
+	9 Morgan's Order
+	9 Woven Lies
+	9 Kiss of Defeat
+	9 Tarase's Trial
+	9 Chaotic Pyromancer
+	9 Game Master
+	9 Self-Made Challenger
+	9 Half-Time Performer
+	9 Wild Invoker
+	9 Sunsta Risktaker
+	9 Rage of the Warrior
+	9 Second Burst
+	9 Plan Bee
+	9 Competitive Spirit Tamer
+	9 Ba's Trial
+	9 Detached Finger
+	9 Aggressive Hazard
+	9 Sih's Servant
+	9 Hive Sentinel
+	9 Hive Explorer
+	9 Grist's Devoted
+	9 Power to Devour
+	9 Sih's Trial
+	9 Api's Trial
+	9 Catch the Show
+	9 Attention Grab
+	9 Sponsor's Decree
+	9 Overwhelming Offense
+	9 Host the Tournament
+	9 Shared Dreams
+	9 Mother's Touch
+	9 Risk and Reward
+	9 Deepest Desires
+	9 Sponsor's Gift
+	9 Aspire
+	9 Eye of Api
+	9 Vioradell, Sih's Haven
+	9 Xysth, Cenari's Nest
+	9 Sinis, Tarase's Network
+	9 Kaomar, Ba's Arena
+	9 Verrith, Al's Illusion
+	9 Hexrena
+	9 Brood Infiltrator
+	9 Train Bot
+	9 Bound as Brothers
+	9 Arcane Rallier
+	9 Arena Boss
+	9 Opposing Form
+	9 Pit Hydra
+	9 Pollination Crossing
+	9 Game Promotor
+	9 Praying Mantis
+	9 Victory Chimes
+	9 Reap Benefits
+	9 The Game Cube
+	9 Arena for the Fallen
+	9 One More Round
+	9 Ba's Prodigy
+	9 Sefolian Athlete
+	9 Return from the Fallen
+	9 Strike the Moment
+	9 Medical Field
+	9 Hold Down
+	9 Brooding Pact
+	9 Opening Belt
+	9 Let It Commence
+[common(9)]
+	30 Grand Hexetic
+	30 Peak Performer
+	30 Practice Drills
+	30 Dearing Combatant
+	30 Soaring Striker
+	30 Idow Hunter
+	30 Battle Medic
+	30 House Guard
+	30 Tournament Favorite
+	30 Syld Avenger
+	30 Hiveheart Champion
+	30 Senaric Gifter
+	30 Competitor's Hammer
+	30 Just Like We Practiced
+	30 Shake the Arena
+	30 Unmake
+	30 Triumphant Reward
+	30 Warrior's Bond
+	30 Gift of Pardon
+	30 Display of Power
+	30 Diving Contestant
+	30 Fairy Duelist
+	30 Hex-Event Broadcaster
+	30 Hex Seeker
+	30 Festive Jester
+	30 Ice Hockey Elemental
+	30 Gateway Gambler
+	30 Determined Image
+	30 Sefol Dragon
+	30 Take Your Chances
+	30 Kick Off
+	30 Aftershow
+	30 Gift of Knowledge
+	30 Unbroken Resolve
+	30 Gambler's Hex
+	30 Ward Off
+	30 Final Preperations
+	30 Acceptance
+	30 Cenari's Youngling
+	30 Undazzling Magician
+	30 Al's Experiment
+	30 Hiveheart Contestant
+	30 Tarase's Disiciple
+	30 Hiveheart Challenger
+	30 Guardian of the Brood
+	30 Sind's Rule Setter
+	30 Ex-House Dealer
+	30 Royal Hexurity
+	30 Cenari's Brood
+	30 Gift of Infection
+	30 Bitter History
+	30 Concede
+	30 Tarase's Influence
+	30 Crowd's Favorite
+	30 Hexbound Duel
+	30 Waste None
+	30 Match Fix
+	30 Grim Salvage
+	30 Rookie's Mentor
+	30 Dribble Bomber
+	30 Child of Chance
+	30 Idow Fighter
+	30 Sunstan Wildsword
+	30 Guided Competitor
+	30 Petty Adversary
+	30 Hex Mage
+	30 Champion Ringleader
+	30 Idow Rider
+	30 Dragonborn Spear
+	30 Coming to Aid
+	30 Gift of Favors
+	30 Highroller's Blaze
+	30 Morgan's Teachings
+	30 Round Three
+	30 Reality Shatter
+	30 Personal Gain
+	30 Burning Desire
+	30 Experimental Research
+	30 Champion's Strike
+	30 Explorer of the Den
+	30 Lady's Favorite
+	30 Challenger Mantis
+	30 Wayfarer's Companion
+	30 Cenari's Pulverizer
+	30 Field Stitcher
+	30 Thorn In Your Side
+	30 Retired General
+	30 Crawling Infestation
+	30 Api's Blessing
+	30 Push Forward
+	30 Little Victory
+	30 Nature's Awakening
+	30 Gift of Cycles
+	30 Flight of the Bumblebee
+	30 Sticky Situation
+	30 Hexrena Golem
+	30 Desolate Barrens
+	30 Jagged Crag
+	30 Rainforest Spring
+	30 Roaring Cascade
+	30 Somber Marsh
+	30 Ba's Reward
+	30 Tarase's Reward
+	30 Sih's Reward
+	30 Al's Reward
+	30 Cenari's Reward
+	30 Api's Reward
+	30 Shifting Arena
+	30 Gift of Truth
+	30 Stack the Odds
+	30 Ceremonial Opening
+	30 Trophy Hunter
+	30 Sefolian Acrobat
+	30 Will of Ba
+	30 Sih's Combatant
+[ReminderSlot(1)]
+	1000 Trophy Reminder
