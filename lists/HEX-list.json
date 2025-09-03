@@ -284,7 +284,7 @@
     {
         "card_name": "Brooding Pact",
         "number": 88,
-        "shape": "battle",
+        "shape": "battle split",
         "set": "HEX"
     },
     {
@@ -398,7 +398,7 @@
     {
         "card_name": "Hold Down",
         "number": 67,
-        "shape": "battle",
+        "shape": "battle split",
         "set": "HEX"
     },
     {
@@ -452,7 +452,7 @@
     {
         "card_name": "Medical Field",
         "number": 28,
-        "shape": "battle",
+        "shape": "battle split",
         "set": "HEX"
     },
     {
@@ -596,7 +596,7 @@
     {
         "card_name": "Return from the Fallen",
         "number": 189,
-        "shape": "battle",
+        "shape": "battle split",
         "set": "HEX"
     },
     {
@@ -650,7 +650,7 @@
     {
         "card_name": "Strike the Moment",
         "number": 153,
-        "shape": "battle",
+        "shape": "battle split",
         "set": "HEX"
     },
     {
@@ -1223,7 +1223,7 @@
     {
         "card_name": "Born to Entertainment",
         "number": 200,
-        "shape": "battle",
+        "shape": "battle split",
         "set": "HEX"
     },
     {
@@ -1235,13 +1235,13 @@
     {
         "card_name": "Order of the Tribunal",
         "number": 230,
-        "shape": "battle",
+        "shape": "battle split",
         "set": "HEX"
     },
     {
         "card_name": "Take Fate",
         "number": 248,
-        "shape": "battle",
+        "shape": "battle split",
         "set": "HEX"
     },
     {
@@ -1289,7 +1289,7 @@
     {
         "card_name": "Victims of Fate",
         "number": 252,
-        "shape": "battle",
+        "shape": "battle split",
         "set": "HEX"
     },
     {
@@ -1307,7 +1307,7 @@
     {
         "card_name": "Underdog Story",
         "number": 250,
-        "shape": "battle",
+        "shape": "battle split",
         "set": "HEX"
     },
     {
@@ -1646,7 +1646,7 @@
     {
         "card_name": "Let It Commence",
         "number": 265,
-        "shape": "battle",
+        "shape": "battle split",
         "set": "HEX"
     },
     {
@@ -1743,7 +1743,7 @@
     {
         "card_name": "Opening Belt",
         "number": 7,
-        "shape": "battle",
+        "shape": "battle split",
         "set": "HEX"
     },
     {
