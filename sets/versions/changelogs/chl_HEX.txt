@@ -1,4 +1,33 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Vioradell, Sih's Haven added.
+Xysth, Cenari's Nest added.
+Sinis, Tarase's Network added.
+Verrith, Al's Illusion added.
+
+Sih's Haven removed.
+Cenari's Nest removed.
+Tarase's Network removed.
+Al's Illusion removed.
+
+Kaomar, Ba's Arena
+rules_text: [i]({T}: Add {R}.)[/i]
+This land enters tapped.
+{3}{R}{R}, {T}, Sacrifice this land: Exile the top two cards of your library. You may play those cards until the end of your next turn. => [i]({T}: Add {R}.)[/i]
+This land enters tapped.
+{3}{R}{R}, {T}: Exile the top two cards of your library. You may play those cards until the end of your next turn. Activate only once.
+
+Supreme Blast
+
+Return from the Fallen
+cost: {2}{G} => {G}{G}
+
+Strike the Moment
+loyalty: 3 => 4
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

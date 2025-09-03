@@ -1856,32 +1856,32 @@
     },
     "a->land",
     {
-        "card_name": "Tarase's Network",
+        "card_name": "Sinis, Tarase's Network",
+        "number": 308,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Verrith, Al's Illusion",
+        "number": 311,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Xysth, Cenari's Nest",
         "number": 313,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Al's Illusion",
-        "number": 296,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Cenari's Nest",
-        "number": 298,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
         "card_name": "Kaomar, Ba's Arena",
-        "number": 304,
+        "number": 302,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Sih's Haven",
-        "number": 310,
+        "card_name": "Vioradell, Sih's Haven",
+        "number": 312,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1902,31 +1902,31 @@
     },
     {
         "card_name": "Desolate Barrens",
-        "number": 299,
+        "number": 297,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Roaring Cascade",
-        "number": 308,
+        "number": 306,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Somber Marsh",
-        "number": 311,
+        "number": 309,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Jagged Crag",
-        "number": 303,
+        "number": 301,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Rainforest Spring",
-        "number": 307,
+        "number": 305,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1947,49 +1947,49 @@
     },
     {
         "card_name": "Barren Desolation",
-        "number": 297,
+        "number": 296,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Glazed Palace",
-        "number": 301,
+        "number": 299,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Grim Bastion",
-        "number": 302,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Magmatic Torrent",
-        "number": 305,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Mysterious Cataract",
-        "number": 306,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Sunlit Highland",
-        "number": 312,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Eye of Api",
         "number": 300,
         "shape": "normal",
         "set": "HEX"
     },
     {
+        "card_name": "Magmatic Torrent",
+        "number": 303,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Mysterious Cataract",
+        "number": 304,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Sunlit Highland",
+        "number": 310,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Eye of Api",
+        "number": 298,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
         "card_name": "Shifting Arena",
-        "number": 309,
+        "number": 307,
         "shape": "normal",
         "set": "HEX"
     },
