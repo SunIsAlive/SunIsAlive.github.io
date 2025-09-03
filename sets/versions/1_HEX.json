@@ -6581,6 +6581,5 @@
             "alias": "",
             "notes": "A 2/2 white Fox with lifelink.\n\nWhenever this creature attacks, create a creature that's tapped an attacking with one of the following characteristics chosen at random.\n\u2022 a 0/4 white Wall Inkling with \u201cDamage that would be dealt to Artists you control is dealt to this creature instead.\u201d\n\u2022 a 4/4 black Demon Inkling with trample and \u201cAt the beginning of your end step, sacrifice this creature.\u201d\n\u2022 a 3/1 black Dog Inkling with menace.\n\u2022 a 2/2 white Fox Inkling with lifelink.\n\n!change"
         }
-    ],
-    "version": 1
+    ]
 }
