@@ -189,7 +189,7 @@
             "color_identity": "W",
             "cost": "{5}{W}",
             "rules_text": "This spell costs {1} less to cast for each creature that attacked this turn.\nFlying",
-            "flavor_text": "[i]FT\nFT[/i]",
+            "flavor_text": "[i]\u201cYour lies desecrate our skies, but not in the arena. This duel will end with you and your webs unwoven!\u201d[/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
@@ -197,7 +197,7 @@
             "loyalty": "",
             "artist": "Marcus Vinicius",
             "alias": "",
-            "notes": "Flash\nThis creature costs 1 less to cast for each creature that attacked this turn.\nWhenever Hunter's Game dies, create a Treasure token.\n\n!ft",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -357,7 +357,7 @@
             "loyalty": "",
             "artist": "Javier Charro",
             "alias": "",
-            "notes": "!change\n!double down",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -397,7 +397,7 @@
             "loyalty": "",
             "artist": "MLC",
             "alias": "",
-            "notes": "!change\n\nOne of The House's greatest strategies, is you never know when they're bluffing.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -405,7 +405,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Merfolk Warrior",
-            "number": 56,
+            "number": 55,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "{1}{U}: This creature can't be blocked this turn.\n{1}{U}: Whenever this creature deals combat damage to an opponent this turn, draw a card. Activate only once each turn.",
@@ -425,7 +425,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Faerie Warrior",
-            "number": 59,
+            "number": 58,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Flash\nFlying\nWhen this creature enters, target creature gets -2/-0 until end of turn. If you've cast a spell from anywhere other than your hand this turn, it gets -4/-0 instead.",
@@ -457,7 +457,7 @@
             "loyalty": "",
             "artist": "Sam Turner",
             "alias": "",
-            "notes": "!change",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -469,7 +469,7 @@
             "color_identity": "UR",
             "cost": "{1}{UR}{UR}",
             "rules_text": "{T}, Exile a card from your hand: Exile the top card of your library. You may play one of the exiled cards until the end of your next turn.",
-            "flavor_text": "[i]FT[/i]",
+            "flavor_text": "[i]\u201cAl's wild magic is a treasure waiting to be found, why not take it?\u201d[/i]",
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
@@ -477,7 +477,7 @@
             "loyalty": "",
             "artist": "Fortune K",
             "alias": "",
-            "notes": "!change\n!ft",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -485,7 +485,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Elf Wizard",
-            "number": 60,
+            "number": 59,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "When this creature enters, exile a noncreature, nonland card at random from target player's graveyard. You may cast that card from exile for as long as it remains exiled and spend mana of any color to cast that card.",
@@ -497,7 +497,7 @@
             "loyalty": "",
             "artist": "Exia",
             "alias": "",
-            "notes": "!change\n\n!casting spells not from your hand",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -505,7 +505,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Elemental",
-            "number": 68,
+            "number": 67,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]\nWhen this creature enters, tap target creature an opponent controls. Then you may pay {1}{U}. If you do, put a stun counter on that creature.",
@@ -537,7 +537,7 @@
             "loyalty": "",
             "artist": "Zero Wen (Altered TCG)",
             "alias": "",
-            "notes": "When this creature enters the battlefield, roll a d6, then exile the top four cards of your library. You may play any number of cards from among them this turn as long as their total mana value is less than or equal to the result.\n\nWhen this creature enters, roll three d6. Create a Treasure token for each different result.\n3: Target creature gains menace and haste until end of turn. \n\n!change\n\n!casting spells not from your hand\n\nWhen this creature enters, roll a d6.\n1 | Create a Treasure token.\n2-5 | Put a +1/+1 counter on this creature and create a Treasure token. \n6 | Put a +1/+1 counter on this creature and create a Treasure token. Repeat this process once.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -597,7 +597,7 @@
             "loyalty": "",
             "artist": "Adrian Febrero",
             "alias": "",
-            "notes": "!change",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -605,7 +605,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Enchantment",
-            "number": 69,
+            "number": 68,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]\nWhen this enchantment enters, return target creature to its owner's hand.",
@@ -637,7 +637,7 @@
             "loyalty": "",
             "artist": "Deryl Arrazaq",
             "alias": "",
-            "notes": "!change\n!dice\n\nWhenever you roll a die or CARDNAME> enters, create a 1/1 white Warrior creature token.\n\nIf an ability would trigger you to roll a die, that ability triggers an additional time.\n\nWhenever you roll a die, you may put target card from your graveyard into your library sixth from the top.\n\nWhen At Odds Gate enters and whenever you roll a 6, create a 1/1 white Warrior creature token.\n\nWhenever you cast a noncreature spell, create a Chance token. (It's an enchantment with \u201cIf you would roll a die, you may sacrifice this and roll that many dice plus one, and ignore a result.\u201d)\nWhenever you sacrifice a Chance, you may draw a card. If you do, discard a card.\n\nTo challenge a god, you need to take your own chance.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -645,7 +645,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 64,
+            "number": 63,
             "color_identity": "U",
             "cost": "{X}{U}",
             "rules_text": "Choose one \u2013\n\u2022 Counter target spell unless its controller pays {X}. \n\u2022 Return target nonland permanent with mana value X or less to its owner's hand.",
@@ -685,7 +685,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Enchantment \u2013 Aura",
-            "number": 63,
+            "number": 62,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Enchant creature\nEnchanted creature loses all abilities and has base power and toughness 0/3.\nWhenever you cast a spell from anywhere other than your hand, tap enchanted creature.",
@@ -725,7 +725,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 61,
+            "number": 60,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
             "rules_text": "Choose one \u2013 \n\u2022 Target player draws three cards, then discards a card.\n\u2022 The owner of target nonland, nontoken permanent puts it into their library third from the top or on the bottom.\nDouble down {5}{U}{U} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]",
@@ -748,7 +748,7 @@
             "number": 48,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "When this enchantment enters, put up to one target nonland permanent on top of its owner's library.\nProliferate [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
+            "rules_text": "Put up to one target nonland permanent on top of its owner's library.\nProliferate [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -817,7 +817,7 @@
             "loyalty": "",
             "artist": "Monztre",
             "alias": "",
-            "notes": "!change\n!casting spells not from your hand",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -929,7 +929,7 @@
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Flash\nWhenever another creature dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
-            "flavor_text": "[i]FT[/i]",
+            "flavor_text": "[i]Every handshake hides a hedge, every smile a stake in your downfall.[/i]",
             "pt": "4/2",
             "special_text": "",
             "shape": "normal",
@@ -1157,7 +1157,7 @@
             "loyalty": "",
             "artist": "Harkal\u00e9 Lina\u00ef",
             "alias": "",
-            "notes": "!change\n!casting spells not from your hand",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -1257,7 +1257,7 @@
             "loyalty": "",
             "artist": "Kiel Whitaker",
             "alias": "",
-            "notes": "!change\n!casting spells not from your hand\n!fixart",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -1305,7 +1305,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Human Wizard",
-            "number": 66,
+            "number": 65,
             "color_identity": "UR",
             "cost": "{2}{U}",
             "rules_text": "Whenever you cast a spell from anywhere other than your hand, untap this creature.\n{R}, {T}: This creature deals 2 damage to each opponent.",
@@ -1437,7 +1437,7 @@
             "loyalty": "",
             "artist": "Botos Vlad",
             "alias": "",
-            "notes": "!change\n!double down",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -1477,7 +1477,7 @@
             "loyalty": "",
             "artist": "Monztre",
             "alias": "",
-            "notes": "!change\n!double down\n\n\u201cOne more down, three to go.\u201d\n\u2014Sers after defeating his third opponent",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -1537,7 +1537,7 @@
             "loyalty": "",
             "artist": "Consuelo Pecchenino",
             "alias": "",
-            "notes": "!change",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -1557,7 +1557,7 @@
             "loyalty": "",
             "artist": "Adrien Martinez",
             "alias": "",
-            "notes": "!change\n!double down",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -1837,7 +1837,7 @@
             "loyalty": "",
             "artist": "Lei Chu",
             "alias": "",
-            "notes": "!change\n!double down",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -2189,15 +2189,15 @@
             "color_identity": "UR",
             "cost": "{U}{R}",
             "rules_text": "When this enchantment enters, exile the top card of your library. You may play it until the end of your next turn.\n{1}, Sacrifice this enchantment: Target creature can't be blocked this turn.",
-            "flavor_text": "[i]FT\nFT[/i]",
+            "flavor_text": "[i]\u201cEven chaos can bend itself to your will.\u201d\n\u2014Zanthero, the Unruled[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "HEX",
             "loyalty": "",
-            "artist": "Nina Sas",
+            "artist": "Zahid Lagumdzic",
             "alias": "",
-            "notes": "!fixart\n!dice\n\nSuspicious",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -2297,7 +2297,7 @@
             "loyalty": "",
             "artist": "Zero Wen (Altered TCG)",
             "alias": "",
-            "notes": "!change\n!dice\n!casting spells not from your hand",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -2381,14 +2381,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "Jaroh, Wager of Lives",
+            "card_name": "Jaroh, the Dearing",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Bear Pirate",
+            "type": "Legendary Creature \u2013 Elemental Wizard",
             "number": 222,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "Whenever you cast a spell from anywhere other than your hand or a legendary spell\n\u2022 Put a +1/+1 counter on target legendary creature you control.\n\u2022 Up to one target creature can't block this turn.",
+            "rules_text": "Haste\nWhenever you cast a noncreature spell, choose one. If it was cast from anywhere other than your hand, choose both instead.\n\u2022 Put a +1/+1 counter on target legendary creature you control.\n\u2022 Up to one target creature can't block this turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2397,7 +2397,7 @@
             "loyalty": "",
             "artist": "Rin Price",
             "alias": "",
-            "notes": "!dice",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -2477,7 +2477,7 @@
             "loyalty": "",
             "artist": "Hell Alka",
             "alias": "",
-            "notes": "You may reveal a multicolored card you own from outside the game and put it into your hand",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -2717,7 +2717,7 @@
             "loyalty": "",
             "artist": "Sabbat Laomo",
             "alias": "",
-            "notes": "!change",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -2761,11 +2761,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "Bringer of Bad Luck",
+            "card_name": "Reality Referee",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elemental Horror",
-            "number": 54,
+            "type": "Creature \u2013 Human Wizard",
+            "number": 73,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Ward {2}\nWhenever you cast a modal spell, you may pay {2}. If you do, copy it. Choose only different modes for the copy. You may choose new targets for that spell.",
@@ -2775,9 +2775,9 @@
             "shape": "normal",
             "set": "HEX",
             "loyalty": "",
-            "artist": "Riana Moller",
+            "artist": "Alexandr Elichev",
             "alias": "",
-            "notes": "!change\n!fixart",
+            "notes": "!mechanic",
             "image_type": "png"
         },
         {
@@ -2797,7 +2797,7 @@
             "loyalty": "",
             "artist": "Ivan Cirovic",
             "alias": "",
-            "notes": "!change\n\n And only those with true power are destined for greatness.\nSunsta's citizens walk streets that shift and twist on a whim. Only those who embrace the chaos wield its true power.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -2817,7 +2817,7 @@
             "loyalty": "",
             "artist": "Wild Blue Studios",
             "alias": "",
-            "notes": "!change\n\n!casting spells not from your hand",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -2845,7 +2845,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 70,
+            "number": 69,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Whenever cast a spell with mana value 6 or greater, you may search your library for an instant or sorcery card with lesser mana value, reveal it, put it into your hand, then shuffle.",
@@ -2865,7 +2865,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 71,
+            "number": 70,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Counter target spell if its mana value is less than or equal to the total mana value of permanents you control.",
@@ -2877,7 +2877,7 @@
             "loyalty": "",
             "artist": "Kaylen Wan",
             "alias": "",
-            "notes": "\n\nReturn target spell to its owner's hand unless its controller pays 2.\n\nCounter target spell if it wasn't the first spell that player cast this turn.\n\nCounter target spell if it wasn't the first spell that player cast this turn.\n\nunless its controller pays 2\n\nReturn target spell to its owner's hand.\nCreate a tapped Treasure token.",
+            "notes": "Return target spell to its owner's hand unless its controller pays 2.\n\nCounter target spell if it wasn't the first spell that player cast this turn.\n\nCounter target spell if it wasn't the first spell that player cast this turn.\n\nunless its controller pays 2\n\nReturn target spell to its owner's hand.\nCreate a tapped Treasure token.",
             "image_type": "png"
         },
         {
@@ -2905,7 +2905,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 62,
+            "number": 61,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Look at the top six cards of your library. You may cast a card from among them with with mana value 3 or less without paying its mana cost. Put the rest on the bottom of your library in a random order.",
@@ -2917,7 +2917,7 @@
             "loyalty": "",
             "artist": "Penguin322",
             "alias": "",
-            "notes": "!change",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -2997,7 +2997,7 @@
             "loyalty": "",
             "artist": "Marcel Mercado",
             "alias": "",
-            "notes": "!change\n\n!casting spells not from your hand",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3069,7 +3069,7 @@
             "color_identity": "B",
             "cost": "{5}{B}",
             "rules_text": "Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]\nWhenever this creature or another creature you control enters, proliferate.",
-            "flavor_text": "[i]\u201cTheir name is forgotten, but not their power.\u201d\n\u2014Jaroh, the Gambler to Fraid[/i]",
+            "flavor_text": "[i]\u201cTheir name is forgotten, but not their power.\u201d\n\u2014Jaroh, the Dearing to Fraid[/i]",
             "pt": "5/5",
             "special_text": "",
             "shape": "normal",
@@ -3189,7 +3189,7 @@
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Spells you cast from anywhere other than your hand cost {1} less to cast.\n{T}, Exile a card from your hand face down: You may play it for as long as it remains exiled.",
-            "flavor_text": "[i]FT[/i]",
+            "flavor_text": "[i]\u201cDon't follow rules, master them.\u201d[/i]",
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
@@ -3197,7 +3197,7 @@
             "loyalty": "",
             "artist": "Hozure",
             "alias": "",
-            "notes": "!change",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3257,7 +3257,7 @@
             "loyalty": "",
             "artist": "Angelo Bortolini",
             "alias": "",
-            "notes": "!change\n\n!casting spells not from your hand",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3268,8 +3268,8 @@
             "number": 154,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "When this creature enters, you may discard any number of cards from your hand. If you do, you may exile that many cards from the top of your library plus one. You may play on of them until the end of your next turn.",
-            "flavor_text": "[i]FT[/i]",
+            "rules_text": "When this creature enters, you may discard any number of cards from your hand. If you do, you may exile that many cards from the top of your library plus one. You may play one of them until the end of your next turn.",
+            "flavor_text": "[i]\u201cI rise with every chance.\u201d[/i]",
             "pt": "4/5",
             "special_text": "",
             "shape": "normal",
@@ -3277,7 +3277,7 @@
             "loyalty": "",
             "artist": "Amar Sekarwangi",
             "alias": "",
-            "notes": "!change\n\n!casting spells not from your hand",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3337,7 +3337,7 @@
             "loyalty": "",
             "artist": "D\u00e9cio J\u00fanior",
             "alias": "",
-            "notes": "!change\n\n!casting spells not from your hand",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3348,7 +3348,7 @@
             "number": 130,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]\nWhenever you attack a player, create a 4/4 red Spirit Dragon creature token with flying that's tapped and attacking that player. Sacrifice that token at end of combat.",
+            "rules_text": "Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]\nWhenever you attack a player, create a 4/4 red Dragon Spirit creature token with flying that's tapped and attacking that player. Sacrifice that token at end of combat.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3457,7 +3457,7 @@
             "loyalty": "",
             "artist": "Lane Brown",
             "alias": "",
-            "notes": "!change\n\nSpells you cast with mana value 6 or greater cost 2 less to cast.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3477,7 +3477,7 @@
             "loyalty": "",
             "artist": "Augusto Quirino",
             "alias": "",
-            "notes": "!change\n\nRemove/Replace",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3697,7 +3697,7 @@
             "loyalty": "",
             "artist": "Aela Ervefel",
             "alias": "",
-            "notes": "!change\n\n!double down\n\n\u201cThis is like no challenge we've ever faced little brother. But if we want to dream big, we need to dream together.\u201d\n\u2014Matthue to Little Verce",
+            "notes": "\u201cThis is like no challenge we've ever faced little brother. But if we want to dream big, we need to dream together.\u201d\n\u2014Matthue to Little Verce",
             "image_type": "png"
         },
         {
@@ -3717,7 +3717,7 @@
             "loyalty": "",
             "artist": "Liu (YShan87)",
             "alias": "",
-            "notes": "!change\n\n!double down\n\n\u201cCenari's brood are parasites, feasting on losers to empower their victorious...\u201d\n\u2014Darcy, Supportive Mother\n\n\u201c...They shouldn't be allowed to compete.\u201d",
+            "notes": "\u201cCenari's brood are parasites, feasting on losers to empower their victorious...\u201d\n\u2014Darcy, Supportive Mother\n\n\u201c...They shouldn't be allowed to compete.\u201d",
             "image_type": "png"
         },
         {
@@ -3737,7 +3737,7 @@
             "loyalty": "",
             "artist": "Stephen Sitton",
             "alias": "",
-            "notes": "!change\n\n!double down",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3757,7 +3757,7 @@
             "loyalty": "",
             "artist": "Vtas",
             "alias": "",
-            "notes": "!change\n\n!double down\n\n\u201cWe heard about your friend who lost their way on their quest for power...\u201d\n\u2014Fraid, Sind Manager\n\n\u201c...the house sends their regards.\u201d",
+            "notes": "\u201cWe heard about your friend who lost their way on their quest for power...\u201d\n\u2014Fraid, Sind Manager\n\n\u201c...the house sends their regards.\u201d",
             "image_type": "png"
         },
         {
@@ -3777,7 +3777,7 @@
             "loyalty": "",
             "artist": "Ekaterina Chesalova",
             "alias": "",
-            "notes": "!change\n\n!double down",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3797,7 +3797,7 @@
             "loyalty": "",
             "artist": "Kati StarSoul",
             "alias": "",
-            "notes": "!change\n\n!double down\n\n\u201cSuccess comes easier when you try.\u201d\n\u2014Xio, Performance Judge",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3825,7 +3825,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Enchantment",
-            "number": 72,
+            "number": 71,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Each player can't cast more than one spell not named Mirror Match each turn.\nWhenever a player casts a spell, that player copies it and may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i]",
@@ -3845,7 +3845,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Serpent",
-            "number": 55,
+            "number": 54,
             "color_identity": "U",
             "cost": "{3}{U}{U}{U}",
             "rules_text": "This spell can't be countered.\nWhenever Comfy attacks, if it isn't an extra turn, take an extra turn after this one.",
@@ -3888,8 +3888,8 @@
             "number": 106,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Flying\nWhenever another Insect you control enters, put a +1/+1 counter on this creature.",
-            "flavor_text": "[i]FT[/i]",
+            "rules_text": "Flying\nWhenever another Insect you control enters, put a +1/+1 counter on this creature.\n{B}{B}{B}, Remove a +1/+1 counter from this creature: You draw a card and you lose 1 life.",
+            "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
             "shape": "normal",
@@ -3977,7 +3977,7 @@
             "loyalty": "",
             "artist": "\u5c0f\u5c71 \u6ee1 (Koyamamichiru)",
             "alias": "",
-            "notes": "!change\n!casting spells not from your hand\n!double down",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3998,26 +3998,6 @@
             "artist": "Thorsten Erdt",
             "alias": "",
             "notes": "Deal 3 damage to target creature.",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Path to Victory",
-            "color": "R",
-            "rarity": "mythic",
-            "type": "Sorcery",
-            "number": 143,
-            "color_identity": "R",
-            "cost": "{X}{R}",
-            "rules_text": "If X is 1, you may discard a card. If you do, draw two cards.\nIf {X} is 2, Path to Victory deals 2 damage to each creature and planeswalker.\nIf X is 3, destroy target artifact or nonbasic land.\nIf {X} is 4, create a 4/4 red Dragon creature token with flying.\nIf X is 5 or more, do all of the above.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "HEX",
-            "loyalty": "",
-            "artist": "Scott Uminga",
-            "alias": "",
-            "notes": "",
             "image_type": "png"
         },
         {
@@ -4122,13 +4102,13 @@
             "type2": "Creature \u2013 Insect Beast",
             "cost2": "",
             "rules_text2": "This creature is all colors.\nFlying, trample, haste",
-            "flavor_text2": "[i]FT\nFT\nFT\nFT[/i]",
+            "flavor_text2": "[i]They patrol both Old Hiveheart fields and Anim streets. Living symbols of unity, proving that true strength comes from harmony, not domination.[/i]",
             "pt2": "3/3",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Horace Hsu",
             "alias2": "",
-            "notes": "!ft",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -4648,7 +4628,7 @@
             "loyalty": "",
             "artist": "Travis Fam",
             "alias": "",
-            "notes": "!change",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -4848,7 +4828,7 @@
             "loyalty": "",
             "artist": "Tetiana Dylova",
             "alias": "",
-            "notes": "Whenever you cast a white creature spell, it enters with a +1/+1 counter on it.\n\n1W: Put a +1/+1 counter on target creature than entered this turn.\n\nPut a +1/+1 counter on target creature you control.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -4876,7 +4856,7 @@
             "color": "U",
             "rarity": "mythic",
             "type": "Enchantment \u2013 Aura",
-            "number": 65,
+            "number": 64,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Enchant creature or planeswalker\nEnchanted permanent has the loyalty abilities of each other planeswalker you control.\nEnchanted permanent has \u201c[+1]: Draw a card. If you do, discard a card.\u201d",
@@ -4888,7 +4868,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
-            "notes": "You may look at the top card of your library any time.\nYou may cast spells spells from the top of your library.\n3U: Mill a card.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -4896,7 +4876,7 @@
             "color": "U",
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2013 Pina",
-            "number": 73,
+            "number": 72,
             "color_identity": "U",
             "cost": "{3}{U}{U}{U}",
             "rules_text": "Whenever you cast an instant or sorcery spell, copy it for each card in your graveyard with the same name. You may reselect modes and choose new targets for each copy.\n[+2]: Mill four cards. You may return a card milled this way from your graveyard to your hand.\n[0]: Tap or untap up to one target nonland permanent, then tap or untap up to one other target nonland permanent. Put a stun counter on up to two of them.\n[-X]: You may cast a copy of an instant or sorcery card in your graveyard with mana value X or less without paying its mana cost.",
@@ -4968,7 +4948,7 @@
             "loyalty": "",
             "artist": "Scott Uminga",
             "alias": "",
-            "notes": "!change\n!casting spells not from your hand\n!double down",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5128,7 +5108,7 @@
             "loyalty": "",
             "artist": "Alive Wake",
             "alias": "",
-            "notes": "!change",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5148,7 +5128,7 @@
             "loyalty": "",
             "artist": "Evyn Fong",
             "alias": "",
-            "notes": "If the result is 6 or greater, take an extra turn after this one. Otherwise, Dicey Gambit deals 6 minus X damage to you.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5168,7 +5148,7 @@
             "loyalty": "",
             "artist": "Igori Gorovich",
             "alias": "",
-            "notes": "\u201cNo matter how rig a match, the result is always the same. There's no preventing certainty.\u201d",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5248,7 +5228,7 @@
             "loyalty": "",
             "artist": "Joel Chaim Holtzman",
             "alias": "",
-            "notes": "!change\n\nArtifacts and enchantments with the chosen name lose all abilities.\nEnchanted creature loses all abilities.\n\nWhen this creature enters, scry 2.\n\nLegacy (You may play this side of this card only from your graveyard. Exile it if it would be put into a graveyard or not resolve.)\nChoose one \u2014\n\u2022 Destroy all creatures.\n\u2022 Destroy all artifacts, enchantments and battles.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5268,7 +5248,7 @@
             "loyalty": "",
             "artist": "Monztre",
             "alias": "",
-            "notes": "!change",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5288,7 +5268,7 @@
             "loyalty": "",
             "artist": "Akizhao",
             "alias": "",
-            "notes": "!change",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5308,7 +5288,7 @@
             "loyalty": "",
             "artist": "Xt-Art",
             "alias": "",
-            "notes": "has all activated abilities of all lands you control.\n\n!change",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5340,7 +5320,7 @@
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Draw two cards, then discard a card.\nIf you would choose one or more modes, you may have a chosen mode be \u201cReturn a card named Afterthought from your graveyard to your hand.\u201d",
-            "flavor_text": "[i]FT[/i]",
+            "flavor_text": "[i]Each thought is clearer a second time.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -5348,7 +5328,7 @@
             "loyalty": "",
             "artist": "Ivan Garcia",
             "alias": "",
-            "notes": "Change this lmao\n\nPut one of them into your hand and the rest on the bottom of your library in a random order.\n\n!change\n!casting spells not from your hand\n!double down",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5408,7 +5388,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "notes": "When this creature enters, mill four cards.\nAs long as this creature is on that battlefield, it has all activated abilities of all artifacts you control and artifact cards in your graveyard.\n\nHaste\nThis creature has all activated abilities of all artifacts and lands you control.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5508,7 +5488,7 @@
             "loyalty": "",
             "artist": "Tetiana Dylova",
             "alias": "",
-            "notes": "Hedge (Create a Chance token. It's an enchantment with \u201cIf you would roll a die, you may sacrifice this and roll that many dice plus one, and ignore a result.\u201d)\nRoll a d6 then exile a number of cards from the top of your library equal to the result. You may put up to two cards exiled this way into your hand.\n\n!change\n!casting spells not from your hand\n!double down",
+            "notes": "!fixart?",
             "image_type": "png"
         },
         {
@@ -5516,7 +5496,7 @@
             "color": "WR",
             "rarity": "common",
             "type": "Token Artifact \u2013 Trophy",
-            "number": 17,
+            "number": 13,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "{10}, {T}: This artifact deals 3 damage to any target and you gain 3 life.",
@@ -5556,7 +5536,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2013 Trophy",
-            "number": 20,
+            "number": 16,
             "color_identity": "C",
             "cost": "",
             "rules_text": "At the beginning of your end step, create a 1/1 colorless Spirit creature token.\n{4}, {T}: Search your library for a card, then shuffle and put that card on top.",
@@ -5576,7 +5556,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2013 Trophy",
-            "number": 22,
+            "number": 18,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Creatures you control get +1/+1.\n{T}: Add {C}{C}.",
@@ -5596,7 +5576,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2013 Trophy",
-            "number": 21,
+            "number": 17,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Whenever one or more creatures you control deals combat damage to a player, draw a card.\n{T}: Tap target creature.",
@@ -5636,7 +5616,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2013 Insect",
-            "number": 12,
+            "number": 8,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -5656,7 +5636,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2013 Zombie Insect",
-            "number": 9,
+            "number": 5,
             "color_identity": "B",
             "cost": "",
             "rules_text": "Flying",
@@ -5676,7 +5656,7 @@
             "color": "BG",
             "rarity": "common",
             "type": "Token Creature \u2013 Insect",
-            "number": 14,
+            "number": 10,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "",
@@ -5696,7 +5676,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2013 Warrior",
-            "number": 6,
+            "number": 4,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -5716,7 +5696,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2013 Treasure",
-            "number": 23,
+            "number": 19,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
@@ -5736,7 +5716,7 @@
             "color": "BG",
             "rarity": "common",
             "type": "Token Creature \u2013 Insect",
-            "number": 15,
+            "number": 11,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "",
@@ -5756,7 +5736,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2013 Insect",
-            "number": 16,
+            "number": 12,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -5776,7 +5756,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2013 Warrior",
-            "number": 19,
+            "number": 15,
             "color_identity": "WUBRG",
             "cost": "",
             "rules_text": "This creature is all colors and a chosen creature type in addition to its other types.",
@@ -5836,7 +5816,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2013 Demon",
-            "number": 10,
+            "number": 6,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Flying, haste",
@@ -5856,7 +5836,7 @@
             "color": "WB",
             "rarity": "common",
             "type": "Token Creature \u2013 Spirit Warrior",
-            "number": 18,
+            "number": 14,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "",
@@ -5868,7 +5848,7 @@
             "loyalty": "",
             "artist": "Toast (Flamecrust)",
             "alias": "",
-            "notes": "!exportname white and black Spirit Warrior 11HEX\n\n!related Arena for the Fallen;",
+            "notes": "!exportname white and black Spirit Warrior 11HEX\n\n!related Arena for the Fallen; Guided Competitor;",
             "image_type": "png"
         },
         {
@@ -6000,7 +5980,7 @@
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "Flying\nWhenever you cast a modal or activate a modal ability, each creature you control gets +1/+1 for each mode chosen.",
-            "flavor_text": "[i]FT[/i]",
+            "flavor_text": "[i]\u201cYou don't have to trust me. You just need to trust Al.\u201d[/i]",
             "pt": "1/3",
             "special_text": "",
             "shape": "normal",
@@ -6016,7 +5996,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 58,
+            "number": 57,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Choose one \u2013\n\u2022 Counter target spell.\n\u2022 Copy target instant or sorcery spell, then return it to its owner's hand. You may choose new targets for the copy.",
@@ -6032,91 +6012,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "black Demon 44HEX",
-            "color": "B",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Demon Inkling",
-            "number": 7,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "Trample\nAt the beginning of your end step, sacrifice this creature.",
-            "flavor_text": "[i][/i]",
-            "pt": "4/4",
-            "special_text": "",
-            "shape": "token",
-            "set": "HEX",
-            "loyalty": "",
-            "artist": "Daniele Ariuolo",
-            "alias": "",
-            "notes": "!exportname black Demon 44HEX\n\n!related Soul Painter;",
-            "image_type": "png"
-        },
-        {
-            "card_name": "white Fox 22HEX",
-            "color": "W",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Fox Inkling",
-            "number": 4,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "Lifelink",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "token",
-            "set": "HEX",
-            "loyalty": "",
-            "artist": "Ester Conceicao",
-            "alias": "",
-            "notes": "!exportname white Fox 22HEX\n\n!related Soul Painter;",
-            "image_type": "png"
-        },
-        {
-            "card_name": "white Wall 04HEX",
-            "color": "W",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Wall Inkling",
-            "number": 5,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "Damage that would be dealt to Artists you control is dealt to this creature instead.",
-            "flavor_text": "[i][/i]",
-            "pt": "0/4",
-            "special_text": "",
-            "shape": "token",
-            "set": "HEX",
-            "loyalty": "",
-            "artist": "Artur Treffner",
-            "alias": "",
-            "notes": "!exportname white Wall 04HEX\n\n!related Soul Painter;",
-            "image_type": "png"
-        },
-        {
-            "card_name": "black Dog 31HEX",
-            "color": "B",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Dog Inkling",
-            "number": 8,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "Menace",
-            "flavor_text": "[i][/i]",
-            "pt": "3/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "HEX",
-            "loyalty": "",
-            "artist": "Ester Conceicao",
-            "alias": "",
-            "notes": "!exportname black Dog 31HEX\n\n!related Soul Painter;",
-            "image_type": "png"
-        },
-        {
             "card_name": "blue and red Dice 33HEX",
             "color": "UR",
             "rarity": "common",
             "type": "Token Creature \u2013 Elemental",
-            "number": 13,
+            "number": 9,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "",
@@ -6168,7 +6068,7 @@
             "loyalty": "",
             "artist": "Richard Lay",
             "alias": "",
-            "notes": "Hedge (Create a Chance token. It's an enchantment with \u201cIf you would roll a die, you may sacrifice this and roll that many dice plus one, and ignore a result.\u201d)\nRoll a d6 then exile a number of cards from the top of your library equal to the result. You may put up to two cards exiled this way into your hand.\n\n!change\n\nWhen this enchantment enters, exile the top five cards of your library. You may play them until the end of your next turn.\nWhenever you play a card not from your hand, draw a card.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -6208,7 +6108,7 @@
             "loyalty": "",
             "artist": "Gauthier Redon",
             "alias": "",
-            "notes": "!change",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -6228,7 +6128,7 @@
             "loyalty": "",
             "artist": "Aleksandra Alekseeva",
             "alias": "",
-            "notes": "Sacrifice a noncreature permanent you control. When you do, destroy target noncreature permanent you control.\n\nReturn target noncreature permanent card from your graveyard to your hand.\n\nEnchant permanet\nEnchanted permanent is a 4/4 green Dryad Spirit creature with \u201cAt the beginning of combat, create a copy of this permanent except it's a 4/4 green Dryad Spirit creature.\u201d\n\nTarget noncreature permanent you control becomes a copy of Anvy, Thorns of Sefol until end of turn.\n\n!change",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -6279,7 +6179,7 @@
             "number": 9,
             "color_identity": "WUBRG",
             "cost": "{S}{S}{S}",
-            "rules_text": "[i](Spend a different color of mana on each {S}.)[/i]\nThis card is all colors.\nSearch your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature's number of colors. Put that card on to the battlefield, then shuffle. Exile A Queen is Waiting.",
+            "rules_text": "[i](Spend a different color of mana on each {S}.)[/i]\nThis card is all colors.\nAs an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature's number of colors. Put that card on to the battlefield, then shuffle. Exile A Queen is Waiting.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6518,11 +6418,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "Spirit Dragon",
+            "card_name": "Dragon Spirit",
             "color": "R",
             "rarity": "common",
-            "type": "Token Creature \u2013 Spirit Dragon",
-            "number": 11,
+            "type": "Token Creature \u2013 Dragon Spirit",
+            "number": 7,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Flying",
@@ -6534,7 +6434,7 @@
             "loyalty": "",
             "artist": "Sandara",
             "alias": "",
-            "notes": "",
+            "notes": "!related Path to Victory;Competitive Spirit Tamer;",
             "image_type": "png"
         },
         {
@@ -6542,7 +6442,7 @@
             "color": "",
             "rarity": "common",
             "type": "",
-            "number": 24,
+            "number": 20,
             "color_identity": "C",
             "cost": "",
             "rules_text": "[i]Spend six score counters as a sorcery to create Trophy tokens.\n\n[/i][b]Chest of Desires[/b]\nToken Artifact \u2013 Trophy\nAt the beginning of your end step, create a 1/1 colorless Spirit creature token.\n{4}, {T}: Search your library for a card, then shuffle and put that card on top.\n\n[b]Sword of Victory[/b]\nToken Artifact \u2013 Trophy\nCreatures you control get +1/+1.\n{T}: Add {C}{C}.\n\n[b]Sigil of Conquest\n[/b]Token Artifact \u2013 Trophy\nWhenever one or more creatures you control deals combat damage to a player, draw a card.\n{T}: Tap target creature.",
@@ -6602,7 +6502,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Human Wizard",
-            "number": 57,
+            "number": 56,
             "color_identity": "WUBRG",
             "cost": "{1}{U}",
             "rules_text": "Whenever you cast a spell from anywhere other than your hand, create a 1/1 blue Illusion creature token with flying.\nModal instant and sorcery cards in your graveyard have double down {W}{U}{B}{R}{G}. [i](You may cast that card from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]",
@@ -6614,7 +6514,7 @@
             "loyalty": "",
             "artist": "Knight Zhang",
             "alias": "",
-            "notes": "Whenever you a roll a d6, create a colorless Die creature token with power and toughness each equal to the result.\n1U, T: Roll a d6. Reveal the top card of your library, if its mana value is less than the result you put it into into your graveyard. Otherwise, you may put it into your hand.\n\nyou may put target card from your graveyard into your library sixth from the top.\n\n!change\n\nWhenever you cast a spell not from your hand, create a 1/1 white Warrior creature token.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -6702,7 +6602,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Battle \u2013 Fate",
-            "number": 67,
+            "number": 66,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "[i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]\nWhenever a defense counter is removed from this battle, tap or put a stun counter on target creature.",
@@ -6738,7 +6638,7 @@
             "image_type": "png"
         },
         {
-            "card_name": "Opening Belt",
+            "card_name": "Opening Bout",
             "color": "",
             "rarity": "uncommon",
             "type": "Battle \u2013 Fate",
@@ -6774,7 +6674,7 @@
             "loyalty": "3",
             "artist": "Julian Nguyen-You",
             "alias": "",
-            "notes": "!fixart",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -6794,7 +6694,7 @@
             "loyalty": "6",
             "artist": "Facundo Nehu\u00e9n L\u00f3pez",
             "alias": "",
-            "notes": "!fixart",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -6814,7 +6714,7 @@
             "loyalty": "6",
             "artist": "James Bousema (Edited)",
             "alias": "",
-            "notes": "!fixart",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -6854,7 +6754,7 @@
             "loyalty": "3",
             "artist": "Artem Khorchev",
             "alias": "",
-            "notes": "!fixart",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -6894,7 +6794,7 @@
             "loyalty": "",
             "artist": "Sandara Tang (Edited)",
             "alias": "",
-            "notes": "!change",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -6914,7 +6814,27 @@
             "loyalty": "",
             "artist": "Khoa Viet",
             "alias": "",
-            "notes": "A 2/2 white Fox with lifelink.\n\nWhenever this creature attacks, create a creature that's tapped an attacking with one of the following characteristics chosen at random.\n\u2022 a 0/4 white Wall Inkling with \u201cDamage that would be dealt to Artists you control is dealt to this creature instead.\u201d\n\u2022 a 4/4 black Demon Inkling with trample and \u201cAt the beginning of your end step, sacrifice this creature.\u201d\n\u2022 a 3/1 black Dog Inkling with menace.\n\u2022 a 2/2 white Fox Inkling with lifelink.\n\n!change",
+            "notes": "",
+            "image_type": "png"
+        },
+        {
+            "card_name": "Path to Victory",
+            "color": "R",
+            "rarity": "mythic",
+            "type": "Sorcery",
+            "number": 143,
+            "color_identity": "R",
+            "cost": "{X}{R}",
+            "rules_text": "If X is 1, you may discard a card. If you do, draw two cards.\nIf {X} is 2, Path to Victory deals 2 damage to each creature and planeswalker.\nIf X is 3, destroy target artifact or nonbasic land.\nIf {X} is 4, create a 4/4 red Dragon Spirit creature token with flying.\nIf X is 5 or more, do all of the above.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "HEX",
+            "loyalty": "",
+            "artist": "Ethemos",
+            "alias": "",
+            "notes": "",
             "image_type": "png"
         }
     ]

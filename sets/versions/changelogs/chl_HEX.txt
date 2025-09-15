@@ -1,4 +1,194 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Jaroh, the Dearing added.
+Reality Referee added.
+Dragon Spirit added.
+Opening Bout added.
+
+Jaroh, Wager of Lives removed.
+Bringer of Bad Luck removed.
+black Demon 44HEX removed.
+white Fox 22HEX removed.
+white Wall 04HEX removed.
+black Dog 31HEX removed.
+Spirit Dragon removed.
+Opening Belt removed.
+
+Syld Avenger
+
+Warrior's Bond
+
+Display of Power
+
+Hex-Event Broadcaster
+
+Hex Seeker
+
+Festive Jester
+
+Gateway Gambler
+
+Take Your Chances
+
+Aftershow
+
+Acceptance
+rules_text: When this enchantment enters, put up to one target nonland permanent on top of its owner's library.
+Proliferate [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Put up to one target nonland permanent on top of its owner's library.
+Proliferate [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Al's Experiment
+
+Ex-House Dealer
+
+Grim Salvage
+
+Sunstan Wildsword
+
+Highroller's Blaze
+
+Round Three
+
+Burning Desire
+
+Experimental Research
+
+Nature's Awakening
+
+Stack the Odds
+
+Streetsmart Gambler
+
+Api's Wish
+
+Wide Receiver
+
+Sunstan Exemplar
+
+Sunstan Ring Dancer
+
+Lost Cause
+
+Fortune's Favor
+
+Guard Fixer
+
+Forgotten Champion
+
+Game Master
+
+Wild Invoker
+
+Sunsta Risktaker
+rules_text: When this creature enters, you may discard any number of cards from your hand. If you do, you may exile that many cards from the top of your library plus one. You may play on of them until the end of your next turn. => When this creature enters, you may discard any number of cards from your hand. If you do, you may exile that many cards from the top of your library plus one. You may play one of them until the end of your next turn.
+
+Plan Bee
+
+Competitive Spirit Tamer
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you attack a player, create a 4/4 red Spirit Dragon creature token with flying that's tapped and attacking that player. Sacrifice that token at end of combat. => Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you attack a player, create a 4/4 red Dragon Spirit creature token with flying that's tapped and attacking that player. Sacrifice that token at end of combat.
+
+Sih's Servant
+
+Hive Sentinel
+
+Shared Dreams
+
+Mother's Touch
+
+Risk and Reward
+
+Deepest Desires
+
+Sponsor's Gift
+
+Aspire
+
+Knight of the Black Stinger
+rules_text: Flying
+Whenever another Insect you control enters, put a +1/+1 counter on this creature. => Flying
+Whenever another Insect you control enters, put a +1/+1 counter on this creature.
+{B}{B}{B}, Remove a +1/+1 counter from this creature: You draw a card and you lose 1 life.
+
+Ascendant's Fire
+
+Royal Jewel
+
+The Game Cube
+
+Ascendancy
+
+Gift of Revelation
+
+Ripples of Influence
+
+Conflicting Minds
+
+Archmage's Gambit
+
+Obeka, Bracket Breaker
+
+Sind Herald
+
+Sunstan Mage
+
+Host Seeker
+
+Event Helper
+
+Afterthought
+
+Master of the Craft
+
+King of the House
+
+white and black Spirit Warrior 11HEX
+
+Nari, Possibility Archmagi
+
+Wade Through Chaos
+
+Nari's Disciple
+
+Anvy, Thorns of Sefol
+
+A Queen is Waiting
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+Search your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature's number of colors. Put that card on to the battlefield, then shuffle. Exile A Queen is Waiting. => [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature's number of colors. Put that card on to the battlefield, then shuffle. Exile A Queen is Waiting.
+
+Eve Inn, the Paradoxical
+
+Take Fate
+
+Victims of Fate
+
+Order of the Tribunal
+
+Born to Entertainment
+
+Sefolian Sproutling
+
+Soul Painter
+
+Path to Victory
+rules_text: If X is 1, you may discard a card. If you do, draw two cards.
+If {X} is 2, Path to Victory deals 2 damage to each creature and planeswalker.
+If X is 3, destroy target artifact or nonbasic land.
+If {X} is 4, create a 4/4 red Dragon creature token with flying.
+If X is 5 or more, do all of the above. => If X is 1, you may discard a card. If you do, draw two cards.
+If {X} is 2, Path to Victory deals 2 damage to each creature and planeswalker.
+If X is 3, destroy target artifact or nonbasic land.
+If {X} is 4, create a 4/4 red Dragon Spirit creature token with flying.
+If X is 5 or more, do all of the above.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.
