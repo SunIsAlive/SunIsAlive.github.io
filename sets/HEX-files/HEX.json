@@ -3636,25 +3636,6 @@
             "notes": ""
         },
         {
-            "card_name": "Mirror Match",
-            "color": "U",
-            "rarity": "rare",
-            "type": "Legendary Enchantment",
-            "number": 71,
-            "color_identity": "U",
-            "cost": "{2}{U}",
-            "rules_text": "Each player can't cast more than one spell not named Mirror Match each turn.\nWhenever a player casts a spell, that player copies it and may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "HEX",
-            "loyalty": "",
-            "artist": "Brianna Reed",
-            "alias": "",
-            "notes": "Whenever you cast a spell, copy it."
-        },
-        {
             "card_name": "Comfy, the Final Game",
             "color": "U",
             "rarity": "rare",
@@ -3670,6 +3651,25 @@
             "set": "HEX",
             "loyalty": "",
             "artist": "Kochi8i",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Mirror Match",
+            "color": "U",
+            "rarity": "rare",
+            "type": "Legendary Enchantment",
+            "number": 71,
+            "color_identity": "U",
+            "cost": "{1}{U}{U}",
+            "rules_text": "Whenever a player casts a spell, that player copies it and may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i]",
+            "flavor_text": "[i]\u201cYou are your own worst enemy.\u201d\n\u2014Nari's last words to Eve[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "HEX",
+            "loyalty": "",
+            "artist": "Brianna Reed",
             "alias": "",
             "notes": ""
         },
@@ -4733,7 +4733,7 @@
             "card_name": "Glimpse at Greatness",
             "color": "G",
             "rarity": "mythic",
-            "type": "Enchantment",
+            "type": "Sorcery",
             "number": 174,
             "color_identity": "G",
             "cost": "{X}{G}{G}",
@@ -6506,5 +6506,5 @@
             "notes": ""
         }
     ],
-    "version": 4
+    "version": 6
 }

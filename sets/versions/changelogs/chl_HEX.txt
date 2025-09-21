@@ -1,4 +1,33 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+No changes.
+
+VERSION 5 CHANGELOG
+====================
+
+
+
+Mirror Match
+cost: {2}{U} => {1}{U}{U}
+rules_text: Each player can't cast more than one spell not named Mirror Match each turn.
+Whenever a player casts a spell, that player copies it and may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i] => Whenever a player casts a spell, that player copies it and may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i]
+
+Glimpse at Greatness
+type: Enchantment => Sorcery
+
+
+type: Creature — Human Warrior => Creature
+cost: {W} => {B}{B}
+rules_text: Whenever a creature dies, untap this creature.
+{1}{W}, {T}: Tap target creature. => {T}, Sacrifice this creature: Choose any number —
+• Each player sacrifices a land.
+• Each player sacrifices a creature.
+• Each player loses 2 life.
+pt: 1/1 => 2/2
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Jaroh, the Dearing added.
