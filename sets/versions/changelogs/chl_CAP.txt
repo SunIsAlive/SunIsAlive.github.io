@@ -1,4 +1,29 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Berkus Skirmisher
+
+Cityguard Captain
+
+Sphere of Influence
+
+The Recollection
+cost: {4}{U}{B} => {4}{U}{U}
+rules_text: Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Menace
+The Recollection and enchanted creature get +1/+1 for each card in all graveyards. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+The Recollection and enchanted creature get +1/+1 for each noncreature card in all graveyards.
+Creatures your opponents control can't block enchanted or enchantment creatures you control with greater power.
+special_text: Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Menace
+The Recollection and enchanted creature get +1/+1 for each card in all graveyards. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+The Recollection and enchanted creature get +1/+1 for each noncreature card in all graveyards.
+Creatures your opponents control can't block enchanted or enchantment creatures you control with greater power.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
