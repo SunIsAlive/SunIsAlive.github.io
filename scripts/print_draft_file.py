@@ -23,7 +23,7 @@ def generateFile(code):
 	filters = []
 	booster = {}
 
-	github_path = os.path.split(os.getcwd())[1] # this gets the current working directory, so it's an easy failcase
+	github_path = '''sunisalive.github.com'''
 
 	for slot in structure:
 		booster[slot['name']] = []

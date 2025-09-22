@@ -534,7 +534,7 @@
 			"name": "Crowd's Favorite",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment",
 			"collector_number": "95",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/95_Crowd's Favorite.png"
@@ -1911,16 +1911,6 @@
 			}
 		},
 		{
-			"name": "Mirror Match",
-			"rarity": "rare",
-			"mana_cost": "{2}{U}",
-			"type": "Legendary Enchantment",
-			"collector_number": "71",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/71_Mirror Match.png"
-			}
-		},
-		{
 			"name": "Comfy, the Final Game",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}{U}",
@@ -1928,6 +1918,16 @@
 			"collector_number": "54",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/54_Comfy, the Final Game.png"
+			}
+		},
+		{
+			"name": "Mirror Match",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/71_Mirror Match.png"
 			}
 		},
 		{
@@ -2491,7 +2491,7 @@
 			"name": "Glimpse at Greatness",
 			"rarity": "mythic",
 			"mana_cost": "{X}{G}{G}",
-			"type": "Enchantment",
+			"type": "Sorcery",
 			"collector_number": "174",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/174_Glimpse at Greatness.png"
@@ -3391,7 +3391,7 @@
 		},
 		{
 			"name": "Let It Commence",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{W/B}{B/G}{G/U}{U/R}{R/W}",
 			"type": "Battle — Fate",
 			"collector_number": "265",

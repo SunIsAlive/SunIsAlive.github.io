@@ -1,4 +1,72 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Sefol Dragon
+rules_text: Defender, flying
+Whenever you expend 6, this creature can attack as though it doesn't have defender. [i](You expend 6 as you spend your sixth total mana to cast spells during a turn.)[/i]
+Forestcycling {2}, islandcycling {2} [i]({2}, Discard this card: Search your library for an Forest or Island card, reveal it, and put it into your hand, then shuffle.)[/i] => Defender, flying
+Whenever you flourish 6, this creature can attack as though it doesn't have defender. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+Forestcycling {2}, islandcycling {2} [i]({2}, Discard this card: Search your library for an Forest or Island card, reveal it, and put it into your hand, then shuffle.)[/i]
+
+Aftershow
+rules_text: Flash
+Whenever Aftershow enters and whenever you expend 6, surveil 1 then draw a card. [i](You expend 6 as you spend your sixth total mana to cast spells during a turn.)[/i] => Flash
+Whenever Aftershow enters and whenever you flourish 6, surveil 1 then draw a card. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Crowd's Favorite
+type: Enchantment — Aura => Enchantment
+
+Field Stitcher
+rules_text: Whenever this creature enters or you expend 6, choose one — [i](You expend 6 as you spend your sixth total mana to cast spells during a turn.)[/i]
+• Put a +1/+1 counter target creature you control.
+• You gain 2 life. => Whenever this creature enters or you flourish 6, choose one — [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+• Put a +1/+1 counter target creature you control.
+• You gain 2 life.
+
+Sefolian Javlineer
+rules_text: Whenever this creature enters or you expend 6, tap target creature an opponent controls and put a stun counter on it. [i](You expend 6 as you spend your sixth total mana to cast spells during a turn.)[/i] => Whenever this creature enters or you flourish 6, tap target creature an opponent controls and put a stun counter on it. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Sefolian Golem
+rules_text: {T}: Untap another target permanent.
+{2}{U}, {T}: Tap target nonland permanent.
+Whenever you expend 6, untap this creature. [i](You expend 6 as you spend your sixth total mana to cast spells during a turn.)[/i] => {T}: Untap another target permanent.
+{2}{U}, {T}: Tap target nonland permanent.
+Whenever you flourish 6, untap this creature. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Sefolian Acrobat
+rules_text: Flying
+Whenever you expend 6, put two +1/+1 counters on this creature. [i](You expend 6 as you spend your sixth total mana to cast spells during a turn.)[/i] => Flying
+Whenever you flourish 6, put two +1/+1 counters on this creature. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Hive Sentinel
+rules_text: Whenever expend 6, target Insect you control gains trample and indestructible until end of turn. [i](You expend 6 as you spend your sixth total mana to cast spells during a turn.)[/i] => Whenever you flourish 6, target Insect you control gains trample and indestructible until end of turn. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Hive Explorer
+rules_text: Whenever this creature enters or you expend 6, you may exile up to two cards from graveyards. If you exiled two cards with different owners, create a 1/1 green Insect creature token. [i](You expend 6 as you spend your sixth total mana to cast spells during a turn.)[/i] => Whenever this creature enters or you flourish 6, you may exile up to two cards from graveyards. If you exiled two cards with different owners, create a 1/1 green Insect creature token. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Cycle of Ascendancy
+rules_text: When this enchantment enters, draw two cards, then you may put a land card from your hand onto the battlefield tapped.
+Whenever you expend 6, you may return this enchantment from the battlefield to your hand. [i](You expend 6 as you spend your sixth total mana to cast spells during a turn.)[/i] => When this enchantment enters, draw two cards, then you may put a land card from your hand onto the battlefield tapped.
+Whenever you flourish 6, you may return this enchantment from the battlefield to your hand. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Anvy, Thorns of Sefol
+rules_text: Whenever this creature enters or you expend 6, choose up to one — [i](You expend 6 as you spend your sixth total mana to cast spells during a turn.)[/i]
+• Target noncreature permanent you control becomes a 3/3 green Treefolk creature. [i](It loses its other colors and types. This effect lasts indefinitely.)[/i]
+• Create a token that's a copy of target Treefolk you control, except it's a 3/3 green Treefolk creature. => Whenever this creature enters or you flourish 6, choose up to one — [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+• Target noncreature permanent you control becomes a 3/3 green Treefolk creature. [i](It loses its other colors and types. This effect lasts indefinitely.)[/i]
+• Create a token that's a copy of target Treefolk you control, except it's a 3/3 green Treefolk creature.
+
+Let It Commence
+
+Sefolian Sproutling
+rules_text: Flying
+Whenever you expend 6, create a token that's a copy of this creature. [i](You expend 6 as you spend your sixth total mana to cast spells during a turn.)[/i] => Flying
+Whenever you flourish 6, create a token that's a copy of this creature. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+
+VERSION 6 CHANGELOG
 ====================
 
 No changes.
