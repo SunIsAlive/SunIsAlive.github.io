@@ -23,7 +23,7 @@ def generateFile(code):
 	filters = []
 	booster = {}
 
-	github_path = '''sunisalive.github.com'''
+	github_path = '''sunisalive.github.io'''
 
 	for slot in structure:
 		booster[slot['name']] = []
