@@ -1,0 +1,2040 @@
+﻿[
+    {
+        "card_name": "Iska, Symbol of Truth",
+        "number": 22,
+        "shape": "planeswalker",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Stellia, Beacon of Hope",
+        "number": 85,
+        "shape": "planeswalker",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Eternities Apart",
+        "number": 0,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Conan, the Reprised Hero",
+        "number": 138,
+        "shape": "planeswalker",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Adaptive Selection",
+        "number": 177,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Juno, God of Renewal",
+        "number": 23,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Sudden Reminiscence",
+        "number": 87,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rarsni, God of Decay",
+        "number": 110,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Terror Hoarder",
+        "number": 170,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Heart of Sekipra",
+        "number": 193,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Repeat History",
+        "number": 36,
+        "shape": "modal double faced",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Awaited Expansion",
+        "number": 48,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Veldoris, Death's Speaker",
+        "number": 128,
+        "shape": "planeswalker",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Wand of Reprise",
+        "number": 174,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Kindra, the Last Legend",
+        "number": 196,
+        "shape": "planeswalker",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Baromar, Personified",
+        "number": 5,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Faceless Follower",
+        "number": 60,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Cursed Bloodshedder",
+        "number": 95,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Channeler of Tradition",
+        "number": 135,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Adaptive Goo",
+        "number": 176,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Cityguard Captain",
+        "number": 13,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Itin, Unwavered Tinkerer",
+        "number": 67,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Embodied Death",
+        "number": 98,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Demolition Workshop",
+        "number": 141,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Command Presence",
+        "number": 182,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Criea, Blessed by Echoes",
+        "number": 14,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Monk of Passage",
+        "number": 74,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Feast from Famine",
+        "number": 99,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Flame Doubling",
+        "number": 147,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Consumer of History",
+        "number": 183,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Historic Clash",
+        "number": 21,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Planar Liberation",
+        "number": 77,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Lost Connections",
+        "number": 103,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "From Ashes",
+        "number": 149,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Cultivator Warden",
+        "number": 184,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Life's Work",
+        "number": 24,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rift Stabilizer",
+        "number": 81,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Maundering Hate",
+        "number": 104,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Honored Flamecutter",
+        "number": 151,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Enhancement Facility",
+        "number": 186,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Mirria's Rally",
+        "number": 27,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Sphere of Influence",
+        "number": 84,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Price for Progress",
+        "number": 108,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Mau, the Second Coming",
+        "number": 156,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Kondira, Sekipra's Protector",
+        "number": 197,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Mother's Memory",
+        "number": 29,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Zula, the Great Architect",
+        "number": 88,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Split Reality",
+        "number": 119,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rastiff Guide",
+        "number": 163,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Morbid Blessings",
+        "number": 201,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Scion of Silence",
+        "number": 38,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Beacon Tower",
+        "number": 49,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Underworld Crypt",
+        "number": 126,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Ruinbringer",
+        "number": 167,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Speaker of the Woods",
+        "number": 214,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Baroborn Marshal",
+        "number": 4,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Blueprints",
+        "number": 50,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Blood for Bones",
+        "number": 89,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Berkus Stratagem",
+        "number": 132,
+        "shape": "modal double faced",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Bonding Experience",
+        "number": 181,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Before the Storm",
+        "number": 7,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Build Anew",
+        "number": 52,
+        "shape": "modal double faced",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Burdens of Antiquity",
+        "number": 91,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Burn from Within",
+        "number": 134,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Greed of Sekipra",
+        "number": 191,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Captured Angel",
+        "number": 9,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Conserver of History",
+        "number": 54,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Death's Gaze",
+        "number": 96,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Cloaked Trooper",
+        "number": 137,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Invasive Ooze",
+        "number": 194,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "City Reverend",
+        "number": 12,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Dementia Agent",
+        "number": 56,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Haunted Grounds",
+        "number": 102,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Dawn of the War",
+        "number": 139,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "A Journey Begins",
+        "number": 195,
+        "shape": "modal double faced",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Fighter's Legacy",
+        "number": 16,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Encroaching Sorcerer",
+        "number": 58,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Memory Siphoner",
+        "number": 105,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Demanding Dungeon",
+        "number": 140,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Kondira's Companion",
+        "number": 198,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Guided Champion",
+        "number": 19,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Form Master",
+        "number": 62,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Merciless Executioner",
+        "number": 106,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Forged for War",
+        "number": 148,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Kondira's Influence",
+        "number": 199,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Militia Barracks",
+        "number": 26,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Insightful Pixie",
+        "number": 66,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rastiff Hellfire",
+        "number": 111,
+        "shape": "modal double faced",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Impulsive Greed",
+        "number": 152,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Nature's Paradise",
+        "number": 202,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Order of the Whitecloak",
+        "number": 30,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Library of Baromar",
+        "number": 69,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rastiff Warmonger",
+        "number": 113,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Ironcast Academy",
+        "number": 153,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Parasitic Growth",
+        "number": 203,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Pact of the Five",
+        "number": 31,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Memory Wipe",
+        "number": 71,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Sabotage Expert",
+        "number": 114,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Manifested Rage",
+        "number": 154,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Perilous Journey",
+        "number": 204,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Prison Cell",
+        "number": 33,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Mournful Steward",
+        "number": 75,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Soul Devourer",
+        "number": 117,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Mark of the Flame",
+        "number": 155,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rampaging Courser",
+        "number": 208,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Prison Sentry",
+        "number": 34,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Project Overseer",
+        "number": 78,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Soul's Recall",
+        "number": 118,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rastiff Encampment",
+        "number": 162,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Retribution Preserver",
+        "number": 210,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rookie Mistake",
+        "number": 37,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rift Seal",
+        "number": 80,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Tomb of Foul Rebirth",
+        "number": 122,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Siege Tower",
+        "number": 168,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Sekipra Sanctuary",
+        "number": 213,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Surface Memories",
+        "number": 41,
+        "shape": "modal double faced",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Secret Project",
+        "number": 83,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Twisted Destiny",
+        "number": 124,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Smolder",
+        "number": 169,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Territorial Guriff",
+        "number": 215,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Tears of Dorthda",
+        "number": 42,
+        "shape": "modal double faced",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Stellia's Gift",
+        "number": 86,
+        "shape": "modal double faced",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Unbound Malice",
+        "number": 125,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Through Fire and Flames",
+        "number": 171,
+        "shape": "modal double faced",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Vengeful Sprout",
+        "number": 216,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Willing Wisp",
+        "number": 45,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Ameliorating Architect",
+        "number": 46,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Underworld Gateway",
+        "number": 127,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Unending Blaze",
+        "number": 172,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "World Memory",
+        "number": 218,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Ancestral Blessing",
+        "number": 2,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Artificer's Monster",
+        "number": 47,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Brethren Avenger",
+        "number": 90,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Blazing Fury",
+        "number": 133,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Berkus Centaur",
+        "number": 178,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Awakened Ability",
+        "number": 3,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Bonding Agent",
+        "number": 51,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Caller of the Beyond",
+        "number": 92,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Charged Steel",
+        "number": 136,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Berkus Skirmisher",
+        "number": 179,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Battle's Aftermath",
+        "number": 6,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Change of Balance",
+        "number": 53,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Chained Demon",
+        "number": 93,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Destructionally Sound",
+        "number": 142,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Berkus Warleader",
+        "number": 180,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Blessed by Courage",
+        "number": 8,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Construct from Memory",
+        "number": 55,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Chanting Ritualist",
+        "number": 94,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Enraged Brute",
+        "number": 143,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Desirable Host",
+        "number": 185,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Circumstance",
+        "number": 10,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Disrupt the Flow",
+        "number": 57,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Drain Essence",
+        "number": 97,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Fee-Fi Foe",
+        "number": 144,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Enhancement Sludge",
+        "number": 187,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Citizen Conscripts",
+        "number": 11,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Entangle Mind",
+        "number": 59,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Frontline Grunt",
+        "number": 100,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Fight Together",
+        "number": 145,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Expand Roots",
+        "number": 188,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Fall from Grace",
+        "number": 15,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Forgiven Burden",
+        "number": 61,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Grunt Major",
+        "number": 101,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Firehoof Fighter",
+        "number": 146,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Fertilizing Mud",
+        "number": 189,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Frontline Champion",
+        "number": 17,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Host Crab",
+        "number": 63,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Oblation's Answer",
+        "number": 107,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Halfbred Ambusher",
+        "number": 150,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Grasp of Nature",
+        "number": 190,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Griffin Steed",
+        "number": 18,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Industrious Faerie",
+        "number": 64,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Priest of Sins",
+        "number": 109,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Othra's Glory",
+        "number": 157,
+        "shape": "modal double faced",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Haven Guardian",
+        "number": 192,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "High Keeper",
+        "number": 20,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Innovation Stream",
+        "number": 65,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rastiff Warmage",
+        "number": 112,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Passionate Architect",
+        "number": 158,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Martyr's Resolve",
+        "number": 200,
+        "shape": "modal double faced",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Memory's Guide",
+        "number": 25,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Kingfisher Drake",
+        "number": 68,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Saddened Mourner",
+        "number": 115,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Press Your Advantage",
+        "number": 159,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Planar Unsealing",
+        "number": 205,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Moment's Passing",
+        "number": 28,
+        "shape": "modal double faced",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Mechanized Assistant",
+        "number": 70,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Somber Pastlife",
+        "number": 116,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Raid Party",
+        "number": 160,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Possessed Root",
+        "number": 206,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Priest Adept",
+        "number": 32,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Mind Scavenge",
+        "number": 72,
+        "shape": "modal double faced",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Starve Out",
+        "number": 120,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rastiff Conscripts",
+        "number": 161,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Protective Instinct",
+        "number": 207,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rally the Banners",
+        "number": 35,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Moment's Thought",
+        "number": 73,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Strangling Grip",
+        "number": 121,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rastiff Mentor",
+        "number": 164,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Ravenous Ooze",
+        "number": 209,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Shaped Infusion",
+        "number": 39,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Otherworldly Call",
+        "number": 76,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Traitor's Dilemma",
+        "number": 123,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rastiff Tactician",
+        "number": 165,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Sekipra Elf",
+        "number": 211,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Skill Sergeant",
+        "number": 40,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Reinforced Guard",
+        "number": 79,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Veldoris's Awakening",
+        "number": 129,
+        "shape": "modal double faced",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Research Combatant",
+        "number": 166,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Sekipra Pythoness",
+        "number": 212,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Timely Guard",
+        "number": 43,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Sealight Guide",
+        "number": 82,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Wandering Memories",
+        "number": 130,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Unmerciful End",
+        "number": 173,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Village Plunderers",
+        "number": 217,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Walls of Baroborn",
+        "number": 44,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Work to Death",
+        "number": 131,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Worker's Strike",
+        "number": 175,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Wrap in Vines",
+        "number": 219,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Baromar, Born Beyond",
+        "number": 221,
+        "shape": "transform double faced",
+        "set": "CAP"
+    },
+    {
+        "card_name": "The Face Snatcher",
+        "number": 232,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Othra, Tainted Leader",
+        "number": 244,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Redmane, the Sheep Slayer",
+        "number": 248,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rooted Guardian",
+        "number": 250,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Order in the Court",
+        "number": 243,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "The Recollection",
+        "number": 247,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "City's Sacking",
+        "number": 226,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Berkus Chief",
+        "number": 222,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Forest Defender",
+        "number": 233,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Baroborn Strategist",
+        "number": 220,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Echomancer Halakanis",
+        "number": 229,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Orcish Warlord",
+        "number": 242,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Berkus Outcast",
+        "number": 223,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Malcorn, the Longing",
+        "number": 238,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Chancellor of Wits",
+        "number": 225,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Evocation Shepherd",
+        "number": 231,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rastiff Linebreaker",
+        "number": 245,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wall of Remembrance",
+        "number": 253,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Naephy, the Descendant",
+        "number": 240,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Warforger",
+        "number": 254,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Everwatcher",
+        "number": 230,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Spell Splitter",
+        "number": 252,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Natural Experiment",
+        "number": 241,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Deity's Blessed",
+        "number": 227,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Rogue Invention",
+        "number": 249,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Shadows of Sekipra",
+        "number": 251,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Ironcast Master",
+        "number": 237,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Forest Solvent",
+        "number": 234,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Call of the Void",
+        "number": 224,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Guard of the Council",
+        "number": 235,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Guardians of the Haven",
+        "number": 236,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Duelist Duo",
+        "number": 228,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Reality Gyre",
+        "number": 246,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Mernz, the Forgotten",
+        "number": 239,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Anaur, History's Ambition",
+        "number": 255,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Blessing of Truth",
+        "number": 257,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Blood of Gods",
+        "number": 258,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Monument to the Fallen Man",
+        "number": 266,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Snatcher's Servant",
+        "number": 1,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Baroborn Outpost",
+        "number": 256,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Derelict Factory",
+        "number": 260,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Holy Fountain",
+        "number": 265,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Reverent Memorial",
+        "number": 267,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Cleared Memory",
+        "number": 259,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Derelict Scraps",
+        "number": 261,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Derelict Titan",
+        "number": 262,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Derelict Worker",
+        "number": 263,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Hall of Relics",
+        "number": 264,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Unreformed Derelict",
+        "number": 268,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Baroborn, City of Unity",
+        "number": 270,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Snatcher's Lair",
+        "number": 284,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Dorthda, Gates of the Dead",
+        "number": 275,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Berkus, Warrior's Home",
+        "number": 271,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Sekipra, Haven of Peace",
+        "number": 281,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Court House",
+        "number": 274,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Silent Waterway",
+        "number": 283,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "War Encampment",
+        "number": 286,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Cliffside Hillfort",
+        "number": 273,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Noble Estate",
+        "number": 280,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Trade District",
+        "number": 285,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Abstracted Stairway",
+        "number": 269,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Mudpeat Hovel",
+        "number": 279,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Sentry Tower",
+        "number": 282,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Lavish Garden",
+        "number": 278,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Claimed Settlement",
+        "number": 272,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Enchanting Cottage",
+        "number": 276,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Excavation Site",
+        "number": 277,
+        "shape": "class",
+        "set": "CAP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Swamp_CAP",
+        "number": 289,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Mountain_CAP",
+        "number": 290,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Plains_CAP",
+        "number": 287,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Forest_CAP",
+        "number": 291,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Island_CAP",
+        "number": 288,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Spirit 11CAP",
+        "number": 1,
+        "shape": "token",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Thopter 11CAP",
+        "number": 2,
+        "shape": "token",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Treasure CAP",
+        "number": 3,
+        "shape": "token",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Copy CAP",
+        "number": 14,
+        "shape": "token",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Stellia Emblem CAP",
+        "number": 15,
+        "shape": "token",
+        "set": "CAP"
+    },
+    {
+        "card_name": "white Human Soldier 21CAP",
+        "number": 4,
+        "shape": "token",
+        "set": "CAP"
+    },
+    {
+        "card_name": "white Human 11CAP",
+        "number": 5,
+        "shape": "token",
+        "set": "CAP"
+    },
+    {
+        "card_name": "white Wall 03CAP",
+        "number": 6,
+        "shape": "token",
+        "set": "CAP"
+    },
+    {
+        "card_name": "black Demon 44CAP",
+        "number": 7,
+        "shape": "token",
+        "set": "CAP"
+    },
+    {
+        "card_name": "black Demon 66CAP",
+        "number": 8,
+        "shape": "token",
+        "set": "CAP"
+    },
+    {
+        "card_name": "black Spirit 11CAP",
+        "number": 9,
+        "shape": "token",
+        "set": "CAP"
+    },
+    {
+        "card_name": "red Centaur 22CAP",
+        "number": 10,
+        "shape": "token",
+        "set": "CAP"
+    },
+    {
+        "card_name": "red Elemental 11CAP",
+        "number": 11,
+        "shape": "token",
+        "set": "CAP"
+    },
+    {
+        "card_name": "green Plant Elemental 22CAP",
+        "number": 12,
+        "shape": "token",
+        "set": "CAP"
+    },
+    {
+        "card_name": "green Plant 01CAP",
+        "number": 13,
+        "shape": "token",
+        "set": "CAP"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

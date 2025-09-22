@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "CAP",
+            "set_name": "Capshial: The Lost Memory",
+            "formats": ""
+        },
+        {
             "set_code": "HEX",
             "set_name": "",
             "formats": ""
