@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/25_Memory's Guide.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/26_Memory's Guide.png"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/39_Shaped Infusion.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/40_Shaped Infusion.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Soldier Citizen",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/11_Citizen Conscripts.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/12_Citizen Conscripts.png"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/43_Timely Guard.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/44_Timely Guard.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Griffin",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/18_Griffin Steed.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/19_Griffin Steed.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Monk",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/32_Priest Adept.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/33_Priest Adept.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Wall",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/44_Walls of Baroborn.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/45_Walls of Baroborn.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/20_High Keeper.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/21_High Keeper.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Instant",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/6_Battle's Aftermath.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/7_Battle's Aftermath.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/17_Frontline Champion.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/18_Frontline Champion.png"
 			}
 		},
 		{
@@ -105,16 +105,16 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "28",
+			"collector_number": "29",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/CAP-files/img/28_Moment's Passing_back.png"
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/29_Moment's Passing_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/28_Moment's Passing_front.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/29_Moment's Passing_front.png"
 			}
 		},
 		{
@@ -122,9 +122,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/2_Ancestral Blessing.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/3_Ancestral Blessing.png"
 			}
 		},
 		{
@@ -132,9 +132,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/10_Circumstance.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/11_Circumstance.png"
 			}
 		},
 		{
@@ -142,9 +142,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/3_Awakened Ability.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/4_Awakened Ability.png"
 			}
 		},
 		{
@@ -152,9 +152,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/8_Blessed by Courage.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/9_Blessed by Courage.png"
 			}
 		},
 		{
@@ -162,9 +162,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/35_Rally the Banners.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/36_Rally the Banners.png"
 			}
 		},
 		{
@@ -172,9 +172,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/15_Fall from Grace.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/16_Fall from Grace.png"
 			}
 		},
 		{
@@ -182,9 +182,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Artifact — Building",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/26_Militia Barracks.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/27_Militia Barracks.png"
 			}
 		},
 		{
@@ -192,9 +192,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/228_Duelist Duo.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/229_Duelist Duo.png"
 			}
 		},
 		{
@@ -202,9 +202,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Crab",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/63_Host Crab.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/64_Host Crab.png"
 			}
 		},
 		{
@@ -222,9 +222,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Faerie Artificer",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/64_Industrious Faerie.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/65_Industrious Faerie.png"
 			}
 		},
 		{
@@ -232,9 +232,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "70",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/70_Mechanized Assistant.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/71_Mechanized Assistant.png"
 			}
 		},
 		{
@@ -242,19 +242,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment Creature — Human Rogue",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/56_Dementia Agent.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/57_Dementia Agent.png"
 			}
 		},
 		{
 			"name": "Forgiven Burden",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Spirit",
-			"collector_number": "61",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/61_Forgiven Burden.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/62_Forgiven Burden.png"
 			}
 		},
 		{
@@ -262,9 +262,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "46",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/46_Ameliorating Architect.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/47_Ameliorating Architect.png"
 			}
 		},
 		{
@@ -272,9 +272,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "82",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/82_Sealight Guide.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/83_Sealight Guide.png"
 			}
 		},
 		{
@@ -282,9 +282,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "79",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/79_Reinforced Guard.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/80_Reinforced Guard.png"
 			}
 		},
 		{
@@ -292,9 +292,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "76",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/76_Otherworldly Call.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/77_Otherworldly Call.png"
 			}
 		},
 		{
@@ -302,9 +302,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/55_Construct from Memory.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/56_Construct from Memory.png"
 			}
 		},
 		{
@@ -312,9 +312,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/59_Entangle Mind.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/60_Entangle Mind.png"
 			}
 		},
 		{
@@ -332,9 +332,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/65_Innovation Stream.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/66_Innovation Stream.png"
 			}
 		},
 		{
@@ -342,9 +342,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/57_Disrupt the Flow.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/58_Disrupt the Flow.png"
 			}
 		},
 		{
@@ -352,9 +352,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Building",
-			"collector_number": "69",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/69_Library of Baromar.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/70_Library of Baromar.png"
 			}
 		},
 		{
@@ -362,9 +362,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Instant",
-			"collector_number": "246",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/246_Reality Gyre.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/247_Reality Gyre.png"
 			}
 		},
 		{
@@ -372,9 +372,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "160",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/160_Raid Party.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/162_Raid Party.png"
 			}
 		},
 		{
@@ -382,9 +382,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Centaur Warrior",
-			"collector_number": "146",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/146_Firehoof Fighter.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/147_Firehoof Fighter.png"
 			}
 		},
 		{
@@ -392,9 +392,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "136",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/136_Charged Steel.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/137_Charged Steel.png"
 			}
 		},
 		{
@@ -402,9 +402,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "166",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/166_Research Combatant.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/168_Research Combatant.png"
 			}
 		},
 		{
@@ -412,9 +412,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Orc Human Warrior",
-			"collector_number": "150",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/150_Halfbred Ambusher.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/152_Halfbred Ambusher.png"
 			}
 		},
 		{
@@ -422,9 +422,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Orc Human Shaman",
-			"collector_number": "164",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/164_Rastiff Mentor.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/166_Rastiff Mentor.png"
 			}
 		},
 		{
@@ -432,9 +432,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "165",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/165_Rastiff Tactician.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/167_Rastiff Tactician.png"
 			}
 		},
 		{
@@ -442,9 +442,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "143",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/143_Enraged Brute.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/144_Enraged Brute.png"
 			}
 		},
 		{
@@ -452,9 +452,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Giant",
-			"collector_number": "144",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/144_Fee-Fi Foe.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/145_Fee-Fi Foe.png"
 			}
 		},
 		{
@@ -462,26 +462,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "133",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/133_Blazing Fury.png"
-			}
-		},
-		{
-			"name": "Othra's Glory",
-			"rarity": "common",
-			"mana_cost": "{R}",
-			"type": "Sorcery",
-			"collector_number": "157",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/CAP-files/img/157_Othra's Glory_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/157_Othra's Glory_front.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/134_Blazing Fury.png"
 			}
 		},
 		{
@@ -489,9 +472,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "159",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/159_Press Your Advantage.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/161_Press Your Advantage.png"
 			}
 		},
 		{
@@ -499,9 +482,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "145",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/145_Fight Together.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/146_Fight Together.png"
 			}
 		},
 		{
@@ -509,9 +492,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "142",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/142_Destructionally Sound.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/143_Destructionally Sound.png"
 			}
 		},
 		{
@@ -519,9 +502,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/175_Worker's Strike.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/176_Worker's Strike.png"
 			}
 		},
 		{
@@ -529,9 +512,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/173_Unmerciful End.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/174_Unmerciful End.png"
 			}
 		},
 		{
@@ -539,9 +522,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Artifact — Building",
-			"collector_number": "140",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/140_Demanding Dungeon.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/141_Demanding Dungeon.png"
 			}
 		},
 		{
@@ -549,9 +532,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Artifact — Building",
-			"collector_number": "162",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/162_Rastiff Encampment.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/164_Rastiff Encampment.png"
 			}
 		},
 		{
@@ -559,9 +542,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "235",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/235_Guard of the Council.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/236_Guard of the Council.png"
 			}
 		},
 		{
@@ -569,9 +552,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/92_Caller of the Beyond.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/93_Caller of the Beyond.png"
 			}
 		},
 		{
@@ -579,19 +562,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Orc Shaman",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/112_Rastiff Warmage.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/113_Rastiff Warmage.png"
 			}
 		},
 		{
 			"name": "Somber Pastlife",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Spirit",
-			"collector_number": "116",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/116_Somber Pastlife.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/117_Somber Pastlife.png"
 			}
 		},
 		{
@@ -599,9 +582,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/90_Brethren Avenger.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/91_Brethren Avenger.png"
 			}
 		},
 		{
@@ -609,9 +592,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/109_Priest of Sins.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/110_Priest of Sins.png"
 			}
 		},
 		{
@@ -619,9 +602,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/106_Merciless Executioner.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/107_Merciless Executioner.png"
 			}
 		},
 		{
@@ -629,9 +612,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/100_Frontline Grunt.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/101_Frontline Grunt.png"
 			}
 		},
 		{
@@ -639,9 +622,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/101_Grunt Major.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/102_Grunt Major.png"
 			}
 		},
 		{
@@ -649,9 +632,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/93_Chained Demon.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/94_Chained Demon.png"
 			}
 		},
 		{
@@ -659,9 +642,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "130",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/130_Wandering Memories.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/131_Wandering Memories.png"
 			}
 		},
 		{
@@ -669,9 +652,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/123_Traitor's Dilemma.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/124_Traitor's Dilemma.png"
 			}
 		},
 		{
@@ -679,9 +662,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/121_Strangling Grip.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/122_Strangling Grip.png"
 			}
 		},
 		{
@@ -689,9 +672,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/120_Starve Out.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/121_Starve Out.png"
 			}
 		},
 		{
@@ -699,9 +682,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/107_Oblation's Answer.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/108_Oblation's Answer.png"
 			}
 		},
 		{
@@ -709,9 +692,16 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "98",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/98_Drain Essence_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/97_Drain Essence.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/98_Drain Essence_front.png"
 			}
 		},
 		{
@@ -719,9 +709,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/96_Death's Gaze.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/97_Death's Gaze.png"
 			}
 		},
 		{
@@ -729,9 +719,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "131",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/131_Work to Death.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/132_Work to Death.png"
 			}
 		},
 		{
@@ -739,9 +729,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Artifact — Building",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/122_Tomb of Foul Rebirth.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/123_Tomb of Foul Rebirth.png"
 			}
 		},
 		{
@@ -749,9 +739,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/224_Call of the Void.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/225_Call of the Void.png"
 			}
 		},
 		{
@@ -759,9 +749,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Plant Elemental",
-			"collector_number": "185",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/185_Desirable Host.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/186_Desirable Host.png"
 			}
 		},
 		{
@@ -769,19 +759,19 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Plant Spirit",
-			"collector_number": "206",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/206_Possessed Root.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/207_Possessed Root.png"
 			}
 		},
 		{
 			"name": "Ravenous Ooze",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Ooze Spirit",
-			"collector_number": "209",
+			"type": "Enchantment Creature — Ooze Spirit",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/209_Ravenous Ooze.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/210_Ravenous Ooze.png"
 			}
 		},
 		{
@@ -789,9 +779,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "211",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/211_Sekipra Elf.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/212_Sekipra Elf.png"
 			}
 		},
 		{
@@ -799,19 +789,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Centaur Warrior",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/178_Berkus Centaur.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/179_Berkus Centaur.png"
 			}
 		},
 		{
 			"name": "Enhancement Sludge",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Ooze Spirit",
-			"collector_number": "187",
+			"type": "Enchantment Creature — Ooze Spirit",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/187_Enhancement Sludge.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/188_Enhancement Sludge.png"
 			}
 		},
 		{
@@ -819,9 +809,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Centaur Warrior",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/217_Village Plunderers.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/218_Village Plunderers.png"
 			}
 		},
 		{
@@ -829,19 +819,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Centaur Archer",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/179_Berkus Skirmisher.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/180_Berkus Skirmisher.png"
 			}
 		},
 		{
 			"name": "Fertilizing Mud",
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Ooze Spirit",
-			"collector_number": "189",
+			"type": "Enchantment Creature — Ooze Spirit",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/189_Fertilizing Mud.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/190_Fertilizing Mud.png"
 			}
 		},
 		{
@@ -849,9 +839,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Centaur Warrior",
-			"collector_number": "180",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/180_Berkus Warleader.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/181_Berkus Warleader.png"
 			}
 		},
 		{
@@ -859,9 +849,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Elemental Soldier",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/192_Haven Guardian.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/193_Haven Guardian.png"
 			}
 		},
 		{
@@ -869,9 +859,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/188_Expand Roots.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/189_Expand Roots.png"
 			}
 		},
 		{
@@ -879,9 +869,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "207",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/207_Protective Instinct.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/208_Protective Instinct.png"
 			}
 		},
 		{
@@ -889,9 +879,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "205",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/205_Planar Unsealing.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/206_Planar Unsealing.png"
 			}
 		},
 		{
@@ -899,9 +889,16 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "190",
+			"collector_number": "191",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/191_Grasp of Nature_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/190_Grasp of Nature.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/191_Grasp of Nature_front.png"
 			}
 		},
 		{
@@ -909,9 +906,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/219_Wrap in Vines.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/220_Wrap in Vines.png"
 			}
 		},
 		{
@@ -919,9 +916,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Artifact — Building",
-			"collector_number": "202",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/202_Nature's Paradise.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/203_Nature's Paradise.png"
 			}
 		},
 		{
@@ -929,9 +926,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Plant",
-			"collector_number": "236",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/236_Guardians of the Haven.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/237_Guardians of the Haven.png"
 			}
 		},
 		{
@@ -979,9 +976,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Building",
-			"collector_number": "256",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/256_Baroborn Outpost.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/257_Baroborn Outpost.png"
 			}
 		},
 		{
@@ -998,10 +995,10 @@
 			"name": "Cleared Memory",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Spirit Construct",
-			"collector_number": "259",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/259_Cleared Memory.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/1_Cleared Memory.png"
 			}
 		},
 		{
@@ -1018,7 +1015,7 @@
 			"name": "Excavation Site",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Artifact Land — Building",
+			"type": "Land — Building",
 			"collector_number": "277",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/CAP-files/img/277_Excavation Site.png"
@@ -1029,9 +1026,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/4_Baroborn Marshal.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/5_Baroborn Marshal.png"
 			}
 		},
 		{
@@ -1039,9 +1036,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/31_Pact of the Five.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/32_Pact of the Five.png"
 			}
 		},
 		{
@@ -1049,19 +1046,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/13_Cityguard Captain.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/14_Cityguard Captain.png"
 			}
 		},
 		{
 			"name": "Prison Sentry",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Artifact Creature — Spirit Construct",
-			"collector_number": "34",
+			"type": "Enchantment Creature — Spirit Construct",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/34_Prison Sentry.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/35_Prison Sentry.png"
 			}
 		},
 		{
@@ -1069,9 +1066,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/9_Captured Angel.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/10_Captured Angel.png"
 			}
 		},
 		{
@@ -1079,19 +1076,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/12_City Reverend.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/13_City Reverend.png"
 			}
 		},
 		{
 			"name": "Fighter's Legacy",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Spirit Soldier",
-			"collector_number": "16",
+			"type": "Enchantment Creature — Spirit Soldier",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/16_Fighter's Legacy.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/17_Fighter's Legacy.png"
 			}
 		},
 		{
@@ -1099,9 +1096,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/37_Rookie Mistake.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/38_Rookie Mistake.png"
 			}
 		},
 		{
@@ -1109,9 +1106,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact — Building",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/33_Prison Cell.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/34_Prison Cell.png"
 			}
 		},
 		{
@@ -1119,9 +1116,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/30_Order of the Whitecloak.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/31_Order of the Whitecloak.png"
 			}
 		},
 		{
@@ -1129,9 +1126,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "238",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/238_Malcorn, the Longing.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/239_Malcorn, the Longing.png"
 			}
 		},
 		{
@@ -1149,9 +1146,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Faerie",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/66_Insightful Pixie.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/67_Insightful Pixie.png"
 			}
 		},
 		{
@@ -1159,9 +1156,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Monk",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/62_Form Master.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/63_Form Master.png"
 			}
 		},
 		{
@@ -1169,9 +1166,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "78",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/78_Project Overseer.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/79_Project Overseer.png"
 			}
 		},
 		{
@@ -1179,9 +1176,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/58_Encroaching Sorcerer.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/59_Encroaching Sorcerer.png"
 			}
 		},
 		{
@@ -1189,19 +1186,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "71",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/71_Memory Wipe.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/72_Memory Wipe.png"
 			}
 		},
 		{
-			"name": "Artificer's Monster",
+			"name": "Coldforged Echo",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Artifact Creature — Construct Spirit",
-			"collector_number": "47",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/47_Artificer's Monster.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/54_Coldforged Echo.png"
 			}
 		},
 		{
@@ -1209,9 +1206,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "73",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/73_Moment's Thought.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/74_Moment's Thought.png"
 			}
 		},
 		{
@@ -1219,9 +1216,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Dragon Spirit",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/54_Conserver of History.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/55_Conserver of History.png"
 			}
 		},
 		{
@@ -1229,9 +1226,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Artifact — Building",
-			"collector_number": "81",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/81_Rift Stabilizer.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/82_Rift Stabilizer.png"
 			}
 		},
 		{
@@ -1249,9 +1246,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/220_Baroborn Strategist.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/221_Baroborn Strategist.png"
 			}
 		},
 		{
@@ -1259,9 +1256,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/115_Saddened Mourner.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/116_Saddened Mourner.png"
 			}
 		},
 		{
@@ -1269,19 +1266,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Orc Rogue",
-			"collector_number": "114",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/114_Sabotage Expert.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/115_Sabotage Expert.png"
 			}
 		},
 		{
 			"name": "Memory Siphoner",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Spirit",
-			"collector_number": "105",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/105_Memory Siphoner.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/106_Memory Siphoner.png"
 			}
 		},
 		{
@@ -1289,9 +1286,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/89_Blood for Bones.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/90_Blood for Bones.png"
 			}
 		},
 		{
@@ -1299,19 +1296,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/113_Rastiff Warmonger.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/114_Rastiff Warmonger.png"
 			}
 		},
 		{
 			"name": "Soul Devourer",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Spirit",
-			"collector_number": "117",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/117_Soul Devourer.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/118_Soul Devourer.png"
 			}
 		},
 		{
@@ -1319,9 +1316,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Ooze",
-			"collector_number": "125",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/125_Unbound Malice.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/126_Unbound Malice.png"
 			}
 		},
 		{
@@ -1329,9 +1326,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Spirit Wall",
-			"collector_number": "253",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/253_Wall of Remembrance.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/254_Wall of Remembrance.png"
 			}
 		},
 		{
@@ -1339,9 +1336,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Plant",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/191_Greed of Sekipra.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/192_Greed of Sekipra.png"
 			}
 		},
 		{
@@ -1349,29 +1346,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Plant Elemental",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/198_Kondira's Companion.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/199_Kondira's Companion.png"
 			}
 		},
 		{
 			"name": "Parasitic Growth",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Ooze Spirit",
-			"collector_number": "203",
+			"type": "Enchantment Creature — Ooze Spirit",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/203_Parasitic Growth.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/204_Parasitic Growth.png"
 			}
 		},
 		{
 			"name": "Invasive Ooze",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Ooze Spirit",
-			"collector_number": "194",
+			"type": "Enchantment Creature — Ooze Spirit",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/194_Invasive Ooze.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/195_Invasive Ooze.png"
 			}
 		},
 		{
@@ -1379,9 +1376,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
-			"collector_number": "204",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/204_Perilous Journey.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/205_Perilous Journey.png"
 			}
 		},
 		{
@@ -1389,9 +1386,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/218_World Memory.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/219_World Memory.png"
 			}
 		},
 		{
@@ -1399,9 +1396,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Elf Warrior",
-			"collector_number": "210",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/210_Retribution Preserver.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/211_Retribution Preserver.png"
 			}
 		},
 		{
@@ -1409,9 +1406,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/215_Territorial Guriff.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/216_Territorial Guriff.png"
 			}
 		},
 		{
@@ -1419,9 +1416,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Ooze",
-			"collector_number": "176",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/176_Adaptive Goo.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/177_Adaptive Goo.png"
 			}
 		},
 		{
@@ -1429,9 +1426,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Building",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/213_Sekipra Sanctuary.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/214_Sekipra Sanctuary.png"
 			}
 		},
 		{
@@ -1439,9 +1436,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "201",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/201_Morbid Blessings.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/202_Morbid Blessings.png"
 			}
 		},
 		{
@@ -1449,19 +1446,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Centaur Warrior",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/223_Berkus Outcast.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/224_Berkus Outcast.png"
 			}
 		},
 		{
 			"name": "Manifested Rage",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Spirit Incarnation",
-			"collector_number": "154",
+			"type": "Enchantment Creature — Spirit Incarnation",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/154_Manifested Rage.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/156_Manifested Rage.png"
 			}
 		},
 		{
@@ -1469,9 +1466,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "169",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/169_Smolder.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/171_Smolder.png"
 			}
 		},
 		{
@@ -1479,19 +1476,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "158",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/158_Passionate Architect.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/160_Passionate Architect.png"
 			}
 		},
 		{
 			"name": "Forged for War",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Artifact Creature — Spirit Construct",
-			"collector_number": "148",
+			"type": "Enchantment Creature — Spirit Construct",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/148_Forged for War.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/150_Forged for War.png"
 			}
 		},
 		{
@@ -1499,9 +1496,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "152",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/152_Impulsive Greed.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/154_Impulsive Greed.png"
 			}
 		},
 		{
@@ -1509,9 +1506,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Enchantment",
-			"collector_number": "155",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/155_Mark of the Flame.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/157_Mark of the Flame.png"
 			}
 		},
 		{
@@ -1519,9 +1516,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/172_Unending Blaze.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/173_Unending Blaze.png"
 			}
 		},
 		{
@@ -1529,9 +1526,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Instant",
-			"collector_number": "139",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/139_Dawn of the War.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/140_Dawn of the War.png"
 			}
 		},
 		{
@@ -1539,19 +1536,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "134",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/134_Burn from Within.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/135_Burn from Within.png"
 			}
 		},
 		{
 			"name": "Cloaked Trooper",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Artifact Creature — Spirit Construct",
-			"collector_number": "137",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/137_Cloaked Trooper.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/138_Cloaked Trooper.png"
 			}
 		},
 		{
@@ -1559,9 +1556,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Building",
-			"collector_number": "153",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/153_Ironcast Academy.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/155_Ironcast Academy.png"
 			}
 		},
 		{
@@ -1569,9 +1566,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "245",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/245_Rastiff Linebreaker.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/246_Rastiff Linebreaker.png"
 			}
 		},
 		{
@@ -1579,9 +1576,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/225_Chancellor of Wits.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/226_Chancellor of Wits.png"
 			}
 		},
 		{
@@ -1589,9 +1586,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "229",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/229_Echomancer Halakanis.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/230_Echomancer Halakanis.png"
 			}
 		},
 		{
@@ -1599,9 +1596,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "242",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/242_Orcish Warlord.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/243_Orcish Warlord.png"
 			}
 		},
 		{
@@ -1609,9 +1606,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Centaur Warrior",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/222_Berkus Chief.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/223_Berkus Chief.png"
 			}
 		},
 		{
@@ -1619,9 +1616,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Elemental Soldier",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/233_Forest Defender.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/234_Forest Defender.png"
 			}
 		},
 		{
@@ -1629,9 +1626,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Creature — Elf Shaman Bard",
-			"collector_number": "251",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/251_Shadows of Sekipra.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/252_Shadows of Sekipra.png"
 			}
 		},
 		{
@@ -1639,19 +1636,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "237",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/237_Ironcast Master.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/238_Ironcast Master.png"
 			}
 		},
 		{
 			"name": "Forest Solvent",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
-			"type": "Creature — Ooze Spirit",
-			"collector_number": "234",
+			"type": "Enchantment Creature — Ooze Spirit",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/234_Forest Solvent.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/235_Forest Solvent.png"
 			}
 		},
 		{
@@ -1668,10 +1665,10 @@
 			"name": "Snatcher's Servant",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
-			"type": "Creature — Spirit Shapeshifter",
-			"collector_number": "1",
+			"type": "Enchantment Creature — Spirit Shapeshifter",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/1_Snatcher's Servant.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/2_Snatcher's Servant.png"
 			}
 		},
 		{
@@ -1679,9 +1676,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Spirit",
-			"collector_number": "45",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/45_Willing Wisp.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/46_Willing Wisp.png"
 			}
 		},
 		{
@@ -1689,9 +1686,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/38_Scion of Silence.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/39_Scion of Silence.png"
 			}
 		},
 		{
@@ -1699,9 +1696,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Creature — Spirit",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/29_Mother's Memory.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/30_Mother's Memory.png"
 			}
 		},
 		{
@@ -1709,9 +1706,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/14_Criea, Blessed by Echoes.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/15_Criea, Blessed by Echoes.png"
 			}
 		},
 		{
@@ -1719,19 +1716,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Instant",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/21_Historic Clash.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/22_Historic Clash.png"
 			}
 		},
 		{
 			"name": "Baromar, Personified",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Legendary Creature — Spirit",
-			"collector_number": "5",
+			"type": "Legendary Enchantment Creature — Spirit",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/5_Baromar, Personified.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/6_Baromar, Personified.png"
 			}
 		},
 		{
@@ -1739,9 +1736,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/27_Mirria's Rally.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/28_Mirria's Rally.png"
 			}
 		},
 		{
@@ -1749,19 +1746,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/77_Planar Liberation.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/78_Planar Liberation.png"
 			}
 		},
 		{
 			"name": "Monk of Passage",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Human Monk",
-			"collector_number": "74",
+			"type": "Enchantment Creature — Human Monk",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/74_Monk of Passage.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/75_Monk of Passage.png"
 			}
 		},
 		{
@@ -1769,19 +1766,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Building",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/83_Secret Project.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/84_Secret Project.png"
 			}
 		},
 		{
 			"name": "Faceless Follower",
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
-			"type": "Creature — Spirit Shapeshifter",
-			"collector_number": "60",
+			"type": "Enchantment Creature — Spirit Shapeshifter",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/60_Faceless Follower.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/61_Faceless Follower.png"
 			}
 		},
 		{
@@ -1799,9 +1796,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Monk",
-			"collector_number": "88",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/88_Zula, the Great Architect.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/89_Zula, the Great Architect.png"
 			}
 		},
 		{
@@ -1809,9 +1806,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/67_Itin, Unwavered Tinkerer.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/68_Itin, Unwavered Tinkerer.png"
 			}
 		},
 		{
@@ -1819,9 +1816,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact",
-			"collector_number": "84",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/84_Sphere of Influence.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/85_Sphere of Influence.png"
 			}
 		},
 		{
@@ -1829,9 +1826,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/103_Lost Connections.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/104_Lost Connections.png"
 			}
 		},
 		{
@@ -1839,19 +1836,19 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/119_Split Reality.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/120_Split Reality.png"
 			}
 		},
 		{
 			"name": "Maundering Hate",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Spirit",
-			"collector_number": "104",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/104_Maundering Hate.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/105_Maundering Hate.png"
 			}
 		},
 		{
@@ -1859,9 +1856,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/95_Cursed Bloodshedder.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/96_Cursed Bloodshedder.png"
 			}
 		},
 		{
@@ -1869,19 +1866,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/99_Feast from Famine.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/100_Feast from Famine.png"
 			}
 		},
 		{
 			"name": "Embodied Death",
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Creature — Spirit",
-			"collector_number": "98",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/98_Embodied Death.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/99_Embodied Death.png"
 			}
 		},
 		{
@@ -1889,19 +1886,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Building",
-			"collector_number": "149",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/149_From Ashes.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/151_From Ashes.png"
 			}
 		},
 		{
 			"name": "Honored Flamecutter",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Centaur Spirit Warrior",
-			"collector_number": "151",
+			"type": "Enchantment Creature — Centaur Spirit",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/151_Honored Flamecutter.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/153_Honored Flamecutter.png"
 			}
 		},
 		{
@@ -1909,19 +1906,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Orc Shaman",
-			"collector_number": "156",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/156_Mau, the Second Coming.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/158_Mau, the Second Coming.png"
 			}
 		},
 		{
 			"name": "Channeler of Tradition",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Orc Shaman",
-			"collector_number": "135",
+			"type": "Enchantment Creature — Orc Shaman",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/135_Channeler of Tradition.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/136_Channeler of Tradition.png"
 			}
 		},
 		{
@@ -1929,9 +1926,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Building",
-			"collector_number": "141",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/141_Demolition Workshop.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/142_Demolition Workshop.png"
 			}
 		},
 		{
@@ -1939,9 +1936,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Orc Warrior",
-			"collector_number": "167",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/167_Ruinbringer.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/169_Ruinbringer.png"
 			}
 		},
 		{
@@ -1949,19 +1946,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "147",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/147_Flame Doubling.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/148_Flame Doubling.png"
 			}
 		},
 		{
 			"name": "Rastiff Guide",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Orc Spirit",
-			"collector_number": "163",
+			"type": "Enchantment Creature — Orc Spirit",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/163_Rastiff Guide.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/165_Rastiff Guide.png"
 			}
 		},
 		{
@@ -1969,29 +1966,29 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}",
 			"type": "Legendary Creature — Plant Elemental",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/197_Kondira, Sekipra's Protector.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/198_Kondira, Sekipra's Protector.png"
 			}
 		},
 		{
 			"name": "Consumer of History",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Ooze Spirit",
-			"collector_number": "183",
+			"type": "Enchantment Creature — Ooze Spirit",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/183_Consumer of History.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/184_Consumer of History.png"
 			}
 		},
 		{
 			"name": "Cultivator Warden",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Plant Spirit",
-			"collector_number": "184",
+			"type": "Enchantment Creature — Plant Spirit",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/184_Cultivator Warden.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/185_Cultivator Warden.png"
 			}
 		},
 		{
@@ -1999,19 +1996,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Centaur Warrior",
-			"collector_number": "208",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/208_Rampaging Courser.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/209_Rampaging Courser.png"
 			}
 		},
 		{
 			"name": "Speaker of the Woods",
 			"rarity": "rare",
 			"mana_cost": "{G}{G}",
-			"type": "Creature — Elf Spirit",
-			"collector_number": "214",
+			"type": "Enchantment Creature — Elf Spirit",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/214_Speaker of the Woods.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/215_Speaker of the Woods.png"
 			}
 		},
 		{
@@ -2019,9 +2016,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Building",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/186_Enhancement Facility.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/187_Enhancement Facility.png"
 			}
 		},
 		{
@@ -2029,9 +2026,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/182_Command Presence.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/183_Command Presence.png"
 			}
 		},
 		{
@@ -2039,9 +2036,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{U}",
 			"type": "Instant",
-			"collector_number": "243",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/243_Order in the Court.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/244_Order in the Court.png"
 			}
 		},
 		{
@@ -2049,19 +2046,19 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Legendary Creature — Centaur Warrior",
-			"collector_number": "248",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/248_Redmane, the Sheep Slayer.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/249_Redmane, the Sheep Slayer.png"
 			}
 		},
 		{
 			"name": "Evocation Shepherd",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
-			"type": "Creature — Spirit",
-			"collector_number": "231",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/231_Evocation Shepherd.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/232_Evocation Shepherd.png"
 			}
 		},
 		{
@@ -2069,9 +2066,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Legendary Creature — Angel Demon",
-			"collector_number": "240",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/240_Naephy, the Descendant.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/241_Naephy, the Descendant.png"
 			}
 		},
 		{
@@ -2079,9 +2076,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{R}{W}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "252",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/252_Spell Splitter.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/253_Spell Splitter.png"
 			}
 		},
 		{
@@ -2089,9 +2086,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Elemental Soldier",
-			"collector_number": "250",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/250_Rooted Guardian.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/251_Rooted Guardian.png"
 			}
 		},
 		{
@@ -2099,26 +2096,26 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Elf Spirit",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/230_Everwatcher.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/231_Everwatcher.png"
 			}
 		},
 		{
 			"name": "Natural Experiment",
 			"rarity": "rare",
 			"mana_cost": "{G}{U}",
-			"type": "Creature — Ooze Spirit",
-			"collector_number": "241",
+			"type": "Enchantment Creature — Ooze Spirit",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/241_Natural Experiment.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/242_Natural Experiment.png"
 			}
 		},
 		{
 			"name": "Claimed Settlement",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Artifact Land — Construction",
+			"type": "Land — Building",
 			"collector_number": "272",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/CAP-files/img/272_Claimed Settlement.png"
@@ -2159,9 +2156,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Angel God",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/23_Juno, God of Renewal.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/24_Juno, God of Renewal.png"
 			}
 		},
 		{
@@ -2178,10 +2175,10 @@
 			"name": "Sudden Reminiscence",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Spirit",
-			"collector_number": "87",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/87_Sudden Reminiscence.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/88_Sudden Reminiscence.png"
 			}
 		},
 		{
@@ -2189,9 +2186,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "170",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/170_Terror Hoarder.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/172_Terror Hoarder.png"
 			}
 		},
 		{
@@ -2199,9 +2196,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Legendary Artifact",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/174_Wand of Reprise.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/175_Wand of Reprise.png"
 			}
 		},
 		{
@@ -2209,19 +2206,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{G}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "177",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/177_Adaptive Selection.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/178_Adaptive Selection.png"
 			}
 		},
 		{
 			"name": "Heart of Sekipra",
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Legendary Creature — Plant Spirit",
-			"collector_number": "193",
+			"type": "Legendary Enchantment Creature — Plant Spirit",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/193_Heart of Sekipra.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/194_Heart of Sekipra.png"
 			}
 		},
 		{
@@ -2229,16 +2226,16 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Planeswalker — Baromar",
-			"collector_number": "221",
+			"collector_number": "222",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/CAP-files/img/221_Baromar, Born Beyond_back.png"
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/222_Baromar, Born Beyond_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/221_Baromar, Born Beyond_front.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/222_Baromar, Born Beyond_front.png"
 			}
 		},
 		{
@@ -2246,9 +2243,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Orc Human Noble",
-			"collector_number": "244",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/244_Othra, Tainted Leader.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/245_Othra, Tainted Leader.png"
 			}
 		},
 		{
@@ -2256,19 +2253,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Legendary Creature — Dragon God",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/239_Mernz, the Forgotten.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/240_Mernz, the Forgotten.png"
 			}
 		},
 		{
 			"name": "The Recollection",
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{B}",
-			"type": "Legendary Creature — Spirit",
-			"collector_number": "247",
+			"type": "Legendary Enchantment Creature — Spirit",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/247_The Recollection.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/248_The Recollection.png"
 			}
 		},
 		{
@@ -2276,9 +2273,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/19_Guided Champion.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/20_Guided Champion.png"
 			}
 		},
 		{
@@ -2286,9 +2283,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "75",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/75_Mournful Steward.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/76_Mournful Steward.png"
 			}
 		},
 		{
@@ -2296,9 +2293,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/118_Soul's Recall.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/119_Soul's Recall.png"
 			}
 		},
 		{
@@ -2306,9 +2303,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}",
 			"type": "Instant",
-			"collector_number": "124",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/124_Twisted Destiny.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/125_Twisted Destiny.png"
 			}
 		},
 		{
@@ -2316,9 +2313,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Artifact — Building",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/102_Haunted Grounds.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/103_Haunted Grounds.png"
 			}
 		},
 		{
@@ -2326,9 +2323,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Plant Elemental",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/216_Vengeful Sprout.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/217_Vengeful Sprout.png"
 			}
 		},
 		{
@@ -2336,19 +2333,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/227_Deity's Blessed.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/228_Deity's Blessed.png"
 			}
 		},
 		{
 			"name": "Rogue Invention",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Artifact Creature — Spirit Construct",
-			"collector_number": "249",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/249_Rogue Invention.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/250_Rogue Invention.png"
 			}
 		},
 		{
@@ -2366,9 +2363,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Artifact — Building",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/24_Life's Work.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/25_Life's Work.png"
 			}
 		},
 		{
@@ -2376,9 +2373,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/126_Underworld Crypt.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/127_Underworld Crypt.png"
 			}
 		},
 		{
@@ -2386,9 +2383,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Building",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/108_Price for Progress.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/109_Price for Progress.png"
 			}
 		},
 		{
@@ -2396,9 +2393,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "226",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/226_City's Sacking.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/227_City's Sacking.png"
 			}
 		},
 		{
@@ -2406,16 +2403,16 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Artifact Creature — Human Artificer",
-			"collector_number": "254",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/254_Warforger.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/255_Warforger.png"
 			}
 		},
 		{
 			"name": "Baroborn, City of Unity",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Artifact Land — Building",
+			"type": "Land — Building",
 			"collector_number": "270",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/CAP-files/img/270_Baroborn, City of Unity.png"
@@ -2436,9 +2433,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Planeswalker — Iska",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/22_Iska, Symbol of Truth.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/23_Iska, Symbol of Truth.png"
 			}
 		},
 		{
@@ -2446,9 +2443,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Demon God",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/110_Rarsni, God of Decay.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/111_Rarsni, God of Decay.png"
 			}
 		},
 		{
@@ -2456,9 +2453,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Planeswalker — Veldoris",
-			"collector_number": "128",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/128_Veldoris, Death's Speaker.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/129_Veldoris, Death's Speaker.png"
 			}
 		},
 		{
@@ -2466,9 +2463,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Building",
-			"collector_number": "255",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/255_Anaur, History's Ambition.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/256_Anaur, History's Ambition.png"
 			}
 		},
 		{
@@ -2646,9 +2643,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Planeswalker — Conan",
-			"collector_number": "138",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/138_Conan, the Reprised Hero.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/139_Conan, the Reprised Hero.png"
 			}
 		},
 		{
@@ -2656,9 +2653,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Planeswalker — Kindra",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/196_Kindra, the Last Legend.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/197_Kindra, the Last Legend.png"
 			}
 		},
 		{
@@ -2666,9 +2663,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Planeswalker — Stellia",
-			"collector_number": "85",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/85_Stellia, Beacon of Hope.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/86_Stellia, Beacon of Hope.png"
 			}
 		},
 		{
@@ -2676,77 +2673,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/7_Before the Storm.png"
-			}
-		},
-		{
-			"name": "Tears of Dorthda",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": "Sorcery",
-			"collector_number": "42",
+			"collector_number": "8",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/CAP-files/img/42_Tears of Dorthda_back.png"
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/8_Before the Storm_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/42_Tears of Dorthda_front.png"
-			}
-		},
-		{
-			"name": "Stellia's Gift",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}",
-			"type": "Instant",
-			"collector_number": "86",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/CAP-files/img/86_Stellia's Gift_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/86_Stellia's Gift_front.png"
-			}
-		},
-		{
-			"name": "Build Anew",
-			"rarity": "uncommon",
-			"mana_cost": "{U}",
-			"type": "Sorcery",
-			"collector_number": "52",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/CAP-files/img/52_Build Anew_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/52_Build Anew_front.png"
-			}
-		},
-		{
-			"name": "Rastiff Hellfire",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
-			"collector_number": "111",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/CAP-files/img/111_Rastiff Hellfire_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/111_Rastiff Hellfire_front.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/8_Before the Storm_front.png"
 			}
 		},
 		{
@@ -2754,60 +2690,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "91",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/91_Burdens of Antiquity.png"
-			}
-		},
-		{
-			"name": "Through Fire and Flames",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
-			"type": "Sorcery",
-			"collector_number": "171",
+			"collector_number": "92",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/CAP-files/img/171_Through Fire and Flames_back.png"
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/92_Burdens of Antiquity_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/171_Through Fire and Flames_front.png"
-			}
-		},
-		{
-			"name": "Berkus Stratagem",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
-			"collector_number": "132",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/CAP-files/img/132_Berkus Stratagem_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/132_Berkus Stratagem_front.png"
-			}
-		},
-		{
-			"name": "A Journey Begins",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
-			"collector_number": "195",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/CAP-files/img/195_A Journey Begins_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/195_A Journey Begins_front.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/92_Burdens of Antiquity_front.png"
 			}
 		},
 		{
@@ -2815,60 +2707,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "199",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/199_Kondira's Influence.png"
-			}
-		},
-		{
-			"name": "Mind Scavenge",
-			"rarity": "common",
-			"mana_cost": "{U}",
-			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "200",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/CAP-files/img/72_Mind Scavenge_back.png"
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/200_Kondira's Influence_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/72_Mind Scavenge_front.png"
-			}
-		},
-		{
-			"name": "Veldoris's Awakening",
-			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Sorcery",
-			"collector_number": "129",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/CAP-files/img/129_Veldoris's Awakening_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/129_Veldoris's Awakening_front.png"
-			}
-		},
-		{
-			"name": "Surface Memories",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "41",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/CAP-files/img/41_Surface Memories_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/41_Surface Memories_front.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/200_Kondira's Influence_front.png"
 			}
 		},
 		{
@@ -2876,26 +2724,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Building",
-			"collector_number": "168",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/168_Siege Tower.png"
-			}
-		},
-		{
-			"name": "Repeat History",
-			"rarity": "mythic",
-			"mana_cost": "{3}{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "36",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/CAP-files/img/36_Repeat History_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/36_Repeat History_front.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/170_Siege Tower.png"
 			}
 		},
 		{
@@ -2923,26 +2754,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "181",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/181_Bonding Experience.png"
-			}
-		},
-		{
-			"name": "Martyr's Resolve",
-			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
-			"collector_number": "200",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/CAP-files/img/200_Martyr's Resolve_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/200_Martyr's Resolve_front.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/182_Bonding Experience.png"
 			}
 		},
 		{
@@ -2950,9 +2764,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Building",
-			"collector_number": "127",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/127_Underworld Gateway.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/128_Underworld Gateway.png"
 			}
 		},
 		{
@@ -2960,9 +2774,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "40",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/40_Skill Sergeant.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/41_Skill Sergeant.png"
 			}
 		},
 		{
@@ -2980,9 +2794,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Orc Shaman",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/94_Chanting Ritualist.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/95_Chanting Ritualist.png"
 			}
 		},
 		{
@@ -2990,19 +2804,19 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "161",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/161_Rastiff Conscripts.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/163_Rastiff Conscripts.png"
 			}
 		},
 		{
 			"name": "Sekipra Pythoness",
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Elf Shaman",
-			"collector_number": "212",
+			"type": "Enchantment Creature — Elf Shaman",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/212_Sekipra Pythoness.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/213_Sekipra Pythoness.png"
 			}
 		},
 		{
@@ -3010,9 +2824,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Drake",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/68_Kingfisher Drake.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/69_Kingfisher Drake.png"
 			}
 		},
 		{
@@ -3020,9 +2834,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/80_Rift Seal.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/81_Rift Seal.png"
 			}
 		},
 		{
@@ -3040,9 +2854,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Creature — Shapeshifter",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/232_The Face Snatcher.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/233_The Face Snatcher.png"
 			}
 		},
 		{
@@ -3056,113 +2870,13 @@
 			}
 		},
 		{
-			"name": "Trade District",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "285",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/285_Trade District.png"
-			}
-		},
-		{
-			"name": "Silent Waterway",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "283",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/283_Silent Waterway.png"
-			}
-		},
-		{
-			"name": "Sentry Tower",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "282",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/282_Sentry Tower.png"
-			}
-		},
-		{
-			"name": "Noble Estate",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "280",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/280_Noble Estate.png"
-			}
-		},
-		{
-			"name": "Mudpeat Hovel",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "279",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/279_Mudpeat Hovel.png"
-			}
-		},
-		{
-			"name": "Lavish Garden",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "278",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/278_Lavish Garden.png"
-			}
-		},
-		{
-			"name": "Court House",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "274",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/274_Court House.png"
-			}
-		},
-		{
-			"name": "Cliffside Hillfort",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "273",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/273_Cliffside Hillfort.png"
-			}
-		},
-		{
-			"name": "Abstracted Stairway",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "269",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/269_Abstracted Stairway.png"
-			}
-		},
-		{
-			"name": "War Encampment",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "286",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/286_War Encampment.png"
-			}
-		},
-		{
 			"name": "Blessing of Truth",
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "257",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/257_Blessing of Truth.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/258_Blessing of Truth.png"
 			}
 		},
 		{
@@ -3170,9 +2884,330 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "258",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/258_Blood of Gods.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/259_Blood of Gods.png"
+			}
+		},
+		{
+			"name": "Othra's Glory",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/159_Othra's Glory_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/159_Othra's Glory_front.png"
+			}
+		},
+		{
+			"name": "Tears of Dorthda",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/43_Tears of Dorthda_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/43_Tears of Dorthda_front.png"
+			}
+		},
+		{
+			"name": "Stellia's Gift",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "87",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/87_Stellia's Gift_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/87_Stellia's Gift_front.png"
+			}
+		},
+		{
+			"name": "Build Anew",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/52_Build Anew_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/52_Build Anew_front.png"
+			}
+		},
+		{
+			"name": "Rastiff Hellfire",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/112_Rastiff Hellfire_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/112_Rastiff Hellfire_front.png"
+			}
+		},
+		{
+			"name": "Flames of War",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/149_Flames of War_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/149_Flames of War_front.png"
+			}
+		},
+		{
+			"name": "Berkus Stratagem",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/133_Berkus Stratagem_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/133_Berkus Stratagem_front.png"
+			}
+		},
+		{
+			"name": "A Journey Begins",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/196_A Journey Begins_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/196_A Journey Begins_front.png"
+			}
+		},
+		{
+			"name": "Mind Scavenge",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/73_Mind Scavenge_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/73_Mind Scavenge_front.png"
+			}
+		},
+		{
+			"name": "Veldoris's Awakening",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/130_Veldoris's Awakening_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/130_Veldoris's Awakening_front.png"
+			}
+		},
+		{
+			"name": "Surface Memories",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/42_Surface Memories_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/42_Surface Memories_front.png"
+			}
+		},
+		{
+			"name": "Repeat History",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/37_Repeat History_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/37_Repeat History_front.png"
+			}
+		},
+		{
+			"name": "Martyr's Resolve",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "201",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://sunisalive.github.io/sets/CAP-files/img/201_Martyr's Resolve_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/201_Martyr's Resolve_front.png"
+			}
+		},
+		{
+			"name": "Trade District",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Building",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/285_Trade District.png"
+			}
+		},
+		{
+			"name": "Silent Waterway",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Building",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/283_Silent Waterway.png"
+			}
+		},
+		{
+			"name": "Sentry Tower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Building",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/282_Sentry Tower.png"
+			}
+		},
+		{
+			"name": "Noble's Estate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Building",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/280_Noble's Estate.png"
+			}
+		},
+		{
+			"name": "Mudpeat Hovel",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Building",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/279_Mudpeat Hovel.png"
+			}
+		},
+		{
+			"name": "Lavish Garden",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Building",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/278_Lavish Garden.png"
+			}
+		},
+		{
+			"name": "Court House",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Building",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/274_Court House.png"
+			}
+		},
+		{
+			"name": "Cliffside Hillfort",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Building",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/273_Cliffside Hillfort.png"
+			}
+		},
+		{
+			"name": "Abstracted Stairway",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Building",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/269_Abstracted Stairway.png"
+			}
+		},
+		{
+			"name": "War Encampent",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Building",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/286_War Encampent.png"
 			}
 		}
 	]
@@ -3252,11 +3287,11 @@
 	1 Conan, the Reprised Hero
 	1 Kindra, the Last Legend
 	1 Stellia, Beacon of Hope
-	1 Repeat History
 	1 The Face Snatcher
 	2 Monument to the Fallen Man
 	2 Blessing of Truth
 	2 Blood of Gods
+	1 Repeat History
 [uncommon(3)]
 	4 Militia Barracks
 	4 Dementia Agent
@@ -3340,30 +3375,20 @@
 	4 Rogue Invention
 	4 Derelict Factory
 	4 Before the Storm
-	4 Tears of Dorthda
-	4 Stellia's Gift
-	4 Build Anew
-	4 Rastiff Hellfire
 	4 Burdens of Antiquity
-	4 Through Fire and Flames
-	4 Berkus Stratagem
-	4 A Journey Begins
 	4 Kondira's Influence
-	4 Surface Memories
 	4 Siege Tower
 	4 Bonding Experience
 	4 Underworld Gateway
 	4 Rift Seal
-	4 Trade District
-	4 Silent Waterway
-	4 Sentry Tower
-	4 Noble Estate
-	4 Mudpeat Hovel
-	4 Lavish Garden
-	4 Court House
-	4 Cliffside Hillfort
-	4 Abstracted Stairway
-	4 War Encampment
+	4 Tears of Dorthda
+	4 Stellia's Gift
+	4 Build Anew
+	4 Rastiff Hellfire
+	4 Flames of War
+	4 Berkus Stratagem
+	4 A Journey Begins
+	4 Surface Memories
 [common(7)]
 	8 Memory's Guide
 	8 Shaped Infusion
@@ -3408,7 +3433,6 @@
 	8 Enraged Brute
 	8 Fee-Fi Foe
 	8 Blazing Fury
-	8 Othra's Glory
 	8 Press Your Advantage
 	8 Fight Together
 	8 Destructionally Sound
@@ -3454,19 +3478,30 @@
 	8 Cleared Memory
 	8 Derelict Titan
 	8 Excavation Site
-	8 Artificer's Monster
+	8 Coldforged Echo
 	8 Moment's Thought
 	8 Saddened Mourner
 	8 Passionate Architect
-	8 Mind Scavenge
-	8 Veldoris's Awakening
-	8 Martyr's Resolve
 	8 Skill Sergeant
 	8 Hall of Relics
 	8 Chanting Ritualist
 	8 Rastiff Conscripts
 	8 Sekipra Pythoness
 	8 Kingfisher Drake
+	8 Othra's Glory
+	8 Mind Scavenge
+	8 Veldoris's Awakening
+	8 Martyr's Resolve
+	8 Trade District
+	8 Silent Waterway
+	8 Sentry Tower
+	8 Noble's Estate
+	8 Mudpeat Hovel
+	8 Lavish Garden
+	8 Court House
+	8 Cliffside Hillfort
+	8 Abstracted Stairway
+	8 War Encampent
 [foil(1)]
 	12 Memory's Guide
 	12 Shaped Infusion
@@ -3514,7 +3549,6 @@
 	12 Enraged Brute
 	12 Fee-Fi Foe
 	12 Blazing Fury
-	12 Othra's Glory
 	12 Press Your Advantage
 	12 Fight Together
 	12 Destructionally Sound
@@ -3586,7 +3620,7 @@
 	6 Project Overseer
 	6 Encroaching Sorcerer
 	6 Memory Wipe
-	12 Artificer's Monster
+	12 Coldforged Echo
 	12 Moment's Thought
 	6 Conserver of History
 	2 Rift Stabilizer
@@ -3717,22 +3751,10 @@
 	1 Kindra, the Last Legend
 	1 Stellia, Beacon of Hope
 	6 Before the Storm
-	6 Tears of Dorthda
-	6 Stellia's Gift
-	6 Build Anew
-	6 Rastiff Hellfire
 	6 Burdens of Antiquity
-	6 Through Fire and Flames
-	6 Berkus Stratagem
-	6 A Journey Begins
 	6 Kondira's Influence
-	12 Mind Scavenge
-	12 Veldoris's Awakening
-	6 Surface Memories
 	6 Siege Tower
-	1 Repeat History
 	6 Bonding Experience
-	12 Martyr's Resolve
 	6 Underworld Gateway
 	12 Skill Sergeant
 	12 Hall of Relics
@@ -3743,18 +3765,31 @@
 	6 Rift Seal
 	1 The Face Snatcher
 	2 Monument to the Fallen Man
-	6 Trade District
-	6 Silent Waterway
-	6 Sentry Tower
-	6 Noble Estate
-	6 Mudpeat Hovel
-	6 Lavish Garden
-	6 Court House
-	6 Cliffside Hillfort
-	6 Abstracted Stairway
-	6 War Encampment
 	2 Blessing of Truth
 	2 Blood of Gods
+	12 Othra's Glory
+	6 Tears of Dorthda
+	6 Stellia's Gift
+	6 Build Anew
+	6 Rastiff Hellfire
+	6 Flames of War
+	6 Berkus Stratagem
+	6 A Journey Begins
+	12 Mind Scavenge
+	12 Veldoris's Awakening
+	6 Surface Memories
+	1 Repeat History
+	12 Martyr's Resolve
+	12 Trade District
+	12 Silent Waterway
+	12 Sentry Tower
+	12 Noble's Estate
+	12 Mudpeat Hovel
+	12 Lavish Garden
+	12 Court House
+	12 Cliffside Hillfort
+	12 Abstracted Stairway
+	12 War Encampent
 [wildcard(1)]
 	6 Memory's Guide
 	6 Shaped Infusion
@@ -3802,7 +3837,6 @@
 	6 Enraged Brute
 	6 Fee-Fi Foe
 	6 Blazing Fury
-	6 Othra's Glory
 	6 Press Your Advantage
 	6 Fight Together
 	6 Destructionally Sound
@@ -3874,7 +3908,7 @@
 	15 Project Overseer
 	15 Encroaching Sorcerer
 	15 Memory Wipe
-	6 Artificer's Monster
+	6 Coldforged Echo
 	6 Moment's Thought
 	15 Conserver of History
 	7 Rift Stabilizer
@@ -4005,22 +4039,10 @@
 	4 Kindra, the Last Legend
 	4 Stellia, Beacon of Hope
 	15 Before the Storm
-	15 Tears of Dorthda
-	15 Stellia's Gift
-	15 Build Anew
-	15 Rastiff Hellfire
 	15 Burdens of Antiquity
-	15 Through Fire and Flames
-	15 Berkus Stratagem
-	15 A Journey Begins
 	15 Kondira's Influence
-	6 Mind Scavenge
-	6 Veldoris's Awakening
-	15 Surface Memories
 	15 Siege Tower
-	4 Repeat History
 	15 Bonding Experience
-	6 Martyr's Resolve
 	15 Underworld Gateway
 	6 Skill Sergeant
 	6 Hall of Relics
@@ -4031,15 +4053,28 @@
 	15 Rift Seal
 	4 The Face Snatcher
 	7 Monument to the Fallen Man
-	15 Trade District
-	15 Silent Waterway
-	15 Sentry Tower
-	15 Noble Estate
-	15 Mudpeat Hovel
-	15 Lavish Garden
-	15 Court House
-	15 Cliffside Hillfort
-	15 Abstracted Stairway
-	15 War Encampment
 	7 Blessing of Truth
 	7 Blood of Gods
+	6 Othra's Glory
+	15 Tears of Dorthda
+	15 Stellia's Gift
+	15 Build Anew
+	15 Rastiff Hellfire
+	15 Flames of War
+	15 Berkus Stratagem
+	15 A Journey Begins
+	6 Mind Scavenge
+	6 Veldoris's Awakening
+	15 Surface Memories
+	4 Repeat History
+	6 Martyr's Resolve
+	6 Trade District
+	6 Silent Waterway
+	6 Sentry Tower
+	6 Noble's Estate
+	6 Mudpeat Hovel
+	6 Lavish Garden
+	6 Court House
+	6 Cliffside Hillfort
+	6 Abstracted Stairway
+	6 War Encampent

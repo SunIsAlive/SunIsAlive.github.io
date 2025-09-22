@@ -1,4 +1,1907 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Coldforged Echo added.
+Flames of War added.
+Noble's Estate added.
+War Encampent added.
+
+Artificer's Monster removed.
+Through Fire and Flames removed.
+Noble Estate removed.
+War Encampment removed.
+
+Memory's Guide
+rules_text: Memory's Guide enters the battlefield with a lifelink counter on it.
+Whenever another creature enters the battlefield, you may move a lifelink counter from a creature you control onto that creature. => This creature enters with a lifelink counter on it.
+Whenever another creature enters, you may move a lifelink counter from a creature you control onto that creature.
+
+Shaped Infusion
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Vigilance
+Enchanted creature has vigilance. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Vigilance
+Enchanted creature has vigilance.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Vigilance
+Enchanted creature has vigilance. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Vigilance
+Enchanted creature has vigilance.
+
+Citizen Conscripts
+rules_text: When Citizen Conscripts enters the battlefield, put a brick counter on another target permanent you control. => When this creature enters, put a brick counter on another target permanent you control.
+
+Timely Guard
+rules_text: Flash
+When Timely Guard enters the battlefield, you may return a creature you control to its owner's hand. If you do, tap Timely Guard and target creature you don't control. => Flash
+When this creature enters, you may return a creature you control to its owner's hand. If you do, tap this creature and target creature you don't control.
+
+Griffin Steed
+rules_text: Flying
+Griffin Steed has lifelink as long as it has a counter on it. => Flying
+This creature has lifelink as long as it has a counter on it.
+
+Priest Adept
+rules_text: Whenever you gain life for the first time each turn, put your choice of a flying, first strike, or vigilance counter on Priest Adept. => Whenever you gain life for the first time each turn, put your choice of a flying, first strike, or vigilance counter on this creature.
+
+Walls of Baroborn
+rules_text: Defender
+{T}: Target creature you control gets +1/+1 until end of turn.
+Whenever another creature enters the battlefield under your control, untap Walls of Baroborn. => Defender
+{T}: Target creature you control gets +1/+1 until end of turn.
+Whenever another creature enters under your control, untap this creature.
+
+High Keeper
+rules_text: High Keeper enters the battlefield with a +1/+1 counter on it.
+Remove a counter from High Keeper: High Keeper gains lifelink and vigilance until end of turn. => This creature enters, with a +1/+1 counter on it.
+Remove a counter from this creature: This creature gains lifelink and vigilance until end of turn.
+
+Frontline Champion
+rules_text: When Frontline Champion enters the battlefield, put a +1/+1 counter on each other creature you control. => When this creature enters, put a +1/+1 counter on each other creature you control.
+
+Moment's Passing
+rules_text: Exile target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step. => Exile target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+Disturb {2}{W} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Circumstance
+
+Awakened Ability
+
+Blessed by Courage
+rules_text: Enchant creature
+When Blessed by Courage enters the battlefield, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+Enchanted creature has “{T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.” => Enchant creature
+When this enchantment enters, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+Enchanted creature has “{T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.”
+
+Militia Barracks
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Militia Barracks enters the battlefield, create a 1/1 white Human creature token.
+{2}{W}: Level 1
+When Militia Barracks advances to level 1, create a 1/1 white Human creature token.
+{3}{W}: Level 2
+{T}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, create a 1/1 white Human creature token.
+{2}{W}: Level 1
+When this artifact advances to level 1, create a 1/1 white Human creature token.
+{3}{W}: Level 2
+{T}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Militia Barracks enters the battlefield, create a 1/1 white Human creature token.
+{2}{W}: Level 1
+When Militia Barracks advances to level 1, create a 1/1 white Human creature token.
+{3}{W}: Level 2
+{T}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, create a 1/1 white Human creature token.
+{2}{W}: Level 1
+When this artifact advances to level 1, create a 1/1 white Human creature token.
+{3}{W}: Level 2
+{T}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.
+
+Host Crab
+rules_text: Whenever Host Crab merges or enters the battlefield, target player mills three cards. => Whenever this creature enters or becomes the target of an Aura spell you control, target player mills three cards.
+
+Bonding Agent
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Bonding Agent can't be blocked.
+Enchanted creature can't be blocked. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+This creature and enchanted creature can't be blocked.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Bonding Agent can't be blocked.
+Enchanted creature can't be blocked. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+This creature and enchanted creature can't be blocked.
+
+Industrious Faerie
+rules_text: Flying
+When Industrious Faerie enters the battlefield, look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. => Flying
+When this creature enters, look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+Mechanized Assistant
+rules_text: {T}: Untap target artifact not named Mechanized Assistant.
+{T}, Remove a counter from Mechanized Assistant: Tap target artifact or creature. => {T}: Untap target artifact not named Mechanized Assistant.
+{T}, Remove a counter from this creature: Tap target artifact or creature.
+
+Dementia Agent
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Hexproof
+Enchanted creature has hexproof. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Hexproof
+Enchanted creature has hexproof.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Hexproof
+Enchanted creature has hexproof. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Hexproof
+Enchanted creature has hexproof.
+
+Forgiven Burden
+type: Creature — Spirit => Enchantment Creature — Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever Forgiven Burden enters the battlefield, dies or enchanted creature becomes enchanted by another enchantment you control, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever Forgiven Burden enters the battlefield, dies or enchanted creature becomes enchanted by another enchantment you control, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Ameliorating Architect
+rules_text: Ameliorating Architect enters the battlefield with a brick counter on it if you control one or more artifacts.
+{1}{U}, Remove a counter from Ameliorating Architect: Draw a card. => This creature enters with a brick counter on it if you control one or more artifacts.
+{1}{U}, Remove a counter from this creature: Draw a card.
+
+Sealight Guide
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever Sealight Guide enters the battlefield or enchanted creature becomes enchanted by another enchantment you control, you may return target creature to its owner's hand. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, you may return target creature to its owner's hand.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever Sealight Guide enters the battlefield or enchanted creature becomes enchanted by another enchantment you control, you may return target creature to its owner's hand. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, you may return target creature to its owner's hand.
+
+Reinforced Guard
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Whenever Reinforced Guard enters the battlefield or enchanted creature becomes enchanted by another enchantment you control, untap up to one target nonland permanent. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Whenever this creature enters or becomes the target of an Aura spell you control, untap up to one target nonland permanent.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Whenever Reinforced Guard enters the battlefield or enchanted creature becomes enchanted by another enchantment you control, untap up to one target nonland permanent. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Whenever this creature enters or becomes the target of an Aura spell you control, untap up to one target nonland permanent.
+
+Construct from Memory
+
+Change of Balance
+
+Disrupt the Flow
+
+Library of Baromar
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Library of Baromar enters the battlefield, draw two cards, then discard a card.
+{2}{U}: Level 1
+When Library of Baromar advances to level 1, draw two cards, then discard a card.
+{3}{U}: Level 2
+{T}: Target player mills three cards. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, draw two cards, then discard a card.
+{2}{U}: Level 1
+When this artifact advances to level 1, draw two cards, then discard a card.
+{3}{U}: Level 2
+{T}: Target player mills three cards.
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Library of Baromar enters the battlefield, draw two cards, then discard a card.
+{2}{U}: Level 1
+When Library of Baromar advances to level 1, draw two cards, then discard a card.
+{3}{U}: Level 2
+{T}: Target player mills three cards. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, draw two cards, then discard a card.
+{2}{U}: Level 1
+When this artifact advances to level 1, draw two cards, then discard a card.
+{3}{U}: Level 2
+{T}: Target player mills three cards.
+
+Firehoof Fighter
+rules_text: Whenever another creature merges or enters the battlefield under your control, Firehoof Fighter gets +1/+1 until end of turn. => Whenever an Aura or another creature enters under your control, this creature gets +1/+1 until end of turn.
+
+Charged Steel
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Haste
+{T}: Target creature gets +X/+0 until end of turn where X is 1 plus the number of creatures merged with it. Activate only during your turn. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Haste
+Whenever you attack, up to one target creature gets +X/+0 until end of turn, where X is 1 plus the number of Auras attached to it.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Haste
+{T}: Target creature gets +X/+0 until end of turn where X is 1 plus the number of creatures merged with it. Activate only during your turn. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Haste
+Whenever you attack, up to one target creature gets +X/+0 until end of turn, where X is 1 plus the number of Auras attached to it.
+
+Research Combatant
+rules_text: Whenever Research Combatant attacks, target creature gets +X/+0 until end of turn, where X is the number of permanents you control with counters on them. => Whenever this creature attacks, target creature gets +X/+0 until end of turn, where X is the number of permanents you control with counters on them.
+
+Halfbred Ambusher
+rules_text: Whenever Halfbred Ambusher attacks, if a creature entered the battlefield or merged this turn, put a +1/+1 counter on Halfbred Ambusher. => Whenever this creature attacks, if a creature entered the battlefield or merged this turn, put a +1/+1 counter on this creature.
+
+Rastiff Mentor
+rules_text: When Rastiff Mentor enters the battlefield, put a menace counter on a permanent you control.
+{T}, Discard a card, Remove a counter from a creature you control: Draw a card. => When this creature enters, put a menace counter on a permanent you control.
+{T}, Discard a card, Remove a counter from a creature you control: Draw a card.
+
+Rastiff Tactician
+rules_text: Haste
+When Rastiff Tactician enters the battlefield, you may remove a counter from a permanent you control. If you do, destroy target artifact. => Haste
+When this creature enters, you may remove a counter from a permanent you control. If you do, destroy target artifact.
+
+Enraged Brute
+rules_text: When Enraged Brute enters the battlefield, add {R}{R}{R}.
+{2}{R}: Target creature gains haste until end of turn. => When this creature enters, add {R}{R}{R}.
+{2}{R}: Target creature gains haste until end of turn.
+
+Fee-Fi Foe
+rules_text: When Fee-Fi Foe enters the battlefield, it deals 2 damage to each other creature. => When this creature enters, it deals 2 damage to each other creature.
+
+Press Your Advantage
+
+Fight Together
+
+Destructionally Sound
+
+Unmerciful End
+
+Demanding Dungeon
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever you put a brick counter on a permanent you control, Demanding Dungeon deals 1 damage to each opponent.
+{R}: Level 1
+When Demanding Dungeon advances to level 1, put a menace counter on target creature. It gets +1/+1 and gains haste until end of turn.
+{1}{R}: Level 2
+{1}{R}, {T}: Demanding Dungeon deals 1 damage to target player. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever you put a brick counter on a permanent you control, this artifact deals 1 damage to each opponent.
+{R}: Level 1
+When this artifact advances to level 1, put a menace counter on target creature. It gets +1/+1 and gains haste until end of turn.
+{1}{R}: Level 2
+{1}{R}, {T}: This artifact deals 1 damage to target player.
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever you put a brick counter on a permanent you control, Demanding Dungeon deals 1 damage to each opponent.
+{R}: Level 1
+When Demanding Dungeon advances to level 1, put a menace counter on target creature. It gets +1/+1 and gains haste until end of turn.
+{1}{R}: Level 2
+{1}{R}, {T}: Demanding Dungeon deals 1 damage to target player. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever you put a brick counter on a permanent you control, this artifact deals 1 damage to each opponent.
+{R}: Level 1
+When this artifact advances to level 1, put a menace counter on target creature. It gets +1/+1 and gains haste until end of turn.
+{1}{R}: Level 2
+{1}{R}, {T}: This artifact deals 1 damage to target player.
+
+Rastiff Encampment
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Rastiff Encampment enters the battlefield, exile the top card of your library. You may play that card until the end of your next turn.
+{1}{R}: Level 1
+When Rastiff Encampment advances to level 1, exile the top card of your library. You may play that card until the end of your next turn.
+{1}{R}: Level 2
+{2}{R}, {T}: Creatures you control gain +2/+0 until end of turn. Activate only as a sorcery. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, exile the top card of your library. You may play that card until the end of your next turn.
+{1}{R}: Level 1
+When this artifact advances to level 1, exile the top card of your library. You may play that card until the end of your next turn.
+{1}{R}: Level 2
+{2}{R}, {T}: Creatures you control gain +2/+0 until end of turn. Activate only as a sorcery.
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Rastiff Encampment enters the battlefield, exile the top card of your library. You may play that card until the end of your next turn.
+{1}{R}: Level 1
+When Rastiff Encampment advances to level 1, exile the top card of your library. You may play that card until the end of your next turn.
+{1}{R}: Level 2
+{2}{R}, {T}: Creatures you control gain +2/+0 until end of turn. Activate only as a sorcery. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, exile the top card of your library. You may play that card until the end of your next turn.
+{1}{R}: Level 1
+When this artifact advances to level 1, exile the top card of your library. You may play that card until the end of your next turn.
+{1}{R}: Level 2
+{2}{R}, {T}: Creatures you control gain +2/+0 until end of turn. Activate only as a sorcery.
+
+Guard of the Council
+rules_text: Defender
+As long as an artifact entered the battlefield under your control this turn, Guard of the Council may attack as though it didn't have defender. => Defender
+As long as an artifact entered the battlefield under your control this turn, this creature may attack as though it didn't have defender.
+
+Caller of the Beyond
+rules_text: Caller of the Beyond gets +1/+0 and is a black Spirit creature as long as it has a counter on it. => This creature gets +1/+0 and is a black Spirit creature as long as it has a counter on it.
+
+Rastiff Warmage
+rules_text: Sacrifice a creature: Rastiff Warmage gets +2/+2 until end of turn. => Sacrifice a creature: This creature gets +2/+2 until end of turn.
+
+Somber Pastlife
+type: Creature — Spirit => Enchantment Creature — Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Lifelink
+When this creature dies, surveil 1. [i](Look at the top card of your library. You may put that card into your graveyard.)[/i] => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Lifelink
+Enchanted creature has lifelink.
+pt: 2/1 => 2/2
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Lifelink
+When this creature dies, surveil 1. [i](Look at the top card of your library. You may put that card into your graveyard.)[/i] => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Lifelink
+Enchanted creature has lifelink.
+
+Brethren Avenger
+rules_text: Whenever one or more permanents or permanent cards are put into your graveyard from anywhere, Brethren Avenger gets +1/+1 until end of turn. => Whenever one or more permanents or permanent cards are put into your graveyard from anywhere, this creature gets +1/+1 until end of turn.
+
+Priest of Sins
+rules_text: Whenever you gain life, put a +1/+1 counter on Priest of Sins.
+Remove a counter from Priest of Sins: Target creature gains menace until end of turn. => Whenever you gain life, put a +1/+1 counter on this creature.
+Remove a counter from this creature: Target creature gains menace until end of turn.
+
+Merciless Executioner
+rules_text: When Merciless Executioner enters the battlefield, each player sacrifices a creature. => When this creature enters, each player sacrifices a creature.
+
+Frontline Grunt
+rules_text: Haste
+{3}{B}: Frontline Grunt gains menace until end of turn. => Haste
+{3}{B}: This creature gains menace until end of turn.
+
+Grunt Major
+rules_text: When Grunt Major enters the battlefield or dies, each opponent loses 1 life for each Orc you control. => When this creature enters or dies, each opponent loses 1 life for each Orc you control.
+
+Oblation's Answer
+
+Drain Essence
+rules_text: Target player loses 2 life and you gain 2 life.
+Desperation 1B => Target player loses 2 life and you gain 2 life.
+Disturb {2}{B} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Tomb of Foul Rebirth
+rules_text: [i](Gain the next level as a sorcery by putting a brick counter on this to add its ability for as long as it has the counter.)[/i]
+When Tomb of Foul Rebirth enters the battlefield, target player mills three cards.
+{1}{B}: Level 1
+When Tomb of Foul Rebirth advances to level 1, return target creature card from your graveyard to your hand.
+{2}{B}: Level 2
+{1}{B}, {T}: Each opponent mills a card and loses 1 life. You gain 1 life. => [i](Gain the next level as a sorcery by putting a brick counter on this to add its ability for as long as it has the counter.)[/i]
+When this artifact enters, target player mills three cards.
+{1}{B}: Level 1
+When this artifact advances to level 1, return target creature card from your graveyard to your hand.
+{2}{B}: Level 2
+{1}{B}, {T}: Each opponent mills a card and loses 1 life. You gain 1 life.
+special_text: [i](Gain the next level as a sorcery by putting a brick counter on this to add its ability for as long as it has the counter.)[/i]
+When Tomb of Foul Rebirth enters the battlefield, target player mills three cards.
+{1}{B}: Level 1
+When Tomb of Foul Rebirth advances to level 1, return target creature card from your graveyard to your hand.
+{2}{B}: Level 2
+{1}{B}, {T}: Each opponent mills a card and loses 1 life. You gain 1 life. => [i](Gain the next level as a sorcery by putting a brick counter on this to add its ability for as long as it has the counter.)[/i]
+When this artifact enters, target player mills three cards.
+{1}{B}: Level 1
+When this artifact advances to level 1, return target creature card from your graveyard to your hand.
+{2}{B}: Level 2
+{1}{B}, {T}: Each opponent mills a card and loses 1 life. You gain 1 life.
+
+Call of the Void
+rules_text: Enchant creature
+Enchanted creature has lifelink as long as it's a Spirit. Otherwise, it gets -3/-3.
+When Call of the Void leaves the battlefield, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Enchant creature
+Enchanted creature has lifelink as long as it's a Spirit. Otherwise, it gets -3/-3.
+When this enchantment leaves the battlefield, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Desirable Host
+rules_text: Whenever a creature you control merges, put a +1/+1 counter on Desirable Host. => Whenever a creature you control merges, put a +1/+1 counter on this creature.
+
+Possessed Root
+rules_text: When Possessed Root dies, you may put its counters and your choice of an additional vigilance, reach, or trample counter on target creature you control. => When this creature dies, you may put its counters and your choice of an additional vigilance, reach, or trample counter on target creature you control.
+
+Ravenous Ooze
+type: Creature — Ooze Spirit => Enchantment Creature — Ooze Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or enters the battlefield, you may sacrifice another creature. If you do, draw a card. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, you may sacrifice a creature. If you do, draw a card.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or enters the battlefield, you may sacrifice another creature. If you do, draw a card. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, you may sacrifice a creature. If you do, draw a card.
+
+Sekipra Elf
+rules_text: Sekipra Elf enters the battlefield with two +1/+1 counters on it.
+{T}, Remove a counter from Sekipra Elf: Add one mana of any color. => This creature enters with two +1/+1 counters on it.
+{T}, Remove a counter from Sekipra Elf: Add one mana of any color.
+
+Berkus Centaur
+rules_text: Berkus Centaur gets +1/+0 and has trample as long as you control three or more creatures. => This creature gets +1/+0 and has trample as long as you control three or more creatures.
+
+Enhancement Sludge
+type: Creature — Ooze Spirit => Enchantment Creature — Ooze Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Trample
+This creature can't be blocked by more than one creature. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Trample
+This creature can't be blocked by more than one creature.
+Enchanted creature has trample and can't be blocked by more than one creature.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Trample
+This creature can't be blocked by more than one creature. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Trample
+This creature can't be blocked by more than one creature.
+Enchanted creature has trample and can't be blocked by more than one creature.
+
+Village Plunderers
+rules_text: When Village Plunderers enters the battlefield, create a 2/2 red Centaur creature token with trample. => When this creature enters, create a 2/2 red Centaur creature token with trample.
+
+Berkus Skirmisher
+rules_text: When Berkus Skirmisher enters the battlefield, put a reach counter on a creature you control.
+Remove a counter from Berkus Skirmisher: Another target creature gets +1/+1 until end of turn. Activate only as a sorcery. => When this creature enters, put a reach counter on a creature you control.
+Remove a counter from this creature: Another target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+
+Fertilizing Mud
+type: Creature — Ooze Spirit => Enchantment Creature — Ooze Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges, search your library for a basic land card and put it onto the battlefield tapped, then shuffle. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature becomes the target of an Aura spell you control, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges, search your library for a basic land card and put it onto the battlefield tapped, then shuffle. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature becomes the target of an Aura spell you control, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.
+
+Berkus Warleader
+rules_text: Trample
+When Berkus Warleader enters the battlefield, create a red 2/2 Centaur creature token with trample. => Trample
+When this creature enters, create a red 2/2 Centaur creature token with trample.
+
+Haven Guardian
+rules_text: When Haven Guardian enters the battlefield, distribute a vigilance counter, a reach counter and a trample counter among any number of creatures you control. => When this creature enters, distribute a vigilance counter, a reach counter and a trample counter among any number of creatures you control.
+
+Protective Instinct
+
+Grasp of Nature
+rules_text: Destroy up to one target artifact or enchantment. Put a reach counter on up to one target creature.
+Desperation 3GG => Destroy up to one target artifact or enchantment. Put a reach counter on up to one target creature.
+Disturb {3}{G}{G} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Nature's Paradise
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Nature's Paradise enters the battlefield, put a +1/+1 counter on a creature you control or create a 0/1 green Plant creature token.
+{G}: Level 1
+When Nature's Paradise advances to level 2, put your choice of a +1/+1, vigilance, reach or trample counter on target creature you control.
+{1}{G}: Level 2
+{T}: Add one mana of any color. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, put a +1/+1 counter on a creature you control or create a 0/1 green Plant creature token.
+{G}: Level 1
+When this artifact advances to level 2, put your choice of a +1/+1, vigilance, reach or trample counter on target creature you control.
+{1}{G}: Level 2
+{T}: Add one mana of any color.
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Nature's Paradise enters the battlefield, put a +1/+1 counter on a creature you control or create a 0/1 green Plant creature token.
+{G}: Level 1
+When Nature's Paradise advances to level 2, put your choice of a +1/+1, vigilance, reach or trample counter on target creature you control.
+{1}{G}: Level 2
+{T}: Add one mana of any color. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, put a +1/+1 counter on a creature you control or create a 0/1 green Plant creature token.
+{G}: Level 1
+When this artifact advances to level 2, put your choice of a +1/+1, vigilance, reach or trample counter on target creature you control.
+{1}{G}: Level 2
+{T}: Add one mana of any color.
+
+Guardians of the Haven
+
+Derelict Scraps
+rules_text: {1}, {T}, Sacrifice Derelict Scraps: Return another target artifact card from your graveyard to your hand. => {1}, {T}, Sacrifice this creature: Return another target artifact card from your graveyard to your hand.
+
+Reverent Memorial
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+{1}, {T}: Add one mana of any color.
+{2}: Level 1
+{T}: Add one mana of any color.
+{4}: Level 2
+When Reverent Memorial advances to level 2, draw a card.
+ _________________
+
+[i]Statues erected for deities long forgotten.[/i] => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+{1}, {T}: Add one mana of any color.
+{2}: Level 1
+{T}: Add one mana of any color.
+{4}: Level 2
+When this artifact advances to level 2, draw a card.
+ _________________
+
+[i]Statues erected for deities long forgotten.[/i]
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+{1}, {T}: Add one mana of any color.
+{2}: Level 1
+{T}: Add one mana of any color.
+{4}: Level 2
+When Reverent Memorial advances to level 2, draw a card.
+ _________________
+
+[i]Statues erected for deities long forgotten.[/i] => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+{1}, {T}: Add one mana of any color.
+{2}: Level 1
+{T}: Add one mana of any color.
+{4}: Level 2
+When this artifact advances to level 2, draw a card.
+ _________________
+
+[i]Statues erected for deities long forgotten.[/i]
+
+Baroborn Outpost
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Baroborn Outpost enters the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{2}: Level 1
+When Baroborn Outpost advances to level 1, you may play an additional land this turn.
+{1}: Level 2
+When Baroborn Outpost advances to level 2, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{2}: Level 1
+When this artifact advances to level 1, you may play an additional land this turn.
+{1}: Level 2
+When this artifact advances to level 2, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Baroborn Outpost enters the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{2}: Level 1
+When Baroborn Outpost advances to level 1, you may play an additional land this turn.
+{1}: Level 2
+When Baroborn Outpost advances to level 2, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{2}: Level 1
+When this artifact advances to level 1, you may play an additional land this turn.
+{1}: Level 2
+When this artifact advances to level 2, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Holy Fountain
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+{T}: You gain 1 life.
+{2}: Level 1
+Whenever you tap Holy Fountain, surveil 1. [i](Look at the top card of your library. You may put that card into your graveyard.)[/i]
+{4}: Level 2
+You may look at an additional card each time you surveil.
+ ____________________
+
+[i]Once completed, the city soldiers would use it to rest in trying times.[/i] => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+{T}: You gain 1 life.
+{2}: Level 1
+Whenever you tap this artifact, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{4}: Level 2
+You may look at an additional card each time you surveil.
+ ____________________
+
+[i]Once completed, the city soldiers would use it to rest in trying times.[/i]
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+{T}: You gain 1 life.
+{2}: Level 1
+Whenever you tap Holy Fountain, surveil 1. [i](Look at the top card of your library. You may put that card into your graveyard.)[/i]
+{4}: Level 2
+You may look at an additional card each time you surveil.
+ ____________________
+
+[i]Once completed, the city soldiers would use it to rest in trying times.[/i] => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+{T}: You gain 1 life.
+{2}: Level 1
+Whenever you tap this artifact, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{4}: Level 2
+You may look at an additional card each time you surveil.
+ ____________________
+
+[i]Once completed, the city soldiers would use it to rest in trying times.[/i]
+
+Cleared Memory
+type: Artifact Creature — Spirit Construct => Enchantment Creature — Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flying => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flying
+Enchanted creature has flying.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flying => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flying
+Enchanted creature has flying.
+
+Derelict Titan
+rules_text: When Derelict Titan enters the battlefield, draw a card. => When this creature enters, draw a card.
+
+Excavation Site
+type: Artifact Land — Building => Land — Building
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+{T}: Add {C}.
+ 1
+​
+{1}: Level 1
+When Excavation Site advances to level 1, sacrifice it. Search your library for a basic land card and put it into play tapped, then shuffle. => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+{T}: Add {C}.
+ 1
+​
+{1}: Level 1
+When this land advances to level 1, sacrifice it. Search your library for a basic land card and put it onto the battlefield tapped, then shuffle.
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+{T}: Add {C}.
+ 1
+​
+{1}: Level 1
+When Excavation Site advances to level 1, sacrifice it. Search your library for a basic land card and put it into play tapped, then shuffle. => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+{T}: Add {C}.
+ 1
+​
+{1}: Level 1
+When this land advances to level 1, sacrifice it. Search your library for a basic land card and put it onto the battlefield tapped, then shuffle.
+
+Prison Sentry
+type: Artifact Creature — Spirit Construct => Enchantment Creature — Spirit Construct
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or enters the battlefield, exile target creature an opponent controls until this creature leaves the battlefield. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura you control, exile target creature an opponent controls until this creature leaves the battlefield.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or enters the battlefield, exile target creature an opponent controls until this creature leaves the battlefield. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura you control, exile target creature an opponent controls until this creature leaves the battlefield.
+
+Captured Angel
+rules_text: Flying
+Captured Angel enters the battlefield tapped and doesn't untap during your untap step.
+At the beginning of each upkeep, if a permanent or permanent card was put into your graveyard from anywhere last turn, untap Captured Angel. => Flying
+This creature enters tapped and doesn't untap during your untap step.
+At the beginning of each upkeep, if a permanent or permanent card was put into your graveyard from anywhere last turn, untap this creature.
+
+City Reverend
+rules_text: When City Reverend enters the battlefield, you may return to your hand a permanent card from your graveyard with mana value less than or equal to the number of permanents and/or permanent cards that were put into your graveyard from anywhere this turn. => When this creature enters, you may return to your hand a permanent card from your graveyard with mana value less than or equal to the number of permanents and/or permanent cards that were put into your graveyard from anywhere this turn.
+
+Fighter's Legacy
+type: Creature — Spirit Soldier => Enchantment Creature — Spirit Soldier
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+First strike
+When this creature dies, put a first strike counter on up to one target creature you control. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+First strike
+When this creature or enchanted creature dies, put a first strike counter on up to one target creature you control.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+First strike
+When this creature dies, put a first strike counter on up to one target creature you control. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+First strike
+When this creature or enchanted creature dies, put a first strike counter on up to one target creature you control.
+
+Prison Cell
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Prison Cell enters the battlefield, exile target creature an opponent controls with mana value 3 or less until Prison Cell leaves the battlefield.
+{W}: Level 1
+When Prison Cell advances to level 1, gain 3 life.
+{1}{W}: Level 2
+{T}: White creatures you control get +1/+1 until end of turn. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, exile target creature an opponent controls with mana value 3 or less until this artifact leaves the battlefield.
+{W}: Level 1
+When this artifact advances to level 1, gain 3 life.
+{1}{W}: Level 2
+{T}: White creatures you control get +1/+1 until end of turn.
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Prison Cell enters the battlefield, exile target creature an opponent controls with mana value 3 or less until Prison Cell leaves the battlefield.
+{W}: Level 1
+When Prison Cell advances to level 1, gain 3 life.
+{1}{W}: Level 2
+{T}: White creatures you control get +1/+1 until end of turn. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, exile target creature an opponent controls with mana value 3 or less until this artifact leaves the battlefield.
+{W}: Level 1
+When this artifact advances to level 1, gain 3 life.
+{1}{W}: Level 2
+{T}: White creatures you control get +1/+1 until end of turn.
+
+Order of the Whitecloak
+rules_text: Flash
+When Order of the Whitecloak dies, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” => Flash
+When this creature dies, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+
+Malcorn, the Longing
+rules_text: Vigilance
+When Malcorn, the Longing enters the battlefield, you may return up to two creatures with total mana value 2 or less from your graveyard to the battlefield. => Vigilance
+When Malcorn enters, you may return up to two creatures with total mana value 2 or less from your graveyard to the battlefield.
+
+Form Master
+rules_text: Whenever a creature you control merges, you may draw a card. If you do, discard a card. => Whenever you cast an Aura spell, you may draw a card. If you do, discard a card.
+
+Project Overseer
+rules_text: Artifact spells you cast cost {1} less to cast.
+{2}, {T}: Move a counter from target permanent you control onto another target permanent. Activate only as a sorcery. => Artifact and Aura spells you cast cost {1} less to cast.
+{2}, {T}: Move a counter from target permanent you control onto another target permanent. Activate only as a sorcery.
+
+Encroaching Sorcerer
+rules_text: Flash
+Flying 
+You may cast creature spells as though they had flash. => Flash
+Flying 
+You may cast creature and Aura spells as though they had flash.
+
+Memory Wipe
+rules_text: Flash
+Enchant creature
+When Memory Wipe enters the battlefield, draw a card.
+Enchanted creature loses all abilities. => Flash
+Enchant creature
+When this enchantment enters, draw a card.
+Enchanted creature loses all abilities.
+
+Conserver of History
+rules_text: Flying
+Conserver of History gets +1/+0 for each artifact you control. => Flying
+This creature gets +1/+0 for each artifact and Aura you control.
+
+Rift Stabilizer
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Secret Project enters the battlefield, tap target creature an opponent controls. It doesn't untap during its controller's next untap step.
+{1}{U}: Level 2
+{T}: Target creature you control gains skulk until end of turn. [i](That creature can't be blocked by creatures with greater power.)[/i]
+{1}{U}: Level 3
+Whenever one or more creatures you control deal combat damage to an opponent. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, tap target creature an opponent controls. It doesn't untap during its controller's next untap step.
+{1}{U}: Level 2
+{T}: Target creature you control gains skulk until end of turn. [i](That creature can't be blocked by creatures with greater power.)[/i]
+{1}{U}: Level 3
+Whenever one or more creatures you control deal combat damage to an opponent.
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Secret Project enters the battlefield, tap target creature an opponent controls. It doesn't untap during its controller's next untap step.
+{1}{U}: Level 2
+{T}: Target creature you control gains skulk until end of turn. [i](That creature can't be blocked by creatures with greater power.)[/i]
+{1}{U}: Level 3
+Whenever one or more creatures you control deal combat damage to an opponent. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, tap target creature an opponent controls. It doesn't untap during its controller's next untap step.
+{1}{U}: Level 2
+{T}: Target creature you control gains skulk until end of turn. [i](That creature can't be blocked by creatures with greater power.)[/i]
+{1}{U}: Level 3
+Whenever one or more creatures you control deal combat damage to an opponent.
+
+Baroborn Strategist
+rules_text: Vigilance
+Whenever an artifact enters the battlefield under your control, put a +1/+1 counter on Baroborn Strategist.
+{T}: You may put an artifact card from your hand onto the battlefield tapped with mana value less than or equal Baroborn Strategist's power. => Vigilance
+Whenever an artifact enters under your control, put a +1/+1 counter on this creature.
+{T}: You may put an artifact card from your hand onto the battlefield tapped with mana value less than or equal this creature's power.
+
+Sabotage Expert
+rules_text: When Sabotage Expert enters the battlefield, move all counters from target permanent to Sabotage Expert. => When this creature enters, move all counters from target permanent to this creature.
+
+Memory Siphoner
+type: Creature — Spirit => Enchantment Creature — Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever Memory Siphoner or another creature you control dies, each opponent loses X life, where X is this creature's power. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever a creature you control dies, each opponent loses X life, where X is this creature's power. If this is an Aura, each opponent loses X life, where X is enchanted creatures power instead.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever Memory Siphoner or another creature you control dies, each opponent loses X life, where X is this creature's power. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever a creature you control dies, each opponent loses X life, where X is this creature's power. If this is an Aura, each opponent loses X life, where X is enchanted creatures power instead.
+
+Rastiff Warmonger
+rules_text: When Rastiff Warmonger dies, choose up to two —
+• Each player discards a card.
+• Each player mills four cards.
+• Each player sacrifices a creature. => When this creature dies, choose up to two —
+• Each player discards a card.
+• Each player mills four cards.
+• Each player sacrifices a creature.
+
+Soul Devourer
+type: Creature — Spirit => Enchantment Creature — Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or enters the battlefield, each opponent sacrifices a creature. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, each opponent sacrifices a creature.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or enters the battlefield, each opponent sacrifices a creature. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, each opponent sacrifices a creature.
+
+Wall of Remembrance
+rules_text: Defender
+Wall of Remembrance gets +0/+X, where X is the greatest number of permanent cards in a single graveyard.
+When Wall of Remembrance dies, draw a card. => Defender
+This creature gets +0/+X, where X is the greatest number of permanent cards in a single graveyard.
+When this creature dies, draw a card.
+
+Greed of Sekipra
+rules_text: Whenever a creature you control leaves the battlefield, if it had counters on it, put those counters on Greed of Sekipra.
+{1}, Sacrifice a creature: Greed of Sekipra gets +1/+1 until end of turn. => Whenever a creature you control leaves the battlefield, if it had counters on it, put those counters on this creature.
+{1}, Sacrifice a creature: This creature gets +1/+1 until end of turn.
+
+Kondira's Companion
+rules_text: Kondira's Companion enters the battlefield with three +1/+1 counters on it.
+Remove a +1/+1 counter from Kondira's Companion: Untap it. Put your choice of a vigilance, reach, or trample counter on another target creature you control. => This creature enters with three +1/+1 counters on it.
+Remove a +1/+1 counter from this creature: Untap it. Put your choice of a vigilance, reach, or trample counter on another target creature you control.
+
+Parasitic Growth
+type: Creature — Ooze Spirit => Enchantment Creature — Ooze Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or enters the battlefield, it gets +2/+2 until end of turn. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, it gets +2/+2 until end of turn.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or enters the battlefield, it gets +2/+2 until end of turn. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, it gets +2/+2 until end of turn.
+
+Invasive Ooze
+type: Creature — Ooze Spirit => Enchantment Creature — Ooze Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Reach
+Whenever a creature you control merges, reveal the top card of your library. If it's a permanent card, you may put it onto the battlefield. If you don't put the card onto the battlefield, you may draw a card. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Reach
+Whenever you cast an enchantment spell, reveal the top card of your library. If it's a permanent card, you may put it onto the battlefield. If you don't put the card onto the battlefield, you may draw a card.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Reach
+Whenever a creature you control merges, reveal the top card of your library. If it's a permanent card, you may put it onto the battlefield. If you don't put the card onto the battlefield, you may draw a card. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Reach
+Whenever you cast an enchantment spell, reveal the top card of your library. If it's a permanent card, you may put it onto the battlefield. If you don't put the card onto the battlefield, you may draw a card.
+
+Perilous Journey
+rules_text: When Perilous Journey enters the battlefield, put a +1/+1 counter on target creature or land you control.
+Whenever you deal combat damage to a player, you may sacrifice Perilous Journey. If you do, draw a card and create a tapped Treasure token. => When this enchantment enters, put a +1/+1 counter on target creature or land you control.
+Whenever you deal combat damage to a player, you may sacrifice this enchantment. If you do, draw a card and create a tapped Treasure token.
+
+Retribution Preserver
+rules_text: When Retribution Preserver enters the battlefield, put a +1/+1 counter on it for each creature that died this turn. => When this creature enters, put a +1/+1 counter on it for each creature that died this turn.
+
+Territorial Guriff
+rules_text: Whenever this creature merges or enters the battlefield, it fights up to one target creature you don't control. => Whenever this creature enters or becomes the target of an Aura spell you control, it fights up to one target creature you don't control.
+
+Adaptive Goo
+rules_text: When Adaptive Goo enters the battlefield, put a flying counter on Adaptive Goo if you control a creature with with flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, reach, trample, and vigilance. => When this creature enters, put a flying counter on Adaptive Goo if you control a creature with with flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, reach, trample, and vigilance.
+
+Berkus Outcast
+rules_text: Trample
+Whenever you attack with three or more creatures, put a +1/+1 counter on Berkus Outcast. => Trample
+Whenever you attack with three or more creatures, put a +1/+1 counter on this creature.
+
+Manifested Rage
+type: Creature — Spirit Incarnation => Enchantment Creature — Spirit Incarnation
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever a creature you control merges for the first time each turn or you cast a noncreature spell, untap this creature.
+{T}: Manifested Rage deals 1 damage to target player. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature becomes the target of an Aura or noncreature spell, untap this creature. If this is an Aura, untap enchanted creature instead.
+Enchanted creature has “{T}: This creature deals 1 damage to target player.” If this creature isn't an Aura, it has that ability instead.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever a creature you control merges for the first time each turn or you cast a noncreature spell, untap this creature.
+{T}: Manifested Rage deals 1 damage to target player. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature becomes the target of an Aura or noncreature spell, untap this creature. If this is an Aura, untap enchanted creature instead.
+Enchanted creature has “{T}: This creature deals 1 damage to target player.” If this creature isn't an Aura, it has that ability instead.
+
+Smolder
+rules_text: At the beginning of your end step, put two smoke counters on target creature. Then Smolder deals damage to each creature equal to the number of smoke counters on them.
+When there are no creatures on the battlefield, sacrifice Smolder. => At the beginning of your end step, put two smoke counters on target creature. Then this enchantment deals damage to each creature equal to the number of smoke counters on them.
+When there are no creatures on the battlefield, sacrifice this enchantment.
+
+Passionate Architect
+rules_text: When Passionate Architect enters the battlefield, put a brick counter on another target permanent you control. => When this creature enters, put a brick counter on another target permanent you control.
+
+Forged for War
+type: Artifact Creature — Spirit Construct => Enchantment Creature — Spirit Construct
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Double strike => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Double strike
+Enchanted creature has double strike.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Double strike => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Double strike
+Enchanted creature has double strike.
+
+Mark of the Flame
+rules_text: {R}, Sacrifice Mark of the Flame: Mark of the Flame deals 3 damage to any target. => {R}, Sacrifice Mark of the Flame: This enchantment deals 3 damage to any target.
+
+Unending Blaze
+
+Cloaked Trooper
+type: Artifact Creature — Spirit Construct => Enchantment Creature — Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Trample, haste
+At the beginning of your end step, if Cloaked Trooper didn't merge this turn, sacrifice it. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Trample, haste
+Enchanted creature has trample and haste and it becomes a 6/2 red Spirit creature.
+At the beginning of your end step, if this isn't an Aura or attached by an Aura, sacrifice it.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Trample, haste
+At the beginning of your end step, if Cloaked Trooper didn't merge this turn, sacrifice it. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Trample, haste
+Enchanted creature has trample and haste and it becomes a 6/2 red Spirit creature.
+At the beginning of your end step, if this isn't an Aura or attached by an Aura, sacrifice it.
+
+Rastiff Linebreaker
+rules_text: Whenever Rastiff Linebreaker attacks, you may have it deal damage to target creature equal to the number of attacking Orcs you control. => Whenever this creature attacks, you may have it deal damage to target creature equal to the number of attacking Orcs you control.
+
+Berkus Chief
+rules_text: Haste
+At the beginning of combat on your turn, if you control three or more creatures, Berkus Chief gets +2/+2 and gains trample until end of turn. => Haste
+At the beginning of combat on your turn, if you control three or more creatures, this creature gets +2/+2 and gains trample until end of turn.
+
+Forest Defender
+rules_text: Whenever you put a counter on Forest Defender, you may put a counter of the same kind on each other creature you control. Do this only once each turn. => Whenever you put a counter on this creature, you may put a counter of the same kind on each other creature you control. Do this only once each turn.
+
+Shadows of Sekipra
+
+Ironcast Master
+rules_text: Whenever another creature enters the battlefield under your control or you merge a creature, Ironcast Master deals 1 damage to each opponent and you gain 1 life. => Whenever another creature enters, under your control or you cast an Aura spell, this creature deals 1 damage to each opponent and you gain 1 life.
+
+Forest Solvent
+type: Creature — Ooze Spirit => Enchantment Creature — Ooze Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever a creature you control merges, you may draw a card. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, you may draw a card.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever a creature you control merges, you may draw a card. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, you may draw a card.
+
+Snatcher's Servant
+type: Creature — Spirit Shapeshifter => Enchantment Creature — Spirit Shapeshifter
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or enters the battlefield, choose a creature type. This creature gains the chosen type. Other creatures you control of the chosen type get +1/+1 until end of turn. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, choose a creature type. This creature gains the chosen type. Other creatures you control of the chosen type get +1/+1 until end of turn.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or enters the battlefield, choose a creature type. This creature gains the chosen type. Other creatures you control of the chosen type get +1/+1 until end of turn. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, choose a creature type. This creature gains the chosen type. Other creatures you control of the chosen type get +1/+1 until end of turn.
+
+Willing Wisp
+rules_text: Flying
+Whenever Willing Wisp deals combat damage to a player, you may exile it. If you do, exile target creature.
+When Willing Wisp leaves the battlefield, you may have each player draw a card. => Flying
+Whenever this creature deals combat damage to a player, you may exile it. If you do, exile target creature.
+When this creature leaves the battlefield, you may have each player draw a card.
+
+Scion of Silence
+rules_text: As Scion of Silence enters the battlefield, choose a nonland card name.
+Other permanents with the chosen name lose all abilities. => As this creature enters the battlefield, choose a nonland card name.
+Other permanents with the chosen name lose all abilities.
+
+Mother's Memory
+rules_text: Whenever Mother's Memory dies, you gain 1 life and surveil 1.
+{T}, Sacrifice a creature: Target creature and creatures you control that share a type with the sacrificed creature gain protection from the color of your choice until end of turn. => Whenever this creature dies, you gain 1 life and surveil 1.
+{T}, Sacrifice a creature: Target creature and creatures you control that share a type with the sacrificed creature gain protection from the color of your choice until end of turn.
+
+Criea, Blessed by Echoes
+rules_text: Flash
+When Criea, Blessed by Echoes enters the battlefield, return a nonlegendary, nonland permanent card of an opponent's choice from your graveyard to the battlefield. => Flash
+When Criea enters, return a nonlegendary, nonland permanent card of an opponent's choice from your graveyard to the battlefield.
+
+Baromar, Personified
+type: Legendary Creature — Spirit => Legendary Enchantment Creature — Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or dies, you may exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever Baromar dies or becomes the target of an Aura spell you control, you may exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or dies, you may exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever Baromar dies or becomes the target of an Aura spell you control, you may exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+
+Monk of Passage
+type: Creature — Human Monk => Enchantment Creature — Human Monk
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Whenever this creature merges or enters the battlefield for the first time each turn, you may counter target spell. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Whenever this creature enters or becomes the target of an Aura spell you control for the first time each turn, you may counter target spell.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Whenever this creature merges or enters the battlefield for the first time each turn, you may counter target spell. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Whenever this creature enters or becomes the target of an Aura spell you control for the first time each turn, you may counter target spell.
+
+Faceless Follower
+type: Creature — Spirit Shapeshifter => Enchantment Creature — Spirit Shapeshifter
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Ward {2}
+Whenever this creature deals combat damage to an opponent, draw a card. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Ward {2}
+Whenever this creature or enchanted creature deals combat damage to an opponent, draw a card.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Ward {2}
+Whenever this creature deals combat damage to an opponent, draw a card. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Ward {2}
+Whenever this creature or enchanted creature deals combat damage to an opponent, draw a card.
+
+Zula, the Great Architect
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Once each turn, whenever you cast an artifact spell, you may cast a noncreature spell with mana value less than or equal to Zula, the Great Architect's power without paying its mana cost. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Once each turn, whenever you cast an artifact spell, you may cast a noncreature spell with mana value less than or equal to Zula's power without paying its mana cost.
+
+Split Reality
+rules_text: All creatures get -X/-X until end of turn.
+At the beginning of the next end step, return to the battlefield under your control a creature card with mana value X or less from a graveyard that was put there from the battlefield this turn. => All creatures get -X/-X until end of turn.
+At the beginning of the next end step, return a creature card with mana value X or less from a graveyard that was put there from the battlefield this turn to the battlefield under your control.
+
+Maundering Hate
+type: Creature — Spirit => Enchantment Creature — Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Menace
+Whenever this creature merges for the first time each turn, destroy target creature an opponent controls. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Menace
+Enchanted creature has menace.
+Whenever this creature becomes the target of an Aura spell you control for the first time each turn, destroy target creature an opponent controls.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Menace
+Whenever this creature merges for the first time each turn, destroy target creature an opponent controls. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Menace
+Enchanted creature has menace.
+Whenever this creature becomes the target of an Aura spell you control for the first time each turn, destroy target creature an opponent controls.
+
+Cursed Bloodshedder
+rules_text: Deathtouch
+Whenever another creature dies during combat, you may put a +1/+1 counter on Cursed Bloodshedder and up to one other target Orc you control. => Deathtouch
+Whenever another creature dies during combat, you may put a +1/+1 counter on this creature and up to one other target Orc you control.
+
+Embodied Death
+type: Creature — Spirit => Enchantment Creature — Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges, you may search your library for a card, shuffle, then put that card on top of your library. If you do and you control no other creatures, you draw a card and you lose 2 life. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature becomes the target of an Aura spell you control, you may search your library for a card, shuffle, then put that card on top of your library. If you do and you control no other creatures, you draw a card and you lose 2 life.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges, you may search your library for a card, shuffle, then put that card on top of your library. If you do and you control no other creatures, you draw a card and you lose 2 life. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature becomes the target of an Aura spell you control, you may search your library for a card, shuffle, then put that card on top of your library. If you do and you control no other creatures, you draw a card and you lose 2 life.
+
+From Ashes
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When From Ashes enters the battlefield, you may search your library an artifact card, put it into your graveyard, then shuffle.
+{2}{R}: Level 1
+When From Ashes advances to level 1, you may sacrifice an artifact. If you do, return another artifact card with mana value 3 or less from your graveyard to the battlefield.
+{2}{R}{R}: Level 2
+{R}, {T}, Sacrifice an artifact: Return another target artifact card with mana value 3 or less from your graveyard to the battlefield. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, you may search your library an artifact card, put it into your graveyard, then shuffle.
+{2}{R}: Level 1
+When this artifact advances to level 1, you may sacrifice an artifact. If you do, return another artifact card with mana value 3 or less from your graveyard to the battlefield.
+{2}{R}{R}: Level 2
+{R}, {T}, Sacrifice an artifact: Return another target artifact card with mana value 3 or less from your graveyard to the battlefield.
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When From Ashes enters the battlefield, you may search your library an artifact card, put it into your graveyard, then shuffle.
+{2}{R}: Level 1
+When From Ashes advances to level 1, you may sacrifice an artifact. If you do, return another artifact card with mana value 3 or less from your graveyard to the battlefield.
+{2}{R}{R}: Level 2
+{R}, {T}, Sacrifice an artifact: Return another target artifact card with mana value 3 or less from your graveyard to the battlefield. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, you may search your library an artifact card, put it into your graveyard, then shuffle.
+{2}{R}: Level 1
+When this artifact advances to level 1, you may sacrifice an artifact. If you do, return another artifact card with mana value 3 or less from your graveyard to the battlefield.
+{2}{R}{R}: Level 2
+{R}, {T}, Sacrifice an artifact: Return another target artifact card with mana value 3 or less from your graveyard to the battlefield.
+
+Honored Flamecutter
+type: Creature — Centaur Spirit Warrior => Enchantment Creature — Centaur Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or enters the battlefield, creatures you control get +1/+0 and gain trample until end of turn. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, creatures you control get +1/+0 and gain trample until end of turn.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or enters the battlefield, creatures you control get +1/+0 and gain trample until end of turn. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, creatures you control get +1/+0 and gain trample until end of turn.
+
+Mau, the Second Coming
+rules_text: When Mau, the Second Coming enters the battlefield, it deals damage to each opponent equal to the number of Orcs you control.
+Whenever you cast a spell, if it's the second creature spell you've cast this turn, you may return Mau to its owner's hand. => When Mau enters, it deals damage to each opponent equal to the number of Orcs you control.
+Whenever you cast a spell, if it's the second creature spell you've cast this turn, you may return Mau to its owner's hand.
+
+Channeler of Tradition
+type: Creature — Orc Shaman => Enchantment Creature — Orc Shaman
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges for the first time each turn, gain control of target creature an opponent controls until the end of turn. Untap that creature. It gains haste until end of turn. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control for the first time each turn, gain control of target creature an opponent controls until the end of turn. Untap that creature. It gains haste until end of turn.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges for the first time each turn, gain control of target creature an opponent controls until the end of turn. Untap that creature. It gains haste until end of turn. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control for the first time each turn, gain control of target creature an opponent controls until the end of turn. Untap that creature. It gains haste until end of turn.
+
+Flame Doubling
+
+Rastiff Guide
+type: Creature — Orc Spirit => Enchantment Creature — Orc Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges, add {R}{R}.
+Whenever this creature dies, it deals damage equal to its power to any target. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, add {R}{R}.
+Whenever this creature or enchanted creature dies, that creature deals damage equal to its power to any target.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges, add {R}{R}.
+Whenever this creature dies, it deals damage equal to its power to any target. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, add {R}{R}.
+Whenever this creature or enchanted creature dies, that creature deals damage equal to its power to any target.
+
+Kondira, Sekipra's Protector
+rules_text: Kondira, Sekipra's Protector enters the battlefield with X +1/+1 counters.
+{T}: Target noncreature permanent gains hexproof until end of turn. If that permanent has no +1/+1 counters on it, you may put a +1/+1 counter on it. => Kondira enters with X +1/+1 counters.
+{T}: Target noncreature permanent gains hexproof until end of turn. If that permanent has no +1/+1 counters on it, you may put a +1/+1 counter on it.
+
+Consumer of History
+type: Creature — Ooze Spirit => Enchantment Creature — Ooze Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Deathtouch
+Whenever this creature merges or enters the battlefield, you may destroy target artifact or enchantment. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Deathtouch
+Enchanted creature has deathtouch
+Whenever this creature enters or becomes the target of an Aura spell you control, you may destroy target artifact or enchantment.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Deathtouch
+Whenever this creature merges or enters the battlefield, you may destroy target artifact or enchantment. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Deathtouch
+Enchanted creature has deathtouch
+Whenever this creature enters or becomes the target of an Aura spell you control, you may destroy target artifact or enchantment.
+
+Cultivator Warden
+type: Creature — Plant Spirit => Enchantment Creature — Plant Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever a creature you control merges, you may reveal the top card of your library. If it's a land card, put it onto the battlefield tapped. Otherwise put that card into your hand. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever a creature you control becomes the target of an Aura spell you control, you may reveal the top card of your library. If it's a land card, put it onto the battlefield tapped. Otherwise put that card into your hand.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever a creature you control merges, you may reveal the top card of your library. If it's a land card, put it onto the battlefield tapped. Otherwise put that card into your hand. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever a creature you control becomes the target of an Aura spell you control, you may reveal the top card of your library. If it's a land card, put it onto the battlefield tapped. Otherwise put that card into your hand.
+
+Rampaging Courser
+rules_text: Haste
+Whenever Rampaging Courser attacks, target creature defending player controls blocks this combat if able. => Haste
+Whenever this creature attacks, target creature defending player controls blocks this combat if able.
+
+Speaker of the Woods
+type: Creature — Elf Spirit => Enchantment Creature — Elf Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+This creature gets +1/+1 for each other creature you control and each creature merged with it. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+This creature and enchanted creature get +1/+1 for each other creature you control and each Aura attached to it.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+This creature gets +1/+1 for each other creature you control and each creature merged with it. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+This creature and enchanted creature get +1/+1 for each other creature you control and each Aura attached to it.
+
+Redmane, the Sheep Slayer
+rules_text: Whenever Redmane, the Sheep Slayer attacks, if you have 10 or less life, Redmane's power and toughness becomes equal to your life total until end of turn. => Whenever Redmane attacks, if you have 10 or less life, Redmane's power and toughness becomes equal to your life total until end of turn.
+
+Evocation Shepherd
+type: Creature — Spirit => Enchantment Creature — Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flying
+Whenever a creature you control merges or dies, each player mills a card. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flying
+Whenever this creature enters or becomes the target of an Aura spell you control, each player mills a card.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flying
+Whenever a creature you control merges or dies, each player mills a card. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flying
+Whenever this creature enters or becomes the target of an Aura spell you control, each player mills a card.
+
+Spell Splitter
+rules_text: Flash
+When Spell Splitter enters the battlefield, copy target instant, sorcery, or artifact spell with mana value X or less. You may choose new targets for the copy. => Flash
+When this creature enters, copy target instant, sorcery, or artifact spell with mana value X or less. You may choose new targets for the copy.
+
+Rooted Guardian
+rules_text: Rooted Guardian gets +1/+1 if a creature in your graveyard has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.
+{T}, Sacrifice another creature you control: Mill cards equal to the sacrificed creature's power, then return a creature, enchantment, or land card from your graveyard to your hand. => This creature gets +1/+1 if a creature in your graveyard has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.
+{T}, Sacrifice another creature you control: Mill cards equal to the sacrificed creature's power, then return a creature, enchantment, or land card from your graveyard to your hand.
+
+Everwatcher
+rules_text: {1}{B}{G}, Exile Everwatcher from your graveyard: Return target card from your graveyard to your hand. Activate only as a sorcery. => {1}{B}{G}, Exile this creature from your graveyard: Return target card from your graveyard to your hand. Activate only as a sorcery.
+
+Natural Experiment
+type: Creature — Ooze Spirit => Enchantment Creature — Ooze Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Other spirits you control get +1/+1. If this creature is merged, other Spirits you control get +2/+2 instead. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Other spirits you control get +1/+1. If this creature is an Aura, other Spirits you control get +2/+1 instead.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Other spirits you control get +1/+1. If this creature is merged, other Spirits you control get +2/+2 instead. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Other spirits you control get +1/+1. If this creature is an Aura, other Spirits you control get +2/+1 instead.
+
+Claimed Settlement
+type: Artifact Land — Construction => Land — Building
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+{T}: Add {C}.
+{1}: Level 1
+When Claimed Settlement advances to level 1, choose either planeswalker or a creature type.
+
+{T}: Add one mana of any color. Spend this mana only to cast spells of the chosen type.
+{1}: Level 2
+Spells of the chosen type you cast that had mana produced by this land spent to cast them can't be countered. => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+{T}: Add {C}.
+{1}: Level 1
+When this land advances to level 1, choose either planeswalker or a creature type.
+
+{T}: Add one mana of any color. Spend this mana only to cast spells of the chosen type.
+{1}: Level 2
+Spells of the chosen type you cast that had mana produced by this land spent to cast them can't be countered.
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+{T}: Add {C}.
+{1}: Level 1
+When Claimed Settlement advances to level 1, choose either planeswalker or a creature type.
+
+{T}: Add one mana of any color. Spend this mana only to cast spells of the chosen type.
+{1}: Level 2
+Spells of the chosen type you cast that had mana produced by this land spent to cast them can't be countered. => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+{T}: Add {C}.
+{1}: Level 1
+When this land advances to level 1, choose either planeswalker or a creature type.
+
+{T}: Add one mana of any color. Spend this mana only to cast spells of the chosen type.
+{1}: Level 2
+Spells of the chosen type you cast that had mana produced by this land spent to cast them can't be countered.
+
+Berkus, Warrior's Home
+rules_text: Berkus, Warrior's Home enters the battlefield tapped.
+{T}: Add {R}.
+{1}{R}{R}, {T}: Put a trample counter on up to one target creature you control. Then creatures you control with a counter on them get +1/+0 until end of turn. => This land enters the battlefield tapped.
+{T}: Add {R}.
+{1}{R}{R}, {T}: Put a trample counter on up to one target creature you control. Then creatures you control with a counter on them get +1/+0 until end of turn.
+
+Sekipra, Haven of Peace
+rules_text: Sekipra, Haven of Peace enters the battlefield tapped.
+{T}: Add {G}.
+{3}{G}{G}: Until end of turn, Sekipra, Haven of Peace becomes a 0/0 green Elemental creature with “This creature gets +1/+1 for each land you control.” It's still a land. => This land enters the battlefield tapped.
+{T}: Add {G}.
+{3}{G}{G}: Until end of turn, Sekipra, Haven of Peace becomes a 0/0 green Elemental creature with “This creature gets +1/+1 for each land you control.” It's still a land.
+
+Snatcher's Lair
+rules_text: Snatcher's Lair enters the battlefield tapped.
+{T}: Add {U}.
+{X}: Snatcher's Lair become a copy of target creature you control with mana value X or less until end of turn. Activate only as a sorcery. => This land enters the battlefield tapped.
+{T}: Add {U}.
+{X}: Snatcher's Lair become a copy of target creature you control with mana value X or less until end of turn. Activate only as a sorcery.
+
+Juno, God of Renewal
+rules_text: Flying, vigilance
+When Juno, God of Renewal enters the battlefield, look at the top five cards of your library. You may reveal a creature card with mana value 3 or less from among them and put it onto the battlefield. Put the rest into your graveyard.
+Sacrifice a creature with mana value 3 or less: Juno gains indestructible until end of turn. => Flying, vigilance
+When Juno enters the battlefield, look at the top five cards of your library. You may reveal a creature card with mana value 3 or less from among them and put it onto the battlefield. Put the rest into your graveyard.
+Sacrifice a creature with mana value 3 or less: Juno gains indestructible until end of turn.
+
+Eternities Apart
+rules_text: When Eternities Apart enters the battlefield, search your library for a card and exile it with X rift counters on it, then shuffle.
+Remove a rift counter from a card you own in exile: Copy that card. Until end of turn, you may play the copy from exile. Activate only once each turn. => When Eternities Apart enters, search your library for a card and exile it with X rift counters on it, then shuffle.
+Remove a rift counter from a card you own in exile: Copy that card. Until end of turn, you may play the copy from exile. Activate only once each turn.
+
+Sudden Reminiscence
+type: Creature — Spirit => Enchantment Creature — Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Whenever this creature merges or enters the battlefield, target instant or sorcery card in your graveyard with mana value less than or equal to this creature's power gains flashback until end of turn. The flashback cost is equal to its mana cost. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Whenever this creature enters or becomes the target of an Aura spell you control, target instant or sorcery card in your graveyard with mana value less than or equal to this creature's power gains flashback until end of turn. The flashback cost is equal to its mana cost.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Whenever this creature merges or enters the battlefield, target instant or sorcery card in your graveyard with mana value less than or equal to this creature's power gains flashback until end of turn. The flashback cost is equal to its mana cost. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Flash
+Whenever this creature enters or becomes the target of an Aura spell you control, target instant or sorcery card in your graveyard with mana value less than or equal to this creature's power gains flashback until end of turn. The flashback cost is equal to its mana cost.
+
+Terror Hoarder
+rules_text: Flying, haste
+Whenever Terror Hoarder deals combat damage to an opponent, you may cast an artifact spell from your hand without paying its mana cost. If you don't, create two Treasure tokens. => Flying, haste
+Whenever this creature deals combat damage to an opponent, you may cast an artifact spell from your hand without paying its mana cost. If you don't, create two Treasure tokens.
+
+Heart of Sekipra
+type: Legendary Creature — Plant Spirit => Legendary Enchantment Creature — Plant Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Trample
+Whenever this creature merges, other creatures you control get +3/+3 and gain trample until end of turn. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Trample
+Enchanted creature has trample
+Whenever Heart of Sekipra attaches or becomes the target of an Aura spell you control, other creatures you control get +3/+3 and gain trample until end of turn.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Trample
+Whenever this creature merges, other creatures you control get +3/+3 and gain trample until end of turn. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Trample
+Enchanted creature has trample
+Whenever Heart of Sekipra attaches or becomes the target of an Aura spell you control, other creatures you control get +3/+3 and gain trample until end of turn.
+
+Baromar, Born Beyond
+rules_text: [+1]: Exile up to one other target permanent. Return that card to the battlefield under its owner's control at the beginning of that player's next end step.
+[-2]: Choose a card name. You and Baromar, Born Beyond have protection from the chosen card name until the your next turn.
+[-6]: Exile target spell or permanent. Exile Baromar, Born Beyond, then return him to the battlefield transformed. You may activate this ability on any player's turn any time you could cast an instant.
+When People's Sanctity enters the battlefield, exile up to two target permanents an opponent controls until People's Sanctity leaves the battlefield.
+When People's Sanctity advances to level 1, choose a card name. You and permanents you control have protection from the chosen card name until People's Sanctity leaves the battlefield. => [+1]: Exile up to one other target permanent. Return that card to the battlefield under its owner's control at the beginning of that player's next end step.
+[-2]: Choose a card name. You and Baromar, Born Beyond have protection from the chosen card name until the your next turn.
+[-6]: Exile target spell or permanent. Exile Baromar, then return him to the battlefield transformed. You may activate this ability on any player's turn any time you could cast an instant.
+When People's Sanctity enters the battlefield, exile up to two target permanents an opponent controls until People's Sanctity leaves the battlefield.
+When People's Sanctity advances to level 1, choose a card name. You and permanents you control have protection from the chosen card name until People's Sanctity leaves the battlefield.
+special_text: [+1]: Exile up to one other target permanent. Return that card to the battlefield under its owner's control at the beginning of that player's next end step.
+[-2]: Choose a card name. You and Baromar, Born Beyond have protection from the chosen card name until the your next turn.
+[-6]: Exile target spell or permanent. Exile Baromar, Born Beyond, then return him to the battlefield transformed. You may activate this ability on any player's turn any time you could cast an instant.
+When People's Sanctity enters the battlefield, exile up to two target permanents an opponent controls until People's Sanctity leaves the battlefield.
+When People's Sanctity advances to level 1, choose a card name. You and permanents you control have protection from the chosen card name until People's Sanctity leaves the battlefield. => [+1]: Exile up to one other target permanent. Return that card to the battlefield under its owner's control at the beginning of that player's next end step.
+[-2]: Choose a card name. You and Baromar, Born Beyond have protection from the chosen card name until the your next turn.
+[-6]: Exile target spell or permanent. Exile Baromar, then return him to the battlefield transformed. You may activate this ability on any player's turn any time you could cast an instant.
+When People's Sanctity enters the battlefield, exile up to two target permanents an opponent controls until People's Sanctity leaves the battlefield.
+When People's Sanctity advances to level 1, choose a card name. You and permanents you control have protection from the chosen card name until People's Sanctity leaves the battlefield.
+
+Mernz, the Forgotten
+rules_text: Flying
+Whenever Mernz, the Forgotten deals combat damage to an opponent, look at the top five cards of your library. Reveal up to two nonpermanent cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
+Discard two cards: Until end of turn, Mernz becomes a Human God with base power and toughness 1/1, loses flying, and gains hexproof and indestructible. It can't be blocked this turn. => Flying
+Whenever Mernz deals combat damage to an opponent, look at the top five cards of your library. Reveal up to two nonpermanent cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
+Discard two cards: Until end of turn, Mernz becomes a Human God with base power and toughness 1/1, loses flying, and gains hexproof and indestructible. It can't be blocked this turn.
+
+The Recollection
+type: Legendary Creature — Spirit => Legendary Enchantment Creature — Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Menace
+This creature gets +1/+1 for each card in all graveyards. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Menace
+The Recollection and enchanted creature get +1/+1 for each card in all graveyards.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Menace
+This creature gets +1/+1 for each card in all graveyards. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Menace
+The Recollection and enchanted creature get +1/+1 for each card in all graveyards.
+
+Guided Champion
+rules_text: When Guided Champion enters the battlefield, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” => When this creature enters, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+
+Mournful Steward
+rules_text: Whenever a creature attacks, you may have that creature's controller mill cards equal to Mournful Steward's power.
+{2}{U}, Exile Mournful Steward from your graveyard: Create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” => Whenever a creature attacks, you may have that creature's controller mill cards equal to this creature's power.
+{2}{U}, Exile this creature from your graveyard: Create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+
+Twisted Destiny
+
+Haunted Grounds
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+As long as you control exactly one creature, that creature has +2/+2 and has lifelink.
+{B}: Level 1
+When Haunted Grounds advances to level 1, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+{2}{B}: Level 2
+{T}, Sacrifice a creature: Mill a card, then return that card to your hand if it's a permanent card. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+As long as you control exactly one creature, that creature has +2/+2 and has lifelink.
+{B}: Level 1
+When this artifact advances to level 1, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+{2}{B}: Level 2
+{T}, Sacrifice a creature: Mill a card, then return that card to your hand if it's a permanent card.
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+As long as you control exactly one creature, that creature has +2/+2 and has lifelink.
+{B}: Level 1
+When Haunted Grounds advances to level 1, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+{2}{B}: Level 2
+{T}, Sacrifice a creature: Mill a card, then return that card to your hand if it's a permanent card. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+As long as you control exactly one creature, that creature has +2/+2 and has lifelink.
+{B}: Level 1
+When this artifact advances to level 1, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+{2}{B}: Level 2
+{T}, Sacrifice a creature: Mill a card, then return that card to your hand if it's a permanent card.
+
+Vengeful Sprout
+rules_text: Exile Vengeful Sprout and four other cards from your graveyard: Create a 2/2 green Plant Elemental creature token. Activate only during your turn. => Exile this creature and four other cards from your graveyard: Create a 2/2 green Plant Elemental creature token. Activate only during your turn.
+
+Rogue Invention
+type: Artifact Creature — Spirit Construct => Enchantment Creature — Spirit
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying if this creature is merged or if you pay {1}. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever you cast an artifact or enchantment spell, create a 1/1 colorless Thopter artifact creature token with flying if this is an Aura or if you pay {1}.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying if this creature is merged or if you pay {1}. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever you cast an artifact or enchantment spell, create a 1/1 colorless Thopter artifact creature token with flying if this is an Aura or if you pay {1}.
+
+Derelict Factory
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Derelict Factory enters the battlefield, exile up to three target cards from a single graveyard.
+{2}: Level 1
+{T}: Exile target card from a graveyard.
+{3}: Level 2
+{4}: Until end of turn, Derelict Factory becomes a 0/0 colorless Construct artifact creature with “This creature gets +1/+1 for each card exiled by it.” => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, exile up to three target cards from a single graveyard.
+{2}: Level 1
+{T}: Exile target card from a graveyard.
+{3}: Level 2
+{4}: Until end of turn, this artifact becomes a 0/0 colorless Construct artifact creature with “This creature gets +1/+1 for each card exiled by it.”
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Derelict Factory enters the battlefield, exile up to three target cards from a single graveyard.
+{2}: Level 1
+{T}: Exile target card from a graveyard.
+{3}: Level 2
+{4}: Until end of turn, Derelict Factory becomes a 0/0 colorless Construct artifact creature with “This creature gets +1/+1 for each card exiled by it.” => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, exile up to three target cards from a single graveyard.
+{2}: Level 1
+{T}: Exile target card from a graveyard.
+{3}: Level 2
+{4}: Until end of turn, this artifact becomes a 0/0 colorless Construct artifact creature with “This creature gets +1/+1 for each card exiled by it.”
+
+Life's Work
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Life's Work enters the battlefield, if a player controls more lands than you, you may search your library for a Plains card, reveal it, put it into your hand, then shuffle.
+{1}{W}: Level 1
+When Life's Work advances to level 1, if an opponent has more life than you, you gain 3 life. If an opponent has more cards in hand than you, draw a card.
+{2}{W}: Level 2
+{W}, {T}: If a player controls more creatures than you, create a 1/1 white Human creature token. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, if a player controls more lands than you, you may search your library for a Plains card, reveal it, put it into your hand, then shuffle.
+{1}{W}: Level 1
+When this artifact advances to level 1, if an opponent has more life than you, you gain 3 life. If an opponent has more cards in hand than you, draw a card.
+{2}{W}: Level 2
+{W}, {T}: If a player controls more creatures than you, create a 1/1 white Human creature token.
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When Life's Work enters the battlefield, if a player controls more lands than you, you may search your library for a Plains card, reveal it, put it into your hand, then shuffle.
+{1}{W}: Level 1
+When Life's Work advances to level 1, if an opponent has more life than you, you gain 3 life. If an opponent has more cards in hand than you, draw a card.
+{2}{W}: Level 2
+{W}, {T}: If a player controls more creatures than you, create a 1/1 white Human creature token. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+When this artifact enters, if a player controls more lands than you, you may search your library for a Plains card, reveal it, put it into your hand, then shuffle.
+{1}{W}: Level 1
+When this artifact advances to level 1, if an opponent has more life than you, you gain 3 life. If an opponent has more cards in hand than you, draw a card.
+{2}{W}: Level 2
+{W}, {T}: If a player controls more creatures than you, create a 1/1 white Human creature token.
+
+Baroborn, City of Unity
+type: Artifact Land — Building => Land — Building
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Baroborn, City of Unity enters the battlefield tapped.
+Indestructible
+{T}: Add {W}.
+{2}{W}: Level 1
+When Baroborn, City of Unity advances to level 1, create a 0/3 white Wall creature token with defender.
+{4}{W}{W}: Level 2
+When Baroborn, City of Unity advances to level 2, create four 1/1 white Human creature tokens. => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Baroborn enters tapped.
+Indestructible
+{T}: Add {W}.
+{2}{W}: Level 1
+When Baroborn advances to level 1, create a 0/3 white Wall creature token with defender.
+{4}{W}{W}: Level 2
+When Baroborn advances to level 2, create four 1/1 white Human creature tokens.
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Baroborn, City of Unity enters the battlefield tapped.
+Indestructible
+{T}: Add {W}.
+{2}{W}: Level 1
+When Baroborn, City of Unity advances to level 1, create a 0/3 white Wall creature token with defender.
+{4}{W}{W}: Level 2
+When Baroborn, City of Unity advances to level 2, create four 1/1 white Human creature tokens. => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Baroborn enters tapped.
+Indestructible
+{T}: Add {W}.
+{2}{W}: Level 1
+When Baroborn advances to level 1, create a 0/3 white Wall creature token with defender.
+{4}{W}{W}: Level 2
+When Baroborn advances to level 2, create four 1/1 white Human creature tokens.
+
+Dorthda, Gates of the Dead
+rules_text: Dorthda, Gates of the Dead enters the battlefield tapped.
+{T}: Add {B}.
+{2}{B}{B}, {T}: Create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” => This land enters the battlefield tapped.
+{T}: Add {B}.
+{2}{B}{B}, {T}: Create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+
+Iska, Symbol of Truth
+rules_text: Whenever one or more creatures you control deal combat damage to an opponent, put a loyalty counter on Iska, Symbol of Truth.
+[0]: Target creature you control gains double strike until end of turn.
+[-1]: Create a 2/1 white Human Soldier creature token with first strike.
+[-5]: Sacrifice Iska, Symbol of Truth. Tap all creatures your opponents control. Creatures you control gain vigilance until end of turn. => Whenever one or more creatures you control deal combat damage to an opponent, put a loyalty counter on Iska.
+[0]: Target creature you control gains double strike until end of turn.
+[-1]: Create a 2/1 white Human Soldier creature token with first strike.
+[-5]: Sacrifice Iska. Tap all creatures your opponents control. Creatures you control gain vigilance until end of turn.
+special_text: Whenever one or more creatures you control deal combat damage to an opponent, put a loyalty counter on Iska, Symbol of Truth.
+[0]: Target creature you control gains double strike until end of turn.
+[-1]: Create a 2/1 white Human Soldier creature token with first strike.
+[-5]: Sacrifice Iska, Symbol of Truth. Tap all creatures your opponents control. Creatures you control gain vigilance until end of turn. => Whenever one or more creatures you control deal combat damage to an opponent, put a loyalty counter on Iska.
+[0]: Target creature you control gains double strike until end of turn.
+[-1]: Create a 2/1 white Human Soldier creature token with first strike.
+[-5]: Sacrifice Iska. Tap all creatures your opponents control. Creatures you control gain vigilance until end of turn.
+
+Rarsni, God of Decay
+rules_text: Flying, deathtouch
+Whenever a non-Demon creature you control dies, create a 4/4 black Demon creature token with flying.
+Sacrifice a Demon: Rarsni, God of Decay gains indestructible until end of turn. => Flying, deathtouch
+Whenever a non-Demon creature you control dies, create a 4/4 black Demon creature token with flying.
+Sacrifice a Demon: Rarsni gains indestructible until end of turn.
+
+Veldoris, Death's Speaker
+rules_text: When Veldoris, Death's Speaker enters the battlefield, for each opponent, create a 1/1 black Shade Spirit creature token.
+[+1]: Until your next turn, whenever a creature you control dies, surveil 2.
+[-2]: Surveil 2. You may sacrifice a creature. If you do, destroy target creature.
+[-5]: Exile target creature card from a graveyard. Create a token that's a copy of that card, except it's a 1/1 Shade Spirit that's black in addition to its other colors. => When Veldoris enters, for each opponent, create a 1/1 black Shade Spirit creature token.
+[+1]: Until your next turn, whenever a creature you control dies, draw a card.
+[-2]: Draw a card. You may sacrifice a creature. If you do, destroy target creature.
+[-5]: Exile target creature card from a graveyard. Create a token that's a copy of that card, except it's a 1/1 Shade Spirit that's black in addition to its other colors.
+special_text: When Veldoris, Death's Speaker enters the battlefield, for each opponent, create a 1/1 black Shade Spirit creature token.
+[+1]: Until your next turn, whenever a creature you control dies, surveil 2.
+[-2]: Surveil 2. You may sacrifice a creature. If you do, destroy target creature.
+[-5]: Exile target creature card from a graveyard. Create a token that's a copy of that card, except it's a 1/1 Shade Spirit that's black in addition to its other colors. => When Veldoris enters, for each opponent, create a 1/1 black Shade Spirit creature token.
+[+1]: Until your next turn, whenever a creature you control dies, draw a card.
+[-2]: Draw a card. You may sacrifice a creature. If you do, destroy target creature.
+[-5]: Exile target creature card from a graveyard. Create a token that's a copy of that card, except it's a 1/1 Shade Spirit that's black in addition to its other colors.
+
+Conan, the Reprised Hero
+rules_text: [+1]: Create a 1/1 red Elemental creature token with trample and prowess. It gains haste. Sacrifice it at the beginning of the next end step.
+[-2]: Target instant or sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
+[-5]: Activate each of Conan's other loyalty abilities up to a total of five times without paying their loyalty costs. Sacrifice Conan at the beginning of the next end step. => [+1]: Create a 1/1 red Elemental creature token with trample and prowess. It gains haste. Sacrifice it at the beginning of the next end step.
+[-2]: Target instant or sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
+[-5]: Activate each of Conan's other loyalty abilities up to a total of five times without paying their loyalty costs.
+special_text: [+1]: Create a 1/1 red Elemental creature token with trample and prowess. It gains haste. Sacrifice it at the beginning of the next end step.
+[-2]: Target instant or sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
+[-5]: Activate each of Conan's other loyalty abilities up to a total of five times without paying their loyalty costs. Sacrifice Conan at the beginning of the next end step. => [+1]: Create a 1/1 red Elemental creature token with trample and prowess. It gains haste. Sacrifice it at the beginning of the next end step.
+[-2]: Target instant or sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
+[-5]: Activate each of Conan's other loyalty abilities up to a total of five times without paying their loyalty costs.
+
+Kindra, the Last Legend
+rules_text: Whenever you activate one of Kindra's abilities, you may return a land you control to its owner's hand.
+[+2]: Add {G}. Then, reveal any number of land cards from your hand, add {G} for each card revealed this way.
+[-1]: Whenever a land enters the battlefield under your control this turn, create a 2/2 green Plant Elemental creature token. 
+[-8]: Sacrifice Kindra, the Last Legend. Search your library for a land card and put it onto the battlefield. It's an 8/8 Elemental creature with vigilance, reach and trample. It's still a land. Untap each land you control. => Whenever you activate one of Kindra's abilities, you may return a land you control to its owner's hand.
+[+2]: Add {G}. Then, reveal any number of land cards from your hand, add {G} for each card revealed this way.
+[-1]: Whenever a land enters under your control this turn, create a 2/2 green Plant Elemental creature token. 
+[-8]: Search your library for a land card and put it onto the battlefield. It's an 8/8 Elemental creature with vigilance, reach and trample. It's still a land. Untap each land you control.
+special_text: Whenever you activate one of Kindra's abilities, you may return a land you control to its owner's hand.
+[+2]: Add {G}. Then, reveal any number of land cards from your hand, add {G} for each card revealed this way.
+[-1]: Whenever a land enters the battlefield under your control this turn, create a 2/2 green Plant Elemental creature token. 
+[-8]: Sacrifice Kindra, the Last Legend. Search your library for a land card and put it onto the battlefield. It's an 8/8 Elemental creature with vigilance, reach and trample. It's still a land. Untap each land you control. => Whenever you activate one of Kindra's abilities, you may return a land you control to its owner's hand.
+[+2]: Add {G}. Then, reveal any number of land cards from your hand, add {G} for each card revealed this way.
+[-1]: Whenever a land enters under your control this turn, create a 2/2 green Plant Elemental creature token. 
+[-8]: Search your library for a land card and put it onto the battlefield. It's an 8/8 Elemental creature with vigilance, reach and trample. It's still a land. Untap each land you control.
+
+Stellia, Beacon of Hope
+rules_text: [+1]: Tap up to one target creature. That creature doesn't untap during its controller's next untap step.
+[-1]: Until your next turn, for each player, when you next tap a creature that player controls, draw a card.
+[-5]: Sacrifice Stella, Beacon of Hope. You get an emblem with “Whenever one or more creatures become tapped for the first time each turn, you may draw a card.” => [+1]: Tap up to one target creature. That creature doesn't untap during its controller's next untap step.
+[-1]: Until your next turn, for each player, when you next tap a creature that player controls, draw a card.
+[-5]: You get an emblem with “Whenever one or more creatures become tapped for the first time each turn, you may draw a card.”
+special_text: [+1]: Tap up to one target creature. That creature doesn't untap during its controller's next untap step.
+[-1]: Until your next turn, for each player, when you next tap a creature that player controls, draw a card.
+[-5]: Sacrifice Stella, Beacon of Hope. You get an emblem with “Whenever one or more creatures become tapped for the first time each turn, you may draw a card.” => [+1]: Tap up to one target creature. That creature doesn't untap during its controller's next untap step.
+[-1]: Until your next turn, for each player, when you next tap a creature that player controls, draw a card.
+[-5]: You get an emblem with “Whenever one or more creatures become tapped for the first time each turn, you may draw a card.”
+
+Before the Storm
+rules_text: You may tap target artifact or creature, then you may untap another target artifact or creature.
+Desperation 1U => You may tap target artifact or creature, then you may untap another target artifact or creature.
+Disturb {1}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Burdens of Antiquity
+rules_text: Exile up to one target card from a graveyard. Create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+Flashback {1}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Exile up to one target card from a graveyard. Create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+Disturb {2}{G} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Kondira's Influence
+rules_text: Target creature gets +2/+2 and gains hexproof until end of turn. If this spell was cast from your graveyard, instead put two +1/+1 counters and a hexproof counter on that creature.
+Flashback {3}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Target creature gets +2/+2 and gains hexproof until end of turn.
+Disturb {3}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Siege Tower
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever Siege Tower enters the battlefield, put a brick counter on a permanent you control.
+{2}{R}: Level 1
+When Siege Tower advances to level 1, you may have target creature you control fight target creature you don't control.
+{2}{R}{R}: Level 2
+{T}: Target creature can't block this turn. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever this artifact enters, put a brick counter on a permanent you control.
+{2}{R}: Level 1
+When this artifact advances to level 1, you may have target creature you control fight target creature you don't control.
+{2}{R}{R}: Level 2
+{T}: Target creature can't block this turn.
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever Siege Tower enters the battlefield, put a brick counter on a permanent you control.
+{2}{R}: Level 1
+When Siege Tower advances to level 1, you may have target creature you control fight target creature you don't control.
+{2}{R}{R}: Level 2
+{T}: Target creature can't block this turn. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever this artifact enters, put a brick counter on a permanent you control.
+{2}{R}: Level 1
+When this artifact advances to level 1, you may have target creature you control fight target creature you don't control.
+{2}{R}{R}: Level 2
+{T}: Target creature can't block this turn.
+
+Underworld Gateway
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever a creature dies, you may have target player mill cards equal to its toughness. Do this only once each turn.
+{1}{B}{B}: Level 1
+When Underworld Gateway advances to level 1, you may destroy target creature or planeswalker.
+{3}{B}{B}: Level 2
+{T}: You may cast target permanent card from a graveyard that was milled this turn by paying life equal to its mana value in addition to its other costs. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever a creature dies, you may have target player mill cards equal to its toughness. Do this only once each turn.
+{1}{B}{B}: Level 1
+When this artifact advances to level 1, you may destroy target creature or planeswalker.
+{3}{B}{B}: Level 2
+{T}: You may cast target permanent card from a graveyard that was milled this turn by paying life equal to its mana value in addition to its other costs.
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever a creature dies, you may have target player mill cards equal to its toughness. Do this only once each turn.
+{1}{B}{B}: Level 1
+When Underworld Gateway advances to level 1, you may destroy target creature or planeswalker.
+{3}{B}{B}: Level 2
+{T}: You may cast target permanent card from a graveyard that was milled this turn by paying life equal to its mana value in addition to its other costs. => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever a creature dies, you may have target player mill cards equal to its toughness. Do this only once each turn.
+{1}{B}{B}: Level 1
+When this artifact advances to level 1, you may destroy target creature or planeswalker.
+{3}{B}{B}: Level 2
+{T}: You may cast target permanent card from a graveyard that was milled this turn by paying life equal to its mana value in addition to its other costs.
+
+Skill Sergeant
+rules_text: Whenever an artifact enters the battlefield under your control, target creature you control gets +1/+1 until end of turn. => Whenever an artifact under your control, target creature you control gets +1/+1 until end of turn.
+
+Hall of Relics
+rules_text: When Hall of Relics enters the battlefield, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{4}, {T}: Tap target creature. This ability costs {1} less to activate if there is a counter on Hall of Relics. => When this artifact enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{4}, {T}: Tap target creature. This ability costs {1} less to activate if there is a counter on this artifact.
+
+Chanting Ritualist
+rules_text: When Chanting Ritualist dies, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” => When this creature dies, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+
+Rastiff Conscripts
+rules_text: Menace
+When Rastiff Conscripts enters the battlefield, exile the top card of your library. You may play that card until the end of your next turn. => Menace
+When this creature enters, exile the top card of your library. You may play that card until the end of your next turn.
+
+Sekipra Pythoness
+type: Creature — Elf Shaman => Enchantment Creature — Elf Shaman
+rules_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or enters the battlefield, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” Do this only once each turn. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” Do this only once each turn.
+special_text: Amalgam [i](As this card creature enters the battlefield, you may have it enter tapped and become an Aura with enchant creature attached to target creature. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature merges or enters the battlefield, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” Do this only once each turn. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature enters or becomes the target of an Aura spell you control, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” Do this only once each turn.
+
+Kingfisher Drake
+rules_text: Flash
+Flying
+When Kingfisher Drake enters the battlefield, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Flash
+Flying
+When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+The Face Snatcher
+rules_text: As The Face Snatcher enters the battlefield, you may exile a planeswalker card from your graveyard. The Face Snatcher is a planeswalker with loyalty counters equal to the exiled planeswalkers starting loyalty and gains its abilities. [i](It's not a creature.)[/i]
+{3}{U}{B}, Exile a creature card from your graveyard: The Face Snatcher becomes a copy of that creature until end of turn. => As The Face Snatcher enters, you may exile a planeswalker card from your graveyard. The Face Snatcher is a planeswalker with loyalty counters equal to the exiled planeswalkers starting loyalty and gains its abilities. [i](It's not a creature.)[/i]
+{3}{U}{B}, Exile a creature card from your graveyard: The Face Snatcher becomes a copy of that creature until end of turn.
+
+Monument to the Fallen Man
+
+Blessing of Truth
+rules_text: {T}: Add {C}.
+{T}: Add X mana of any combination of colors. Where X is the greatest toughness among creatures you control. => {T}: Add {C}.
+{T}: Add X mana of any combination of colors, where X is the greatest toughness among creatures you control.
+
+Blood of Gods
+rules_text: {X}, Sacrifice Blood of Gods: Deal X damage to each battle, creature, planeswalker and player. => {X}, Sacrifice Blood of Gods: Blood of Gods deals X damage to each permanent and each player.
+
+Othra's Glory
+
+Tears of Dorthda
+
+Stellia's Gift
+
+Build Anew
+
+Rastiff Hellfire
+rules_text: Destroy target creature with mana value 2 or less. Its controller loses life equal to the number of Orcs and Humans you control.
+Disturb {1}{R} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Rastiff Hellfire deals 2 damage to target creature. Its controller loses life equal to the number of Orcs and Humans you control.
+Disturb {3}{R}{R} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Berkus Stratagem
+
+A Journey Begins
+
+Mind Scavenge
+
+Veldoris's Awakening
+
+Surface Memories
+
+Repeat History
+
+Martyr's Resolve
+rules_text: Each player mills three cards.
+Target creature gets +X/+X until end of turn, where X is the highest number of permanent cards in a graveyard.
+Disturb {4}{G} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Each player mills three cards. Then up to one target creature gets +X/+X until end of turn, where X is the highest number of permanent cards in a graveyard.
+Disturb {4}{G} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Trade District
+type: Land => Land — Building
+rules_text: Trade District enters the battlefield tapped.
+When Trade District enters the battlefield, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {W} or {B}. => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {W} or {B}.
+
+ Level 3
+​
+special_text:  => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {W} or {B}.
+
+ Level 3
+​
+
+Silent Waterway
+type: Land => Land — Building
+rules_text: Silent Waterway enters the battlefield tapped.
+When Silent Waterway enters the battlefield, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {U} or {B}. => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {U} or {B}.
+
+ Level 3
+​
+special_text:  => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {U} or {B}.
+
+ Level 3
+​
+
+Sentry Tower
+type: Land => Land — Building
+rules_text: Sentry Tower enters the battlefield tapped.
+When Sentry Tower enters the battlefield, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {R} or {W}. => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {R} or {W}.
+
+ Level 3
+​
+special_text:  => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {R} or {W}.
+
+ Level 3
+​
+
+Mudpeat Hovel
+type: Land => Land — Building
+rules_text: Mudpeat Hovel enters the battlefield tapped.
+When Mudpeat Hovel enters the battlefield, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {B} or {G}. => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {B} or {G}.
+
+ Level 3
+​
+special_text:  => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {B} or {G}.
+
+ Level 3
+​
+
+Lavish Garden
+type: Land => Land — Building
+rules_text: Lavish Garden enters the battlefield tapped.
+When Lavish Garden enters the battlefield, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {G} or {U}. => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {G} or {U}.
+
+ Level 3
+​
+special_text:  => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {G} or {U}.
+
+ Level 3
+​
+
+Court House
+type: Land => Land — Building
+rules_text: Court House enters the battlefield tapped.
+When Court House enters the battlefield, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {W} or {U}. => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {W} or {U}.
+
+ Level 3
+​
+special_text:  => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {W} or {U}.
+
+ Level 3
+​
+
+Cliffside Hillfort
+type: Land => Land — Building
+rules_text: Cliffside Hillfort enters the battlefield tapped.
+When Cliffside Hillfort enters the battlefield, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {R} or {G}. => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {R} or {G}.
+
+ Level 3
+​
+special_text:  => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {R} or {G}.
+
+ Level 3
+​
+
+Abstracted Stairway
+type: Land => Land — Building
+rules_text: Abstracted Stairway enters the battlefield tapped.
+When Abstracted Stairway enters the battlefield, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {U} or {R}. => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {U} or {R}.
+
+ Level 3
+​
+special_text:  => [i](This land's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+
+
+
+{T}: [i][/i]Add {C}.
+
+[i][/i]
+{1}: Level 1
+
+{T}: Add {U} or {R}.
+
+ Level 3
+​
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
