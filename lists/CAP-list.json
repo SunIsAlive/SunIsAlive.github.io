@@ -13,19 +13,19 @@
     },
     {
         "card_name": "Eternities Apart",
-        "number": 0,
+        "number": 100,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Conan, the Reprised Hero",
-        "number": 139,
+        "number": 140,
         "shape": "planeswalker",
         "set": "CAP"
     },
     {
         "card_name": "Adaptive Selection",
-        "number": 178,
+        "number": 179,
         "shape": "normal",
         "set": "CAP"
     },
@@ -43,19 +43,19 @@
     },
     {
         "card_name": "Rarsni, God of Decay",
-        "number": 111,
+        "number": 112,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Terror Hoarder",
-        "number": 172,
+        "number": 173,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Heart of Sekipra",
-        "number": 194,
+        "number": 195,
         "shape": "normal",
         "set": "CAP"
     },
@@ -73,19 +73,19 @@
     },
     {
         "card_name": "Veldoris, Death's Speaker",
-        "number": 129,
+        "number": 130,
         "shape": "planeswalker",
         "set": "CAP"
     },
     {
         "card_name": "Wand of Reprise",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Kindra, the Last Legend",
-        "number": 197,
+        "number": 198,
         "shape": "planeswalker",
         "set": "CAP"
     },
@@ -109,13 +109,13 @@
     },
     {
         "card_name": "Channeler of Tradition",
-        "number": 136,
+        "number": 137,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Adaptive Goo",
-        "number": 177,
+        "number": 178,
         "shape": "normal",
         "set": "CAP"
     },
@@ -139,13 +139,13 @@
     },
     {
         "card_name": "Demolition Workshop",
-        "number": 142,
+        "number": 143,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Command Presence",
-        "number": 183,
+        "number": 184,
         "shape": "normal",
         "set": "CAP"
     },
@@ -163,19 +163,19 @@
     },
     {
         "card_name": "Feast from Famine",
-        "number": 100,
+        "number": 101,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Flame Doubling",
-        "number": 148,
+        "number": 149,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Consumer of History",
-        "number": 184,
+        "number": 185,
         "shape": "normal",
         "set": "CAP"
     },
@@ -193,19 +193,19 @@
     },
     {
         "card_name": "Lost Connections",
-        "number": 104,
+        "number": 105,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "From Ashes",
-        "number": 151,
+        "number": 152,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Cultivator Warden",
-        "number": 185,
+        "number": 186,
         "shape": "normal",
         "set": "CAP"
     },
@@ -223,19 +223,19 @@
     },
     {
         "card_name": "Maundering Hate",
-        "number": 105,
+        "number": 106,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Honored Flamecutter",
-        "number": 153,
+        "number": 154,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Enhancement Facility",
-        "number": 187,
+        "number": 188,
         "shape": "class",
         "set": "CAP"
     },
@@ -253,19 +253,19 @@
     },
     {
         "card_name": "Price for Progress",
-        "number": 109,
+        "number": 110,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Mau, the Second Coming",
-        "number": 158,
+        "number": 159,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Kondira, Sekipra's Protector",
-        "number": 198,
+        "number": 199,
         "shape": "normal",
         "set": "CAP"
     },
@@ -283,19 +283,19 @@
     },
     {
         "card_name": "Split Reality",
-        "number": 120,
+        "number": 121,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Rastiff Guide",
-        "number": 165,
+        "number": 166,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Morbid Blessings",
-        "number": 202,
+        "number": 203,
         "shape": "normal",
         "set": "CAP"
     },
@@ -313,19 +313,19 @@
     },
     {
         "card_name": "Underworld Crypt",
-        "number": 127,
+        "number": 128,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Ruinbringer",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Speaker of the Woods",
-        "number": 215,
+        "number": 216,
         "shape": "normal",
         "set": "CAP"
     },
@@ -349,13 +349,13 @@
     },
     {
         "card_name": "Berkus Stratagem",
-        "number": 133,
+        "number": 134,
         "shape": "transform double faced",
         "set": "CAP"
     },
     {
         "card_name": "Bonding Experience",
-        "number": 182,
+        "number": 183,
         "shape": "normal",
         "set": "CAP"
     },
@@ -379,13 +379,13 @@
     },
     {
         "card_name": "Burn from Within",
-        "number": 135,
+        "number": 136,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Greed of Sekipra",
-        "number": 192,
+        "number": 193,
         "shape": "normal",
         "set": "CAP"
     },
@@ -409,13 +409,13 @@
     },
     {
         "card_name": "Cloaked Trooper",
-        "number": 138,
+        "number": 139,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Invasive Ooze",
-        "number": 195,
+        "number": 196,
         "shape": "normal",
         "set": "CAP"
     },
@@ -433,19 +433,19 @@
     },
     {
         "card_name": "Haunted Grounds",
-        "number": 103,
+        "number": 104,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Dawn of the War",
-        "number": 140,
+        "number": 141,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "A Journey Begins",
-        "number": 196,
+        "number": 197,
         "shape": "transform double faced",
         "set": "CAP"
     },
@@ -463,19 +463,19 @@
     },
     {
         "card_name": "Memory Siphoner",
-        "number": 106,
+        "number": 107,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Demanding Dungeon",
-        "number": 141,
+        "number": 142,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Kondira's Companion",
-        "number": 199,
+        "number": 200,
         "shape": "normal",
         "set": "CAP"
     },
@@ -493,19 +493,19 @@
     },
     {
         "card_name": "Merciless Executioner",
-        "number": 107,
+        "number": 108,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Flames of War",
-        "number": 149,
+        "number": 150,
         "shape": "transform double faced",
         "set": "CAP"
     },
     {
         "card_name": "Kondira's Influence",
-        "number": 200,
+        "number": 201,
         "shape": "transform double faced",
         "set": "CAP"
     },
@@ -523,19 +523,19 @@
     },
     {
         "card_name": "Rastiff Hellfire",
-        "number": 112,
+        "number": 113,
         "shape": "transform double faced",
         "set": "CAP"
     },
     {
         "card_name": "Forged for War",
-        "number": 150,
+        "number": 151,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Nature's Paradise",
-        "number": 203,
+        "number": 204,
         "shape": "class",
         "set": "CAP"
     },
@@ -553,19 +553,19 @@
     },
     {
         "card_name": "Rastiff Warmonger",
-        "number": 114,
+        "number": 115,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Impulsive Greed",
-        "number": 154,
+        "number": 155,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Parasitic Growth",
-        "number": 204,
+        "number": 205,
         "shape": "normal",
         "set": "CAP"
     },
@@ -583,19 +583,19 @@
     },
     {
         "card_name": "Sabotage Expert",
-        "number": 115,
+        "number": 116,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Ironcast Academy",
-        "number": 155,
+        "number": 156,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Perilous Journey",
-        "number": 205,
+        "number": 206,
         "shape": "normal",
         "set": "CAP"
     },
@@ -613,19 +613,19 @@
     },
     {
         "card_name": "Soul Devourer",
-        "number": 118,
+        "number": 119,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Manifested Rage",
-        "number": 156,
+        "number": 157,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Rampaging Courser",
-        "number": 209,
+        "number": 210,
         "shape": "normal",
         "set": "CAP"
     },
@@ -643,19 +643,19 @@
     },
     {
         "card_name": "Soul's Recall",
-        "number": 119,
+        "number": 120,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Mark of the Flame",
-        "number": 157,
+        "number": 158,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Retribution Preserver",
-        "number": 211,
+        "number": 212,
         "shape": "normal",
         "set": "CAP"
     },
@@ -673,19 +673,19 @@
     },
     {
         "card_name": "Tomb of Foul Rebirth",
-        "number": 123,
+        "number": 124,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Rastiff Encampment",
-        "number": 164,
+        "number": 165,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Sekipra Sanctuary",
-        "number": 214,
+        "number": 215,
         "shape": "class",
         "set": "CAP"
     },
@@ -703,19 +703,19 @@
     },
     {
         "card_name": "Twisted Destiny",
-        "number": 125,
+        "number": 126,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Siege Tower",
-        "number": 170,
+        "number": 171,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Territorial Guriff",
-        "number": 216,
+        "number": 217,
         "shape": "normal",
         "set": "CAP"
     },
@@ -733,19 +733,19 @@
     },
     {
         "card_name": "Unbound Malice",
-        "number": 126,
+        "number": 127,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Smolder",
-        "number": 171,
+        "number": 172,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Vengeful Sprout",
-        "number": 217,
+        "number": 218,
         "shape": "normal",
         "set": "CAP"
     },
@@ -763,19 +763,19 @@
     },
     {
         "card_name": "Underworld Gateway",
-        "number": 128,
+        "number": 129,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Unending Blaze",
-        "number": 173,
+        "number": 174,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "World Memory",
-        "number": 219,
+        "number": 220,
         "shape": "normal",
         "set": "CAP"
     },
@@ -799,13 +799,13 @@
     },
     {
         "card_name": "Blazing Fury",
-        "number": 134,
+        "number": 135,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Berkus Centaur",
-        "number": 179,
+        "number": 180,
         "shape": "normal",
         "set": "CAP"
     },
@@ -829,13 +829,13 @@
     },
     {
         "card_name": "Charged Steel",
-        "number": 137,
+        "number": 138,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Berkus Skirmisher",
-        "number": 180,
+        "number": 181,
         "shape": "normal",
         "set": "CAP"
     },
@@ -859,13 +859,13 @@
     },
     {
         "card_name": "Destructionally Sound",
-        "number": 143,
+        "number": 144,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Berkus Warleader",
-        "number": 181,
+        "number": 182,
         "shape": "normal",
         "set": "CAP"
     },
@@ -889,13 +889,13 @@
     },
     {
         "card_name": "Enraged Brute",
-        "number": 144,
+        "number": 145,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Desirable Host",
-        "number": 186,
+        "number": 187,
         "shape": "normal",
         "set": "CAP"
     },
@@ -919,13 +919,13 @@
     },
     {
         "card_name": "Fee-Fi Foe",
-        "number": 145,
+        "number": 146,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Enhancement Sludge",
-        "number": 188,
+        "number": 189,
         "shape": "normal",
         "set": "CAP"
     },
@@ -943,19 +943,19 @@
     },
     {
         "card_name": "Frontline Grunt",
-        "number": 101,
+        "number": 102,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Fight Together",
-        "number": 146,
+        "number": 147,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Expand Roots",
-        "number": 189,
+        "number": 190,
         "shape": "normal",
         "set": "CAP"
     },
@@ -973,19 +973,19 @@
     },
     {
         "card_name": "Grunt Major",
-        "number": 102,
+        "number": 103,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Firehoof Fighter",
-        "number": 147,
+        "number": 148,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Fertilizing Mud",
-        "number": 190,
+        "number": 191,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1003,19 +1003,19 @@
     },
     {
         "card_name": "Oblation's Answer",
-        "number": 108,
+        "number": 109,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Halfbred Ambusher",
-        "number": 152,
+        "number": 153,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Grasp of Nature",
-        "number": 191,
+        "number": 192,
         "shape": "transform double faced",
         "set": "CAP"
     },
@@ -1033,19 +1033,19 @@
     },
     {
         "card_name": "Priest of Sins",
-        "number": 110,
+        "number": 111,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Othra's Glory",
-        "number": 159,
+        "number": 160,
         "shape": "transform double faced",
         "set": "CAP"
     },
     {
         "card_name": "Haven Guardian",
-        "number": 193,
+        "number": 194,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1063,19 +1063,19 @@
     },
     {
         "card_name": "Rastiff Warmage",
-        "number": 113,
+        "number": 114,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Passionate Architect",
-        "number": 160,
+        "number": 161,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Martyr's Resolve",
-        "number": 201,
+        "number": 202,
         "shape": "transform double faced",
         "set": "CAP"
     },
@@ -1093,19 +1093,19 @@
     },
     {
         "card_name": "Saddened Mourner",
-        "number": 116,
+        "number": 117,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Press Your Advantage",
-        "number": 161,
+        "number": 162,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Planar Unsealing",
-        "number": 206,
+        "number": 207,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1123,19 +1123,19 @@
     },
     {
         "card_name": "Somber Pastlife",
-        "number": 117,
+        "number": 118,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Raid Party",
-        "number": 162,
+        "number": 163,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Possessed Root",
-        "number": 207,
+        "number": 208,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1153,19 +1153,19 @@
     },
     {
         "card_name": "Starve Out",
-        "number": 121,
+        "number": 122,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Rastiff Conscripts",
-        "number": 163,
+        "number": 164,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Protective Instinct",
-        "number": 208,
+        "number": 209,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1183,19 +1183,19 @@
     },
     {
         "card_name": "Strangling Grip",
-        "number": 122,
+        "number": 123,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Rastiff Mentor",
-        "number": 166,
+        "number": 167,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Ravenous Ooze",
-        "number": 210,
+        "number": 211,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1213,19 +1213,19 @@
     },
     {
         "card_name": "Traitor's Dilemma",
-        "number": 124,
+        "number": 125,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Rastiff Tactician",
-        "number": 167,
+        "number": 168,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Sekipra Elf",
-        "number": 212,
+        "number": 213,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1243,19 +1243,19 @@
     },
     {
         "card_name": "Veldoris's Awakening",
-        "number": 130,
+        "number": 131,
         "shape": "transform double faced",
         "set": "CAP"
     },
     {
         "card_name": "Research Combatant",
-        "number": 168,
+        "number": 169,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Sekipra Pythoness",
-        "number": 213,
+        "number": 214,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1273,19 +1273,19 @@
     },
     {
         "card_name": "Wandering Memories",
-        "number": 131,
+        "number": 132,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Unmerciful End",
-        "number": 174,
+        "number": 175,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Village Plunderers",
-        "number": 218,
+        "number": 219,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1300,19 +1300,19 @@
     },
     {
         "card_name": "Work to Death",
-        "number": 132,
+        "number": 133,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Worker's Strike",
-        "number": 176,
+        "number": 177,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Wrap in Vines",
-        "number": 220,
+        "number": 221,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1331,109 +1331,109 @@
     "a->gold",
     {
         "card_name": "Baromar, Born Beyond",
-        "number": 222,
+        "number": 223,
         "shape": "transform double faced",
         "set": "CAP"
     },
     {
         "card_name": "The Face Snatcher",
-        "number": 233,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Othra, Tainted Leader",
-        "number": 245,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Redmane, the Sheep Slayer",
-        "number": 249,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Rooted Guardian",
-        "number": 251,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Order in the Court",
-        "number": 244,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "The Recollection",
-        "number": 248,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "City's Sacking",
-        "number": 227,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Berkus Chief",
-        "number": 223,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Forest Defender",
         "number": 234,
         "shape": "normal",
         "set": "CAP"
     },
     {
-        "card_name": "Baroborn Strategist",
-        "number": 221,
+        "card_name": "Othra, Tainted Leader",
+        "number": 246,
         "shape": "normal",
         "set": "CAP"
     },
     {
-        "card_name": "Echomancer Halakanis",
-        "number": 230,
+        "card_name": "Redmane, the Sheep Slayer",
+        "number": 250,
         "shape": "normal",
         "set": "CAP"
     },
     {
-        "card_name": "Orcish Warlord",
-        "number": 243,
+        "card_name": "Rooted Guardian",
+        "number": 252,
         "shape": "normal",
         "set": "CAP"
     },
     {
-        "card_name": "Berkus Outcast",
+        "card_name": "Order in the Court",
+        "number": 245,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "The Recollection",
+        "number": 249,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "City's Sacking",
+        "number": 228,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Berkus Chief",
         "number": 224,
         "shape": "normal",
         "set": "CAP"
     },
     {
+        "card_name": "Forest Defender",
+        "number": 235,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Baroborn Strategist",
+        "number": 222,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Echomancer Halakanis",
+        "number": 231,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Orcish Warlord",
+        "number": 244,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Berkus Outcast",
+        "number": 225,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
         "card_name": "Malcorn, the Longing",
-        "number": 239,
+        "number": 240,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Chancellor of Wits",
-        "number": 226,
+        "number": 227,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Evocation Shepherd",
-        "number": 232,
+        "number": 233,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Rastiff Linebreaker",
-        "number": 246,
+        "number": 247,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1448,7 +1448,7 @@
     },
     {
         "card_name": "Wall of Remembrance",
-        "number": 254,
+        "number": 255,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1478,91 +1478,91 @@
     },
     {
         "card_name": "Naephy, the Descendant",
-        "number": 241,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Warforger",
-        "number": 255,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Everwatcher",
-        "number": 231,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Spell Splitter",
-        "number": 253,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Natural Experiment",
         "number": 242,
         "shape": "normal",
         "set": "CAP"
     },
     {
+        "card_name": "Warforger",
+        "number": 256,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Everwatcher",
+        "number": 232,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Spell Splitter",
+        "number": 254,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Natural Experiment",
+        "number": 243,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
         "card_name": "Deity's Blessed",
-        "number": 228,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Rogue Invention",
-        "number": 250,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Shadows of Sekipra",
-        "number": 252,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Ironcast Master",
-        "number": 238,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Forest Solvent",
-        "number": 235,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Call of the Void",
-        "number": 225,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Guard of the Council",
-        "number": 236,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Guardians of the Haven",
-        "number": 237,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Duelist Duo",
         "number": 229,
         "shape": "normal",
         "set": "CAP"
     },
     {
+        "card_name": "Rogue Invention",
+        "number": 251,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Shadows of Sekipra",
+        "number": 253,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Ironcast Master",
+        "number": 239,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Forest Solvent",
+        "number": 236,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Call of the Void",
+        "number": 226,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Guard of the Council",
+        "number": 237,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Guardians of the Haven",
+        "number": 238,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Duelist Duo",
+        "number": 230,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
         "card_name": "Reality Gyre",
-        "number": 247,
+        "number": 248,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1583,7 +1583,7 @@
     },
     {
         "card_name": "Mernz, the Forgotten",
-        "number": 240,
+        "number": 241,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1614,25 +1614,25 @@
     "a->colorless",
     {
         "card_name": "Anaur, History's Ambition",
-        "number": 256,
+        "number": 257,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Blessing of Truth",
-        "number": 258,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Blood of Gods",
         "number": 259,
         "shape": "normal",
         "set": "CAP"
     },
     {
+        "card_name": "Blood of Gods",
+        "number": 260,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
         "card_name": "Monument to the Fallen Man",
-        "number": 266,
+        "number": 267,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1644,25 +1644,25 @@
     },
     {
         "card_name": "Baroborn Outpost",
-        "number": 257,
+        "number": 258,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Derelict Factory",
-        "number": 260,
+        "number": 261,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Holy Fountain",
-        "number": 265,
+        "number": 266,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Reverent Memorial",
-        "number": 267,
+        "number": 268,
         "shape": "class",
         "set": "CAP"
     },
@@ -1674,31 +1674,31 @@
     },
     {
         "card_name": "Derelict Scraps",
-        "number": 261,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Derelict Titan",
         "number": 262,
         "shape": "normal",
         "set": "CAP"
     },
     {
-        "card_name": "Derelict Worker",
+        "card_name": "Derelict Titan",
         "number": 263,
         "shape": "normal",
         "set": "CAP"
     },
     {
-        "card_name": "Hall of Relics",
+        "card_name": "Derelict Worker",
         "number": 264,
         "shape": "normal",
         "set": "CAP"
     },
     {
+        "card_name": "Hall of Relics",
+        "number": 265,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
         "card_name": "Unreformed Derelict",
-        "number": 268,
+        "number": 269,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1717,31 +1717,31 @@
     "a->land",
     {
         "card_name": "Baroborn, City of Unity",
-        "number": 270,
+        "number": 271,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Snatcher's Lair",
-        "number": 284,
+        "number": 285,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Dorthda, Gates of the Dead",
-        "number": 275,
+        "number": 276,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Berkus, Warrior's Home",
-        "number": 271,
+        "number": 272,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Sekipra, Haven of Peace",
-        "number": 281,
+        "number": 282,
         "shape": "normal",
         "set": "CAP"
     },
@@ -1762,31 +1762,31 @@
     },
     {
         "card_name": "Court House",
-        "number": 274,
+        "number": 275,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Silent Waterway",
-        "number": 283,
+        "number": 284,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "War Encampent",
-        "number": 286,
+        "number": 287,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Cliffside Hillfort",
-        "number": 273,
+        "number": 274,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Noble's Estate",
-        "number": 280,
+        "number": 281,
         "shape": "class",
         "set": "CAP"
     },
@@ -1807,31 +1807,31 @@
     },
     {
         "card_name": "Trade District",
-        "number": 285,
+        "number": 286,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Abstracted Stairway",
-        "number": 269,
+        "number": 270,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Mudpeat Hovel",
-        "number": 279,
+        "number": 280,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Sentry Tower",
-        "number": 282,
+        "number": 283,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Lavish Garden",
-        "number": 278,
+        "number": 279,
         "shape": "class",
         "set": "CAP"
     },
@@ -1852,19 +1852,19 @@
     },
     {
         "card_name": "Claimed Settlement",
-        "number": 272,
+        "number": 273,
         "shape": "class",
         "set": "CAP"
     },
     {
         "card_name": "Enchanting Cottage",
-        "number": 276,
+        "number": 277,
         "shape": "normal",
         "set": "CAP"
     },
     {
         "card_name": "Excavation Site",
-        "number": 277,
+        "number": 278,
         "shape": "class",
         "set": "CAP"
     },
@@ -1891,31 +1891,31 @@
     },
     {
         "card_name": "Swamp_CAP",
-        "number": 289,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Mountain_CAP",
         "number": 290,
         "shape": "normal",
         "set": "CAP"
     },
     {
-        "card_name": "Plains_CAP",
-        "number": 287,
-        "shape": "normal",
-        "set": "CAP"
-    },
-    {
-        "card_name": "Forest_CAP",
+        "card_name": "Mountain_CAP",
         "number": 291,
         "shape": "normal",
         "set": "CAP"
     },
     {
-        "card_name": "Island_CAP",
+        "card_name": "Plains_CAP",
         "number": 288,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Forest_CAP",
+        "number": 292,
+        "shape": "normal",
+        "set": "CAP"
+    },
+    {
+        "card_name": "Island_CAP",
+        "number": 289,
         "shape": "normal",
         "set": "CAP"
     },
