@@ -1,4 +1,14 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+No changes.
+
+VERSION 7 CHANGELOG
+====================
+
+No changes.
+
+VERSION 6 CHANGELOG
 ====================
 
 
