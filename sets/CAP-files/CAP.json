@@ -5770,7 +5770,7 @@
             "color2": "",
             "type2": "Creature \u2014 Spirit",
             "cost2": "",
-            "rules_text2": "When this creature enters the battlefield, yearn. [i](You may cast a copy of the front side without paying its mana cost.)[/i]\nWhen this creature dies, surveil 1.\nIf this creature would be put into the graveyard from anywhere, exile it instead.",
+            "rules_text2": "When this creature enters the battlefield, yearn. [i](You may cast a copy of the front side without paying its mana cost.)[/i]\nWhen this creature leaves the battlefield, surveil 1.\nIf this creature would be put into the graveyard from anywhere, exile it instead.",
             "flavor_text2": "[i][/i]",
             "pt2": "1/1",
             "special_text2": "",
@@ -6079,5 +6079,5 @@
             "notes": "CubeArtisan:\n!canoncard Gale Swooper"
         }
     ],
-    "version": 9
+    "version": 10
 }

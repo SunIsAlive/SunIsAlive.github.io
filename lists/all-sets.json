@@ -9,6 +9,11 @@
             "set_code": "HEX",
             "set_name": "The Hex Games",
             "formats": ""
+        },
+        {
+            "set_code": "OVX",
+            "set_name": "Osiris vs XVX",
+            "formats": ""
         }
     ]
 }
