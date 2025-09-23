@@ -2736,7 +2736,7 @@
 			"name": "Bonding Experience",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Sorcery",
+			"type": "Enchantment",
 			"collector_number": "183",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/CAP-files/img/183_Bonding Experience.png"

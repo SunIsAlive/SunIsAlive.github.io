@@ -1,4 +1,84 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Blessed by Courage
+rules_text: Enchant creature
+When this enchantment enters, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+Enchanted creature has “{T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.” => Enchant creature
+When this Aura enters, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+Enchanted creature has “{T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.”
+
+Industrious Faerie
+
+Halfbred Ambusher
+rules_text: Whenever this creature attacks, if a creature entered the battlefield or merged this turn, put a +1/+1 counter on this creature. => Whenever this creature attacks, if a creature entered or became the target of an Aura spell this turn, put a +1/+1 counter on this creature.
+
+Call of the Void
+rules_text: Enchant creature
+Enchanted creature has lifelink as long as it's a Spirit. Otherwise, it gets -3/-3.
+When this enchantment leaves the battlefield, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Enchant creature
+Enchanted creature has lifelink as long as it's a Spirit. Otherwise, it gets -3/-3.
+When this Aura leaves the battlefield, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Desirable Host
+rules_text: Whenever a creature you control merges, put a +1/+1 counter on this creature. => Whenever you cast an enchantment spell, put a +1/+1 counter on this creature.
+pt: 0/1 => 1/1
+
+Rookie Mistake
+rules_text: Choose one —
+• Exile target creature that entered the battlefield or merged this turn.
+• Creatures entering the battlefield or merging don't cause abilities to trigger this turn. => Choose one —
+• Exile target creature that entered the battlefield or was attached this turn.
+• Permanents don't cause abilities to trigger this turn.
+
+Memory Wipe
+rules_text: Flash
+Enchant creature
+When this enchantment enters, draw a card.
+Enchanted creature loses all abilities. => Flash
+Enchant creature
+When this Aura enters, draw a card.
+Enchanted creature loses all abilities.
+
+Anaur, History's Ambition
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever you put a brick counter on Anaur, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” Then you may search your library for an artifact or Building card with mana value less than or equal to the number of brick counters on it, put it into your hand, then shuffle.
+
+{5}: Level 1+
+[i]The legends of history, contained and preserved.[/i]
+ 
+​ => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever you put a brick counter on Anaur, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” Then you may search your library for an artifact or Building card with mana value less than or equal to the number of brick counters on it, put it into your hand, then shuffle.
+{5}: Level 1+
+[i]The legends of history, contained and preserved.[/i]
+ 
+​
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever you put a brick counter on Anaur, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” Then you may search your library for an artifact or Building card with mana value less than or equal to the number of brick counters on it, put it into your hand, then shuffle.
+
+{5}: Level 1+
+[i]The legends of history, contained and preserved.[/i]
+ 
+​ => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever you put a brick counter on Anaur, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” Then you may search your library for an artifact or Building card with mana value less than or equal to the number of brick counters on it, put it into your hand, then shuffle.
+{5}: Level 1+
+[i]The legends of history, contained and preserved.[/i]
+ 
+​
+
+Burdens of Antiquity
+
+Bonding Experience
+type: Sorcery => Enchantment
+rules_text: Merge target creature you control under another target creature you control. It has that creatures abilities. Double its power and toughness until end of turn. => You may cast Aura spells as though they had flash.
+{G}, Discard an enchantment card: Return target enchantment card from your graveyard to your hand.
+
+Othra's Glory
+
+
+VERSION 8 CHANGELOG
 ====================
 
 No changes.
