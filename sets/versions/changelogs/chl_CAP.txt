@@ -1,4 +1,79 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Possessed Derelict added.
+
+
+High Keeper
+rules_text: This creature enters, with a +1/+1 counter on it.
+Remove a counter from this creature: This creature gains lifelink and vigilance until end of turn. => This creature enters with a +1/+1 counter on it.
+Remove a counter from this creature: This creature gains lifelink and vigilance until end of turn.
+
+Charged Steel
+type: Enchantment Creature — Spirit => Artifact Enchantment Creature — Spirit
+
+Cleared Memory
+type: Enchantment Creature — Spirit => Artifact Enchantment Creature — Spirit
+
+Project Overseer
+rules_text: Artifact and Aura spells you cast cost {1} less to cast.
+{2}, {T}: Move a counter from target permanent you control onto another target permanent. Activate only as a sorcery. => Artifact spells you cast cost {1} less to cast.
+{2}, {T}: Move a counter from target permanent you control onto another target permanent. Activate only as a sorcery.
+
+Coldforged Echo
+type: Enchantment Creature — Spirit => Artifact Enchantment Creature — Spirit
+
+Manifested Rage
+type: Enchantment Creature — Spirit Incarnation => Enchantment Creature — Spirit
+rules_text: Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature becomes the target of an Aura or noncreature spell, untap this creature. If this is an Aura, untap enchanted creature instead.
+Enchanted creature has “{T}: This creature deals 1 damage to target player.” If this creature isn't an Aura, it has that ability instead. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent. If this is an Aura, it deals 2 damage instead.
+pt: 2/3 => 2/2
+special_text: Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever this creature becomes the target of an Aura or noncreature spell, untap this creature. If this is an Aura, untap enchanted creature instead.
+Enchanted creature has “{T}: This creature deals 1 damage to target player.” If this creature isn't an Aura, it has that ability instead. => Amalgam [i](You may cast this card as an Aura spell with enchant creature you control. It becomes a creature again at the end of the turn or if it's not attached to a creature.)[/i]
+Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent. If this is an Aura, it deals 2 damage instead.
+
+Forged for War
+type: Enchantment Creature — Spirit Construct => Artifact Enchantment Creature — Spirit
+
+Cloaked Trooper
+type: Enchantment Creature — Spirit => Artifact Enchantment Creature — Spirit
+
+Rogue Invention
+type: Enchantment Creature — Spirit => Artifact Enchantment Creature — Spirit
+
+Anaur, History's Ambition
+rules_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever you put a brick counter on Anaur, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” Then you may search your library for an artifact card with mana value less than or equal to the number of brick counters on it, put it into your hand, then shuffle.
+{5}: Level 1+
+[i]The legends of history, contained and preserved.[/i]
+ 
+​ => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever you put a brick counter on Anaur, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” Then you may search your library for an artifact or Building card with mana value less than or equal to the number of brick counters on it, put it into your hand, then shuffle.
+
+{5}: Level 1+
+[i]The legends of history, contained and preserved.[/i]
+ 
+​
+special_text: [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever you put a brick counter on Anaur, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” Then you may search your library for an artifact card with mana value less than or equal to the number of brick counters on it, put it into your hand, then shuffle.
+{5}: Level 1+
+[i]The legends of history, contained and preserved.[/i]
+ 
+​ => [i](This artifact's level is the number of brick counters on it. Pay the next level cost as a sorcery to add another brick.)[/i]
+Whenever you put a brick counter on Anaur, create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” Then you may search your library for an artifact or Building card with mana value less than or equal to the number of brick counters on it, put it into your hand, then shuffle.
+
+{5}: Level 1+
+[i]The legends of history, contained and preserved.[/i]
+ 
+​
+
+Moment's Passing
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
