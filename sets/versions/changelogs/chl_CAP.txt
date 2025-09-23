@@ -1,4 +1,16 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Stellia's Gift
+cost: {3}{U} => {2}{U}{U}
+rules_text: Search your library or outside the game for an instant or sorcery card, reveal it, put it into your hand, then if you searched your library this way, shuffle.
+Disturb {5}{B} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Search your library or outside the game for an instant card or a card with flash, reveal it, put it into your hand, then if you searched your library this way, shuffle.
+Disturb {4}{B}{B} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Possessed Derelict added.
