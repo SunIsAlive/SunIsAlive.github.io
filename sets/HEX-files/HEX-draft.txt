@@ -1111,13 +1111,13 @@
 			}
 		},
 		{
-			"name": "Trophy Hunter",
+			"name": "Trophy Inspector",
 			"rarity": "common",
 			"mana_cost": "{S}{S}",
 			"type": "Artifact Creature — Golem",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/295_Trophy Hunter.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/295_Trophy Inspector.png"
 			}
 		},
 		{
