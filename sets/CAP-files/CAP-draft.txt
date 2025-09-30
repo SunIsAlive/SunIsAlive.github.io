@@ -264,7 +264,7 @@
 			"name": "Reinforced Guard",
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
-			"type": "Enchantment Creature — Spirit",
+			"type": "Artifact Enchantment Creature — Spirit",
 			"collector_number": "80",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/CAP-files/img/80_Reinforced Guard.png"
@@ -441,13 +441,13 @@
 			}
 		},
 		{
-			"name": "Blazing Fury",
+			"name": "Burn to the Ground",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "135",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/135_Blazing Fury.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/136_Burn to the Ground.png"
 			}
 		},
 		{
@@ -1519,9 +1519,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "136",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/CAP-files/img/136_Burn from Within.png"
+				"en": "https://sunisalive.github.io/sets/CAP-files/img/135_Burn from Within.png"
 			}
 		},
 		{
@@ -3442,7 +3442,7 @@
 	8 Rastiff Tactician
 	8 Enraged Brute
 	8 Fee-Fi Foe
-	8 Blazing Fury
+	8 Burn to the Ground
 	8 Press Your Advantage
 	8 Fight Together
 	8 Destructionally Sound
@@ -3558,7 +3558,7 @@
 	12 Rastiff Tactician
 	12 Enraged Brute
 	12 Fee-Fi Foe
-	12 Blazing Fury
+	12 Burn to the Ground
 	12 Press Your Advantage
 	12 Fight Together
 	12 Destructionally Sound
@@ -3847,7 +3847,7 @@
 	6 Rastiff Tactician
 	6 Enraged Brute
 	6 Fee-Fi Foe
-	6 Blazing Fury
+	6 Burn to the Ground
 	6 Press Your Advantage
 	6 Fight Together
 	6 Destructionally Sound

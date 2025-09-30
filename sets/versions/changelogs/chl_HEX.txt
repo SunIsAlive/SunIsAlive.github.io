@@ -1,4 +1,37 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Trophy Inspector added.
+Sefolian Javelineer added.
+white Warrior 11HEX added.
+
+Trophy Hunter removed.
+Sefolian Javlineer removed.
+
+Peak Performer
+
+Wayfarer's Companion
+pt: 2/2 => 2/3
+
+Retired General
+pt: 2/1 => 2/2
+
+Flight of the Bumblebee
+rules_text: Choose one. If you control an Insect, you may choose both instead.
+• Prevent all damage that would be dealt this turn.
+• Draw a card. => Choose one. If you control an Insect, you may choose both instead.
+• Prevent all damage that would be dealt this turn and player's can't gain counters this turn.
+• Draw a card.
+
+Wayward Warrior
+
+Sigil of Conquest HEX
+rules_text: Whenever one or more creatures you control deals combat damage to a player, draw a card.
+{T}: Tap target creature. => Whenever one or more creatures you control deals combat damage to a player, draw a card.
+{2}, {T}: Tap target creature.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 No changes.

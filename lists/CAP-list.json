@@ -379,7 +379,7 @@
     },
     {
         "card_name": "Burn from Within",
-        "number": 136,
+        "number": 135,
         "shape": "normal",
         "set": "CAP"
     },
@@ -798,8 +798,8 @@
         "set": "CAP"
     },
     {
-        "card_name": "Blazing Fury",
-        "number": 135,
+        "card_name": "Burn to the Ground",
+        "number": 136,
         "shape": "normal",
         "set": "CAP"
     },

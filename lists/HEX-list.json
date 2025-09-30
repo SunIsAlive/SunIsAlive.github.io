@@ -540,13 +540,13 @@
         "set": "HEX"
     },
     {
-        "card_name": "Seto San's Wake",
-        "number": 34,
+        "card_name": "Peak Performer",
+        "number": 32,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Sefolian Javlineer",
+        "card_name": "Sefolian Javelineer",
         "number": 76,
         "shape": "normal",
         "set": "HEX"
@@ -570,8 +570,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Tarase's Immortal",
-        "number": 40,
+        "card_name": "Seto San's Wake",
+        "number": 34,
         "shape": "normal",
         "set": "HEX"
     },
@@ -600,8 +600,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Training Regiment",
-        "number": 43,
+        "card_name": "Tarase's Immortal",
+        "number": 40,
         "shape": "normal",
         "set": "HEX"
     },
@@ -630,8 +630,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Victory Summoner",
-        "number": 45,
+        "card_name": "Training Regiment",
+        "number": 43,
         "shape": "normal",
         "set": "HEX"
     },
@@ -660,8 +660,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Wayward Warrior",
-        "number": 47,
+        "card_name": "Victory Summoner",
+        "number": 45,
         "shape": "normal",
         "set": "HEX"
     },
@@ -870,8 +870,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Peak Performer",
-        "number": 32,
+        "card_name": "Practice Drills",
+        "number": 33,
         "shape": "normal",
         "set": "HEX"
     },
@@ -900,8 +900,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Practice Drills",
-        "number": 33,
+        "card_name": "Shake the Arena",
+        "number": 35,
         "shape": "normal",
         "set": "HEX"
     },
@@ -930,8 +930,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Shake the Arena",
-        "number": 35,
+        "card_name": "Soaring Striker",
+        "number": 37,
         "shape": "normal",
         "set": "HEX"
     },
@@ -960,8 +960,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Soaring Striker",
-        "number": 37,
+        "card_name": "Syld Avenger",
+        "number": 38,
         "shape": "normal",
         "set": "HEX"
     },
@@ -990,8 +990,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Syld Avenger",
-        "number": 38,
+        "card_name": "Tournament Favorite",
+        "number": 41,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1020,8 +1020,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Tournament Favorite",
-        "number": 41,
+        "card_name": "Triumphant Reward",
+        "number": 44,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1050,8 +1050,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Triumphant Reward",
-        "number": 44,
+        "card_name": "Warrior's Bond",
+        "number": 46,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1080,8 +1080,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Warrior's Bond",
-        "number": 46,
+        "card_name": "Wayward Warrior",
+        "number": 47,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1831,7 +1831,7 @@
         "set": "HEX"
     },
     {
-        "card_name": "Trophy Hunter",
+        "card_name": "Trophy Inspector",
         "number": 295,
         "shape": "normal",
         "set": "HEX"
@@ -2065,37 +2065,37 @@
     },
     {
         "card_name": "Warrior 22HEX",
-        "number": 15,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Chest of Desires HEX",
         "number": 16,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "Sigil of Conquest HEX",
+        "card_name": "Chest of Desires HEX",
         "number": 17,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "Sword of Victory HEX",
+        "card_name": "Sigil of Conquest HEX",
         "number": 18,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "Treasure HEX",
+        "card_name": "Sword of Victory HEX",
         "number": 19,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "Trophy Reminder",
+        "card_name": "Treasure HEX",
         "number": 20,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Trophy Reminder",
+        "number": 21,
         "shape": "token",
         "set": "HEX"
     },
@@ -2118,64 +2118,82 @@
         "set": "HEX"
     },
     {
-        "card_name": "black Zombie Insect 11HEX",
+        "card_name": "white Warrior 11HEX",
         "number": 5,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "red Demon 44HEX",
+        "card_name": "black Zombie Insect 11HEX",
         "number": 6,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "Dragon Spirit",
+        "card_name": "red Demon 44HEX",
         "number": 7,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "green Insect 11HEX",
+        "card_name": "Dragon Spirit",
         "number": 8,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "red Insect 11HEX",
-        "number": 12,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "blue and red Dice 33HEX",
+        "card_name": "green Insect 11HEX",
         "number": 9,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "black and green Insect 11HEX",
-        "number": 10,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "black and green Insect 33HEX",
-        "number": 11,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Saba's Trophy",
+        "card_name": "red Insect 11HEX",
         "number": 13,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "white and black Spirit Warrior 11HEX",
+        "card_name": "blue and red Dice 33HEX",
+        "number": 10,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "black and green Insect 11HEX",
+        "number": 11,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "black and green Insect 33HEX",
+        "number": 12,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Saba's Trophy",
         "number": 14,
         "shape": "token",
         "set": "HEX"
+    },
+    {
+        "card_name": "white and black Spirit Warrior 11HEX",
+        "number": 15,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

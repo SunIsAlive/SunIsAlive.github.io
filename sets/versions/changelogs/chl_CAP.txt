@@ -1,4 +1,106 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Burn to the Ground added.
+
+Blazing Fury removed.
+
+Industrious Faerie
+
+Reinforced Guard
+type: Enchantment Creature — Spirit => Artifact Enchantment Creature — Spirit
+
+Drain Essence
+
+Perilous Journey
+rules_text: When this enchantment enters, put a +1/+1 counter on target creature or land you control.
+Whenever you deal combat damage to a player, you may sacrifice this enchantment. If you do, draw a card and create a tapped Treasure token. => When this enchantment enters, put a +1/+1 counter on target creature or land you control.
+Whenever a creature you control deals combat damage to a player, you may sacrifice this enchantment. If you do, draw a card and create a tapped Treasure token.
+
+Scion of Silence
+rules_text: As this creature enters the battlefield, choose a nonland card name.
+Other permanents with the chosen name lose all abilities. => As this creature enters, choose a nonland card name.
+Other permanents with the chosen name lose all abilities.
+
+Naephy, the Descendant
+rules_text: Flying, vigilance, deathtouch
+Whenever Naephy enters the battlefield, you may search your library for up to two creature cards and put them into your graveyard, then shuffle.
+Whenever Naephy attacks, return up to one target creature with toughness 3 or less from your graveyard to the battlefield tapped and attacking. => Flying, vigilance, deathtouch
+Whenever Naephy enters, you may search your library for up to two creature cards and put them into your graveyard, then shuffle.
+Whenever Naephy attacks, return up to one target creature with toughness 3 or less from your graveyard to the battlefield tapped and attacking.
+
+Berkus, Warrior's Home
+rules_text: This land enters the battlefield tapped.
+{T}: Add {R}.
+{1}{R}{R}, {T}: Put a trample counter on up to one target creature you control. Then creatures you control with a counter on them get +1/+0 until end of turn. => This land enters tapped.
+{T}: Add {R}.
+{1}{R}{R}, {T}: Put a trample counter on up to one target creature you control. Then creatures you control with a counter on them get +1/+0 until end of turn.
+
+Sekipra, Haven of Peace
+rules_text: This land enters the battlefield tapped.
+{T}: Add {G}.
+{3}{G}{G}: Until end of turn, Sekipra, Haven of Peace becomes a 0/0 green Elemental creature with “This creature gets +1/+1 for each land you control.” It's still a land. => This land enters tapped.
+{T}: Add {G}.
+{3}{G}{G}: Until end of turn, Sekipra, Haven of Peace becomes a 0/0 green Elemental creature with “This creature gets +1/+1 for each land you control.” It's still a land.
+
+Snatcher's Lair
+rules_text: This land enters the battlefield tapped.
+{T}: Add {U}.
+{X}: Snatcher's Lair become a copy of target creature you control with mana value X or less until end of turn. Activate only as a sorcery. => This land enters tapped.
+{T}: Add {U}.
+{X}: Snatcher's Lair become a copy of target creature you control with mana value X or less until end of turn. Activate only as a sorcery.
+
+Juno, God of Renewal
+rules_text: Flying, vigilance
+When Juno enters the battlefield, look at the top five cards of your library. You may reveal a creature card with mana value 3 or less from among them and put it onto the battlefield. Put the rest into your graveyard.
+Sacrifice a creature with mana value 3 or less: Juno gains indestructible until end of turn. => Flying, vigilance
+When Juno enters, look at the top five cards of your library. You may reveal a creature card with mana value 3 or less from among them and put it onto the battlefield. Put the rest into your graveyard.
+Sacrifice a creature with mana value 3 or less: Juno gains indestructible until end of turn.
+
+Baromar, Born Beyond
+
+Dorthda, Gates of the Dead
+rules_text: This land enters the battlefield tapped.
+{T}: Add {B}.
+{2}{B}{B}, {T}: Create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.” => This land enters tapped.
+{T}: Add {B}.
+{2}{B}{B}, {T}: Create a 1/1 colorless Spirit creature token with “When this creature dies, surveil 1.”
+
+Copy CAP
+
+Spirit 11CAP
+
+white Human 11CAP
+
+Thopter 11CAP
+
+Treasure CAP
+
+Skill Sergeant
+rules_text: Whenever an artifact under your control, target creature you control gets +1/+1 until end of turn. => Whenever an artifact you control enters, target creature you control gets +1/+1 until end of turn.
+
+Othra's Glory
+
+Tears of Dorthda
+
+Rastiff Hellfire
+
+A Journey Begins
+
+Mind Scavenge
+
+Veldoris's Awakening
+
+Surface Memories
+
+Repeat History
+
+Martyr's Resolve
+
+Moment's Passing
+
+
+VERSION 10 CHANGELOG
 ====================
 
 
