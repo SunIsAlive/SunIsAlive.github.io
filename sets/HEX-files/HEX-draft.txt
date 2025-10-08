@@ -12,7 +12,7 @@
 		},
 		{
 			"name": "Peak Performer",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Scout",
 			"collector_number": "32",
@@ -1252,7 +1252,7 @@
 		},
 		{
 			"name": "Wayward Warrior",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "47",
@@ -1341,13 +1341,13 @@
 			}
 		},
 		{
-			"name": "Sefolian Javlineer",
+			"name": "Sefolian Javelineer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/76_Sefolian Javlineer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/76_Sefolian Javelineer.png"
 			}
 		},
 		{
@@ -3236,7 +3236,7 @@
 			"type": "",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/20t_Trophy Reminder.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/21t_Trophy Reminder.png"
 			}
 		},
 		{
@@ -3545,7 +3545,7 @@
 	9 Mimi, Grounds Explorer
 	9 Seto San's Wake
 	9 Claimed by Trials
-	9 Sefolian Javlineer
+	9 Sefolian Javelineer
 	9 Wide Receiver
 	9 Trophy Mage
 	9 Sefolian Golem

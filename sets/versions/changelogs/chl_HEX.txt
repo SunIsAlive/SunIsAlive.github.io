@@ -1,4 +1,35 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Sefol Dragon
+rules_text: Defender, flying
+Whenever you flourish 6, this creature can attack as though it doesn't have defender. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+Forestcycling {2}, islandcycling {2} [i]({2}, Discard this card: Search your library for an Forest or Island card, reveal it, and put it into your hand, then shuffle.)[/i] => Defender, flying
+Whenever you flourish 6, this creature can attack as though it doesn't have defender until end of turn. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+Forestcycling {2}, islandcycling {2} [i]({2}, Discard this card: Search your library for an Forest or Island card, reveal it, and put it into your hand, then shuffle.)[/i]
+
+Ba, the Sixth Sense
+
+Sih, the Fourth Season
+
+Tarase, the Third Charm
+
+Al, the Second Chance
+
+Cenari, the Fifth Desire
+
+Api, the First Thought
+
+Grist and Cenari
+cost: {5}{B}{G} => {3}{B}{B}{G}{G}
+rules_text: Trample
+As long as Grist and Cenari is on the battlefield, it has all activated and triggered abilities of all creature and planeswalker cards in your graveyard. => Trample, indestructible
+As long as Grist and Cenari is on the battlefield, it has all activated and triggered abilities of all creature and planeswalker cards in your graveyard.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Trophy Inspector added.
