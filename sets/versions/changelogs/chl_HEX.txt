@@ -1,4 +1,37 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Plant added.
+
+
+Fairy Duelist
+rules_text: Flash
+Flying
+When this creature enters, target creature gets -2/-0 until end of turn. If you've cast a spell from anywhere other than your hand this turn, it gets -4/-0 instead. => Flash
+Flying
+When this creature enters, up to one target creature gets -2/-0 until end of turn. If you've cast a spell from anywhere other than your hand this turn, it gets -4/-0 instead.
+
+Aggressive Hazard
+rules_text: When this creature enters, choose one —
+• It fights target token creature an opponent controls.
+• Destroy target noncreature token. => Flash
+If a player would create one or more tokens, that player creates that many 3/1 green Plant creature tokens that can't block instead.
+pt: 2/2 => 3/1
+
+Ba, the Sixth Sense
+
+Sih, the Fourth Season
+
+Tarase, the Third Charm
+
+Al, the Second Chance
+
+Cenari, the Fifth Desire
+
+Api, the First Thought
+
+
+VERSION 10 CHANGELOG
 ====================
 
 
