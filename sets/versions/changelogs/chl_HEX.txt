@@ -1,4 +1,348 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+Peak Performer
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+This creature gets +1/+0 as long as you have three or more score counters or control a Trophy. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+This creature gets +1/+0 as long as you have two or more score counters or control a Trophy.
+
+Practice Drills
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, create two 1/1 white Warrior creature tokens. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, create two 1/1 white Warrior creature tokens.
+
+Soaring Striker
+rules_text: First strike
+Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i] => First strike
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+
+Idow Hunter
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+{3}{W}: Creatures you control get +1/+1 until end of turn. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{3}{W}: Creatures you control get +1/+1 until end of turn.
+
+Battle Medic
+rules_text: When this creature enters, you may return target creature or battle card not named Battle Medic with mana value 3 or less from your graveyard to your hand. => When this creature enters, choose one—
+• Return target battle card from your graveyard to your hand.
+• Return target creature card with mana value 2 or less from your graveyard to your hand.
+
+Syld Avenger
+
+Competitor's Hammer
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Equipped creature gets +1/+1 and has vigilance.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Equipped creature gets +1/+1 and has vigilance.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Ice Hockey Elemental
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+When this creature enters, tap target creature an opponent controls. Then you may pay {1}{U}. If you do, put a stun counter on that creature. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this creature enters, tap target creature an opponent controls. Then you may pay {1}{U}. If you do, put a stun counter on that creature.
+
+Kick Off
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, return target creature to its owner's hand. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, return target creature to its owner's hand.
+
+Unbroken Resolve
+rules_text: Enchant creature
+Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever enchanted creature deals combat damage to an opponent, draw a card. => Enchant creature
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever enchanted creature deals combat damage to an opponent, draw a card.
+
+Hiveheart Contestant
+rules_text: Flying
+Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+{3}{G}: Put a +1/+1 counter on this creature. => Flying
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{3}{G}: Put a +1/+1 counter on this creature.
+
+Crowd's Favorite
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, each opponent discards two cards. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, each opponent discards two cards.
+
+Rookie's Mentor
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+{T}: Target creature gains haste until end of turn. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{T}: Target creature gains haste until end of turn.
+
+Dribble Bomber
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever this creature or another creature enters under you control, up to one target creature can't block this turn. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever this creature or another creature enters under you control, up to one target creature can't block this turn.
+
+Sunstan Wildsword
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you cast a spell from anywhere other than your hand, this creature gets +2/+0 until end of turn. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you cast a spell from anywhere other than your hand, this creature gets +2/+0 until end of turn.
+
+Champion Ringleader
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+When this creature enters, it deals X damage to any noncreature target and you gain X life, where X is the number of Warriors you control. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this creature enters, it deals X damage to any noncreature target and you gain X life, where X is the number of Warriors you control.
+
+Dragonborn Spear
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Equipped creature gets +2/+0.
+Equip {R} [i]({R}: Attach to target creature you control. Equip only as a sorcery.)[/i] => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Equipped creature gets +2/+0.
+Equip {R} [i]({R}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Personal Gain
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, gain control of target creature until end of turn. Untap that creature. It gains menace and haste until end of turn. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, gain control of target creature until end of turn. Untap that creature. It gains menace and haste until end of turn.
+
+Burning Desire
+rules_text: Enchant creature
+Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever enchanted creature attacks, exile the top card of your library. You may play it until the end of your next turn. => Enchant creature
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever enchanted creature attacks, exile the top card of your library. You may play it until the end of your next turn.
+
+Challenger Mantis
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+{3}{U}: This creature gains flying until end of turn. Untap this creature. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{3}{U}: This creature gains flying until end of turn. Untap this creature.
+
+Push Forward
+rules_text: Enchant creature
+Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Enchanted creature gets +3/+3 and has trample.
+As long as you control a Trophy, you may cast this card from your graveyard. => Enchant creature
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Enchanted creature gets +3/+3 and has trample.
+As long as you control a Trophy, you may cast this card from your graveyard.
+
+Little Victory
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, search your library for a basic land card, put it onto the battlefield tapped, the shuffle. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, search your library for a basic land card, put it onto the battlefield tapped, the shuffle.
+
+Acewing Striker
+rules_text: Flying
+Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you get a score counter, this creature gets +1/+1 until end of turn. => Flying
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you get a score counter, put a +1/+1 counter on this creature.
+
+Paragon of Competition
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever an opponent casts their first noncreature spell each turn, proliferate unless that player pays {X}, where X is the number of score counters you have. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever an opponent casts their first noncreature spell each turn, proliferate unless that player pays {X}, where X is the number of score counters you have.
+
+Tarase's Immortal
+rules_text: Vigilance
+You may cast this card from your graveyard if your life total is greater than your starting life total. => Vigilance
+You may cast this card from your graveyard as long as you gained life this turn.
+
+Claimed by Trials
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, exile up to one target nonland permanent until this enchantment leaves the battlefield. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, exile up to one target nonland permanent until this enchantment leaves the battlefield.
+
+Al's Trial
+rules_text: Flash
+Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Other nonland permanents lose all abilities as long as this enchantment entered this turn. => Flash
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Other nonland permanents lose all abilities as long as this enchantment entered this turn.
+
+Forgotten Champion
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever this creature or another creature you control enters, proliferate. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever this creature or another creature you control enters, proliferate.
+
+Tarase's Trial
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, each opponent sacrifices a creature. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, any number of target opponents sacrifice a creature.
+
+Self-Made Challenger
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever this creature attacks alone, create a tapped Treasure token. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever this creature attacks alone, create a tapped Treasure token.
+
+Plan Bee
+rules_text: Whenever one or more creatures you control attack, you may exile the top card of your library. Then, choose one —
+• Creatures you control get +1/+1 until end of turn.
+• You may play that card this turn. => Whenever one or more creatures you control attack, you may exile the top card of your library. When you do, choose one —
+• Creatures you control get +1/+1 until end of turn.
+• You may play that card this turn.
+
+Competitive Spirit Tamer
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you attack a player, create a 4/4 red Dragon Spirit creature token with flying that's tapped and attacking that player. Sacrifice that token at end of combat. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you attack a player, create a 4/4 red Dragon Spirit creature token with flying that's tapped and attacking that player. Sacrifice that token at end of combat.
+
+Ba's Trial
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of combat on your turn, target creature you control gains double strike until end of turn. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of combat on your turn, target creature you control gains double strike until end of turn.
+
+Sih's Trial
+rules_text: Enchant land
+Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Enchanted land has “{T}: Add {G} and one mana of any other color.” => Enchant land
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Enchanted land has “{T}: Add {G} and one mana of any other color.”
+
+Api's Trial
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This enchantment is all colors.
+Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of your end step, if you've spent three or more different colors of mana this turn, draw a card. Then if you've spent five or more, proliferate twice. => [i](Spend a different color of mana on each {S}.)[/i]
+This enchantment is all colors.
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of your end step, if you've spent three or more different colors of mana this turn, draw a card. Then if you've spent five or more, proliferate twice.
+
+Deepest Desires
+rules_text: Choose one —
+• Destroy up to one target tapped creature.
+• You may return a creature card with mana value 3 or less from a graveyard to the battlefield under your control 
+Double down {3}{W}{B} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Destroy up to one target tapped creature.
+• Return up to one target creature card with mana value less than or equal to the amount of mana spent to cast this spell from your graveyard to the battlefield.
+Double down {3}{W}{B} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Brutal Victory
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, if it was cast, an opponent chooses a creature you control. Then destroy all other creatures. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, if it was cast, an opponent chooses a creature you control. Then destroy all other creatures.
+
+Bound as Brothers
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, create X 1/1 white Warrior creature tokens. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, create X 1/1 white Warrior creature tokens.
+
+Arcane Rallier
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+If you control a Trophy, other creatures you control have hexproof. Otherwise, other creatures you control have ward {X}, where X is the number of score counters you have. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+If you control a Trophy, other creatures you control have hexproof. Otherwise, other creatures you control have ward {X}, where X is the number of score counters you have.
+
+Arena Boss
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of your upkeep, create a 1/1 white Warrior creature token. If you control a Trophy, create three of those tokens instead. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of your upkeep, create a 1/1 white Warrior creature token. If you control a Trophy, create three of those tokens instead.
+
+Pollination Crossing
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, search your library for up to two basic land cards with different names, put them onto the battlefield tapped, then shuffle. Then you gain life equal to the number of colors among permanents you control. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, search your library for up to two basic land cards with different names, put them onto the battlefield tapped, then shuffle. Then you gain life equal to the number of colors among permanents you control.
+
+One More Round
+rules_text: This spell costs {6} less to cast for each Trophy you control and {1} less to cast for each score counter you have.
+Return any number of target creature cards with total mana value X or less from your graveyard to the battlefield. They gain haste. Exile them at the beginning of the next end step. => This spell costs {3} less to cast for each Trophy you control and {1} less to cast for each score counter you have.
+Return any number of target creature cards with total mana value X or less from your graveyard to the battlefield. They gain haste. Exile them at the beginning of the next end step.
+
+Vengeful Adversary
+rules_text: Flying
+Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of your end step, return up to one target permanent card from your graveyard to the battlefield if you control a Trophy or if its mana value is less than or equal to the number of score counters you have. => Flying
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of your end step, return up to one target permanent card from your graveyard to the battlefield if you control a Trophy or if its mana value is less than or equal to the number of score counters you have.
+
+The Competitive Spirit
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Other creatures you control have compete.
+Trophies you control have “{T}: Return target permanent card with mana value 3 or less from your graveyard to the battlefield with a finality counter.” => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you get one or more score counters, you get six score counters instead.
+Trophies you control have “{T}: Return target permanent card with mana value 3 or less from your graveyard to the battlefield with a finality counter.”
+
+Pina, the Returned
+rules_text: Whenever you cast an instant or sorcery spell, copy it for each card in your graveyard with the same name. You may reselect modes and choose new targets for each copy.
+[+2]: Mill four cards. You may return a card milled this way from your graveyard to your hand.
+[0]: Tap or untap up to one target nonland permanent, then tap or untap up to one other target nonland permanent. Put a stun counter on up to two of them.
+[-X]: You may cast a copy of an instant or sorcery card in your graveyard with mana value X or less without paying its mana cost. => Whenever you cast an instant or sorcery spell, copy it for each card in your graveyard with the same name. You may reselect modes and choose new targets for each copy.
+[+2]: Mill four cards. You may return a card milled this way from your graveyard to your hand.
+[0]: Tap or untap up to one target nonland permanent, then tap or untap up to one other target nonland permanent. Put a stun counter on up to two of them.
+[-X]: Exile target instant or sorcery card in a graveyard with mana value X or less. Copy it. You may cast the copy without paying its mana cost.
+special_text: Whenever you cast an instant or sorcery spell, copy it for each card in your graveyard with the same name. You may reselect modes and choose new targets for each copy.
+[+2]: Mill four cards. You may return a card milled this way from your graveyard to your hand.
+[0]: Tap or untap up to one target nonland permanent, then tap or untap up to one other target nonland permanent. Put a stun counter on up to two of them.
+[-X]: You may cast a copy of an instant or sorcery card in your graveyard with mana value X or less without paying its mana cost. => Whenever you cast an instant or sorcery spell, copy it for each card in your graveyard with the same name. You may reselect modes and choose new targets for each copy.
+[+2]: Mill four cards. You may return a card milled this way from your graveyard to your hand.
+[0]: Tap or untap up to one target nonland permanent, then tap or untap up to one other target nonland permanent. Put a stun counter on up to two of them.
+[-X]: Exile target instant or sorcery card in a graveyard with mana value X or less. Copy it. You may cast the copy without paying its mana cost.
+
+Verce's Nightmare
+rules_text: Remove a counter from a nonenchantment permanent you control: Choose one. Activate only as a sorcery and only once each turn.
+• Exile up to three cards in a graveyard.
+• Each opponent loses 2 life and you gain 2 life.
+• You draw a card and you lose 3 life. => Remove a counter from a nonenchantment permanent you control: Choose one. Activate only as a sorcery and only once each turn.
+• You draw a card and you lose 1 life.
+• Each opponent loses 2 life and you gain 2 life.
+• Exile up to three cards in a graveyard.
+
+Brood War
+rules_text: At the beginning of your end step, mill up to two cards, then you may sacrifice a creature. If you do, return target creature card from your graveyard to the battlefield tapped, where X is 1 plus the sacrificed creature's mana value. => At the beginning of your end step, mill up to two cards, then you may sacrifice a creature. When you do, return target creature card from your graveyard to the battlefield tapped, where X is 1 plus the sacrificed creature's mana value.
+
+Saba, the First Champion
+rules_text: Flying, first strike, haste
+When Saba enters, create a red and white artifact Trophy token named Saba's Trophy with “{10}, {T}: This artifact deals 3 damage to any target and you gain 3 life.”
+Whenever Saba attacks, nonmana abilities you activate this turn cost {X} less to activate, where X is Saba's power. This effect can't reduce the mana in that cost to less than one mana. => Flying, first strike, haste
+When Saba enters, create a red and white legendary artifact Trophy token named Saba's Trophy with “{10}, {T}: This artifact deals 3 damage to any target and you gain 3 life.”
+Whenever Saba attacks, nonmana abilities you activate this turn cost {X} less to activate, where X is Saba's power. This effect can't reduce the mana in that cost to less than one mana.
+
+Seto San, the Defending
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+[+1]: You may create a 1/1 white Warrior creature token. If you don't, put a +1/+1 counter on up to two target creatures you control.
+[0]: Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+[-3]: Seto San deals 3 damage to any target nonplayer target. If you control a Trophy, you gain 3 life. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+[+1]: You may create a 1/1 white Warrior creature token. If you don't, put a +1/+1 counter on up to two target creatures you control.
+[0]: Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+[-3]: Seto San deals 3 damage to any target nonplayer target. If you control a Trophy, you gain 3 life.
+special_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+[+1]: You may create a 1/1 white Warrior creature token. If you don't, put a +1/+1 counter on up to two target creatures you control.
+[0]: Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+[-3]: Seto San deals 3 damage to any target nonplayer target. If you control a Trophy, you gain 3 life. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+[+1]: You may create a 1/1 white Warrior creature token. If you don't, put a +1/+1 counter on up to two target creatures you control.
+[0]: Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+[-3]: Seto San deals 3 damage to any target nonplayer target. If you control a Trophy, you gain 3 life.
+
+Afterthought
+cost: {1}{U} => {U}{U}
+
+Saba's Trophy
+type: Token Artifact — Trophy => Token Legendary Artifact — Trophy
+
+Rex, Two-Time Champion
+rules_text: Double strike
+Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+If a creature attacking causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. => Double strike
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+If one or more counters would be put on you or a permanent you control, that many plus one counters of that kind are put on it instead.
+
+Nari, Possibility Archmagi
+rules_text: Flying
+Whenever you cast a modal or activate a modal ability, each creature you control gets +1/+1 for each mode chosen. => Flying
+Whenever you cast a modal or activate a modal ability, each creature you control gets +1/+1 for each mode chosen until end of turn.
+
+Next Challenge
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you attack, reveal the top four cards of your library. You may put a creature card with mana value 3 or less from among them into your hand. Put the rest on the bottom in a random order. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you attack, reveal the top four cards of your library. You may put a creature card with mana value 3 or less from among them into your hand. Put the rest on the bottom in a random order.
+
+Ba's Prodigy
+rules_text: Compete [i](Whenever you attack, you get a score counter. Spend six score counters as a sorcery to create Trophy tokens.)[/i]
+During your turn, this creature has first strike.
+Whenever you attack, create a tapped and attacking 1/1 white Warrior creature token. At the end of combat, if you don't control a Trophy, exile that token. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+During your turn, this creature has first strike.
+Whenever you attack, create a tapped and attacking 1/1 white Warrior creature token. At the end of combat, if you don't control a Trophy, exile that token.
+
+Sih, the Fourth Season
+pt: 2/3 => 2/1
+
+Soul Painter
+rules_text: Whenever this creature attacks, you may exile a permanent card with mana value 4 or less from your graveyard. If you do, create a copy of that card, except it's a 2/2 black and white Inkling creature. => Whenever this creature attacks, you may exile a permanent card with mana value 4 or less from your graveyard. If you do, create a copy of that card, except it's a 2/2 black and white Inkling creature in addition to its other types.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Plant added.
