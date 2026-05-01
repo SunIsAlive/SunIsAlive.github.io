@@ -1,4 +1,15 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Ascendancy
+rules_text: Whenever you attack, put an ascend counter on this enchantment.
+Creatures you control get +X/+X, where X is the number of ascend counters on this enchantment. => Whenever you attack, put an ascend counter on this enchantment.
+White creatures you control get +X/+X, where X is the number of ascend counters on this enchantment.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 

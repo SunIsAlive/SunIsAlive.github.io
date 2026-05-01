@@ -4585,7 +4585,7 @@
             "number": 14,
             "color_identity": "W",
             "cost": "{W}{W}{W}",
-            "rules_text": "Whenever you attack, put an ascend counter on this enchantment.\nCreatures you control get +X/+X, where X is the number of ascend counters on this enchantment.",
+            "rules_text": "Whenever you attack, put an ascend counter on this enchantment.\nWhite creatures you control get +X/+X, where X is the number of ascend counters on this enchantment.",
             "flavor_text": "[i]With the gods' favor, champion's uplift their kingdom's until the next Hex Games begin.[/i]",
             "pt": "",
             "special_text": "",
@@ -6544,5 +6544,5 @@
             "notes": ""
         }
     ],
-    "version": 12
+    "version": 13
 }
