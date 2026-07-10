@@ -1,4 +1,11 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Natural End added.
+
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Tournament Host added.
