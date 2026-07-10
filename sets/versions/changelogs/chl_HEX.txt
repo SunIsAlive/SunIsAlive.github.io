@@ -1,4 +1,31 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+
+Festive Jester
+rules_text: When this creature enters, you may exile target noncreature, nonland from your graveyard. You may cast it for as long as it remains exiled by paying {2} in addition to their other costs. => When this creature enters, you may exile target noncreature, nonland from your graveyard. You may cast that card for as long as it remains exiled by paying {2} in addition to its other costs.
+
+Crowd's Favorite
+
+Tournament Host
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+Flying
+Whenever you cast a multicolored or Trophy spell, proliferate. Then if there's no +1/+1 counter on this creature put a +1/+1 counter on it. => [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+Flying
+Whenever you cast a multicolored or Trophy spell, proliferate. Then if there are no +1/+1 counters on this creature, put a +1/+1 counter on it.
+
+Anvy, Thorns of Sefol
+rules_text: Whenever this creature enters or you flourish 6, choose up to one — [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+• Target noncreature permanent you control becomes a 3/3 green Treefolk creature. [i](It loses its other colors and types. This effect lasts indefinitely.)[/i]
+• Sacrifice a Treefolk. If you do, draw cards equal to its power. => Whenever this creature enters or you flourish 6, choose up to one — [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+• Target noncreature permanent you control becomes a 3/3 green Treefolk creature. [i](It loses its other colors and types. This effect lasts indefinitely.)[/i]
+• Sacrifice a Treefolk. If you do, draw three cards.
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Natural End added.
