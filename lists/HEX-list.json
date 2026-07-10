@@ -1,43 +1,43 @@
 ﻿[
     {
         "card_name": "Ascendancy",
-        "number": 14,
+        "number": 17,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Gift of Revelation",
-        "number": 64,
+        "card_name": "Grand Revelation",
+        "number": 67,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Pactbound Contestant",
-        "number": 111,
+        "number": 110,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Gigi, the Game Ender",
-        "number": 137,
+        "card_name": "All That Is Possible",
+        "number": 122,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Brood War",
-        "number": 164,
+        "number": 162,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "The Competitive Spirit",
-        "number": 19,
+        "number": 22,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Pina, the Returned",
-        "number": 72,
+        "number": 75,
         "shape": "planeswalker",
         "set": "HEX"
     },
@@ -48,146 +48,116 @@
         "set": "HEX"
     },
     {
+        "card_name": "Gigi, the Game Ender",
+        "number": 137,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Glimpse at Greatness",
+        "number": 172,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Challenge Seeker",
+        "number": 20,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Ael, the Second Chance",
+        "number": 51,
+        "shape": "modal double faced",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Baroness of Calerast",
+        "number": 87,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
         "card_name": "Path to Victory",
         "number": 143,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Glimpse at Greatness",
-        "number": 174,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Challenge Seeker",
-        "number": 17,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Afterthought",
-        "number": 50,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Accept Defeat",
-        "number": 85,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Ripples of Influence",
-        "number": 149,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
         "card_name": "Anvy, Thorns of Sefol",
-        "number": 161,
+        "number": 160,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Finality",
-        "number": 22,
+        "number": 25,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Al, the Second Chance",
-        "number": 51,
-        "shape": "modal double faced",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Brutal Victory",
-        "number": 89,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Ascendant's Fire",
-        "number": 122,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Brood Hunter",
-        "number": 163,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Highend Security",
-        "number": 26,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Comfy, the Final Game",
+        "card_name": "Afterthought",
         "number": 54,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Cenari, the Fifth Desire",
+        "card_name": "Brutal Victory",
         "number": 90,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Ascendant's Fire",
+        "number": 123,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Broodnest Raider",
+        "number": 163,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "High-End Security",
+        "number": 28,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Comfy, the Final Game",
+        "number": 58,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Cenari, the Fifth Desire",
+        "number": 92,
         "shape": "modal double faced",
         "set": "HEX"
     },
     {
         "card_name": "Ba, the Sixth Sense",
-        "number": 123,
+        "number": 124,
         "shape": "modal double faced",
         "set": "HEX"
     },
     {
-        "card_name": "Cenari Warrior",
+        "card_name": "Changemancer",
         "number": 165,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Patron of the Bold",
-        "number": 31,
+        "number": 33,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Eve Inn, the Paradoxical",
-        "number": 56,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Cenari's Keeper",
-        "number": 91,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Conqueror of Challengers",
-        "number": 131,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Lady of the Hiveheart",
-        "number": 179,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Sind Herald",
-        "number": 36,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Eve's Will",
-        "number": 57,
+        "card_name": "Echo Chamber",
+        "number": 60,
         "shape": "normal",
         "set": "HEX"
     },
@@ -204,296 +174,296 @@
         "set": "HEX"
     },
     {
-        "card_name": "Master of the Craft",
-        "number": 182,
+        "card_name": "Palace Councillor",
+        "number": 180,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Tarase, the Third Charm",
-        "number": 39,
-        "shape": "modal double faced",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Mirror Match",
-        "number": 71,
+        "card_name": "Sind Herald",
+        "number": 38,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Knight of the Black Stinger",
-        "number": 106,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Nari's Disciple",
-        "number": 141,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Sih, the Fourth Season",
-        "number": 191,
-        "shape": "modal double faced",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Tournament Recruiter",
-        "number": 42,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Sunstan Mage",
-        "number": 78,
+        "card_name": "Eve, the Paradoxical",
+        "number": 61,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Living Infestation",
-        "number": 108,
+        "number": 107,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Sunstan Oddsmaker",
-        "number": 155,
+        "card_name": "Impossible Oddsmaker",
+        "number": 139,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Sih, the Fourth Season",
+        "number": 186,
+        "shape": "modal double faced",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Tarase, the Third Charm",
+        "number": 40,
+        "shape": "modal double faced",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Eve's Will",
+        "number": 62,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Price for Victory",
+        "number": 111,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Merciless Reaver",
+        "number": 140,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Trophyless",
-        "number": 196,
+        "number": 192,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Tournament Recruiter",
+        "number": 44,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Sunstan Mage",
+        "number": 79,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Tunnel Keeper",
+        "number": 116,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Supreme Blast",
+        "number": 155,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Xysth Guard",
+        "number": 193,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Adversary's Navigator",
-        "number": 11,
+        "number": 14,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Al's Trial",
+        "card_name": "Ael's Trial",
         "number": 52,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Brooding Pact",
-        "number": 88,
+        "number": 89,
         "shape": "battle split",
         "set": "HEX"
     },
     {
-        "card_name": "Supreme Blast",
-        "number": 157,
+        "card_name": "Trophy Hunter",
+        "number": 156,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Aggressive Hazard",
-        "number": 160,
+        "number": 159,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Arcane Rallier",
-        "number": 12,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Attention Grab",
-        "number": 53,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Corrupted Worker",
-        "number": 94,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Ba's Prodigy",
-        "number": 124,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Detached Finger",
-        "number": 169,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Arena Boss",
-        "number": 13,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Fortune's Favor",
-        "number": 61,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Expendable Paladin",
-        "number": 97,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Ba's Trial",
-        "number": 125,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Grist's Devoted",
-        "number": 175,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Bound as Brothers",
         "number": 15,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Hold Down",
-        "number": 66,
-        "shape": "battle split",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Forgotten Champion",
-        "number": 98,
+        "card_name": "Attention Grab",
+        "number": 56,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Chaotic Pyromancer",
-        "number": 128,
+        "card_name": "Corrupted Worker",
+        "number": 96,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Hive Explorer",
-        "number": 176,
+        "card_name": "Ba's Prodigy",
+        "number": 125,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Catch the Show",
+        "card_name": "Cross-Pollinate",
+        "number": 166,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Arena Boss",
         "number": 16,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Let the Games Begin",
-        "number": 69,
+        "card_name": "Cravakian Ring Dancer",
+        "number": 59,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Guard Fixer",
+        "card_name": "Expendable Paladin",
+        "number": 99,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Ba's Trial",
+        "number": 126,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Detached Finger",
+        "number": 167,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Bound as Brothers",
+        "number": 18,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Fortune's Favor",
+        "number": 65,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Forgotten Deity",
         "number": 100,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Competitive Spirit Tamer",
-        "number": 130,
+        "number": 131,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Hive Sentinel",
-        "number": 177,
+        "card_name": "Grist's Devoted",
+        "number": 173,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Claimed by Trials",
-        "number": 18,
+        "card_name": "Catch the Show",
+        "number": 19,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Lost Cause",
+        "card_name": "Kryslavar Golem",
         "number": 70,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Hiveheart Mother",
+        "card_name": "Guard Fixer",
+        "number": 101,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Fortune's Channeler",
+        "number": 135,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Hive Explorer",
+        "number": 174,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Claimed by Trials",
+        "number": 21,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Let the Games Begin",
+        "number": 71,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Hiveheart Guardian",
         "number": 102,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Game Master",
-        "number": 135,
+        "number": 136,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Host the Tournament",
-        "number": 178,
+        "card_name": "Hive Sentinel",
+        "number": 175,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Medical Field",
-        "number": 28,
-        "shape": "battle split",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Reality Referee",
-        "number": 73,
+        "card_name": "Competitor's Hammer",
+        "number": 23,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "The House and The Brood",
+        "card_name": "Lost Cause",
+        "number": 72,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "A House and a Brood",
         "number": 104,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Half-Time Performer",
-        "number": 138,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Opposing Form",
-        "number": 183,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Mimi, Grounds Explorer",
-        "number": 29,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Reality Slip",
-        "number": 74,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Kiss of Defeat",
-        "number": 105,
         "shape": "normal",
         "set": "HEX"
     },
@@ -504,26 +474,26 @@
         "set": "HEX"
     },
     {
-        "card_name": "Pit Hydra",
-        "number": 184,
+        "card_name": "Host the Tournament",
+        "number": 176,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Paragon of Competition",
+        "card_name": "Medical Field",
         "number": 30,
+        "shape": "battle split",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Master of Nari's Veil",
+        "number": 73,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Sefolian Golem",
-        "number": 75,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Last of the Lost",
-        "number": 107,
+        "card_name": "Kiss of Defeat",
+        "number": 105,
         "shape": "normal",
         "set": "HEX"
     },
@@ -534,26 +504,26 @@
         "set": "HEX"
     },
     {
-        "card_name": "Pollination Crossing",
-        "number": 185,
+        "card_name": "Opposing Form",
+        "number": 179,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Peak Performer",
-        "number": 32,
+        "card_name": "Mimi, Grounds Explorer",
+        "number": 31,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Sefolian Javelineer",
-        "number": 76,
-        "shape": "normal",
+        "card_name": "Out in the Cold",
+        "number": 74,
+        "shape": "battle split",
         "set": "HEX"
     },
     {
-        "card_name": "Morgan's Order",
-        "number": 110,
+        "card_name": "Last of the Lost",
+        "number": 106,
         "shape": "normal",
         "set": "HEX"
     },
@@ -564,19 +534,49 @@
         "set": "HEX"
     },
     {
-        "card_name": "Power to Devour",
-        "number": 186,
+        "card_name": "Pit Hydra",
+        "number": 181,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Seto San's Wake",
+        "card_name": "Paragon of Competition",
+        "number": 32,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Reality Referee",
+        "number": 76,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Morgan's Order",
+        "number": 109,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Relentless Rival",
+        "number": 149,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Power to Devour",
+        "number": 182,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Peak Performer",
         "number": 34,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Sunstan Exemplar",
+        "card_name": "Reality Slip",
         "number": 77,
         "shape": "normal",
         "set": "HEX"
@@ -588,50 +588,20 @@
         "set": "HEX"
     },
     {
-        "card_name": "Second Burst",
-        "number": 151,
+        "card_name": "Rookie's Mentor",
+        "number": 150,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Return from the Fallen",
-        "number": 189,
+        "number": 185,
         "shape": "battle split",
         "set": "HEX"
     },
     {
-        "card_name": "Tarase's Immortal",
-        "number": 40,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Sunstan Ring Dancer",
-        "number": 79,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Tarase's Trial",
-        "number": 116,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Self-Made Challenger",
-        "number": 152,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Sefolian Athlete",
-        "number": 190,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Training Regiment",
-        "number": 43,
+        "card_name": "Seto San's Wake",
+        "number": 36,
         "shape": "normal",
         "set": "HEX"
     },
@@ -642,32 +612,62 @@
         "set": "HEX"
     },
     {
+        "card_name": "Tarase's Trial",
+        "number": 115,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Second Burst",
+        "number": 151,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Sih's Servant",
+        "number": 187,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Tarase's Immortal",
+        "number": 41,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Vioradell Javelineer",
+        "number": 83,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
         "card_name": "Verce, the Big Dreamer",
         "number": 118,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Strike the Moment",
-        "number": 153,
-        "shape": "battle split",
+        "card_name": "Self-Made Champ",
+        "number": 152,
+        "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Sih's Servant",
-        "number": 192,
+        "card_name": "Sih's Trial",
+        "number": 188,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Victory Summoner",
-        "number": 45,
+        "number": 46,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Wide Receiver",
-        "number": 84,
+        "number": 85,
         "shape": "normal",
         "set": "HEX"
     },
@@ -678,151 +678,181 @@
         "set": "HEX"
     },
     {
-        "card_name": "Sunsta Risktaker",
+        "card_name": "Strike the Moment",
         "number": 154,
+        "shape": "battle split",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Thaloren Caretaker",
+        "number": 190,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Sih's Trial",
-        "number": 193,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Competitor's Hammer",
-        "number": 20,
+        "card_name": "Daring Combatant",
+        "number": 24,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Acceptance",
-        "number": 48,
+        "number": 50,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Al's Experiment",
+        "card_name": "Ael's Experiment",
         "number": 86,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Wild Invoker",
-        "number": 158,
+        "number": 157,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Api's Blessing",
-        "number": 162,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Dearing Combatant",
-        "number": 21,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Aftershow",
-        "number": 49,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Bitter History",
-        "number": 87,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Burning Desire",
-        "number": 126,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Cenari's Pulverizer",
-        "number": 166,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Gift of Pardon",
-        "number": 23,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Diving Contestant",
-        "number": 55,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Cenari's Youngling",
-        "number": 92,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Champion's Strike",
-        "number": 127,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Challenger Mantis",
-        "number": 167,
+        "number": 161,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Grand Hexetic",
-        "number": 24,
+        "number": 26,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Fairy Duelist",
-        "number": 58,
+        "card_name": "Aftershow",
+        "number": 53,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Concede",
-        "number": 93,
+        "card_name": "Bitter History",
+        "number": 88,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Child of Chance",
-        "number": 129,
+        "card_name": "Burning Desire",
+        "number": 127,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Crawling Infestation",
+        "card_name": "Cenari's Pulverizer",
+        "number": 164,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Head Hunter",
+        "number": 27,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Answer the Call",
+        "number": 55,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Calerast Courtess",
+        "number": 91,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Champion's Strike",
+        "number": 128,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Explorer of the Den",
         "number": 168,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Guided Competitor",
-        "number": 25,
+        "card_name": "Just Like We Practiced",
+        "number": 29,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Blade of the Fair",
+        "number": 57,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Cenari's Youngling",
+        "number": 93,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Chaotic Pyromancer",
+        "number": 129,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Field Patrol",
+        "number": 169,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Practice Partners",
+        "number": 35,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Festive Jester",
-        "number": 59,
+        "number": 63,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Crowd's Favorite",
+        "card_name": "Challenger Mantis",
+        "number": 94,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Child of Chance",
+        "number": 130,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Field Stitcher",
+        "number": 170,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Shake the Arena",
+        "number": 37,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Final Preperations",
+        "number": 64,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Concede",
         "number": 95,
         "shape": "normal",
         "set": "HEX"
@@ -834,26 +864,26 @@
         "set": "HEX"
     },
     {
-        "card_name": "Explorer of the Den",
-        "number": 170,
+        "card_name": "Flight of the Bumblebee",
+        "number": 171,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Just Like We Practiced",
-        "number": 27,
+        "card_name": "Syld Avenger",
+        "number": 39,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Final Preperations",
-        "number": 60,
+        "card_name": "Gambler's Hex",
+        "number": 66,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Ex-House Dealer",
-        "number": 96,
+        "card_name": "Crowd's Favorite",
+        "number": 97,
         "shape": "normal",
         "set": "HEX"
     },
@@ -864,110 +894,80 @@
         "set": "HEX"
     },
     {
-        "card_name": "Field Stitcher",
-        "number": 171,
+        "card_name": "Lady's Favorite",
+        "number": 177,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Practice Drills",
-        "number": 33,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Gambler's Hex",
-        "number": 62,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Gift of Infection",
-        "number": 99,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Gift of Favors",
-        "number": 136,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Flight of the Bumblebee",
-        "number": 172,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Shake the Arena",
-        "number": 35,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Gift of Knowledge",
-        "number": 63,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Hiveheart Contestant",
-        "number": 101,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Highroller's Blaze",
-        "number": 139,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Gift of Cycles",
-        "number": 173,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Soaring Striker",
-        "number": 37,
+        "card_name": "Team Spirit",
+        "number": 42,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Hex Mage",
-        "number": 65,
+        "number": 68,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Ex-House Dealer",
+        "number": 98,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "High-Roller's Blaze",
+        "number": 138,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Little Victory",
+        "number": 178,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Tournament Favorite",
+        "number": 43,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Kick Off",
+        "number": 69,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Match Fix",
-        "number": 109,
+        "number": 108,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Idow Hunter",
-        "number": 140,
+        "card_name": "Nari's Disciple",
+        "number": 141,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Lady's Favorite",
-        "number": 180,
+        "card_name": "Rampant Charge",
+        "number": 183,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Syld Avenger",
-        "number": 38,
+        "card_name": "Training Regimen",
+        "number": 45,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Ice Hockey Elemental",
-        "number": 67,
+        "card_name": "Rising Contender",
+        "number": 78,
         "shape": "normal",
         "set": "HEX"
     },
@@ -984,44 +984,14 @@
         "set": "HEX"
     },
     {
-        "card_name": "Little Victory",
-        "number": 181,
+        "card_name": "Retired General",
+        "number": 184,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Tournament Favorite",
-        "number": 41,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Kick Off",
-        "number": 68,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Tarase's Disiciple",
-        "number": 114,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Petty Adversary",
-        "number": 145,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Push Forward",
-        "number": 187,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Triumphant Reward",
-        "number": 44,
+        "card_name": "Warrior's Bond",
+        "number": 47,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1033,25 +1003,25 @@
     },
     {
         "card_name": "Tarase's Influence",
-        "number": 115,
+        "number": 114,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Reality Shatter",
-        "number": 148,
+        "card_name": "Petty Adversary",
+        "number": 145,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Retired General",
-        "number": 188,
+        "card_name": "Sticky Situation",
+        "number": 189,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Warrior's Bond",
-        "number": 46,
+        "card_name": "Wayward Warrior",
+        "number": 48,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1068,26 +1038,26 @@
         "set": "HEX"
     },
     {
-        "card_name": "Rookie's Mentor",
-        "number": 150,
+        "card_name": "Reality Shatter",
+        "number": 148,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Sticky Situation",
-        "number": 194,
+        "card_name": "Thorn In Your Side",
+        "number": 191,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Wayward Warrior",
-        "number": 47,
+        "card_name": "Worthy Opponent",
+        "number": 49,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Ward Off",
-        "number": 83,
+        "number": 84,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1098,16 +1068,13 @@
         "set": "HEX"
     },
     {
-        "card_name": "Sunstan Wildsword",
-        "number": 156,
+        "card_name": "Soaring Striker",
+        "number": 153,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Thorn In Your Side",
-        "number": 195,
-        "shape": "normal",
-        "set": "HEX"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1120,7 +1087,7 @@
     },
     {
         "card_name": "Will of Ba",
-        "number": 159,
+        "number": 158,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1144,457 +1111,457 @@
     },
     {
         "card_name": "Fraid, Once Banished",
-        "number": 210,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Archmage's Gambit",
-        "number": 198,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Grist and Cenari",
-        "number": 214,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Saba, the First Champion",
-        "number": 238,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Field Designer",
-        "number": 209,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Soul Painter",
-        "number": 244,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "King of the House",
-        "number": 223,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Grist, the World Hunger",
-        "number": 215,
-        "shape": "planeswalker",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Seto San, the Defending",
-        "number": 242,
-        "shape": "planeswalker",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Cycle of Ascendancy",
-        "number": 206,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Fraid's Mercenary",
-        "number": 211,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Nari, Possibility Archmagi",
-        "number": 227,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Brood Rivalbreaker",
-        "number": 201,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Born to Entertainment",
-        "number": 200,
-        "shape": "battle split",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Sefolian Sproutling",
-        "number": 240,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Order of the Tribunal",
-        "number": 230,
-        "shape": "battle split",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Take Fate",
-        "number": 248,
-        "shape": "battle split",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Conflicting Minds",
-        "number": 205,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Buzz Off",
-        "number": 202,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Titanic Dreadbeak",
-        "number": 249,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Remove the Competition",
-        "number": 235,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Wade Through Chaos",
-        "number": 254,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Princess of the Hive",
-        "number": 233,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Next Challenge",
-        "number": 228,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Victims of Fate",
-        "number": 252,
-        "shape": "battle split",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Vengeful Adversary",
-        "number": 251,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "The Game Cube",
-        "number": 212,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Underdog Story",
-        "number": 250,
-        "shape": "battle split",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Rex, Two-Time Champion",
-        "number": 236,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Matthue, Forever Dreaming",
-        "number": 224,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Arena for the Fallen",
-        "number": 199,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Jaroh, the Dearing",
-        "number": 222,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Det, Cenari's Favorite",
         "number": 207,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Acewing Striker",
-        "number": 197,
+        "card_name": "Archmage's Gambit",
+        "number": 195,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Sweetsong Whisperer",
-        "number": 247,
+        "card_name": "Grist and Cenari",
+        "number": 211,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Morgan, Hexetic Leader",
-        "number": 225,
+        "card_name": "Saba, the First Champion",
+        "number": 236,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Streetsmart Gambler",
-        "number": 246,
+        "card_name": "Field Designer",
+        "number": 206,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Praying Mantis",
-        "number": 232,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "One More Round",
-        "number": 229,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Victory Chimes",
-        "number": 253,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Overseer of the Show",
-        "number": 231,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Risk and Reward",
-        "number": 270,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Reap Benefits",
-        "number": 234,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Sers, the Unbound",
+        "card_name": "Soul Painter",
         "number": 241,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Shared Dreams",
-        "number": 274,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Deepest Desires",
-        "number": 258,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Gateway Gambler",
-        "number": 213,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Mother's Touch",
-        "number": 267,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Sponsor's Gift",
-        "number": 275,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Ceremonial Opening",
-        "number": 203,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Display of Power",
-        "number": 208,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Hex-Event Broadcaster",
-        "number": 216,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Hexbound Duel",
-        "number": 217,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Champion Ringleader",
-        "number": 204,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Sefolian Acrobat",
-        "number": 239,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Hiveheart Champion",
-        "number": 219,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Stack the Odds",
-        "number": 245,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Hiveheart Challenger",
+        "card_name": "King of the House",
         "number": 218,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Idow Fighter",
-        "number": 221,
+        "card_name": "Grist, the World Hunger",
+        "number": 212,
+        "shape": "planeswalker",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Seto San, the Defending",
+        "number": 239,
+        "shape": "planeswalker",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Dragon of the Springs",
+        "number": 204,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Sih's Combatant",
+        "card_name": "Fraid's Mercenary",
+        "number": 208,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Nari, Possibility Archmage",
+        "number": 224,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Brood Rivalbreaker",
+        "number": 199,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Born for Entertainment",
+        "number": 197,
+        "shape": "battle split",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Everwing Phoenix",
+        "number": 205,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Order of the Tribunal",
+        "number": 227,
+        "shape": "battle split",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Take Fate",
+        "number": 245,
+        "shape": "battle split",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Conflicting Minds",
+        "number": 201,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Next Challenge",
+        "number": 225,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Returning Roots",
+        "number": 234,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Remove the Competition",
+        "number": 233,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Wade Through Chaos",
+        "number": 251,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Princess of the Hive",
+        "number": 231,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Overwhelming Verdict",
+        "number": 229,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Victims of Fate",
+        "number": 249,
+        "shape": "battle split",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Vengeful Adversary",
+        "number": 248,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "The Game Cube",
+        "number": 209,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Underdog Story",
+        "number": 247,
+        "shape": "battle split",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Rex, Two-Time Champion",
+        "number": 235,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Matthue, Forever Dreaming",
+        "number": 219,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Arena for the Fallen",
+        "number": 196,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Jaroh, the Dearing",
+        "number": 217,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Det, Cenari's Favorite",
+        "number": 202,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Acewing Striker",
+        "number": 194,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Sweetsong Whisperer",
+        "number": 244,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Morgan, Hexetic Leader",
+        "number": 222,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Streetsmart Gambler",
         "number": 243,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "House Guard",
-        "number": 220,
+        "card_name": "Praying Mantis",
+        "number": 230,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Determined Image",
-        "number": 259,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Royal Hexurity",
-        "number": 237,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Morgan's Teachings",
+        "card_name": "One More Round",
         "number": 226,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Nature's Awakening",
+        "card_name": "Victory Chimes",
+        "number": 250,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Overseer of the Show",
+        "number": 228,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Risk and Reward",
+        "number": 266,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Reap Benefits",
+        "number": 232,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Sers, the Unbound",
+        "number": 238,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Shared Dreams",
         "number": 268,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Battle Medic",
-        "number": 255,
+        "card_name": "Deepest Desires",
+        "number": 253,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Experimental Research",
-        "number": 260,
+        "card_name": "Gateway Gambler",
+        "number": 210,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Cenari's Brood",
-        "number": 256,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Coming to Aid",
-        "number": 257,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Sefol Dragon",
-        "number": 272,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Senaric Gifter",
-        "number": 273,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Hex Seeker",
+        "card_name": "Mother's Touch",
         "number": 263,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Grim Salvage",
-        "number": 261,
+        "card_name": "Sponsor's Gift",
+        "number": 269,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Idow Rider",
+        "card_name": "Ceremonial Opening",
+        "number": 200,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Display of Power",
+        "number": 203,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Hex-Event Broadcaster",
+        "number": 213,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Brood Grubbers",
+        "number": 198,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Idow Symbol",
+        "number": 216,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Sefolian Acrobat",
+        "number": 237,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "House Guard",
+        "number": 215,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Stack the Odds",
+        "number": 242,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Hexbound Duel",
+        "number": 214,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Mob's Ringleader",
+        "number": 220,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Sih's Combatant",
+        "number": 240,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Tarase's Collector",
+        "number": 246,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Experimental Research",
+        "number": 255,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Molted Juggernaut",
+        "number": 221,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Morgan's Teachings",
+        "number": 223,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Nature's Awakening",
         "number": 264,
         "shape": "normal",
         "set": "HEX"
     },
     {
+        "card_name": "Battle Medic",
+        "number": 252,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Hex Seeker",
+        "number": 258,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Defender of the Brood",
+        "number": 254,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Kaomor Ex-Captain",
+        "number": 259,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Vioradell Dragon",
+        "number": 273,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Frestith Heavyweight",
+        "number": 256,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Verrith Imager",
+        "number": 272,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Grim Salvage",
+        "number": 257,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Kaomor's Might",
+        "number": 260,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
         "card_name": "Wayfarer's Companion",
-        "number": 277,
+        "number": 274,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Unmake",
-        "number": 276,
+        "number": 271,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1602,14 +1569,14 @@
         "card_name": "e"
     },
     {
-        "card_name": "Guardian of the Brood",
-        "number": 262,
+        "card_name": "Ulkk'Ther Mother",
+        "number": 270,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Round Three",
-        "number": 271,
+        "number": 267,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1633,19 +1600,19 @@
     },
     {
         "card_name": "The Living Dream",
-        "number": 266,
+        "number": 262,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Obeka, Bracket Breaker",
-        "number": 269,
+        "number": 265,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Let It Commence",
-        "number": 265,
+        "number": 261,
         "shape": "battle split",
         "set": "HEX"
     },
@@ -1670,13 +1637,13 @@
     "a->colorless",
     {
         "card_name": "A Queen is Waiting",
-        "number": 9,
+        "number": 11,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "The Champion's Prize",
-        "number": 285,
+        "number": 281,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1694,25 +1661,25 @@
     },
     {
         "card_name": "Work Assistant",
-        "number": 10,
+        "number": 13,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Api's Assessor",
-        "number": 279,
+        "number": 276,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Idolized Colossus",
-        "number": 290,
+        "number": 287,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Royal Jewel",
-        "number": 291,
+        "number": 288,
         "shape": "transform double faced",
         "set": "HEX"
     },
@@ -1742,105 +1709,111 @@
     },
     {
         "card_name": "Opening Bout",
-        "number": 7,
+        "number": 10,
         "shape": "battle split",
         "set": "HEX"
     },
     {
-        "card_name": "Prismatic Elemental",
-        "number": 8,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Api's Chosen",
-        "number": 280,
+        "card_name": "Talented Sentrysmith",
+        "number": 12,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Brood Infiltrator",
-        "number": 283,
+        "number": 279,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Game Promotor",
-        "number": 286,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Hexrena",
-        "number": 288,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Train Bot",
-        "number": 294,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Al's Reward",
-        "number": 278,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Api's Reward",
-        "number": 281,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Ba's Reward",
+        "card_name": "Chosen Eye",
         "number": 282,
         "shape": "normal",
         "set": "HEX"
     },
     {
+        "card_name": "Game Promoter",
+        "number": 283,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Hexrena",
+        "number": 285,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Training Bot",
+        "number": 291,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Honorable Duelist",
+        "number": 7,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "In This Together",
+        "number": 8,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Kingdom's Champion",
+        "number": 9,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Ael's Reward",
+        "number": 275,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Api's Reward",
+        "number": 277,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Ba's Reward",
+        "number": 278,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
         "card_name": "Cenari's Reward",
+        "number": 280,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Gate's Inspector",
         "number": 284,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Gift of Truth",
-        "number": 287,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
         "card_name": "Hexrena Golem",
-        "number": 289,
+        "number": 286,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Sih's Reward",
-        "number": 292,
+        "number": 289,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Tarase's Reward",
-        "number": 293,
+        "number": 290,
         "shape": "normal",
         "set": "HEX"
-    },
-    {
-        "card_name": "Trophy Inspector",
-        "number": 295,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1857,31 +1830,31 @@
     "a->land",
     {
         "card_name": "Sinis, Tarase's Network",
+        "number": 305,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Verrith, Ael's Illusion",
         "number": 308,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Verrith, Al's Illusion",
-        "number": 311,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
         "card_name": "Xysth, Cenari's Nest",
-        "number": 313,
+        "number": 310,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Kaomar, Ba's Arena",
-        "number": 302,
+        "card_name": "Kaomor, Ba's Arena",
+        "number": 298,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Vioradell, Sih's Haven",
-        "number": 312,
+        "number": 309,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1902,31 +1875,31 @@
     },
     {
         "card_name": "Desolate Barrens",
-        "number": 297,
+        "number": 293,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Roaring Cascade",
-        "number": 306,
+        "number": 303,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Somber Marsh",
-        "number": 309,
+        "number": 306,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Jagged Crag",
-        "number": 301,
+        "number": 297,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Rainforest Spring",
-        "number": 305,
+        "number": 302,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1947,49 +1920,49 @@
     },
     {
         "card_name": "Barren Desolation",
-        "number": 296,
+        "number": 292,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Glazed Palace",
-        "number": 299,
+        "number": 295,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Grim Bastion",
-        "number": 300,
+        "number": 296,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Magmatic Torrent",
-        "number": 303,
+        "number": 299,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Mysterious Cataract",
-        "number": 304,
+        "number": 300,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Sunlit Highland",
-        "number": 310,
+        "number": 307,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Eye of Api",
-        "number": 298,
+        "number": 294,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Shifting Arena",
-        "number": 307,
+        "number": 304,
         "shape": "normal",
         "set": "HEX"
     },
@@ -2016,33 +1989,51 @@
     },
     {
         "card_name": "Plains",
-        "number": 314,
+        "number": 311,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Island",
-        "number": 315,
+        "number": 312,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Swamp",
-        "number": 316,
+        "number": 313,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Mountain",
-        "number": 317,
+        "number": 314,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Forest",
-        "number": 318,
+        "number": 315,
         "shape": "normal",
         "set": "HEX"
+    },
+    {
+        "card_name": "Plains",
+        "number": 301,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -2065,37 +2056,37 @@
     },
     {
         "card_name": "Warrior 22HEX",
-        "number": 17,
+        "number": 16,
         "shape": "token",
         "set": "HEX"
     },
     {
         "card_name": "Chest of Desires HEX",
-        "number": 18,
+        "number": 17,
         "shape": "token",
         "set": "HEX"
     },
     {
         "card_name": "Sigil of Conquest HEX",
-        "number": 19,
+        "number": 18,
         "shape": "token",
         "set": "HEX"
     },
     {
         "card_name": "Sword of Victory HEX",
-        "number": 20,
+        "number": 19,
         "shape": "token",
         "set": "HEX"
     },
     {
         "card_name": "Treasure HEX",
-        "number": 21,
+        "number": 20,
         "shape": "token",
         "set": "HEX"
     },
     {
         "card_name": "Trophy Reminder",
-        "number": 22,
+        "number": 21,
         "shape": "token",
         "set": "HEX"
     },
@@ -2118,7 +2109,7 @@
         "set": "HEX"
     },
     {
-        "card_name": "white Warrior 11HEX",
+        "card_name": "blue Illusion 11HEX",
         "number": 5,
         "shape": "token",
         "set": "HEX"
@@ -2136,26 +2127,26 @@
         "set": "HEX"
     },
     {
-        "card_name": "Dragon Spirit",
+        "card_name": "Dragon",
         "number": 8,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "green Insect 11HEX",
+        "card_name": "Plant",
         "number": 9,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "Plant",
-        "number": 10,
+        "card_name": "Emblem",
+        "number": 22,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "red Insect 11HEX",
-        "number": 14,
+        "card_name": "blue Illusion 11HEX",
+        "number": 10,
         "shape": "token",
         "set": "HEX"
     },
@@ -2172,20 +2163,20 @@
         "set": "HEX"
     },
     {
-        "card_name": "black and green Insect 33HEX",
+        "card_name": "green Insect 11HEX",
         "number": 13,
         "shape": "token",
         "set": "HEX"
     },
     {
         "card_name": "Saba's Trophy",
-        "number": 15,
+        "number": 14,
         "shape": "token",
         "set": "HEX"
     },
     {
         "card_name": "white and black Spirit Warrior 11HEX",
-        "number": 16,
+        "number": 15,
         "shape": "token",
         "set": "HEX"
     },

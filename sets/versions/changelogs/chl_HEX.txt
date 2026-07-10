@@ -1,4 +1,845 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Practice Partners added.
+Daring Combatant added.
+Head Hunter added.
+Tarase's Collector added.
+Frestith Heavyweight added.
+Team Spirit added.
+Answer the Call added.
+Blade of the Fair added.
+Rising Contender added.
+Verrith Imager added.
+Vioradell Dragon added.
+Ael's Experiment added.
+Calerast Courtess added.
+Honorable Duelist added.
+Defender of the Brood added.
+Molted Juggernaut added.
+Ulkk'Ther Mother added.
+Idow Symbol added.
+Worthy Opponent added.
+Mob's Ringleader added.
+Kaomor Ex-Captain added.
+Kaomor's Might added.
+High-Roller's Blaze added.
+Field Patrol added.
+Rampant Charge added.
+Ael's Reward added.
+Gate's Inspector added.
+Chosen Eye added.
+Talented Sentrysmith added.
+Training Regimen added.
+Vioradell Javelineer added.
+Kryslavar Golem added.
+Master of Nari's Veil added.
+Cravakian Ring Dancer added.
+Ael's Trial added.
+Hiveheart Guardian added.
+A House and a Brood added.
+Forgotten Deity added.
+Self-Made Champ added.
+Relentless Rival added.
+Fortune's Channeler added.
+High-End Security added.
+Echo Chamber added.
+Tunnel Keeper added.
+Baroness of Calerast added.
+Price for Victory added.
+Overwhelming Verdict added.
+Broodnest Raider added.
+Xysth Guard added.
+Kaomor, Ba's Arena added.
+Verrith, Ael's Illusion added.
+Training Bot added.
+Cross-Pollinate added.
+Game Promoter added.
+Returning Roots added.
+Impossible Oddsmaker added.
+Grand Revelation added.
+All That Is Possible added.
+Trophy Hunter added.
+Changemancer added.
+Palace Councillor added.
+Everwing Phoenix added.
+Nari, Possibility Archmage added.
+Merciless Reaver added.
+Thaloren Caretaker added.
+Ael, the Second Chance added.
+Dragon added.
+Eve, the Paradoxical added.
+Out in the Cold added.
+Born for Entertainment added.
+Dragon of the Springs added.
+blue Illusion 11HEX added.
+In This Together added.
+Brood Grubbers added.
+Kingdom's Champion added.
+Emblem added.
+blue Illusion 11HEX added.
+
+Practice Drills removed.
+Dearing Combatant removed.
+Idow Hunter removed.
+Hiveheart Champion removed.
+Senaric Gifter removed.
+Triumphant Reward removed.
+Gift of Pardon removed.
+Diving Contestant removed.
+Fairy Duelist removed.
+Ice Hockey Elemental removed.
+Determined Image removed.
+Sefol Dragon removed.
+Gift of Knowledge removed.
+Al's Experiment removed.
+Hiveheart Contestant removed.
+Tarase's Disiciple removed.
+Hiveheart Challenger removed.
+Guardian of the Brood removed.
+Royal Hexurity removed.
+Cenari's Brood removed.
+Gift of Infection removed.
+Idow Fighter removed.
+Sunstan Wildsword removed.
+Guided Competitor removed.
+Champion Ringleader removed.
+Idow Rider removed.
+Coming to Aid removed.
+Gift of Favors removed.
+Highroller's Blaze removed.
+Crawling Infestation removed.
+Push Forward removed.
+Gift of Cycles removed.
+Al's Reward removed.
+Gift of Truth removed.
+Trophy Inspector removed.
+Api's Chosen removed.
+Prismatic Elemental removed.
+Training Regiment removed.
+Sefolian Javelineer removed.
+Sefolian Golem removed.
+Sunstan Exemplar removed.
+Sunstan Ring Dancer removed.
+Al's Trial removed.
+Hiveheart Mother removed.
+The House and The Brood removed.
+Forgotten Champion removed.
+Self-Made Challenger removed.
+Half-Time Performer removed.
+Sunsta Risktaker removed.
+Highend Security removed.
+Mirror Match removed.
+Cenari's Keeper removed.
+Knight of the Black Stinger removed.
+Accept Defeat removed.
+Buzz Off removed.
+Brood Hunter removed.
+Cenari Warrior removed.
+Kaomar, Ba's Arena removed.
+Verrith, Al's Illusion removed.
+Train Bot removed.
+Pollination Crossing removed.
+Game Promotor removed.
+Cycle of Ascendancy removed.
+Sunstan Oddsmaker removed.
+Gift of Revelation removed.
+Ripples of Influence removed.
+Conqueror of Challengers removed.
+Master of the Craft removed.
+Lady of the Hiveheart removed.
+Titanic Dreadbeak removed.
+black and green Insect 33HEX removed.
+red Insect 11HEX removed.
+Nari, Possibility Archmagi removed.
+Sefolian Athlete removed.
+Al, the Second Chance removed.
+Dragon Spirit removed.
+Eve Inn, the Paradoxical removed.
+Hold Down removed.
+Born to Entertainment removed.
+Sefolian Sproutling removed.
+white Warrior 11HEX removed.
+
+Soaring Striker
+cost: {2}{W} => {1}{R}
+rules_text: First strike
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i] => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+During your turn, this creature has first strike.
+{4}{W}: Creatures you control get +1/+1 until end of turn.
+pt: 2/2 => 2/1
+
+Battle Medic
+
+Syld Avenger
+rules_text: This spell costs {1} less to cast for each creature that attacked this turn.
+Flying => This spell costs {1} less to cast for each creature card and/or battle card in your graveyard.
+Flying
+pt: 4/4 => 3/3
+
+Competitor's Hammer
+
+Warrior's Bond
+rules_text: Choose one —
+• Create two 1/1 white Warrior creature tokens.
+• Put a +1/+1 counter on each creature you control.
+Double Down—Sacrifice three creatures you control. [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Create two 1/1 white Warrior creature tokens.
+• Put a +1/+1 counter on each creature you control.
+Double down—Sacrifice three creatures you control. [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Hex Seeker
+
+Festive Jester
+rules_text: When this creature enters, exile a noncreature, nonland card at random from target player's graveyard. You may cast that card from exile for as long as it remains exiled and spend mana of any color to cast that card. => When this creature enters, you may exile target noncreature, nonland from your graveyard. You may cast it for as long as it remains exiled by paying {2} in addition to their other costs.
+
+Kick Off
+type: Enchantment => Sorcery
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, return target creature to its owner's hand. => Return target creature to its owner's hand. If that creature's mana value was 4 or greater, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Aftershow
+rules_text: Flash
+Whenever Aftershow enters and whenever you flourish 6, surveil 1 then draw a card. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Flash
+Whenever this enchantment enters or you flourish 6, surveil 1 then draw a card. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Gambler's Hex
+
+Ward Off
+rules_text: Counter target spell unless its controller pays {1}. If you control a permanent with the highest mana value among permanents on the battlefield, instead counter that spell unless its controller pays {4}. => Counter target spell unless its controller pays {2}. If you flourished this turn, instead counter that spell..
+
+Acceptance
+type: Sorcery => Instant
+cost: {3}{U} => {X}{U}
+rules_text: Put up to one target nonland permanent on top of its owner's library.
+Proliferate [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Choose one —
+• Counter target spell unless its controller pays {X}. 
+• Return target nonland permanent with mana value X or less to its owner's hand.
+Proliferate [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Cenari's Youngling
+rules_text: Deathtouch
+{2}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. Activate only as a sorcery. => Deathtouch
+Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+pt: 1/1 => 0/0
+
+Challenger Mantis
+cost: {2}{G} => {2}{B}
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{3}{U}: This creature gains flying until end of turn. Untap this creature. => Flying
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{3}{G}: Put a +1/+1 counter on this creature.
+pt: 3/3 => 1/3
+
+Bitter History
+
+Concede
+rules_text: Choose one —
+• Each opponent discards a card.
+• Each opponent loses 2 life and you gain 2 life.
+Double Down {3}{B} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Each opponent discards a card.
+• Each opponent loses 2 life and you gain 2 life.
+Double down {3}{B} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Crowd's Favorite
+type: Enchantment => Sorcery
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, each opponent discards two cards. => Draw two cards and create a Treasure token. You lose 2 life. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Waste None
+rules_text: Whenever a non-Zombie creature dies this turn, create a 1/1 black Zombie Insect creature token with flying. => Whenever a nontoken creature dies this turn, create a 0/0 black and green Insect creature token with brood 1. [i](That creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+
+Match Fix
+rules_text: Enchant creature you control
+Enchanted creature gets +2/-2.
+Whenever enchanted creature dies, choose one —
+• Return that creature to the battlefield.
+• Return another target creature card from your graveyard to the battlefield. => Enchant creature you control
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Enchanted creature gets +2/-2.
+Whenever enchanted creature dies, return a creature card from your graveyard to the battlefield.
+
+Grim Salvage
+
+Rookie's Mentor
+
+Dribble Bomber
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever this creature or another creature enters under you control, up to one target creature can't block this turn. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever this creature enters, target creature can't block this turn.
+pt: 3/2 => 4/3
+
+Nari's Disciple
+cost: {R} => {2}{R}
+rules_text: Haste
+Whenever you cast a card from anywhere other than your hand, this creature gets +1/+1 until end of turn.
+{R}, Discard your hand, Sacrifice this creature: Exile the top X cards of your library, where X is this creatures power. You may play those cards until the end of your next turn. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you cast a spell from anywhere other than your hand, this creature gets +2/+0 until end of turn.
+pt: 1/2 => 2/3
+
+Hex Mage
+rules_text: Whenever you cast a spell from anywhere other than your hand, untap this creature.
+{R}, {T}: This creature deals 2 damage to each opponent. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{5}{R}: Exile the top card of your library. You may play it until the end of your next turn.
+pt: 1/4 => 2/3
+
+Dragonborn Spear
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Equipped creature gets +2/+0.
+Equip {R} [i]({R}: Attach to target creature you control. Equip only as a sorcery.)[/i] => You may cast this card as this it has flash as long as you cast it from anywhere other than your hand. If you do, you may attach it to target creature you control.
+Equipped creature gets +2/+0.
+Equip {R} [i]({R}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Round Three
+type: Sorcery => Instant
+rules_text: Choose one —
+• Create three 1/1 white Warrior creature tokens.
+• Choose up to three creatures you control. They gain double strike until end of turn.
+Double down {4}{RW}{RW} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Create three 1/1 white Warrior creature tokens.
+• Round Three deals X damage to target creature with power 3 or greater, where X is the number of creatures you control.
+
+Experimental Research
+
+Cenari's Pulverizer
+rules_text: When this creature enters, mill three cards. You may put a land card from among the milled cards into your hand. If you don't, put a +1/+1 counter on this creature. => Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+When this creature enters, mill three cards. You may put a land card from among the milled cards into your hand. If you do, remove a +1/+1 counter from this creature.
+
+Sticky Situation
+type: Sorcery => Instant
+cost: {2}{G} => {G}
+rules_text: Choose one —
+• Destroy target creature with flying.
+• Target creature you control gets +6/+6 until end of turn. => Put a +1/+1 counter on target creature. It gains reach and hexproof until end of turn.
+
+Retired General
+rules_text: When this creature enters, choose two. You may choose the same mode more than once.
+• Put a +1/+1 counter on this creature.
+• Create a 1/1 green Insect creature token. => Whenever this creature enters, create two 0/0 black and green Insect creature tokens with brood 1. [i](It enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+
+Little Victory
+type: Enchantment => Sorcery
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, search your library for a basic land card, put it onto the battlefield tapped, the shuffle. => Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Flight of the Bumblebee
+rules_text: Choose one. If you control an Insect, you may choose both instead.
+• Prevent all damage that would be dealt this turn and player's can't gain counters this turn.
+• Draw a card. => Choose one. If you control an Insect, you may choose both instead.
+• Prevent all damage that would be dealt this turn and players can't gain counters this turn.
+• Draw a card.
+
+Thorn In Your Side
+type: Instant => Sorcery
+cost: {G} => {2}{G}
+rules_text: Put a +1/+1 counter on target creature. It gains reach and hexproof until end of turn. => Choose one —
+• Destroy target creature with flying.
+• Target creature you control gets +6/+6 until end of turn.
+
+Hexrena Golem
+cost: {X} => {3}
+rules_text: This creature is all colors.
+Vigilance 
+This creature enters with a +1/+1 counter on it for each different color of mana spent to cast it. => This creature is all colors.
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{S}{S}{S}{S}: This creature gets +4/+4 until end of turn. If you control a Trophy, instead this creature gets +6/6 until end of turn. [i](Spend a different color of mana on each {S}.)[/i]
+pt: 0/0 => 2/2
+
+Roaring Cascade
+
+Api's Reward
+rules_text: This Trophy is all colors.
+{T}: Add one mana of any color
+{2}{S}{S}{S}{S}, {T}, Sacrifice this artifact: Draw three cards. => This Trophy is all colors.
+{T}: Add one mana of any color
+{2}{S}{S}{S}{S}, {T}, Sacrifice this artifact: Draw three cards. [i](Spend a different color of mana on each {S}.)[/i]
+
+Shifting Arena
+
+Ceremonial Opening
+rules_text: Draw a card.
+You may put a basic land card from your hand onto the battlefield. => Choose one —
+• Draw a card.
+• You may put a basic land card from your hand onto the battlefield.
+Double down {2}{G}{U} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Sweetsong Whisperer
+rules_text: Flying
+Other creatures you control have “{T}: Add one mana of any color.”
+At the beginning of your end step, if you spent 6 or more mana this turn, draw a card. => Flying
+Other creatures you control have “{T}: Add one mana of any color.”
+Whenever you flourish 6, draw a card. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Streetsmart Gambler
+rules_text: Whenever you cast a spell from anywhere other than your hand, target creature you control gains +1/+1 until end of turn.
+Whenever this creature becomes tapped, you may exile an instant or sorcery card from your graveyard. If you do, you may cast a copy of that exiled card this turn. => Whenever you cast a card from anywhere other than your hand, this creature deals 1 damage to each opponent.
+{T}: Exile the top card of your library. If that card is a noncreature card, you may cast it this turn.
+pt: 2/2 => 2/1
+
+Matthue, Forever Dreaming
+rules_text: Whenever you cast a spell, if there's a card in your graveyard with the same name as that spell, surveil 1. If there's three or more, you draw a card. => Whenever you flourish 6, you may copy target activated ability or spell you control. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Jaroh, the Dearing
+rules_text: Haste
+Whenever you cast a noncreature spell, choose one. If it was cast from anywhere other than your hand, choose both instead.
+• Put a +1/+1 counter on target legendary creature you control.
+• Up to one target creature can't block this turn. => Whenever you cast a spell from anywhere other than your hand, Jaroh gets +1/+1 until end of turn.
+Whenever this creature attacks, you may exile an instant or sorcery card from your graveyard. If you do, you may cast a copy of that exiled card this turn.
+
+Det, Cenari's Favorite
+cost: {1}{B}{G} => {B}{G}
+rules_text: Det enters with three +1/+1 counters on it.
+Whenever Det attacks, you may remove a +1/+1 counter from a creature you control. If you do, creatures you control get +1/+1 until end of turn. => Brood 2 [i](This creature enters with two +1/+1 counters on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+Whenever Det attacks, you may remove a +1/+1 counter from a creature you control. If you do, creatures you control get +1/+1 until end of turn.
+
+Sers, the Unbound
+rules_text: Whenever one or more creatures you control attack, exile up to one target nonland permanent you control, then return that card to the battlefield under your control. If it was attacking, you may have it return tapped and attacking. => Whenever one or more creatures you control attack, exile up to one target nonland permanent you control, then return that card to the battlefield under your control. If it was attacking, you may have it enter tapped and attacking.
+
+Harmon, the Messenger
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+Harmon is all colors.
+Vigilance
+{2}, {T}: Add {W}{U}{B}{R}{G}. Spend this mana only to cast multicolored spells. => [i](Spend a different color of mana on each {S}.)[/i]
+Harmon is all colors.
+Vigilance
+{2}, {T}: Add {W}{U}{B}{R}{G}. Spend this mana only to cast multicolored or Trophy spells.
+
+Tarase's Immortal
+rules_text: Vigilance
+You may cast this card from your graveyard as long as you gained life this turn. => Vigilance
+You mast cast this card from your graveyard as long as you've dealt damage to a battle you control this turn.
+
+Claimed by Trials
+cost: {2}{W} => {1}{W}{W}
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, exile up to one target nonland permanent until this enchantment leaves the battlefield. => When this enchantment enters, exile up to one target nonland permanent until this enchantment leaves the battlefield. Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Wide Receiver
+rules_text: This creature can't be blocked.
+Whenever this creature deals combat damage to an opponent, draw a card. Then discard a card unless you cast a card from anywhere other than your hand this turn. => This creature can't be blocked.
+Whenever this creature deals combat damage to an opponent, draw a card. Then discard a card unless you've cast a spell from anywhere other than your hand this turn.
+
+Trophy Mage
+
+Reality Slip
+rules_text: Choose one. If you've cast a spell from anywhere other than your hand this turn, choose both instead.
+• Exile target nonland permanent you control, then return that card to the battlefield.
+• Draw a card. => Choose one. If you've cast a spell from anywhere other than your hand this turn, choose both instead.
+• Exile target nonland permanent you control, then return that card to the battlefield.
+• Target player draws a card.
+
+Let the Games Begin
+cost: {1}{U} => {2}{U}
+rules_text: Whenever cast a spell with mana value 6 or greater, you may search your library for an instant or sorcery card with lesser mana value, reveal it, put it into your hand, then shuffle. => Whenever this enchantment enters or you flourish 6, search your library for an instant or sorcery card with mana value 5 or less an put it into your hand, then shuffle. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Fortune's Favor
+rules_text: Look at the top six cards of your library. You may cast a card from among them with with mana value 3 or less without paying its mana cost. Put the rest on the bottom of your library in a random order. => Look at the top six cards of your library. You may cast a card not named Fortune's Favor from among them with with mana value 3 or less without paying its mana cost. Put the rest on the bottom of your library in a random order.
+
+Verce, the Big Dreamer
+rules_text: Whenever Verce enters or attacks, you may return target nonlegendary creature card from your graveyard to your hand.
+Sacrifice another creature: Put a +1/+1 counter on Verce. => Sacrifice a creature: Choose one —
+• Verce gains +1/+1 until end of turn.
+• You gain 2 life.
+• Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+pt: 2/2 => 2/3
+
+Expendable Paladin
+rules_text: Flying
+This creature can't block.
+Whenever this creature dies, you may search your library for a card, put it into your graveyard, then shuffle. => Flying
+Brood 2 [i](This creature enters with two +1/+1 counters on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+Whenever one or more +1/+1 counters would be put on another creature you control, you may instead create that many 1/1 black Zombie Insect creature token with flying.
+pt: 2/2 => 0/0
+
+Tarase's Trial
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, any number of target opponents sacrifice a creature. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, any number of target players sacrifice a creature.
+
+Chaotic Pyromancer
+rules_text: At the beginning of combat on your turn, any opponent may have you draw a card. If no player does, this creature gets +3/+0 until end of turn. => When this creature dies, exile the top card of your library. You may play it until the end of your next turn.
+{1}: This creature gets +1/-1 until end of turn.
+pt: 0/2 => 1/2
+
+Wild Invoker
+
+Second Burst
+rules_text: Choose one —
+• Double target creatures power until end of turn.
+• Target creature gains double strike until end of turn.
+Double down {4}{R}{R} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Double target creature's power until end of turn.
+• Target creature gains double strike until end of turn.
+Double down {4}{R}{R} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Competitive Spirit Tamer
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you attack a player, create a 4/4 red Dragon Spirit creature token with flying that's tapped and attacking that player. Sacrifice that token at end of combat. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{R}: Until end of turn, this creature gets +1/+0 and up to one target creature can't block this creature.
+
+Detached Finger
+
+Sih's Servant
+cost: {1}{G}{G} => {S}{S}{G}
+rules_text: {T}: Add three mana of different colors. => [i](Spend a different color of mana on each {S}.)[/i]
+{T}: Add three mana of different colors.
+
+Hive Sentinel
+
+Hive Explorer
+rules_text: Whenever this creature enters or you flourish 6, you may exile up to two cards from graveyards. If you exiled two cards with different owners, create a 1/1 green Insect creature token. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => At the beginning of each combat, if you flourished 6 this turn, creatures you control get +1/+1 and gain vigilance until end of turn.
+{1}{G}, {T}: Create a 0/0 black and green Insect creature token with brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+pt: 2/3 => 3/3
+
+Grist's Devoted
+rules_text: When this creature enters, put a +1/+1 counter on each other creature you control.
+Whenever one or more Insects you control attack, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Whenever one or more Insects you control attack, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Catch the Show
+
+Attention Grab
+
+Host the Tournament
+
+Shared Dreams
+cost: {1}{GU}{GU} => {2}{GU}{GU}
+rules_text: Choose one —
+• Create a tapped token that's a copy of target noncreature permanent you control.
+• Untap each permanent you control.
+Double Down {4}{G}{U} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Create a tapped token that's a copy of target noncreature permanent you control.
+• Untap each permanent you control.
+Double down {5}{G}{U} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Mother's Touch
+rules_text: Choose one —
+• Create a 3/3 green and black Insect creature token.
+• Sacrifice a creature. Draw cards equal to the sacrificed creatures power.
+Double down {3}{B}{G} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Create a 0/0 black and green Insect creature token with brood 1. [i](That creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+• Sacrifice a creature. Draw cards equal to the sacrificed creatures power.
+Double down {3}{B}{G} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Sponsor's Gift
+type: Instant => Sorcery
+rules_text: Choose one —
+• Until end of turn, target creature gains “Whenever this creature is dealt damage, it deals that much damage to another target.”
+• Target creature gains indestructible until end of turn.
+Double down {4}{R}{W} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Until end of turn, target creature gains “Whenever this creature is dealt damage, it deals that much damage to any other target.”
+• Double all noncombat damage target creature would deal this turn.
+Double down {4}{R}{W} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Aspire
+rules_text: Aspire is all colors.
+Choose one —
+• Add X mana of any combination of colors, where X is the mana spent to cast this spell.
+• Draw a card.
+Double down {X}{S}{S} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it. Spend only mana of different colors on {S}.)[/i] => Aspire is all colors.
+Choose one —
+• Add mana of any combination of colors equal to the mana spent to cast this spell.
+• Draw a card.
+Double down {X}{S}{S}{S} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it. Spend only mana of different colors on {S}.)[/i]
+
+Comfy, the Final Game
+
+Fraid's Mercenary
+rules_text: As this creature enters, choose a color.
+When this creature enters, target opponent reveals their hand. Exile a card of the chosen color from that player's hand for as long as you control this creature. => When this creature enters, choose a color. Target player reveals their hand and you choose a card of that color from it. If you do, exile that card until this creature leaves the battlefield.
+
+Princess of the Hive
+rules_text: Flying, deathtouch
+Whenever this creature enters or attacks, create a 1/1 green Insect creature token. Then if you control six or more Insects, put a +1/+1 counter on each Insect you control. => Flying, deathtouch
+Whenever this creature enters or attacks, create a 0/0 black and green Insect creature token with brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+
+Royal Jewel
+
+Eye of Api
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{1}{S}{S}{S}: This land becomes a 4/4 Plant Eye creature that's all colors until end of turn. It's still a land. Whenever it attacks this turn, create a 1/1 colorless artifact Insect Construct creature token with flying that's tapped and attacking. => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{1}{S}{S}{S}: This land becomes a 4/4 Plant Eye creature that's all colors until end of turn. It's still a land. Whenever it attacks this turn, create a 1/1 colorless artifact Insect Construct creature token with flying that's tapped and attacking. [i](Spend a different color of mana on each {S}.)[/i]
+
+Xysth, Cenari's Nest
+rules_text: [i]({T}: Add {B}.)[/i]
+This land enters tapped.
+{5}{B}{B}, {T}: Return a creature card from your graveyard to the battlefield. You may activate one of its abilities without paying its activation cost. Activate only as a sorcery and only once. => [i]({T}: Add {B}.)[/i]
+This land enters tapped.
+{5}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery and only once.
+
+Bound as Brothers
+cost: {X}{W} => {X}{W}{W}
+
+Opposing Form
+rules_text: [i](This card is green. Spend a different color of mana on each {S}.)[/i]
+Deathtouch
+When this creature enters, destroy up to one target noncreature permanent with mana value 1 or greater. => [i](This card is green. Spend a different color of mana on each {S}.)[/i]
+Deathtouch
+When this creature enters, destroy up to one target noncreature permanent with mana value 2 or greater.
+
+Pit Hydra
+rules_text: This creature enters with X +1/+1 counters on it, where X is the highest mana value among other permanents you control.
+{S}{S}{S}, Remove a +1/+1 counter from this creature: You draw a card and gain 3 life. [i](Spend a different color of mana on each {S}.)[/i] => Brood X, where X is the greatest mana value among other creatures you control. [i](This creature enters with X +1/+1 counters on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+{S}{S}{S}: Put a +1/+1 counter on this creature. [i](Spend a different color of mana on each {S}.)[/i]
+
+Victory Chimes
+rules_text: At the beginning of your end step, reveal the top X cards of your library, where X is the highest mana value spell you've cast this turn. You may put a card with mana value X or less from among them into your hand. Put the rest on the bottom of your library in a random order. => At the beginning of your end step, reveal the top X cards of your library, where X is the greatest mana value spell you've cast this turn. You may put a card with mana value X or less from among them into your hand. Put the rest on the bottom of your library in a random order.
+
+Reap Benefits
+
+The Game Cube
+rules_text: Cards you cast from anywhere other than your hand cost {1} less to cast.
+{6}, {T}: Create a 3/3 red and blue Elemental creature token. It can't block this turn. This costs {X} less to activate, where X is the number of cards exiled this turn. => Cards you cast from anywhere other than your hand cost {1} less to cast.
+{6}, {T}: Create a 3/3 red and blue Elemental creature token. It can't block this turn. This costs {X} less to activate, where X is the number of cards you exiled this turn.
+
+Vengeful Adversary
+rules_text: Flying
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of your end step, return up to one target permanent card from your graveyard to the battlefield if you control a Trophy or if its mana value is less than or equal to the number of score counters you have. => Ward {2}
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of your end step, you lose 1 life and draw a card. If you control a Trophy, instead you draw a card and each opponent loses 2 life and you gain 2 life.
+pt: 3/4 => 4/4
+
+Tournament Recruiter
+rules_text: Whenever this creature attacks, you may pay {X}{W}. If you do, search your library for a Warrior card with power or toughness X or less and put it into your hand, then shuffle. => Whenever this creature attacks, you may pay {X}{W}. If you do, search your library for a Warrior card with power X or less, reveal it and put it into your hand, then shuffle.
+
+The Competitive Spirit
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you get one or more score counters, you get six score counters instead.
+Trophies you control have “{T}: Return target permanent card with mana value 3 or less from your graveyard to the battlefield with a finality counter.” => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you get one or more score counters, you get three score counters instead.
+Trophies you control have “{T}: Return target permanent card with mana value 3 or less from your graveyard to the battlefield with a finality counter.”
+
+Pina, the Returned
+
+Gigi, the Game Ender
+rules_text: Flying
+Whenever Gigi attacks, create a tapped and attacking token that's a copy of another target attacking creature you control, except it isn't legendary. Sacrifice it at the beginning of the next end step. => Flying
+Whenever Gigi enters, she fights another target creature. Whenever a creature dies this turn, she fights another target creature.
+pt: 5/5 => 6/6
+
+Glimpse at Greatness
+
+Conflicting Minds
+
+Host Seeker
+cost: {B}{B} => {B}
+rules_text: Menace
+Whenever an opponent draws a card, this creature deals 1 damage to that player. => Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+This creature can't block.
+{1}{B}, Remove two counters from among permanents you control: Return this creature from your graveyard to the battlefield. Active only during your turn.
+pt: 2/1 => 1/0
+
+Event Helper
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+Flying
+Whenever you cast a multicolored spell, surveil 1. => [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+Flying
+Whenever you cast a multicolored or Trophy spell, surveil 1.
+
+Afterthought
+rules_text: Draw two cards, then discard a card.
+If you would choose one or more modes, you may have a chosen mode be “Return a card named Afterthought from your graveyard to your hand.” => Draw two cards, then discard a card.
+If you would choose one or more modes while Afterthought is in your graveyard, you may add “Return a card named Afterthought from your graveyard to your hand.” to its list of choices.
+
+King of the House
+
+Rex, Two-Time Champion
+rules_text: Double strike
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+If one or more counters would be put on you or a permanent you control, that many plus one counters of that kind are put on it instead. => Double strike
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+
+Chest of Desires HEX
+
+Sword of Victory HEX
+
+Sigil of Conquest HEX
+
+green Insect 11HEX
+rules_text:  => Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+pt: 1/1 => 0/0
+
+black and green Insect 11HEX
+rules_text:  => Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+pt: 1/1 => 0/0
+
+Will of Ba
+rules_text: Choose one —
+• Target creature gets +2/+1 and gains haste until end of turn. 
+• Target creature gets +2/+1 and gains trample until end of turn.
+Double down {2}{R}{R} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Target creature gets +2/+1 and gains haste until end of turn. 
+• Target creature gets +2/+1 and gains trample until end of turn.
+Double down {1}{R}{R} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Next Challenge
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you attack, reveal the top four cards of your library. You may put a creature card with mana value 3 or less from among them into your hand. Put the rest on the bottom in a random order. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you attack, reveal the top four cards of your library. You may put a creature card with mana value 3 or less from among them into your hand. Put the rest on the bottom of your library in a random order.
+
+Anvy, Thorns of Sefol
+rules_text: Whenever this creature enters or you flourish 6, choose up to one — [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+• Target noncreature permanent you control becomes a 3/3 green Treefolk creature. [i](It loses its other colors and types. This effect lasts indefinitely.)[/i]
+• Create a token that's a copy of target Treefolk you control, except it's a 3/3 green Treefolk creature. => Whenever this creature enters or you flourish 6, choose up to one — [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+• Target noncreature permanent you control becomes a 3/3 green Treefolk creature. [i](It loses its other colors and types. This effect lasts indefinitely.)[/i]
+• Sacrifice a Treefolk. If you do, draw cards equal to its power.
+
+A Queen is Waiting
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature's number of colors. Put that card on to the battlefield, then shuffle. Exile A Queen is Waiting. => [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value X or less, where X is 1 plus the sacrificed creature's number of colors. Put that card on to the battlefield, then shuffle. Exile A Queen is Waiting.
+
+Sih's Combatant
+rules_text: When this creature enters, put a +1/+1 counter on up to X other target creatures. => When this creature enters, put a +1/+1 counter on each of up to X other target creatures.
+
+Sih, the Fourth Season
+
+Tarase, the Third Charm
+rules_text: When Tarase enters, put a +1/+1 counter on each other creature you control.
+{4}{B}: Transform Tarase. Activate only as a sorcery. => When Tarase enters, return up to two target creature cards with total mana value 2 or less from your graveyard to the battlefield.
+{4}{B}: Transform Tarase. Activate only as a sorcery.
+
+Cenari, the Fifth Desire
+rules_text: When Cenari enters, you may return target Insect card from your graveyard to the battlefield if it has mana value 2 or less. Otherwise put it into your hand.
+{4}{G}: Transform Cenari. Activate only as a sorcery. => Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+When Cenari enters, put a +1/+1 counter on each other creature you control.
+{4}{G}: Transform Cenari. Activate only as a sorcery.
+pt: 3/3 => 2/2
+
+Trophy Reminder
+rules_text: [i]Spend six score counters as a sorcery to create Trophy tokens.
+
+[/i][b]Chest of Desires[/b]
+Token Artifact — Trophy
+At the beginning of your end step, create a 1/1 colorless Spirit creature token.
+{4}, {T}: Search your library for a card, then shuffle and put that card on top.
+
+[b]Sword of Victory[/b]
+Token Artifact — Trophy
+Creatures you control get +1/+1.
+{T}: Add {C}{C}.
+
+[b]Sigil of Conquest
+[/b]Token Artifact — Trophy
+Whenever one or more creatures you control deals combat damage to a player, draw a card.
+{T}: Tap target creature. => [i]You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.
+
+[/i][b]Chest of Desires[/b]
+Token Artifact — Trophy
+At the beginning of your end step, create a 1/1 colorless Spirit creature token.
+{4}, {T}: Search your library for a card, then shuffle and put that card on top.
+
+[b]Sword of Victory[/b]
+Token Artifact — Trophy
+Creatures you control get +1/+1.
+{T}: Add {C}{C}.
+
+[b]Sigil of Conquest
+[/b]Token Artifact — Trophy
+Whenever one or more creatures you control deals combat damage to a player, draw a card.
+{T}: Tap target creature.
+
+Embrace the Chaos
+rules_text: Exile the top three cards of your library. When you do, choose one —
+• You may play one of them until the end of your next turn.
+• Embrace the Chaos deals X damage to any target, where X is the highest mana value among cards you exiled this turn.
+Double Down {4}{R} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Exile the top three cards of your library. When you do, choose one —
+• You may play one of them until the end of your next turn.
+• Embrace the Chaos deals X damage to any target, where X is the greatest mana value among cards you exiled this turn.
+Double down {4}{R} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Grist and Cenari
+rules_text: Trample, indestructible
+As long as Grist and Cenari is on the battlefield, it has all activated and triggered abilities of all creature and planeswalker cards in your graveyard. => Trample
+As long as Grist and Cenari is on the battlefield, it has all activated and triggered abilities of all creature and planeswalker cards in your graveyard.
+
+Return from the Fallen
+rules_text: [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+When this battles enters or is defeated, return target permanent card not named Return from the Fallen from your graveyard to your hand. => [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+When this battle enters or is defeated, return target permanent card not named Return from the Fallen from your graveyard to your hand.
+
+Strike the Moment
+rules_text: [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever one or more defense counters are removed from this battle, this battle deals that much damage to any noncreature target. If this battle was attacked this turn, it deals twice that much damage instead. => [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever one or more defense counters are removed from this battle, this battle deals that much damage to any other noncreature target. If this battle was attacked this turn, it deals twice that much damage instead.
+
+Medical Field
+rules_text: [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever one or more defense counters are removed from this battle, return a creature card with that much mana value or less from your graveyard to the battlefield tapped. => [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever one or more defense counters are removed from this battle, return any number of creature cards with that much total mana value or less from your graveyard to the battlefield.
+
+Opening Bout
+rules_text: [i](Spend a different color of mana on each {S}, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+When this battle enters or is defeated, choose a creature type, then create a 2/2 Warrior creature tokens that is all colors and has the chosen type. => [i](Spend a different color of mana on each {S}, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+When this battle enters or is defeated, choose a creature type, then create a 2/2 Warrior creature token that is all colors and has the chosen type.
+
+Underdog Story
+rules_text: [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever one or more defense counters are removed from this battle, put that many +1/+1 counters on target creature you control. 
+Whenever this battle is defeated, double the number of +1/+1 counters on each creature you control. => [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever one or more defense counters are removed from this battle, put that many +1/+1 counters on target creature you control. 
+When this battle is defeated, double the number of +1/+1 counters on each creature you control.
+
+Soul Painter
+rules_text: Whenever this creature attacks, you may exile a permanent card with mana value 4 or less from your graveyard. If you do, create a copy of that card, except it's a 2/2 black and white Inkling creature in addition to its other types. => Whenever this creature attacks, you may exile a nonland permanent card from your graveyard. If you do, you may cast a copy of that card, except it's a 1/1 white and black Inkling creature in addition to its other types.
+
+Path to Victory
+rules_text: If X is 1, you may discard a card. If you do, draw two cards.
+If {X} is 2, Path to Victory deals 2 damage to each creature and planeswalker.
+If X is 3, destroy target artifact or nonbasic land.
+If {X} is 4, create a 4/4 red Dragon Spirit creature token with flying.
+If X is 5 or more, do all of the above. => If X is 1, you may discard a card. If you do, draw two cards.
+If {X} is 2, Path to Victory deals 2 damage to each creature and planeswalker.
+If X is 3, destroy target artifact or nonbasic land.
+If {X} is 4, create a 4/4 red Dragon creature token with flying.
+If X is 5 or more, do all of the above.
+
+white Warrior 11HEX
+
+Grist, the World Hunger
+rules_text: As Grist enters, you get an emblem with “On any turn an Insect you control dealt combat damage to an opponent, you may play a card exiled with an egg counter on it, and spend mana as though it were mana of any color to cast that spell.”
+[+1]: Create a 1/1 black and green Insect creature token.
+[0]: Exile the top card of each player's library, then put egg counters on those cards.
+[-3]: Exile target nonland permanent with mana value 3 or less and put an egg counter on it. => Whenever a creature you control with a +1/+1 counter on it dies, put a loyalty counter on Grist.
+[+1]: Create a 0/0 black and green Insect creature token with brood 1. [i](That creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+[-X]: Destroy target nonland permanent with mana value X or less. If you controlled it, draw a card.
+[-9]: Search your library and/or graveyard for up to two Insect cards with different names, put them onto the battlefield, then shuffle.
+special_text: As Grist enters, you get an emblem with “On any turn an Insect you control dealt combat damage to an opponent, you may play a card exiled with an egg counter on it, and spend mana as though it were mana of any color to cast that spell.”
+[+1]: Create a 1/1 black and green Insect creature token.
+[0]: Exile the top card of each player's library, then put egg counters on those cards.
+[-3]: Exile target nonland permanent with mana value 3 or less and put an egg counter on it. => Whenever a creature you control with a +1/+1 counter on it dies, put a loyalty counter on Grist.
+[+1]: Create a 0/0 black and green Insect creature token with brood 1. [i](That creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+[-X]: Destroy target nonland permanent with mana value X or less. If you controlled it, draw a card.
+[-9]: Search your library and/or graveyard for up to two Insect cards with different names, put them onto the battlefield, then shuffle.
+
+Seto San, the Defending
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+[+1]: You may create a 1/1 white Warrior creature token. If you don't, put a +1/+1 counter on up to two target creatures you control.
+[0]: Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+[-3]: Seto San deals 3 damage to any target nonplayer target. If you control a Trophy, you gain 3 life. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+[+1]: You may create a 1/1 white Warrior creature token. If you don't, put a +1/+1 counter on each of up to two target creatures you control.
+[0]: Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+[-3]: Seto San deals 3 damage to any target nonplayer target. You gain 3 life.
+special_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+[+1]: You may create a 1/1 white Warrior creature token. If you don't, put a +1/+1 counter on up to two target creatures you control.
+[0]: Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+[-3]: Seto San deals 3 damage to any target nonplayer target. If you control a Trophy, you gain 3 life. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+[+1]: You may create a 1/1 white Warrior creature token. If you don't, put a +1/+1 counter on each of up to two target creatures you control.
+[0]: Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+[-3]: Seto San deals 3 damage to any target nonplayer target. You gain 3 life.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 
