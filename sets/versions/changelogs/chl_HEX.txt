@@ -1,4 +1,24 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Tournament Host added.
+
+Work Assistant removed.
+
+All That Is Possible
+
+Event Helper
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+Flying
+Whenever you cast a multicolored or Trophy spell, surveil 1. => [i](Spend a different color of mana on each {S}.)[/i]
+This creature is all colors.
+Flying
+Whenever you cast a spell, if it's multicolored or you cast it from anywhere other than your hand, you may pay {S}{S}{S}. If you do, copy it. You may choose new target for the copies.
+pt: 2/1 => 1/3
+
+
+VERSION 15 CHANGELOG
 ====================
 
 
