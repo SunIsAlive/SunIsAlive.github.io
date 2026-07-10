@@ -1830,19 +1830,19 @@
     "a->land",
     {
         "card_name": "Sinis, Tarase's Network",
-        "number": 305,
+        "number": 304,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Verrith, Ael's Illusion",
-        "number": 308,
+        "number": 307,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Xysth, Cenari's Nest",
-        "number": 310,
+        "number": 309,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1854,7 +1854,7 @@
     },
     {
         "card_name": "Vioradell, Sih's Haven",
-        "number": 309,
+        "number": 308,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1881,13 +1881,13 @@
     },
     {
         "card_name": "Roaring Cascade",
-        "number": 303,
+        "number": 302,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Somber Marsh",
-        "number": 306,
+        "number": 305,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1899,7 +1899,7 @@
     },
     {
         "card_name": "Rainforest Spring",
-        "number": 302,
+        "number": 301,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1950,7 +1950,7 @@
     },
     {
         "card_name": "Sunlit Highland",
-        "number": 307,
+        "number": 306,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1962,7 +1962,7 @@
     },
     {
         "card_name": "Shifting Arena",
-        "number": 304,
+        "number": 303,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1989,51 +1989,33 @@
     },
     {
         "card_name": "Plains",
-        "number": 311,
+        "number": 310,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Island",
-        "number": 312,
+        "number": 311,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Swamp",
-        "number": 313,
+        "number": 312,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Mountain",
-        "number": 314,
+        "number": 313,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Forest",
-        "number": 315,
+        "number": 314,
         "shape": "normal",
         "set": "HEX"
-    },
-    {
-        "card_name": "Plains",
-        "number": 301,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

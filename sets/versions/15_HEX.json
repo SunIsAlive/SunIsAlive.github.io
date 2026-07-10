@@ -1,7 +1,7 @@
 ﻿{
     "name": "The Hex Games",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "none",
     "unpreviewed": "card back",
@@ -6467,6 +6467,5 @@
             "alias": "",
             "notes": "!exportname blue Illusion 11HEX\n\n!related Nari, Possibility Archmagel;"
         }
-    ],
-    "version": 15
+    ]
 }

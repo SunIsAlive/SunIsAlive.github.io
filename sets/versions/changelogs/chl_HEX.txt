@@ -1,4 +1,23 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+
+Aftershow
+
+Mother's Touch
+rules_text: Choose one —
+• Create a 0/0 black and green Insect creature token with brood 1. [i](That creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+• Sacrifice a creature. Draw cards equal to the sacrificed creatures power.
+Double down {3}{B}{G} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Choose a creature type, then create a 2/2 Warrior creature token that is all colors and has the chosen type.
+• Sacrifice a creature. Draw cards equal to the sacrificed creatures power.
+Double down {3}{B}{G} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Warrior 22HEX
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Practice Partners added.
