@@ -2124,12 +2124,6 @@
         "set": "HEX"
     },
     {
-        "card_name": "Emblem",
-        "number": 22,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
         "card_name": "blue Illusion 11HEX",
         "number": 10,
         "shape": "token",
@@ -2162,6 +2156,12 @@
     {
         "card_name": "white and black Spirit Warrior 11HEX",
         "number": 15,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Emblem",
+        "number": 22,
         "shape": "token",
         "set": "HEX"
     },
