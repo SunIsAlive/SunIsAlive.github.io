@@ -7,7 +7,7 @@
     },
     {
         "card_name": "Grand Revelation",
-        "number": 67,
+        "number": 66,
         "shape": "normal",
         "set": "HEX"
     },
@@ -156,7 +156,7 @@
         "set": "HEX"
     },
     {
-        "card_name": "Echo Chamber",
+        "card_name": "Eve, the Paradoxical",
         "number": 60,
         "shape": "normal",
         "set": "HEX"
@@ -186,7 +186,7 @@
         "set": "HEX"
     },
     {
-        "card_name": "Eve, the Paradoxical",
+        "card_name": "Eve's Will",
         "number": 61,
         "shape": "normal",
         "set": "HEX"
@@ -216,8 +216,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Eve's Will",
-        "number": 62,
+        "card_name": "Meet Your Match",
+        "number": 73,
         "shape": "normal",
         "set": "HEX"
     },
@@ -367,7 +367,7 @@
     },
     {
         "card_name": "Fortune's Favor",
-        "number": 65,
+        "number": 64,
         "shape": "normal",
         "set": "HEX"
     },
@@ -397,7 +397,7 @@
     },
     {
         "card_name": "Kryslavar Golem",
-        "number": 70,
+        "number": 69,
         "shape": "normal",
         "set": "HEX"
     },
@@ -427,7 +427,7 @@
     },
     {
         "card_name": "Let the Games Begin",
-        "number": 71,
+        "number": 70,
         "shape": "normal",
         "set": "HEX"
     },
@@ -457,7 +457,7 @@
     },
     {
         "card_name": "Lost Cause",
-        "number": 72,
+        "number": 71,
         "shape": "normal",
         "set": "HEX"
     },
@@ -487,7 +487,7 @@
     },
     {
         "card_name": "Master of Nari's Veil",
-        "number": 73,
+        "number": 72,
         "shape": "normal",
         "set": "HEX"
     },
@@ -817,7 +817,7 @@
     },
     {
         "card_name": "Festive Jester",
-        "number": 63,
+        "number": 62,
         "shape": "normal",
         "set": "HEX"
     },
@@ -847,7 +847,7 @@
     },
     {
         "card_name": "Final Preperations",
-        "number": 64,
+        "number": 63,
         "shape": "normal",
         "set": "HEX"
     },
@@ -877,7 +877,7 @@
     },
     {
         "card_name": "Gambler's Hex",
-        "number": 66,
+        "number": 65,
         "shape": "normal",
         "set": "HEX"
     },
@@ -907,7 +907,7 @@
     },
     {
         "card_name": "Hex Mage",
-        "number": 68,
+        "number": 67,
         "shape": "normal",
         "set": "HEX"
     },
@@ -937,7 +937,7 @@
     },
     {
         "card_name": "Kick Off",
-        "number": 69,
+        "number": 68,
         "shape": "normal",
         "set": "HEX"
     },
