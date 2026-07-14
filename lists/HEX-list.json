@@ -2027,26 +2027,26 @@
         "set": "HEX"
     },
     {
-        "card_name": "Mountain",
-        "number": 318,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
         "card_name": "Island",
         "number": 317,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Forest",
-        "number": 319,
+        "card_name": "Swamp",
+        "number": 320,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Swamp",
-        "number": 320,
+        "card_name": "Mountain",
+        "number": 318,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Forest",
+        "number": 319,
         "shape": "normal",
         "set": "HEX"
     },

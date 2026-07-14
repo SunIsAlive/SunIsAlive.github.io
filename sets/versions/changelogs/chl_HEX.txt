@@ -1,4 +1,36 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+
+
+Kick Off
+rules_text: Return target creature to its owner's hand. If that creature's mana value was 4 or greater, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Return target creature to its owner's hand. If you've spent six or more mana this turn, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Ward Off
+rules_text: Counter target spell unless its controller pays {2}. If you flourished this turn, instead counter that spell. => Counter target spell unless its controller pays {2}. If you've spent six or more mana this turn, copy this spell twice.
+
+Acceptance
+rules_text: Choose one —
+• Counter target spell unless its controller pays {X}. 
+• Return target nonland permanent with mana value X or less to its owner's hand.
+Proliferate [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Choose one. If you've spent six or more mana this turn, you may choose both.
+• Counter target spell unless its controller pays {X}. 
+• Return target nonland permanent with mana value X or less to its owner's hand.
+
+Hiveheart Guardian
+rules_text: Flying
+Other Insects and Faerie's you control have brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i] => Flying
+Other Insects and Faeries you control have brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+
+Chaotic Pyromancer
+
+Merciless Reaver
+
+blue Illusion 11HEX
+type: Legendary Token Creature — Illusion => Token Legendary Creature — Illusion
+
+
+VERSION 23 CHANGELOG
 ====================
 
 Idow Tiebreaker added.
