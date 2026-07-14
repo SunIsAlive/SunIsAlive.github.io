@@ -6,7 +6,7 @@
         "set": "HEX"
     },
     {
-        "card_name": "Grand Revelation",
+        "card_name": "Gift of Revelation",
         "number": 66,
         "shape": "normal",
         "set": "HEX"
@@ -1431,7 +1431,7 @@
         "set": "HEX"
     },
     {
-        "card_name": "Idow Symbol",
+        "card_name": "Idow Tiebreaker",
         "number": 217,
         "shape": "normal",
         "set": "HEX"
@@ -1646,7 +1646,7 @@
     },
     {
         "card_name": "The Champion's Prize",
-        "number": 282,
+        "number": 281,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1669,8 +1669,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Api's Assessor",
-        "number": 277,
+        "card_name": "Head Judge",
+        "number": 285,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1724,19 +1724,19 @@
     },
     {
         "card_name": "Brood Infiltrator",
-        "number": 280,
+        "number": 279,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Chosen Eye",
-        "number": 283,
+        "number": 282,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Game Promoter",
-        "number": 284,
+        "number": 283,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1778,25 +1778,25 @@
     },
     {
         "card_name": "Api's Reward",
-        "number": 278,
+        "number": 277,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Ba's Reward",
-        "number": 279,
+        "number": 278,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Cenari's Reward",
-        "number": 281,
+        "number": 280,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Gate's Inspector",
-        "number": 285,
+        "number": 284,
         "shape": "normal",
         "set": "HEX"
     },
@@ -2017,6 +2017,36 @@
     {
         "card_name": "Forest",
         "number": 315,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Plains",
+        "number": 316,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 318,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Island",
+        "number": 317,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Forest",
+        "number": 319,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 320,
         "shape": "normal",
         "set": "HEX"
     },

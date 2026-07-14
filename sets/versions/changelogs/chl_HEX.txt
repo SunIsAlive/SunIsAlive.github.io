@@ -1,4 +1,30 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+Idow Tiebreaker added.
+Gift of Revelation added.
+Head Judge added.
+
+Idow Symbol removed.
+Grand Revelation removed.
+Api's Assessor removed.
+
+Ward Off
+rules_text: Counter target spell unless its controller pays {2}. If you flourished this turn, instead counter that spell.. => Counter target spell unless its controller pays {2}. If you flourished this turn, instead counter that spell.
+
+Chaotic Pyromancer
+
+Next Challenge
+
+Merciless Reaver
+
+Medical Field
+rules_text: [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever one or more defense counters are removed from this battle, return any number of creature cards with that much total mana value or less from your graveyard to the battlefield. => [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever one or more defense counters are removed from this battle, return any number of creature cards with that many total mana value or less from your graveyard to the battlefield.
+
+
+VERSION 22 CHANGELOG
 ====================
 
 No changes.

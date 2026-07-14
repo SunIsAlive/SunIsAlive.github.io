@@ -3116,7 +3116,7 @@
 			"type": "",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/21_Trophy Reminder.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/21t_Trophy Reminder.png"
 			}
 		},
 		{
@@ -3422,34 +3422,34 @@
 	]
 
 [rare(2)]
-	5 High-End Security
-	5 Comfy, the Final Game
-	5 Meet Your Match
-	5 Tunnel Keeper
-	5 Baroness of Calerast
-	5 Living Infestation
-	5 Brutal Victory
-	5 Price for Victory
-	5 Ascendant's Fire
-	5 Overwhelming Verdict
-	5 Broodnest Raider
-	5 Xysth Guard
-	5 Fraid's Mercenary
-	5 Princess of the Hive
-	5 Royal Jewel
-	5 Glazed Palace
-	5 Grim Bastion
-	5 Sunlit Highland
-	5 Magmatic Torrent
-	5 Barren Desolation
-	5 Mysterious Cataract
-	5 Returning Roots
-	5 Impossible Oddsmaker
-	5 Patron of the Bold
-	5 Idolized Colossus
-	5 Finality
-	5 Vengeful Adversary
-	5 Tournament Recruiter
+	10 High-End Security
+	10 Comfy, the Final Game
+	10 Meet Your Match
+	10 Tunnel Keeper
+	10 Baroness of Calerast
+	10 Living Infestation
+	10 Brutal Victory
+	10 Price for Victory
+	10 Ascendant's Fire
+	10 Overwhelming Verdict
+	10 Broodnest Raider
+	10 Xysth Guard
+	10 Fraid's Mercenary
+	10 Princess of the Hive
+	10 Royal Jewel
+	10 Glazed Palace
+	10 Grim Bastion
+	10 Sunlit Highland
+	10 Magmatic Torrent
+	10 Barren Desolation
+	10 Mysterious Cataract
+	10 Returning Roots
+	10 Impossible Oddsmaker
+	10 Patron of the Bold
+	10 Idolized Colossus
+	10 Finality
+	10 Vengeful Adversary
+	10 Tournament Recruiter
 	5 Ascendancy
 	5 The Competitive Spirit
 	5 Grand Revelation
@@ -3462,277 +3462,277 @@
 	5 Brood War
 	5 Fraid, Once Banished
 	5 Saba, the First Champion
-	5 Conflicting Minds
+	10 Conflicting Minds
 	5 Archmage's Gambit
 	5 Obeka, Bracket Breaker
 	5 The Living Dream
 	5 Field Designer
 	5 The Champion's Prize
-	5 Sind Herald
-	5 Sunstan Mage
-	5 Host Seeker
-	5 Tournament Host
-	5 Challenge Seeker
-	5 Afterthought
-	5 Trophy Hunter
-	5 Trophyless
-	5 Changemancer
-	5 Palace Councillor
-	5 Remove the Competition
-	5 Brood Rivalbreaker
-	5 Everwing Phoenix
-	5 King of the House
-	5 Rex, Two-Time Champion
-	5 Event Helper
-	5 Nari, Possibility Archmage
-	5 Eve's Will
-	5 Wade Through Chaos
-	5 Next Challenge
-	5 Merciless Reaver
-	5 Anvy, Thorns of Sefol
-	5 Api's Assessor
+	10 Sind Herald
+	10 Sunstan Mage
+	10 Host Seeker
+	10 Tournament Host
+	10 Challenge Seeker
+	10 Afterthought
+	10 Trophy Hunter
+	10 Trophyless
+	10 Changemancer
+	10 Palace Councillor
+	10 Remove the Competition
+	10 Brood Rivalbreaker
+	10 Everwing Phoenix
+	10 King of the House
+	10 Rex, Two-Time Champion
+	10 Event Helper
+	10 Nari, Possibility Archmage
+	10 Eve's Will
+	10 Wade Through Chaos
+	10 Next Challenge
+	10 Merciless Reaver
+	10 Anvy, Thorns of Sefol
+	10 Api's Assessor
 	5 A Queen is Waiting
-	5 Ba, the Sixth Sense
-	5 Sih, the Fourth Season
-	5 Tarase, the Third Charm
-	5 Ael, the Second Chance
-	5 Cenari, the Fifth Desire
-	5 Api, the First Thought
-	5 Embrace the Chaos
+	10 Ba, the Sixth Sense
+	10 Sih, the Fourth Season
+	10 Tarase, the Third Charm
+	10 Ael, the Second Chance
+	10 Cenari, the Fifth Desire
+	10 Api, the First Thought
+	10 Embrace the Chaos
 	5 Grist and Cenari
-	5 Eve, the Paradoxical
-	5 Supreme Blast
-	5 Take Fate
-	5 Victims of Fate
-	5 Order of the Tribunal
-	5 Underdog Story
-	5 Born for Entertainment
-	5 Let It Commence
-	5 Dragon of the Springs
+	10 Eve, the Paradoxical
+	10 Supreme Blast
+	10 Take Fate
+	10 Victims of Fate
+	10 Order of the Tribunal
+	10 Underdog Story
+	10 Born for Entertainment
+	10 Let It Commence
+	10 Dragon of the Springs
 	5 Soul Painter
 	5 Path to Victory
 	5 Grist, the World Hunger
 	5 Seto San, the Defending
 [uncommon(4)]
-	5 Peak Performer
-	5 Competitor's Hammer
-	5 Rookie's Mentor
-	5 Sweetsong Whisperer
-	5 Overseer of the Show
-	5 Streetsmart Gambler
-	5 Acewing Striker
-	5 Chosen Eye
-	5 Matthue, Forever Dreaming
-	5 Morgan, Hexetic Leader
-	5 Jaroh, the Dearing
-	5 Det, Cenari's Favorite
-	5 Sers, the Unbound
-	5 Harmon, the Messenger
-	5 Api's Wish
-	5 Talented Sentrysmith
-	5 Adversary's Navigator
-	5 Paragon of Competition
-	5 Victory Summoner
-	5 Tarase's Immortal
-	5 Mimi, Grounds Explorer
-	5 Seto San's Wake
-	5 Claimed by Trials
-	5 Vioradell Javelineer
-	5 Wide Receiver
-	5 Trophy Mage
-	5 Kryslavar Golem
-	5 Reality Referee
-	5 Master of Nari's Veil
-	5 Cravakian Ring Dancer
-	5 Reality Slip
-	5 Let the Games Begin
-	5 Lost Cause
-	5 Ael's Trial
-	5 Fortune's Favor
-	5 Corrupted Worker
-	5 Hiveheart Guardian
-	5 Last of the Lost
-	5 Guard Fixer
-	5 Verce, the Big Dreamer
-	5 Expendable Paladin
-	5 A House and a Brood
-	5 Forgotten Deity
-	5 Morgan's Order
-	5 Woven Lies
-	5 Kiss of Defeat
-	5 Tarase's Trial
-	5 Game Master
-	5 Self-Made Champ
-	5 Relentless Rival
-	5 Wild Invoker
-	5 Fortune's Channeler
-	5 Rage of the Warrior
-	5 Second Burst
-	5 Plan Bee
-	5 Competitive Spirit Tamer
-	5 Ba's Trial
-	5 Detached Finger
-	5 Aggressive Hazard
-	5 Sih's Servant
-	5 Hive Sentinel
-	5 Hive Explorer
-	5 Grist's Devoted
-	5 Power to Devour
-	5 Sih's Trial
-	5 Api's Trial
-	5 Catch the Show
-	5 Attention Grab
-	5 Sponsor's Decree
-	5 Overwhelming Offense
-	5 Host the Tournament
-	5 Shared Dreams
-	5 Mother's Touch
-	5 Risk and Reward
-	5 Deepest Desires
-	5 Sponsor's Gift
-	5 Aspire
-	5 Eye of Api
-	5 Vioradell, Sih's Haven
-	5 Xysth, Cenari's Nest
-	5 Sinis, Tarase's Network
-	5 Kaomor, Ba's Arena
-	5 Verrith, Ael's Illusion
-	5 Hexrena
-	5 Brood Infiltrator
-	5 Training Bot
-	5 Bound as Brothers
-	5 Arcane Rallier
-	5 Arena Boss
-	5 Opposing Form
-	5 Pit Hydra
-	5 Cross-Pollinate
-	5 Game Promoter
-	5 Praying Mantis
-	5 Victory Chimes
-	5 Reap Benefits
-	5 The Game Cube
-	5 Arena for the Fallen
-	5 One More Round
-	5 Ba's Prodigy
-	5 Thaloren Caretaker
-	5 Return from the Fallen
-	5 Strike the Moment
-	5 Medical Field
-	5 Out in the Cold
-	5 Brooding Pact
-	5 Opening Bout
+	10 Peak Performer
+	10 Competitor's Hammer
+	10 Rookie's Mentor
+	10 Sweetsong Whisperer
+	10 Overseer of the Show
+	10 Streetsmart Gambler
+	10 Acewing Striker
+	10 Chosen Eye
+	10 Matthue, Forever Dreaming
+	10 Morgan, Hexetic Leader
+	10 Jaroh, the Dearing
+	10 Det, Cenari's Favorite
+	10 Sers, the Unbound
+	10 Harmon, the Messenger
+	10 Api's Wish
+	10 Talented Sentrysmith
+	10 Adversary's Navigator
+	10 Paragon of Competition
+	10 Victory Summoner
+	10 Tarase's Immortal
+	10 Mimi, Grounds Explorer
+	10 Seto San's Wake
+	10 Claimed by Trials
+	10 Vioradell Javelineer
+	10 Wide Receiver
+	10 Trophy Mage
+	10 Kryslavar Golem
+	10 Reality Referee
+	10 Master of Nari's Veil
+	10 Cravakian Ring Dancer
+	10 Reality Slip
+	10 Let the Games Begin
+	10 Lost Cause
+	10 Ael's Trial
+	10 Fortune's Favor
+	10 Corrupted Worker
+	10 Hiveheart Guardian
+	10 Last of the Lost
+	10 Guard Fixer
+	10 Verce, the Big Dreamer
+	10 Expendable Paladin
+	10 A House and a Brood
+	10 Forgotten Deity
+	10 Morgan's Order
+	10 Woven Lies
+	10 Kiss of Defeat
+	10 Tarase's Trial
+	10 Game Master
+	10 Self-Made Champ
+	10 Relentless Rival
+	10 Wild Invoker
+	10 Fortune's Channeler
+	10 Rage of the Warrior
+	10 Second Burst
+	10 Plan Bee
+	10 Competitive Spirit Tamer
+	10 Ba's Trial
+	10 Detached Finger
+	10 Aggressive Hazard
+	10 Sih's Servant
+	10 Hive Sentinel
+	10 Hive Explorer
+	10 Grist's Devoted
+	10 Power to Devour
+	10 Sih's Trial
+	10 Api's Trial
+	10 Catch the Show
+	10 Attention Grab
+	10 Sponsor's Decree
+	10 Overwhelming Offense
+	10 Host the Tournament
+	10 Shared Dreams
+	10 Mother's Touch
+	10 Risk and Reward
+	10 Deepest Desires
+	10 Sponsor's Gift
+	10 Aspire
+	10 Eye of Api
+	10 Vioradell, Sih's Haven
+	10 Xysth, Cenari's Nest
+	10 Sinis, Tarase's Network
+	10 Kaomor, Ba's Arena
+	10 Verrith, Ael's Illusion
+	10 Hexrena
+	10 Brood Infiltrator
+	10 Training Bot
+	10 Bound as Brothers
+	10 Arcane Rallier
+	10 Arena Boss
+	10 Opposing Form
+	10 Pit Hydra
+	10 Cross-Pollinate
+	10 Game Promoter
+	10 Praying Mantis
+	10 Victory Chimes
+	10 Reap Benefits
+	10 The Game Cube
+	10 Arena for the Fallen
+	10 One More Round
+	10 Ba's Prodigy
+	10 Thaloren Caretaker
+	10 Return from the Fallen
+	10 Strike the Moment
+	10 Medical Field
+	10 Out in the Cold
+	10 Brooding Pact
+	10 Opening Bout
 [common(9)]
-	5 Grand Hexetic
-	5 Practice Partners
-	5 Daring Combatant
-	5 Soaring Striker
-	5 Head Hunter
-	5 Battle Medic
-	5 House Guard
-	5 Tournament Favorite
-	5 Syld Avenger
-	5 Tarase's Collector
-	5 Frestith Heavyweight
-	5 Just Like We Practiced
-	5 Shake the Arena
-	5 Unmake
-	5 Team Spirit
-	5 Warrior's Bond
-	5 Display of Power
-	5 Answer the Call
-	5 Blade of the Fair
-	5 Hex-Event Broadcaster
-	5 Hex Seeker
-	5 Festive Jester
-	5 Rising Contender
-	5 Gateway Gambler
-	5 Verrith Imager
-	5 Vioradell Dragon
-	5 Take Your Chances
-	5 Kick Off
-	5 Aftershow
-	5 Unbroken Resolve
-	5 Gambler's Hex
-	5 Ward Off
-	5 Final Preperations
-	5 Acceptance
-	5 Cenari's Youngling
-	5 Undazzling Magician
-	5 Ael's Experiment
-	5 Challenger Mantis
-	5 Calerast Courtess
-	5 Honorable Duelist
-	5 Defender of the Brood
-	5 Sind's Rule Setter
-	5 Ex-House Dealer
-	5 Molted Juggernaut
-	5 Ulkk'Ther Mother
-	5 Bitter History
-	5 Concede
-	5 Tarase's Influence
-	5 Crowd's Favorite
-	5 Hexbound Duel
-	5 Waste None
-	5 Match Fix
-	5 Grim Salvage
-	5 Dribble Bomber
-	5 Child of Chance
-	5 Idow Symbol
-	5 Nari's Disciple
-	5 Worthy Opponent
-	5 Petty Adversary
-	5 Hex Mage
-	5 Mob's Ringleader
-	5 Kaomor Ex-Captain
-	5 Dragonborn Spear
-	5 Kaomor's Might
-	5 High-Roller's Blaze
-	5 Morgan's Teachings
-	5 Round Three
-	5 Reality Shatter
-	5 Personal Gain
-	5 Burning Desire
-	5 Experimental Research
-	5 Champion's Strike
-	5 Explorer of the Den
-	5 Lady's Favorite
-	5 Field Patrol
-	5 Wayfarer's Companion
-	5 Cenari's Pulverizer
-	5 Field Stitcher
-	5 Sticky Situation
-	5 Retired General
-	5 Rampant Charge
-	5 Api's Blessing
-	5 Little Victory
-	5 Nature's Awakening
-	5 Flight of the Bumblebee
-	5 Thorn In Your Side
-	5 Hexrena Golem
-	5 Desolate Barrens
-	5 Jagged Crag
-	5 Rainforest Spring
-	5 Roaring Cascade
-	5 Somber Marsh
-	5 Ba's Reward
-	5 Tarase's Reward
-	5 Sih's Reward
-	5 Ael's Reward
-	5 Cenari's Reward
-	5 Api's Reward
-	5 Shifting Arena
-	5 Stack the Odds
-	5 Ceremonial Opening
-	5 Gate's Inspector
-	5 Wayward Warrior
-	5 Training Regimen
-	5 Chaotic Pyromancer
-	5 Sefolian Acrobat
-	5 Will of Ba
-	5 Sih's Combatant
-	5 In This Together
-	5 Brood Grubbers
-	5 Kingdom's Champion
-	5 Natural End
+	30 Grand Hexetic
+	30 Practice Partners
+	30 Daring Combatant
+	30 Soaring Striker
+	30 Head Hunter
+	30 Battle Medic
+	30 House Guard
+	30 Tournament Favorite
+	30 Syld Avenger
+	30 Tarase's Collector
+	30 Frestith Heavyweight
+	30 Just Like We Practiced
+	30 Shake the Arena
+	30 Unmake
+	30 Team Spirit
+	30 Warrior's Bond
+	30 Display of Power
+	30 Answer the Call
+	30 Blade of the Fair
+	30 Hex-Event Broadcaster
+	30 Hex Seeker
+	30 Festive Jester
+	30 Rising Contender
+	30 Gateway Gambler
+	30 Verrith Imager
+	30 Vioradell Dragon
+	30 Take Your Chances
+	30 Kick Off
+	30 Aftershow
+	30 Unbroken Resolve
+	30 Gambler's Hex
+	30 Ward Off
+	30 Final Preperations
+	30 Acceptance
+	30 Cenari's Youngling
+	30 Undazzling Magician
+	30 Ael's Experiment
+	30 Challenger Mantis
+	30 Calerast Courtess
+	30 Honorable Duelist
+	30 Defender of the Brood
+	30 Sind's Rule Setter
+	30 Ex-House Dealer
+	30 Molted Juggernaut
+	30 Ulkk'Ther Mother
+	30 Bitter History
+	30 Concede
+	30 Tarase's Influence
+	30 Crowd's Favorite
+	30 Hexbound Duel
+	30 Waste None
+	30 Match Fix
+	30 Grim Salvage
+	30 Dribble Bomber
+	30 Child of Chance
+	30 Idow Symbol
+	30 Nari's Disciple
+	30 Worthy Opponent
+	30 Petty Adversary
+	30 Hex Mage
+	30 Mob's Ringleader
+	30 Kaomor Ex-Captain
+	30 Dragonborn Spear
+	30 Kaomor's Might
+	30 High-Roller's Blaze
+	30 Morgan's Teachings
+	30 Round Three
+	30 Reality Shatter
+	30 Personal Gain
+	30 Burning Desire
+	30 Experimental Research
+	30 Champion's Strike
+	30 Explorer of the Den
+	30 Lady's Favorite
+	30 Field Patrol
+	30 Wayfarer's Companion
+	30 Cenari's Pulverizer
+	30 Field Stitcher
+	30 Sticky Situation
+	30 Retired General
+	30 Rampant Charge
+	30 Api's Blessing
+	30 Little Victory
+	30 Nature's Awakening
+	30 Flight of the Bumblebee
+	30 Thorn In Your Side
+	30 Hexrena Golem
+	30 Desolate Barrens
+	30 Jagged Crag
+	30 Rainforest Spring
+	30 Roaring Cascade
+	30 Somber Marsh
+	30 Ba's Reward
+	30 Tarase's Reward
+	30 Sih's Reward
+	30 Ael's Reward
+	30 Cenari's Reward
+	30 Api's Reward
+	30 Shifting Arena
+	30 Stack the Odds
+	30 Ceremonial Opening
+	30 Gate's Inspector
+	30 Wayward Warrior
+	30 Training Regimen
+	30 Chaotic Pyromancer
+	30 Sefolian Acrobat
+	30 Will of Ba
+	30 Sih's Combatant
+	30 In This Together
+	30 Brood Grubbers
+	30 Kingdom's Champion
+	30 Natural End
 [ReminderSlot(1)]
-	5 Trophy Reminder
+	1000 Trophy Reminder
