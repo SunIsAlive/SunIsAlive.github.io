@@ -1,4 +1,85 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+
+
+Streetsmart Gambler
+rules_text: Whenever you cast a card from anywhere other than your hand, this creature deals 1 damage to each opponent.
+{T}: Exile the top card of your library. If that card is a noncreature card, you may cast it this turn. => [i]Paradox[/i] — Whenever you cast a card from anywhere other than your hand, this creature deals 1 damage to each opponent.
+{T}: Exile the top card of your library. If that card is a noncreature card, you may cast it this turn.
+
+Sunstan Mage
+rules_text: Whenever you cast a card from anywhere other than your hand, you may draw a card. If you do, discard a card unless you exile an instant or sorcery card from your graveyard. => [i]Paradox[/i] — Whenever you cast a card from anywhere other than your hand, you may draw a card. If you do, discard a card unless you exile an instant or sorcery card from your graveyard.
+
+Wade Through Chaos
+rules_text: Whenever you cast a card from anywhere other than your hand, you may cast a card with equal or less mana value from your hand without paying its mana cost. => [i]Paradox[/i] — Whenever you cast a card from anywhere other than your hand, you may cast a card with equal or less mana value from your hand without paying its mana cost.
+
+
+VERSION 28 CHANGELOG
+====================
+
+
+
+Overseer of the Show
+type: Creature — Human Advisor => Creature — Human Shaman Advisor
+rules_text: Whenever another creature you control deals combat damage to an opponent, you may sacrifice it. If you do, put a +1/+1 counter on this creature, then each opponent loses 1 life and you gain 1 life.
+{T}: Target creature you control gains menace until end of turn. => At the beginning of combat on your turn, target creature gains menace until end of turn.
+Whenever another creature you control deals combat damage to an opponent, you may sacrifice it. If you do, put a +1/+1 counter on this creature, then an opponent loses 1 life and you gain 1 life.
+
+Matthue, Forever Dreaming
+rules_text: Whenever you flourish 6, you may copy target activated ability or spell you control. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Whenever you flourish 6, you may have Matthue become a copy of another target creature until end of turn. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+
+VERSION 27 CHANGELOG
+====================
+
+
+
+Gateway Gambler
+rules_text: Whenever you cast a spell from anywhere other than your hand, create a tapped Treasure token.
+{1}{U}{R}: Target creature gets +2/+0 until end of turn. Activate only once each turn. => [i]Paradox[/i] — Whenever you cast a spell from anywhere other than your hand, create a tapped Treasure token.
+{1}{U}{R}: Target creature gets +2/+0 until end of turn. Activate only once each turn.
+
+Gambler's Hex
+rules_text: Enchant creature
+Enchanted creature loses all abilities and has base power and toughness 0/3.
+Whenever you cast a spell from anywhere other than your hand, tap enchanted creature. => Enchant creature
+Enchanted creature loses all abilities and has base power and toughness 0/3.
+[i]Paradox[/i] — Whenever you cast a spell from anywhere other than your hand, tap enchanted creature.
+
+Ael's Experiment
+rules_text: Flying
+This creature can't block.
+Whenever you cast a spell from anywhere other than your hand, you may return this creature from your graveyard to the battlefield with a finality counter on it. => Flying
+This creature can't block.
+[i]Paradox[/i] — Whenever you cast a spell from anywhere other than your hand, you may return this creature from your graveyard to the battlefield with a finality counter on it.
+
+Child of Chance
+rules_text: Prowess
+Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature. => Prowess
+[i]Paradox[/i] — Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature.
+
+Nari's Disciple
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you cast a spell from anywhere other than your hand, this creature gets +2/+0 until end of turn. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+[i]Paradox[/i] — Whenever you cast a spell from anywhere other than your hand, this creature gets +2/+0 until end of turn.
+
+Shifting Arena
+rules_text: {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{T}, Sacrifice this land: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+
+Jaroh, the Dearing
+rules_text: Whenever you cast a spell from anywhere other than your hand, Jaroh gets +1/+1 until end of turn.
+Whenever this creature attacks, you may exile an instant or sorcery card from your graveyard. If you do, you may cast a copy of that exiled card this turn. => Whenever you cast a spell from anywhere other than your hand, Jaroh gets +1/+1 until end of turn.
+[i]Paradox[/i] — Whenever this creature attacks, you may exile an instant or sorcery card from your graveyard. If you do, you may cast a copy of that exiled card this turn.
+
+Eve, the Paradoxical
+rules_text: Whenever you cast a spell from anywhere other than your hand, create a 1/1 blue Illusion creature token with flying.
+Modal instant and sorcery cards in your graveyard have double down {W}{U}{B}{R}{G}. [i](You may cast that card from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => [i]Paradox[/i] — Whenever you cast a spell from anywhere other than your hand, create a 1/1 blue Illusion creature token with flying.
+Modal instant and sorcery cards in your graveyard have double down {W}{U}{B}{R}{G}. [i](You may cast that card from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+
+VERSION 26 CHANGELOG
 ====================
 
 
