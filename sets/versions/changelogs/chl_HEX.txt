@@ -1,4 +1,31 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+
+
+Dribble Bomber
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever this creature enters, target creature can't block this turn. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this creature enters, target creature can't block this turn.
+
+Retired General
+rules_text: Whenever this creature enters, create two 0/0 black and green Insect creature tokens with brood 1. [i](It enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i] => When this creature enters, create two 0/0 black and green Insect creature tokens with brood 1. [i](It enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+
+Training Bot
+rules_text: When this creature enters or dies, you may search your library for a basic land card. If you do, reveal it and put it into your hand, then shuffle. => When this creature enters, you may search your library for a land card and put it onto the battlefield tapped, then shuffle. 
+When this creature dies, put two +1/+1 counters on target creature you control.
+
+Gigi, the Game Ender
+rules_text: Flying
+Whenever Gigi enters, she fights another target creature. Whenever a creature dies this turn, she fights another target creature. => Flying
+Whenever Gigi enters, she fights another target creature. Whenever another creature dies this turn, she fights another target creature.
+
+Trophy Hunter
+cost: {5}{R} => {4}{R}
+pt: 5/5 => 4/4
+
+
+VERSION 25 CHANGELOG
 ====================
 
 No changes.
