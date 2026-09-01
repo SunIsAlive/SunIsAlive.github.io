@@ -1,4 +1,455 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+Isald Avenger added.
+Concession added.
+Written In Fire added.
+Ascendant's Outburst added.
+Stoic Steward added.
+A New Challenger added.
+A Moment to Strike added.
+Natural Conclusion added.
+red and white Warrior 11HEX added.
+
+Syld Avenger removed.
+Hex Seeker removed.
+Defender of the Brood removed.
+Concede removed.
+High-Roller's Blaze removed.
+Round Three removed.
+Wayfarer's Companion removed.
+Guard Fixer removed.
+Ascendant's Fire removed.
+Sind Herald removed.
+Next Challenge removed.
+Supreme Blast removed.
+Strike the Moment removed.
+Natural End removed.
+
+Daring Combatant
+rules_text: Flash
+{1}, Sacrifice this creature: Destroy target artifact or enchantment. => Flash
+{W}, Sacrifice this creature: Destroy target artifact, enchantment or battle.
+
+Just Like We Practiced
+type: Enchantment => Instant
+rules_text: Flash
+When this enchantment enters, until end of turn, target creature gains “When this creature dies, return it to its owner's hand.”
+Sacrifice this enchantment: Put a +1/+1 counter on target creature that entered the battlefield this turn. => Put a +1/+1 counter on target creature. It gets +1/+1 until end of turn. Untap it.
+
+Shake the Arena
+rules_text: Choose one —
+• Shake the Arena deals 3 damage to target tapped creature.
+• Tap up to two target creatures. => Put a +1/+1 counter on target creature. It gets +1/+1 until end of turn. Untap it.
+
+Blade of the Fair
+rules_text: Flash
+Flying
+When this creature enters, up to one target creature gets -3/-0 until end of turn. If you've cast a spell from anywhere other than your hand this turn, it gets -6/-0 instead. => Flash
+Flying
+[i]Paradox[/i] — When this creature enters, up to one target creature gets -3/-0 until end of turn. If you've cast a spell from anywhere other than your hand this turn, it gets -6/-0 instead.
+
+Vioradell Dragon
+
+Aftershow
+rules_text: Flash
+Whenever this enchantment enters or you flourish 6, surveil 1 then draw a card. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Flash
+Whenever this enchantment enters, surveil 1 then draw a card.
+Whenever your flourish 6, sacrifice this enchantment. When you do, surveil 1 then draw a card
+
+Cenari's Youngling
+rules_text: Deathtouch
+Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i] => Deathtouch
+Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+
+Molted Juggernaut
+rules_text: Menace
+Brood X [i](This creature enters with X +1/+1 counters on it. When it dies, you may put its counters on target nonartifact creature.)[/i] => Menace
+Brood X [i](This creature enters with X +1/+1 counters on it. When it dies, you may put its counters on target creature.)[/i]
+
+Ulkk'Ther Mother
+rules_text: Brood 4 [i](This creature enters with four +1/+1 counters on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+Swampcycling {2}, forestcycling {2} [i]({2}, Discard this card: Search your library for a Swamp or Forest card, reveal it, and put it into your hand, then shuffle.)[/i] => Brood 4 [i](This creature enters with four +1/+1 counters on it. When it dies, you may put its counters on target creature.)[/i]
+Swampcycling {2}, forestcycling {2} [i]({2}, Discard this card: Search your library for a Swamp or Forest card, reveal it, and put it into your hand, then shuffle.)[/i]
+
+Tarase's Influence
+rules_text: Choose one —
+• Proliferate.
+• Exile target player's graveyard.
+• Create a 1/1 black Zombie Insect creature token with flying.
+Double down {4}{B} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+• Return up to one target creature card from your graveyard to your hand.
+Double down {4}{B} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Waste None
+rules_text: Whenever a nontoken creature dies this turn, create a 0/0 black and green Insect creature token with brood 1. [i](That creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i] => Whenever a nontoken creature dies this turn, create a 0/0 black and green Insect creature token with brood 1. [i](That creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+
+Grim Salvage
+rules_text: Surveil 4. When you do, you may return up to two target creature or land cards from your graveyard to your hand. => As an additional cost to cast this spell, you may sacrifice a creature or land. If you do, this spell costs {2} less to cast.
+Reveal the top four cards of your library. You may put up to two creatures and/or land cards from among them into your hand and the rest into your graveyard.
+
+Child of Chance
+rules_text: Prowess
+[i]Paradox[/i] — Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature. => [i]Paradox[/i] — Whenever you cast a spell, if it's a noncreature spell this creature gets +1/+1 until end of turn. If it was from anywhere other than your hand, put a +1/+1 counter on this creature.
+
+Champion's Strike
+rules_text: Champion's Strike deals 4 damage to any target.
+Proliferate [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Champion's Strike deals 4 damage to any target. If a permanent you don't control would be dealt damage this way, remove all counters from it.
+Proliferate [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Cenari's Pulverizer
+rules_text: Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+When this creature enters, mill three cards. You may put a land card from among the milled cards into your hand. If you do, remove a +1/+1 counter from this creature. => Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+When this creature enters, mill three cards. You may put a land card from among the milled cards into your hand. If you do, remove a +1/+1 counter from this creature.
+
+Rampant Charge
+rules_text: Enchant creature
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Enchanted creature gets +1/+0 and gains trample and haste. => Enchant creature
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Enchanted creature gets +2/+1 and gains trample and haste.
+
+Nature's Awakening
+
+Hexrena Golem
+cost: {3} => {4}
+rules_text: This creature is all colors.
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{S}{S}{S}{S}: This creature gets +4/+4 until end of turn. If you control a Trophy, instead this creature gets +6/6 until end of turn. [i](Spend a different color of mana on each {S}.)[/i] => This creature is all colors.
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{S}{S}{S}{S}: This creature gets +4/+2 until end of turn. If you control a Trophy, instead this creature gets +6/+4 until end of turn. [i](Spend a different color of mana on each {S}.)[/i]
+pt: 2/2 => 2/4
+
+Shifting Arena
+
+Streetsmart Gambler
+rules_text: [i]Paradox[/i] — Whenever you cast a card from anywhere other than your hand, this creature deals 1 damage to each opponent.
+{T}: Exile the top card of your library. If that card is a noncreature card, you may cast it this turn. => [i]Paradox[/i] — Whenever you cast a card from anywhere other than your hand, this creature deals 1 damage to each opponent.
+{T}: Add {U} or {R}. Spend this mana only to cast noncreature spells.
+
+Acewing Striker
+rules_text: Flying
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you get a score counter, put a +1/+1 counter on this creature. => Flying
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you cast a Warrior spell, put a +1/+1 counter on this creature.
+
+Matthue, Forever Dreaming
+type: Legendary Creature — Demigod => Legendary Creature — Shapeshifter
+rules_text: Whenever you flourish 6, you may have Matthue become a copy of another target creature until end of turn. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Whenever you flourish 6, you may have Matthue become a copy of another target creature or creature spell until end of turn. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Det, Cenari's Favorite
+rules_text: Brood 2 [i](This creature enters with two +1/+1 counters on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+Whenever Det attacks, you may remove a +1/+1 counter from a creature you control. If you do, creatures you control get +1/+1 until end of turn. => Brood 2 [i](This creature enters with two +1/+1 counters on it. When it dies, you may put its counters on target creature.)[/i]
+Whenever Det attacks, you may remove a +1/+1 counter from a creature you control. If you do, creatures you control get +1/+1 until end of turn.
+pt: 0/1 => 0/0
+
+Sers, the Unbound
+rules_text: Whenever one or more creatures you control attack, exile up to one target nonland permanent you control, then return that card to the battlefield under your control. If it was attacking, you may have it enter tapped and attacking. => Whenever one or more creatures you control attack, exile up to one target nonland permanent you both own and control, then return that card to the battlefield under your control. If it was attacking, you may have it enter tapped and attacking.
+
+Api's Wish
+type: Instant => Sorcery
+
+Claimed by Trials
+cost: {1}{W}{W} => {2}{W}
+rules_text: When this enchantment enters, exile up to one target nonland permanent until this enchantment leaves the battlefield. Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => When this enchantment enters, exile up to one other target nonland permanent until this enchantment leaves the battlefield.
+Sacrifice this enchantment: You gain life equal to the exiled permanent's mana value.
+
+Wide Receiver
+pt: 1/2 => 1/1
+
+Reality Slip
+rules_text: Choose one. If you've cast a spell from anywhere other than your hand this turn, choose both instead.
+• Exile target nonland permanent you control, then return that card to the battlefield.
+• Target player draws a card. => [i]Paradox[/i] — Choose one. If you've cast a spell from anywhere other than your hand this turn, choose both instead.
+• Exile target creature or enchantment you control, then return that card to the battlefield.
+• Target player draws a card.
+
+Let the Games Begin
+rules_text: Whenever this enchantment enters or you flourish 6, search your library for an instant or sorcery card with mana value 5 or less an put it into your hand, then shuffle. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Whenever you flourish 6, you may sacrifice this enchantment. If you do, discard your hand then draw that many cards plus one. Shuffle any number of cards from your graveyard into your library. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Hiveheart Guardian
+rules_text: Flying
+Other Insects and Faeries you control have brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i] => Flying
+Insects and other Faeries you control have brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+
+Battle Medic
+cost: {1}{WB}{WB} => {2}{B}
+rules_text: When this creature enters, choose one—
+• Return target battle card from your graveyard to your hand.
+• Return target creature card with mana value 2 or less from your graveyard to your hand. => When this creature enters, return target battle card, or creature card with mana value 2 or less from you graveyard to your hand.
+Whenever this creature attacks a battle, it gets +2/+2 until end of turn.
+pt: 2/2 => 2/3
+
+Verce, the Big Dreamer
+rules_text: Sacrifice a creature: Choose one —
+• Verce gains +1/+1 until end of turn.
+• You gain 2 life.
+• Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Sacrifice a creature: Choose one. Activate only as a sorcery. 
+• Verce gets +2/+2 until end of turn.
+• You gain 2 life.
+• Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Expendable Paladin
+rules_text: Flying
+Brood 2 [i](This creature enters with two +1/+1 counters on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+Whenever one or more +1/+1 counters would be put on another creature you control, you may instead create that many 1/1 black Zombie Insect creature token with flying. => Flying
+Brood 2 [i](This creature enters with two +1/+1 counters on it. When it dies, you may put its counters on target creature.)[/i]
+Whenever one or more +1/+1 counters would be put on another creature you control, you may instead create that many 1/1 black Zombie Insect creature token with flying.
+
+A House and a Brood
+rules_text: When this creature enters, create a 0/0 black and green Insect with brood 1. Put a +1/+1 counter on it for each creature that died this turn. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+{2}{B}, {T}, Sacrifice another creature: Each opponent loses X life and you gain X life, where X is the sacrificed creature's power. => When this creature enters, create a 0/0 black and green Insect with brood 1. Put a +1/+1 counter on it for each creature that died this turn. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+{2}{B}, {T}, Sacrifice another creature: Each opponent loses X life and you gain X life, where X is the sacrificed creature's power.
+
+Forgotten Deity
+cost: {5}{B} => {4}{B}{B}
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever this creature or another creature you control enters, proliferate. => As an additional cost to cast this spell, you may sacrifice a creature. This spell costs {3} less to cast if you sacrificed a creature this way.
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+
+Detached Finger
+rules_text: Trample
+Whenever this creature deals combat damage to an opponent, you may return a permanent card from your graveyard to your hand. If you do, sacrifice a permanent. => Trample
+Whenever this creature deals combat damage to an opponent, you may return target permanent card from your graveyard to your hand. If you do, sacrifice a permanent.
+
+Aggressive Hazard
+rules_text: Flash
+If a player would create one or more tokens, that player creates that many 3/1 green Plant creature tokens that can't block instead. => Flash
+If a player would create one or more tokens, that player creates that many 2/1 green Plant creature tokens that can't block instead.
+pt: 3/1 => 2/1
+
+Sih's Servant
+cost: {S}{S}{G} => {2}{G}
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+{T}: Add three mana of different colors. => Whenever an opponent plays a land, you may put a land card from your hand onto the battlefield.
+
+Hive Explorer
+rules_text: At the beginning of each combat, if you flourished 6 this turn, creatures you control get +1/+1 and gain vigilance until end of turn.
+{1}{G}, {T}: Create a 0/0 black and green Insect creature token with brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i] => At the beginning of each combat, if you flourished 6 this turn, creatures you control get +1/+1 and gain vigilance until end of turn.
+{1}{G}, {T}: Create a 0/0 black and green Insect creature token with brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+
+Deepest Desires
+rules_text: Choose one —
+• Destroy up to one target tapped creature.
+• Return up to one target creature card with mana value less than or equal to the amount of mana spent to cast this spell from your graveyard to the battlefield.
+Double down {3}{W}{B} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Destroy up to one target creature with mana value 2 or less.
+• Return up to one target creature card with mana value 2 or less from your graveyard to the battlefield.
+Double down {3}{W}{B} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Meet Your Match
+
+Tunnel Keeper
+rules_text: Whenever a nontoken creature you control dies, create a 0/0 black and green Insect creature token with brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+Remove six +1/+1 counters from this creature: Search your library and/or graveyard for an Insect card and put that card onto the battlefield. If you search your library this way, shuffle. => Whenever a nontoken creature you control dies, create a tapped 0/0 black and green Insect creature token with brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+Remove six +1/+1 counters from this creature: Search your library and/or graveyard for an Insect card and put that card onto the battlefield. If you search your library this way, shuffle.
+
+Overwhelming Verdict
+rules_text: Overwhelming Verdict deals 4 damage to any nonplayer target. Create a number of 1/1 white Cleric creature tokens with lifelink equal to the excess damage dealt this way. Those tokens can't block this turn. => Overwhelming Verdict deals 4 damage to any target. Create a number of 1/1 red and white Warrior creature tokens with lifelink and haste that can't block equal to the excess damage dealt this way.
+
+Xysth Guard
+rules_text: Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+Whenever you cast a spell with mana value greater than this creature's power, put a +1/+1 counter on this creature. => Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+Whenever you cast a spell with mana value greater than this creature's power, put a +1/+1 counter on this creature.
+
+Princess of the Hive
+rules_text: Flying, deathtouch
+Whenever this creature enters or attacks, create a 0/0 black and green Insect creature token with brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i] => Flying, deathtouch
+Whenever this creature enters or attacks, create a 0/0 black and green Insect creature token with brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+
+Pit Hydra
+rules_text: Brood X, where X is the greatest mana value among other creatures you control. [i](This creature enters with X +1/+1 counters on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+{S}{S}{S}: Put a +1/+1 counter on this creature. [i](Spend a different color of mana on each {S}.)[/i] => Brood X, where X is the greatest mana value among other creatures you control. [i](This creature enters with X +1/+1 counters on it. When it dies, you may put its counters on target creature.)[/i]
+{S}{S}{S}: Put a +1/+1 counter on this creature. [i](Spend a different color of mana on each {S}.)[/i]
+
+Victory Chimes
+rules_text: At the beginning of your end step, reveal the top X cards of your library, where X is the greatest mana value spell you've cast this turn. You may put a card with mana value X or less from among them into your hand. Put the rest on the bottom of your library in a random order. => At the beginning of your end step, reveal the top X cards of your library, where X is the greatest mana value among spells you've cast this turn. You may put a card with mana value X or less from among them into your hand. Put the rest on the bottom of your library in a random order.
+
+The Game Cube
+rules_text: Cards you cast from anywhere other than your hand cost {1} less to cast.
+{6}, {T}: Create a 3/3 red and blue Elemental creature token. It can't block this turn. This costs {X} less to activate, where X is the number of cards you exiled this turn. => Noncreature spells you cast cost {1} less to cast.
+{6}, {T}: Create a 3/3 red and blue Elemental creature token. It can't block this turn. This costs {X} less to activate, where X is the number of noncreature cards you own in exile.
+
+Arena for the Fallen
+rules_text: {T}: Create a 1/1 white and black Spirit Warrior creature token. It can't block this turn. Activate only if a creature died this turn.
+{2}, {T}, Sacrifice a creature: Draw a card. => {T}: Create a 1/1 white and black Spirit Warrior creature token. Activate only if a creature died this turn and only as a sorcery.
+{2}, {T}, Sacrifice a creature: Draw a card.
+
+Impossible Oddsmaker
+rules_text: As an additional cost to cast this spell, exile four noncreature, nonland cards from your graveyard.
+Trample
+At the beginning of your upkeep, choose a card exiled by this creature at random. You may cast that card until end of turn. => As an additional cost to cast this spell, exile six cards from your graveyard.
+Trample
+At the beginning of your upkeep, choose a card exiled by this creature at random. You may cast that card until end of turn.
+
+Vengeful Adversary
+rules_text: Ward {2}
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of your end step, you lose 1 life and draw a card. If you control a Trophy, instead you draw a card and each opponent loses 2 life and you gain 2 life. => Ward {2}
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of your upkeep, you lose 1 life and draw a card. If you control a Trophy, instead you draw a card and each opponent loses 2 life and you gain 2 life.
+
+Ascendancy
+rules_text: Whenever you attack, put an ascend counter on this enchantment.
+White creatures you control get +X/+X, where X is the number of ascend counters on this enchantment. => Whenever a creature you control deals combat damage to an opponent, put an ascend counter on this enchantment. This ability triggers only once each turn.
+White creatures you control get +X/+X, where X is the number of ascend counters on this enchantment.
+
+The Competitive Spirit
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you get one or more score counters, you get three score counters instead.
+Trophies you control have “{T}: Return target permanent card with mana value 3 or less from your graveyard to the battlefield with a finality counter.” => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+If you would get one or more score counters, you get three score counters instead.
+Trophies you control have “{T}: Return target permanent card with mana value 3 or less from your graveyard to the battlefield. Activate only as a sorcery.”
+
+Gift of Revelation
+rules_text: Enchant creature or planeswalker
+Enchanted permanent has the loyalty abilities of each other planeswalker you control.
+Enchanted permanent has “[+1]: Draw a card. If you do, discard a card.” => Enchant creature or planeswalker
+Enchanted permanent has the loyalty abilities of each other planeswalker you control.
+Enchanted permanent has “[+1]: Draw a card then discard a card.”
+
+Gigi, the Game Ender
+cost: {2}{R}{R}{R} => {4}{R}{R}
+rules_text: Flying
+Whenever Gigi enters, she fights another target creature. Whenever another creature dies this turn, she fights another target creature. => Flying
+Whenever Gigi enters, she deals 1 damage to each other creature. Whenever a creature dies this turn, Gigi deals 1 damage to each other creature.
+
+Archmage's Gambit
+cost: {2}{U}{R} => {3}{U}{R}
+
+Obeka, Bracket Breaker
+cost: {3}{BR}{U} => {2}{U}{B}{R}
+rules_text: Flash
+As Obeka enters, choose beginning, main, combat, or ending.
+After the first phase of the chosen kind during each of your turns, there is an additional phase of that kind. => Flash
+As Obeka enters, choose beginning, combat, or ending.
+After the first phase of the chosen kind during each of your turns, there is an additional phase of that kind.
+
+The Living Dream
+type: Legendary Enchantment Creature — Avatar => Legendary Creature — Avatar
+cost: {1}{BG}{GU} => {B}{G}{U}
+rules_text: Counters can't be put on or removed from permanents and players. => Whenever The Living Dream attacks, you may sacrifice a creature. If you do, each opponent sacrifices a creature and The Living Dream becomes a copy of one the sacrificed creatures until end of turn.
+
+Sunstan Mage
+rules_text: [i]Paradox[/i] — Whenever you cast a card from anywhere other than your hand, you may draw a card. If you do, discard a card unless you exile an instant or sorcery card from your graveyard. => Whenever you cast an instant or sorcery spell, if it was from anywhere other than your hand, draw a card. Otherwise, draw a card then discard a card.
+
+Host Seeker
+rules_text: Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+This creature can't block.
+{1}{B}, Remove two counters from among permanents you control: Return this creature from your graveyard to the battlefield. Active only during your turn. => Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+This creature can't block.
+{1}{B}, Remove two counters from among nonenchantment permanents you control: Return this creature from your graveyard to the battlefield. Active only during your turn.
+
+Trophy Hunter
+
+Trophyless
+rules_text: Exile target artifact or enchantment. Its controller creates a 1/1 black Zombie Insect creature token with flying. => Exile target artifact, enchantment or battle. Its controller creates a 1/1 black Zombie Insect creature token with flying.
+
+Palace Councillor
+rules_text: Flying
+When this creature enters, create five 0/0 black and green Insect creature tokens with brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+Insects you control have reach. => Flying
+When this creature enters, create five 0/0 black and green Insect creature tokens with brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+Insects you control have reach.
+
+Remove the Competition
+
+King of the House
+rules_text: Flash
+When this creature enters, target modal card in your graveyard gains double down until end of turn. The double down cost is equal to its mana cost. [i](You may cast that card from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Flash
+When this creature enters, target modal instant or sorcery card in your graveyard gains double down until end of turn. The double down cost is equal to its mana cost. [i](You may cast that card from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+green Insect 11HEX
+rules_text: Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i] => Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+
+black and green Insect 11HEX
+rules_text: Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i] => Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+
+Anvy, Thorns of Sefol
+rules_text: Whenever this creature enters or you flourish 6, choose up to one — [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+• Target noncreature permanent you control becomes a 3/3 green Treefolk creature. [i](It loses its other colors and types. This effect lasts indefinitely.)[/i]
+• Sacrifice a Treefolk. If you do, draw three cards. => Whenever this creature enters or you flourish 6, choose up to one — [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+• Target noncreature permanent you control becomes a 3/3 green Treefolk creature. [i](It loses its other colors and types. This effect lasts indefinitely.)[/i]
+• Sacrifice a Treefolk. If you do, return up to one target creature card from your graveyard to your hand.
+
+A Queen is Waiting
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value X or less, where X is 1 plus the sacrificed creature's number of colors. Put that card on to the battlefield, then shuffle. Exile A Queen is Waiting. => [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+As an additional cost to cast this spell, sacrifice a nontoken creature.
+Search your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature's number of colors. Put that card on to the battlefield, then shuffle. Exile A Queen is Waiting.
+
+Thaloren Caretaker
+rules_text: When this creature enters, destroy up to one target artifact or enchantment. Its controller may search their library for a basic land card and put it onto the battlefield tapped, then shuffle. => When this creature enters, destroy up to one target artifact, enchantment or battle. Its controller may search their library for a basic land card and put it onto the battlefield tapped, then shuffle.
+
+Tarase, the Third Charm
+rules_text: When Tarase enters, return up to two target creature cards with total mana value 2 or less from your graveyard to the battlefield.
+{4}{B}: Transform Tarase. Activate only as a sorcery. => When Tarase enters, return up to one target creature card with mana value 2 or less from your graveyard to the battlefield tapped.
+{4}{B}: Transform Tarase. Activate only as a sorcery.
+
+Ael, the Second Chance
+rules_text: When Ael enters, search your library for a card, shuffle, then put that card sixth from the top.
+{4}{R}: Transform Ael. Activate only as a sorcery. => When Ael enters the battlefield, search your library a card, shuffle, then put it into your library third from the top.
+{4}{R}: Transform Ael. Activate only as a sorcery.
+pt: 3/3 => 2/2
+
+Cenari, the Fifth Desire
+rules_text: Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+When Cenari enters, put a +1/+1 counter on each other creature you control.
+{4}{G}: Transform Cenari. Activate only as a sorcery. => Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+When Cenari enters, put a +1/+1 counter on each other creature you control.
+{4}{G}: Transform Cenari. Activate only as a sorcery.
+pt: 2/2 => 1/1
+
+Embrace the Chaos
+rules_text: Exile the top three cards of your library. When you do, choose one —
+• You may play one of them until the end of your next turn.
+• Embrace the Chaos deals X damage to any target, where X is the greatest mana value among cards you exiled this turn.
+Double down {4}{R} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Exile the top three cards of your library. You may play one of them this turn. 
+Add {R}{R}{R}{R}. Spend this mana only to cast spells from anywhere other than your hand.
+
+Grist and Cenari
+rules_text: Trample
+As long as Grist and Cenari is on the battlefield, it has all activated and triggered abilities of all creature and planeswalker cards in your graveyard. => Trample
+As Grist and Cenari enters, choose a creature card name and a planeswalker card name.
+As long as Grist and Cenari is on the battlefield, it has all activated and triggered abilities of cards in your graveyard with the chosen names.
+
+Victims of Fate
+rules_text: [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever this battle is defeated, return all nonland permanents to their owner's hand, then you may put a permanent card from your hand onto the battlefield. => [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever this battle is defeated, return all nonland permanents to their owner's hand, then each player may put a permanent card from your hand onto the battlefield.
+
+Soul Painter
+rules_text: Whenever this creature attacks, you may exile a nonland permanent card from your graveyard. If you do, you may cast a copy of that card, except it's a 1/1 white and black Inkling creature in addition to its other types. => Whenever this creature attacks, you may exile a nonland permanent card from your graveyard. If you do, you may cast a copy of that card, except it's a 2/2 white and black Inkling creature.
+
+Plant
+pt: 3/1 => 2/1
+
+Brood Grubbers
+rules_text: Brood 2 [i](This creature enters with two +1/+1 counters on it. When it dies, you may put its counters on target nonartifact creature.)[/i] => Brood 2 [i](This creature enters with two +1/+1 counters on it. When it dies, you may put its counters on target creature.)[/i]
+
+Grist, the World Hunger
+rules_text: Whenever a creature you control with a +1/+1 counter on it dies, put a loyalty counter on Grist.
+[+1]: Create a 0/0 black and green Insect creature token with brood 1. [i](That creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+[-X]: Destroy target nonland permanent with mana value X or less. If you controlled it, draw a card.
+[-9]: You get an emblem with “At the beginning of your end step, search your library and/or graveyard for an Insect card and put it onto the battlefield. If you search your library this way, shuffle.” => Whenever a creature you control with a +1/+1 counter on it dies, put a loyalty counter on Grist.
+[0]: Create a 0/0 black and green Insect creature token with brood 1. [i](That creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+[-X]: Destroy target nonland permanent with mana value X or less. If you controlled it, draw a card.
+[-9]: You get an emblem with “At the beginning of your end step, search your library and/or graveyard for an Insect card and put it onto the battlefield. If you search your library this way, shuffle.”
+special_text: Whenever a creature you control with a +1/+1 counter on it dies, put a loyalty counter on Grist.
+[+1]: Create a 0/0 black and green Insect creature token with brood 1. [i](That creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target nonartifact creature.)[/i]
+[-X]: Destroy target nonland permanent with mana value X or less. If you controlled it, draw a card.
+[-9]: You get an emblem with “At the beginning of your end step, search your library and/or graveyard for an Insect card and put it onto the battlefield. If you search your library this way, shuffle.” => Whenever a creature you control with a +1/+1 counter on it dies, put a loyalty counter on Grist.
+[0]: Create a 0/0 black and green Insect creature token with brood 1. [i](That creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+[-X]: Destroy target nonland permanent with mana value X or less. If you controlled it, draw a card.
+[-9]: You get an emblem with “At the beginning of your end step, search your library and/or graveyard for an Insect card and put it onto the battlefield. If you search your library this way, shuffle.”
+
+
+VERSION 29 CHANGELOG
 ====================
 
 
