@@ -15,9 +15,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/34_Peak Performer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/35_Peak Performer.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/35_Practice Partners.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/36_Practice Partners.png"
 			}
 		},
 		{
@@ -61,23 +61,13 @@
 			}
 		},
 		{
-			"name": "Battle Medic",
-			"rarity": "common",
-			"mana_cost": "{1}{W/B}{W/B}",
-			"type": "Creature — Human Cleric",
-			"collector_number": "253",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/253_Battle Medic.png"
-			}
-		},
-		{
 			"name": "House Guard",
 			"rarity": "common",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Artifact Creature — Construct Warrior",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/216_House Guard.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/215_House Guard.png"
 			}
 		},
 		{
@@ -91,13 +81,13 @@
 			}
 		},
 		{
-			"name": "Syld Avenger",
+			"name": "Isald Avenger",
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Angel Warrior",
-			"collector_number": "39",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/39_Syld Avenger.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/29_Isald Avenger.png"
 			}
 		},
 		{
@@ -105,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Creature — Demon Warrior",
-			"collector_number": "247",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/247_Tarase's Collector.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/248_Tarase's Collector.png"
 			}
 		},
 		{
@@ -115,9 +105,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W/B}{W/B}",
 			"type": "Creature — Minotaur Warrior",
-			"collector_number": "257",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/257_Frestith Heavyweight.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/256_Frestith Heavyweight.png"
 			}
 		},
 		{
@@ -134,10 +124,10 @@
 			"name": "Just Like We Practiced",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment",
-			"collector_number": "29",
+			"type": "Instant",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/29_Just Like We Practiced.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/30_Just Like We Practiced.png"
 			}
 		},
 		{
@@ -145,9 +135,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/37_Shake the Arena.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/38_Shake the Arena.png"
 			}
 		},
 		{
@@ -155,9 +145,9 @@
 			"rarity": "common",
 			"mana_cost": "{W/B}{W/B}{W/B}",
 			"type": "Instant",
-			"collector_number": "272",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/272_Unmake.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/267_Unmake.png"
 			}
 		},
 		{
@@ -185,9 +175,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "204",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/204_Display of Power.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/203_Display of Power.png"
 			}
 		},
 		{
@@ -215,19 +205,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "214",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/214_Hex-Event Broadcaster.png"
-			}
-		},
-		{
-			"name": "Hex Seeker",
-			"rarity": "common",
-			"mana_cost": "{1}{U/R}{U/R}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "259",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/259_Hex Seeker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/213_Hex-Event Broadcaster.png"
 			}
 		},
 		{
@@ -255,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Demon Wizard",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/211_Gateway Gambler.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/210_Gateway Gambler.png"
 			}
 		},
 		{
@@ -265,9 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U/R}{U/R}",
 			"type": "Creature — Spirit Wizard",
-			"collector_number": "273",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/273_Verrith Imager.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/268_Verrith Imager.png"
 			}
 		},
 		{
@@ -275,9 +255,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G/U}{G/U}",
 			"type": "Creature — Faerie Dragon",
-			"collector_number": "274",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/274_Vioradell Dragon.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/269_Vioradell Dragon.png"
 			}
 		},
 		{
@@ -365,9 +345,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Insect",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/93_Cenari's Youngling.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/94_Cenari's Youngling.png"
 			}
 		},
 		{
@@ -395,9 +375,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Insect Warrior",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/94_Challenger Mantis.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/95_Challenger Mantis.png"
 			}
 		},
 		{
@@ -405,9 +385,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Demon Advisor",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/91_Calerast Courtess.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/92_Calerast Courtess.png"
 			}
 		},
 		{
@@ -418,16 +398,6 @@
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/7_Honorable Duelist.png"
-			}
-		},
-		{
-			"name": "Defender of the Brood",
-			"rarity": "common",
-			"mana_cost": "{2}{B/G}{B/G}",
-			"type": "Creature — Insect Warrior",
-			"collector_number": "255",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/255_Defender of the Brood.png"
 			}
 		},
 		{
@@ -445,9 +415,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Demon Advisor",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/98_Ex-House Dealer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/99_Ex-House Dealer.png"
 			}
 		},
 		{
@@ -465,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B/G}{B/G}",
 			"type": "Creature — Insect",
-			"collector_number": "271",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/271_Ulkk'Ther Mother.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/266_Ulkk'Ther Mother.png"
 			}
 		},
 		{
@@ -475,19 +445,19 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "88",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/88_Bitter History.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/89_Bitter History.png"
 			}
 		},
 		{
-			"name": "Concede",
+			"name": "Concession",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/95_Concede.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/96_Concession.png"
 			}
 		},
 		{
@@ -505,9 +475,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/97_Crowd's Favorite.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/98_Crowd's Favorite.png"
 			}
 		},
 		{
@@ -515,9 +485,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}{G}",
 			"type": "Instant",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/215_Hexbound Duel.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/214_Hexbound Duel.png"
 			}
 		},
 		{
@@ -545,9 +515,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B/G}{B/G}",
 			"type": "Instant",
-			"collector_number": "258",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/258_Grim Salvage.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/257_Grim Salvage.png"
 			}
 		},
 		{
@@ -581,13 +551,13 @@
 			}
 		},
 		{
-			"name": "Idow Symbol",
+			"name": "Idow Tiebreaker",
 			"rarity": "common",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/217_Idow Symbol.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/216_Idow Tiebreaker.png"
 			}
 		},
 		{
@@ -645,9 +615,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R/W}{R/W}",
 			"type": "Creature — Demon Warrior",
-			"collector_number": "260",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/260_Kaomor Ex-Captain.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/258_Kaomor Ex-Captain.png"
 			}
 		},
 		{
@@ -665,19 +635,19 @@
 			"rarity": "common",
 			"mana_cost": "{R/W}",
 			"type": "Instant",
-			"collector_number": "261",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/261_Kaomor's Might.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/259_Kaomor's Might.png"
 			}
 		},
 		{
-			"name": "High-Roller's Blaze",
+			"name": "Written In Fire",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "138",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/138_High-Roller's Blaze.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/157_Written In Fire.png"
 			}
 		},
 		{
@@ -688,16 +658,6 @@
 			"collector_number": "224",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/224_Morgan's Teachings.png"
-			}
-		},
-		{
-			"name": "Round Three",
-			"rarity": "common",
-			"mana_cost": "{2}{R/W}{R/W}",
-			"type": "Instant",
-			"collector_number": "268",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/268_Round Three.png"
 			}
 		},
 		{
@@ -735,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "{U/R}",
 			"type": "Sorcery",
-			"collector_number": "256",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/256_Experimental Research.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/255_Experimental Research.png"
 			}
 		},
 		{
@@ -755,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "168",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/168_Explorer of the Den.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/167_Explorer of the Den.png"
 			}
 		},
 		{
@@ -765,9 +725,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Noble",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/177_Lady's Favorite.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/176_Lady's Favorite.png"
 			}
 		},
 		{
@@ -775,19 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Faerie Warrior",
-			"collector_number": "169",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/169_Field Patrol.png"
-			}
-		},
-		{
-			"name": "Wayfarer's Companion",
-			"rarity": "common",
-			"mana_cost": "{G/U}{G/U}",
-			"type": "Creature — Insect Scout",
-			"collector_number": "275",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/275_Wayfarer's Companion.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/168_Field Patrol.png"
 			}
 		},
 		{
@@ -795,9 +745,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect Warrior",
-			"collector_number": "164",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/164_Cenari's Pulverizer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/163_Cenari's Pulverizer.png"
 			}
 		},
 		{
@@ -805,9 +755,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Shaman",
-			"collector_number": "170",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/170_Field Stitcher.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/169_Field Stitcher.png"
 			}
 		},
 		{
@@ -815,9 +765,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "190",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/190_Sticky Situation.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/189_Sticky Situation.png"
 			}
 		},
 		{
@@ -825,9 +775,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Insect Warrior",
-			"collector_number": "185",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/185_Retired General.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/184_Retired General.png"
 			}
 		},
 		{
@@ -835,9 +785,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "184",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/184_Rampant Charge.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/183_Rampant Charge.png"
 			}
 		},
 		{
@@ -845,9 +795,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "161",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/161_Api's Blessing.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/160_Api's Blessing.png"
 			}
 		},
 		{
@@ -855,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "178",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/178_Little Victory.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/177_Little Victory.png"
 			}
 		},
 		{
@@ -865,9 +815,9 @@
 			"rarity": "common",
 			"mana_cost": "{X}{G/U}{G/U}",
 			"type": "Sorcery",
-			"collector_number": "265",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/265_Nature's Awakening.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/262_Nature's Awakening.png"
 			}
 		},
 		{
@@ -875,9 +825,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "171",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/171_Flight of the Bumblebee.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/170_Flight of the Bumblebee.png"
 			}
 		},
 		{
@@ -885,19 +835,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "192",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/192_Thorn In Your Side.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/191_Thorn In Your Side.png"
 			}
 		},
 		{
 			"name": "Hexrena Golem",
 			"rarity": "common",
-			"mana_cost": "{3}",
+			"mana_cost": "{4}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "287",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/287_Hexrena Golem.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/281_Hexrena Golem.png"
 			}
 		},
 		{
@@ -905,9 +855,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "294",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/294_Desolate Barrens.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/288_Desolate Barrens.png"
 			}
 		},
 		{
@@ -915,9 +865,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "298",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/298_Jagged Crag.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/292_Jagged Crag.png"
 			}
 		},
 		{
@@ -925,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "302",
+			"collector_number": "296",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/302_Rainforest Spring.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/296_Rainforest Spring.png"
 			}
 		},
 		{
@@ -935,9 +885,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "303",
+			"collector_number": "297",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/303_Roaring Cascade.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/297_Roaring Cascade.png"
 			}
 		},
 		{
@@ -945,9 +895,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "306",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/306_Somber Marsh.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/300_Somber Marsh.png"
 			}
 		},
 		{
@@ -955,9 +905,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Trophy",
-			"collector_number": "279",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/279_Ba's Reward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/272_Ba's Reward.png"
 			}
 		},
 		{
@@ -965,9 +915,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Trophy",
-			"collector_number": "291",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/291_Tarase's Reward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/285_Tarase's Reward.png"
 			}
 		},
 		{
@@ -975,9 +925,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Trophy",
-			"collector_number": "290",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/290_Sih's Reward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/284_Sih's Reward.png"
 			}
 		},
 		{
@@ -985,9 +935,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Trophy",
-			"collector_number": "276",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/276_Ael's Reward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/270_Ael's Reward.png"
 			}
 		},
 		{
@@ -995,9 +945,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Trophy",
-			"collector_number": "281",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/281_Cenari's Reward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/274_Cenari's Reward.png"
 			}
 		},
 		{
@@ -1005,9 +955,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Trophy",
-			"collector_number": "278",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/278_Api's Reward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/271_Api's Reward.png"
 			}
 		},
 		{
@@ -1015,9 +965,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "304",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/304_Shifting Arena.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/298_Shifting Arena.png"
 			}
 		},
 		{
@@ -1025,9 +975,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "243",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/243_Stack the Odds.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/244_Stack the Odds.png"
 			}
 		},
 		{
@@ -1035,9 +985,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}{U}",
 			"type": "Instant",
-			"collector_number": "201",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/201_Ceremonial Opening.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/200_Ceremonial Opening.png"
 			}
 		},
 		{
@@ -1045,9 +995,9 @@
 			"rarity": "common",
 			"mana_cost": "{S}{S}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "285",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/285_Gate's Inspector.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/278_Gate's Inspector.png"
 			}
 		},
 		{
@@ -1055,19 +1005,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Faerie Bard",
-			"collector_number": "245",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/245_Sweetsong Whisperer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/246_Sweetsong Whisperer.png"
 			}
 		},
 		{
 			"name": "Overseer of the Show",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
-			"type": "Creature — Human Advisor",
-			"collector_number": "229",
+			"type": "Creature — Human Shaman Advisor",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/229_Overseer of the Show.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/230_Overseer of the Show.png"
 			}
 		},
 		{
@@ -1075,9 +1025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "244",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/244_Streetsmart Gambler.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/245_Streetsmart Gambler.png"
 			}
 		},
 		{
@@ -1085,9 +1035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Angel Warrior",
-			"collector_number": "195",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/195_Acewing Striker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/194_Acewing Striker.png"
 			}
 		},
 		{
@@ -1095,16 +1045,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{S}{S}",
 			"type": "Artifact Creature — Insect Golem",
-			"collector_number": "283",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/283_Chosen Eye.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/276_Chosen Eye.png"
 			}
 		},
 		{
 			"name": "Matthue, Forever Dreaming",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
-			"type": "Legendary Creature — Demigod",
+			"type": "Legendary Creature — Shapeshifter",
 			"collector_number": "220",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/220_Matthue, Forever Dreaming.png"
@@ -1125,9 +1075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Elemental Wizard",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/218_Jaroh, the Dearing.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/217_Jaroh, the Dearing.png"
 			}
 		},
 		{
@@ -1135,9 +1085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Legendary Creature — Insect Warrior",
-			"collector_number": "203",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/203_Det, Cenari's Favorite.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/202_Det, Cenari's Favorite.png"
 			}
 		},
 		{
@@ -1145,9 +1095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/239_Sers, the Unbound.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/240_Sers, the Unbound.png"
 			}
 		},
 		{
@@ -1164,7 +1114,7 @@
 			"name": "Api's Wish",
 			"rarity": "uncommon",
 			"mana_cost": "{S}{S}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "3",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/3_Api's Wish.png"
@@ -1205,9 +1155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/32_Paragon of Competition.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/33_Paragon of Competition.png"
 			}
 		},
 		{
@@ -1245,9 +1195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Human Scout",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/31_Mimi, Grounds Explorer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/32_Mimi, Grounds Explorer.png"
 			}
 		},
 		{
@@ -1255,15 +1205,15 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/36_Seto San's Wake.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/37_Seto San's Wake.png"
 			}
 		},
 		{
 			"name": "Claimed by Trials",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
 			"collector_number": "21",
 			"image_uris": {
@@ -1395,9 +1345,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Insect",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/96_Corrupted Worker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/97_Corrupted Worker.png"
 			}
 		},
 		{
@@ -1421,13 +1371,13 @@
 			}
 		},
 		{
-			"name": "Guard Fixer",
+			"name": "Battle Medic",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{B}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "101",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/101_Guard Fixer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/88_Battle Medic.png"
 			}
 		},
 		{
@@ -1445,9 +1395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Insect Warrior",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/99_Expendable Paladin.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/100_Expendable Paladin.png"
 			}
 		},
 		{
@@ -1463,11 +1413,11 @@
 		{
 			"name": "Forgotten Deity",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{B}",
+			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Avatar Warrior",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/100_Forgotten Deity.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/101_Forgotten Deity.png"
 			}
 		},
 		{
@@ -1555,9 +1505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Boar Shaman",
-			"collector_number": "157",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/157_Wild Invoker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/155_Wild Invoker.png"
 			}
 		},
 		{
@@ -1625,9 +1575,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Faerie Warrior",
-			"collector_number": "238",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/238_Sefolian Acrobat.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/239_Sefolian Acrobat.png"
 			}
 		},
 		{
@@ -1635,9 +1585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect Shaman",
-			"collector_number": "167",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/167_Detached Finger.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/166_Detached Finger.png"
 			}
 		},
 		{
@@ -1645,19 +1595,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Plant",
-			"collector_number": "159",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/159_Aggressive Hazard.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/158_Aggressive Hazard.png"
 			}
 		},
 		{
 			"name": "Sih's Servant",
 			"rarity": "uncommon",
-			"mana_cost": "{S}{S}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Creature — Dryad",
-			"collector_number": "188",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/188_Sih's Servant.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/187_Sih's Servant.png"
 			}
 		},
 		{
@@ -1665,9 +1615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Artifact Creature — Insect Golem",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/175_Hive Sentinel.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/174_Hive Sentinel.png"
 			}
 		},
 		{
@@ -1675,9 +1625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/174_Hive Explorer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/173_Hive Explorer.png"
 			}
 		},
 		{
@@ -1685,9 +1635,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Insect Warrior",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/173_Grist's Devoted.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/172_Grist's Devoted.png"
 			}
 		},
 		{
@@ -1695,9 +1645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/183_Power to Devour.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/182_Power to Devour.png"
 			}
 		},
 		{
@@ -1705,9 +1655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "189",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/189_Sih's Trial.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/188_Sih's Trial.png"
 			}
 		},
 		{
@@ -1765,9 +1715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Instant",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/176_Host the Tournament.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/175_Host the Tournament.png"
 			}
 		},
 		{
@@ -1775,9 +1725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G/U}{G/U}",
 			"type": "Sorcery",
-			"collector_number": "269",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/269_Shared Dreams.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/264_Shared Dreams.png"
 			}
 		},
 		{
@@ -1785,9 +1735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B/G}{B/G}",
 			"type": "Sorcery",
-			"collector_number": "264",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/264_Mother's Touch.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/261_Mother's Touch.png"
 			}
 		},
 		{
@@ -1795,9 +1745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{U/R}",
 			"type": "Instant",
-			"collector_number": "267",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/267_Risk and Reward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/263_Risk and Reward.png"
 			}
 		},
 		{
@@ -1815,9 +1765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R/W}{R/W}",
 			"type": "Sorcery",
-			"collector_number": "270",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/270_Sponsor's Gift.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/265_Sponsor's Gift.png"
 			}
 		},
 		{
@@ -1852,7 +1802,7 @@
 		},
 		{
 			"name": "Meet Your Match",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "73",
@@ -1895,9 +1845,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/90_Brutal Victory.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/91_Brutal Victory.png"
 			}
 		},
 		{
@@ -1911,13 +1861,13 @@
 			}
 		},
 		{
-			"name": "Ascendant's Fire",
+			"name": "Ascendant's Outburst",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/123_Ascendant's Fire.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/123_Ascendant's Outburst.png"
 			}
 		},
 		{
@@ -1925,9 +1875,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Instant",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/230_Overwhelming Verdict.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/231_Overwhelming Verdict.png"
 			}
 		},
 		{
@@ -1935,9 +1885,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Faerie Warrior",
-			"collector_number": "163",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/163_Broodnest Raider.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/162_Broodnest Raider.png"
 			}
 		},
 		{
@@ -1945,9 +1895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Insect Warrior",
-			"collector_number": "194",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/194_Xysth Guard.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/193_Xysth Guard.png"
 			}
 		},
 		{
@@ -1955,9 +1905,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "209",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/209_Fraid's Mercenary.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/208_Fraid's Mercenary.png"
 			}
 		},
 		{
@@ -1965,9 +1915,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Insect Noble",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/232_Princess of the Hive.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/233_Princess of the Hive.png"
 			}
 		},
 		{
@@ -1975,16 +1925,16 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact — Trophy",
-			"collector_number": "289",
+			"collector_number": "283",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/HEX-files/img/289_Royal Jewel_back.png"
+					"en": "https://sunisalive.github.io/sets/HEX-files/img/283_Royal Jewel_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/289_Royal Jewel_front.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/283_Royal Jewel_front.png"
 			}
 		},
 		{
@@ -1992,9 +1942,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "296",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/296_Glazed Palace.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/290_Glazed Palace.png"
 			}
 		},
 		{
@@ -2002,9 +1952,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "295",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/295_Eye of Api.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/289_Eye of Api.png"
 			}
 		},
 		{
@@ -2012,9 +1962,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "297",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/297_Grim Bastion.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/291_Grim Bastion.png"
 			}
 		},
 		{
@@ -2022,9 +1972,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "307",
+			"collector_number": "301",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/307_Sunlit Highland.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/301_Sunlit Highland.png"
 			}
 		},
 		{
@@ -2032,9 +1982,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "300",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/300_Magmatic Torrent.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/294_Magmatic Torrent.png"
 			}
 		},
 		{
@@ -2042,9 +1992,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "293",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/293_Barren Desolation.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/287_Barren Desolation.png"
 			}
 		},
 		{
@@ -2052,9 +2002,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "301",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/301_Mysterious Cataract.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/295_Mysterious Cataract.png"
 			}
 		},
 		{
@@ -2062,9 +2012,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest",
-			"collector_number": "309",
+			"collector_number": "303",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/309_Vioradell, Sih's Haven.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/303_Vioradell, Sih's Haven.png"
 			}
 		},
 		{
@@ -2072,9 +2022,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp",
-			"collector_number": "310",
+			"collector_number": "304",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/310_Xysth, Cenari's Nest.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/304_Xysth, Cenari's Nest.png"
 			}
 		},
 		{
@@ -2082,9 +2032,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains",
-			"collector_number": "305",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/305_Sinis, Tarase's Network.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/299_Sinis, Tarase's Network.png"
 			}
 		},
 		{
@@ -2092,9 +2042,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain",
-			"collector_number": "299",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/299_Kaomor, Ba's Arena.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/293_Kaomor, Ba's Arena.png"
 			}
 		},
 		{
@@ -2102,9 +2052,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island",
-			"collector_number": "308",
+			"collector_number": "302",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/308_Verrith, Ael's Illusion.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/302_Verrith, Ael's Illusion.png"
 			}
 		},
 		{
@@ -2112,9 +2062,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Wall",
-			"collector_number": "286",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/286_Hexrena.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/280_Hexrena.png"
 			}
 		},
 		{
@@ -2122,9 +2072,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Insect Construct",
-			"collector_number": "280",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/280_Brood Infiltrator.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/273_Brood Infiltrator.png"
 			}
 		},
 		{
@@ -2132,9 +2082,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "292",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/292_Training Bot.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/286_Training Bot.png"
 			}
 		},
 		{
@@ -2172,9 +2122,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{S}{S}{G}",
 			"type": "Creature — Ooze",
-			"collector_number": "180",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/180_Opposing Form.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/179_Opposing Form.png"
 			}
 		},
 		{
@@ -2182,9 +2132,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Hydra",
-			"collector_number": "182",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/182_Pit Hydra.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/181_Pit Hydra.png"
 			}
 		},
 		{
@@ -2192,9 +2142,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "166",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/166_Cross-Pollinate.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/165_Cross-Pollinate.png"
 			}
 		},
 		{
@@ -2202,9 +2152,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{S}{S}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "284",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/284_Game Promoter.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/277_Game Promoter.png"
 			}
 		},
 		{
@@ -2212,9 +2162,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Insect Assasin",
-			"collector_number": "231",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/231_Praying Mantis.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/232_Praying Mantis.png"
 			}
 		},
 		{
@@ -2222,9 +2172,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "251",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/251_Victory Chimes.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/252_Victory Chimes.png"
 			}
 		},
 		{
@@ -2232,9 +2182,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Instant",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/233_Reap Benefits.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/234_Reap Benefits.png"
 			}
 		},
 		{
@@ -2242,9 +2192,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Artifact",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/210_The Game Cube.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/209_The Game Cube.png"
 			}
 		},
 		{
@@ -2252,9 +2202,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Artifact",
-			"collector_number": "197",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/197_Arena for the Fallen.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/196_Arena for the Fallen.png"
 			}
 		},
 		{
@@ -2262,9 +2212,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/227_One More Round.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/228_One More Round.png"
 			}
 		},
 		{
@@ -2272,9 +2222,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "235",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/235_Returning Roots.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/236_Returning Roots.png"
 			}
 		},
 		{
@@ -2282,9 +2232,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Demon Wizard",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/139_Impossible Oddsmaker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/138_Impossible Oddsmaker.png"
 			}
 		},
 		{
@@ -2292,9 +2242,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Angel Warrior",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/33_Patron of the Bold.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/34_Patron of the Bold.png"
 			}
 		},
 		{
@@ -2302,9 +2252,9 @@
 			"rarity": "rare",
 			"mana_cost": "{10}{S}{S}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "288",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/288_Idolized Colossus.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/282_Idolized Colossus.png"
 			}
 		},
 		{
@@ -2322,9 +2272,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Demon Warrior",
-			"collector_number": "249",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/249_Vengeful Adversary.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/250_Vengeful Adversary.png"
 			}
 		},
 		{
@@ -2358,13 +2308,13 @@
 			}
 		},
 		{
-			"name": "Grand Revelation",
+			"name": "Gift of Revelation",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/66_Grand Revelation.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/66_Gift of Revelation.png"
 			}
 		},
 		{
@@ -2409,8 +2359,8 @@
 		},
 		{
 			"name": "Gigi, the Game Ender",
-			"rarity": "mythic",
-			"mana_cost": "{2}{R}{R}{R}",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
 			"type": "Legendary Creature — Dragon",
 			"collector_number": "137",
 			"image_uris": {
@@ -2422,9 +2372,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "172",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/172_Glimpse at Greatness.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/171_Glimpse at Greatness.png"
 			}
 		},
 		{
@@ -2432,9 +2382,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "162",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/162_Brood War.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/161_Brood War.png"
 			}
 		},
 		{
@@ -2442,9 +2392,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "208",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/208_Fraid, Once Banished.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/207_Fraid, Once Banished.png"
 			}
 		},
 		{
@@ -2452,9 +2402,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Angel Warrior",
-			"collector_number": "237",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/237_Saba, the First Champion.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/238_Saba, the First Champion.png"
 			}
 		},
 		{
@@ -2462,39 +2412,39 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "202",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/202_Conflicting Minds.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/201_Conflicting Minds.png"
 			}
 		},
 		{
 			"name": "Archmage's Gambit",
 			"rarity": "mythic",
-			"mana_cost": "{2}{U}{R}",
+			"mana_cost": "{3}{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "196",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/196_Archmage's Gambit.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/195_Archmage's Gambit.png"
 			}
 		},
 		{
 			"name": "Obeka, Bracket Breaker",
 			"rarity": "mythic",
-			"mana_cost": "{3}{B/R}{U}",
+			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Legendary Creature — Ogre Wizard",
-			"collector_number": "266",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/266_Obeka, Bracket Breaker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/227_Obeka, Bracket Breaker.png"
 			}
 		},
 		{
 			"name": "The Living Dream",
 			"rarity": "mythic",
-			"mana_cost": "{1}{B/G}{G/U}",
-			"type": "Legendary Enchantment Creature — Avatar",
-			"collector_number": "263",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/263_The Living Dream.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/219_The Living Dream.png"
 			}
 		},
 		{
@@ -2502,9 +2452,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Human Artist",
-			"collector_number": "207",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/207_Field Designer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/206_Field Designer.png"
 			}
 		},
 		{
@@ -2512,19 +2462,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Trophy",
-			"collector_number": "282",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/282_The Champion's Prize.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/275_The Champion's Prize.png"
 			}
 		},
 		{
-			"name": "Sind Herald",
+			"name": "Stoic Steward",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/38_Sind Herald.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/39_Stoic Steward.png"
 			}
 		},
 		{
@@ -2580,11 +2530,11 @@
 		{
 			"name": "Trophy Hunter",
 			"rarity": "rare",
-			"mana_cost": "{5}{R}",
+			"mana_cost": "{4}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "156",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/156_Trophy Hunter.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/154_Trophy Hunter.png"
 			}
 		},
 		{
@@ -2592,9 +2542,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "193",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/193_Trophyless.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/192_Trophyless.png"
 			}
 		},
 		{
@@ -2602,9 +2552,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Shaman",
-			"collector_number": "165",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/165_Changemancer.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/164_Changemancer.png"
 			}
 		},
 		{
@@ -2612,9 +2562,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Faerie Noble",
-			"collector_number": "181",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/181_Palace Councillor.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/180_Palace Councillor.png"
 			}
 		},
 		{
@@ -2622,9 +2572,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "234",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/234_Remove the Competition.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/235_Remove the Competition.png"
 			}
 		},
 		{
@@ -2632,9 +2582,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Insect Warrior",
-			"collector_number": "200",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/200_Brood Rivalbreaker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/199_Brood Rivalbreaker.png"
 			}
 		},
 		{
@@ -2642,9 +2592,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Phoenix",
-			"collector_number": "206",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/206_Everwing Phoenix.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/205_Everwing Phoenix.png"
 			}
 		},
 		{
@@ -2652,9 +2602,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Spirit Noble",
-			"collector_number": "219",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/219_King of the House.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/218_King of the House.png"
 			}
 		},
 		{
@@ -2672,9 +2622,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Demon Warrior",
-			"collector_number": "236",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/236_Rex, Two-Time Champion.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/237_Rex, Two-Time Champion.png"
 			}
 		},
 		{
@@ -2682,9 +2632,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Trophy",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/17_Chest of Desires HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/18_Chest of Desires HEX.png"
 			}
 		},
 		{
@@ -2692,9 +2642,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Trophy",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/19_Sword of Victory HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/20_Sword of Victory HEX.png"
 			}
 		},
 		{
@@ -2702,9 +2652,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Trophy",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/18_Sigil of Conquest HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/19_Sigil of Conquest HEX.png"
 			}
 		},
 		{
@@ -2752,9 +2702,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/20_Treasure HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/21_Treasure HEX.png"
 			}
 		},
 		{
@@ -2762,9 +2712,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Warrior",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/16_Warrior 22HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/17_Warrior 22HEX.png"
 			}
 		},
 		{
@@ -2812,9 +2762,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "311",
+			"collector_number": "305",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/311_Plains.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/305_Plains.png"
 			}
 		},
 		{
@@ -2822,9 +2772,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "312",
+			"collector_number": "306",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/312_Island.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/306_Island.png"
 			}
 		},
 		{
@@ -2832,9 +2782,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "313",
+			"collector_number": "307",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/313_Swamp.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/307_Swamp.png"
 			}
 		},
 		{
@@ -2842,9 +2792,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "314",
+			"collector_number": "308",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/314_Mountain.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/308_Mountain.png"
 			}
 		},
 		{
@@ -2852,9 +2802,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "315",
+			"collector_number": "309",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/315_Forest.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/309_Forest.png"
 			}
 		},
 		{
@@ -2902,9 +2852,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "158",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/158_Will of Ba.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/156_Will of Ba.png"
 			}
 		},
 		{
@@ -2912,19 +2862,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "252",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/252_Wade Through Chaos.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/253_Wade Through Chaos.png"
 			}
 		},
 		{
-			"name": "Next Challenge",
+			"name": "A New Challenger",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/226_Next Challenge.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/226_A New Challenger.png"
 			}
 		},
 		{
@@ -2932,9 +2882,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Demon Warrior",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/140_Merciless Reaver.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/139_Merciless Reaver.png"
 			}
 		},
 		{
@@ -2942,9 +2892,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Dryad Warrior",
-			"collector_number": "160",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/160_Anvy, Thorns of Sefol.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/159_Anvy, Thorns of Sefol.png"
 			}
 		},
 		{
@@ -2958,13 +2908,13 @@
 			}
 		},
 		{
-			"name": "Api's Assessor",
+			"name": "Head Judge",
 			"rarity": "rare",
 			"mana_cost": "{1}{S}{S}{S}",
 			"type": "Artifact Creature — Angel Advisor",
-			"collector_number": "277",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/277_Api's Assessor.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/279_Head Judge.png"
 			}
 		},
 		{
@@ -2982,9 +2932,9 @@
 			"rarity": "common",
 			"mana_cost": "{X}{G}{U}",
 			"type": "Creature — Dryad Warrior",
-			"collector_number": "241",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/241_Sih's Combatant.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/242_Sih's Combatant.png"
 			}
 		},
 		{
@@ -2992,9 +2942,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Dryad Warrior",
-			"collector_number": "191",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/191_Thaloren Caretaker.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/190_Thaloren Caretaker.png"
 			}
 		},
 		{
@@ -3019,16 +2969,16 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Druid",
-			"collector_number": "187",
+			"collector_number": "186",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/HEX-files/img/187_Sih, the Fourth Season_back.png"
+					"en": "https://sunisalive.github.io/sets/HEX-files/img/186_Sih, the Fourth Season_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/187_Sih, the Fourth Season_front.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/186_Sih, the Fourth Season_front.png"
 			}
 		},
 		{
@@ -3070,16 +3020,16 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Elder Insect",
-			"collector_number": "92",
+			"collector_number": "93",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/HEX-files/img/92_Cenari, the Fifth Desire_back.png"
+					"en": "https://sunisalive.github.io/sets/HEX-files/img/93_Cenari, the Fifth Desire_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/92_Cenari, the Fifth Desire_front.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/93_Cenari, the Fifth Desire_front.png"
 			}
 		},
 		{
@@ -3114,9 +3064,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/21t_Trophy Reminder.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/22_Trophy Reminder.png"
 			}
 		},
 		{
@@ -3134,9 +3084,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}{G}{G}",
 			"type": "Legendary Creature — Insect God",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/212_Grist and Cenari.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/211_Grist and Cenari.png"
 			}
 		},
 		{
@@ -3150,33 +3100,23 @@
 			}
 		},
 		{
-			"name": "Supreme Blast",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Sorcery",
-			"collector_number": "155",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/155_Supreme Blast.png"
-			}
-		},
-		{
 			"name": "Return from the Fallen",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{G}",
 			"type": "Battle — Fate",
-			"collector_number": "186",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/186_Return from the Fallen.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/185_Return from the Fallen.png"
 			}
 		},
 		{
-			"name": "Strike the Moment",
+			"name": "A Moment to Strike",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Battle — Fate",
-			"collector_number": "154",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/154_Strike the Moment.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/140_A Moment to Strike.png"
 			}
 		},
 		{
@@ -3184,9 +3124,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Battle — Fate",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/30_Medical Field.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/31_Medical Field.png"
 			}
 		},
 		{
@@ -3204,9 +3144,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{B}",
 			"type": "Battle — Fate",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/89_Brooding Pact.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/90_Brooding Pact.png"
 			}
 		},
 		{
@@ -3224,9 +3164,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Battle — Fate",
-			"collector_number": "246",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/246_Take Fate.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/247_Take Fate.png"
 			}
 		},
 		{
@@ -3234,9 +3174,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}",
 			"type": "Battle — Fate",
-			"collector_number": "250",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/250_Victims of Fate.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/251_Victims of Fate.png"
 			}
 		},
 		{
@@ -3244,9 +3184,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Battle — Fate",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/228_Order of the Tribunal.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/229_Order of the Tribunal.png"
 			}
 		},
 		{
@@ -3254,9 +3194,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Battle — Fate",
-			"collector_number": "248",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/248_Underdog Story.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/249_Underdog Story.png"
 			}
 		},
 		{
@@ -3264,9 +3204,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Battle — Fate",
-			"collector_number": "198",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/198_Born for Entertainment.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/197_Born for Entertainment.png"
 			}
 		},
 		{
@@ -3274,9 +3214,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W/B}{B/G}{G/U}{U/R}{R/W}",
 			"type": "Battle — Fate",
-			"collector_number": "262",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/262_Let It Commence.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/260_Let It Commence.png"
 			}
 		},
 		{
@@ -3284,9 +3224,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Plant Dragon",
-			"collector_number": "205",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/205_Dragon of the Springs.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/204_Dragon of the Springs.png"
 			}
 		},
 		{
@@ -3294,9 +3234,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Human Artist",
-			"collector_number": "242",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/242_Soul Painter.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/243_Soul Painter.png"
 			}
 		},
 		{
@@ -3354,9 +3294,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Insect Citizen",
-			"collector_number": "199",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/199_Brood Grubbers.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/198_Brood Grubbers.png"
 			}
 		},
 		{
@@ -3374,9 +3314,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Emblem — Grist",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/22_Emblem.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/23_Emblem.png"
 			}
 		},
 		{
@@ -3384,9 +3324,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Planeswalker — Grist",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/213_Grist, the World Hunger.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/212_Grist, the World Hunger.png"
 			}
 		},
 		{
@@ -3394,345 +3334,1007 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Planeswalker — Seto",
-			"collector_number": "240",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/240_Seto San, the Defending.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/241_Seto San, the Defending.png"
 			}
 		},
 		{
 			"name": "blue Illusion 11HEX",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Legendary Token Creature — Illusion",
+			"type": "Token Legendary Creature — Illusion",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/10_blue Illusion 11HEX.png"
 			}
 		},
 		{
-			"name": "Natural End",
+			"name": "Natural Conclusion",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "179",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/179_Natural End.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/178_Natural Conclusion.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/310_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/311_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/314_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/312_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/313_Forest.png"
+			}
+		},
+		{
+			"name": "red and white Warrior 11HEX",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Warrior",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/16_red and white Warrior 11HEX.png"
 			}
 		}
 	]
 
-[rare(2)]
-	10 High-End Security
-	10 Comfy, the Final Game
-	10 Meet Your Match
-	10 Tunnel Keeper
-	10 Baroness of Calerast
-	10 Living Infestation
-	10 Brutal Victory
-	10 Price for Victory
-	10 Ascendant's Fire
-	10 Overwhelming Verdict
-	10 Broodnest Raider
-	10 Xysth Guard
-	10 Fraid's Mercenary
-	10 Princess of the Hive
-	10 Royal Jewel
-	10 Glazed Palace
-	10 Grim Bastion
-	10 Sunlit Highland
-	10 Magmatic Torrent
-	10 Barren Desolation
-	10 Mysterious Cataract
-	10 Returning Roots
-	10 Impossible Oddsmaker
-	10 Patron of the Bold
-	10 Idolized Colossus
-	10 Finality
-	10 Vengeful Adversary
-	10 Tournament Recruiter
-	5 Ascendancy
-	5 The Competitive Spirit
-	5 Grand Revelation
-	5 Pina, the Returned
-	5 Verce's Nightmare
-	5 Pactbound Contestant
-	5 All That Is Possible
-	5 Gigi, the Game Ender
-	5 Glimpse at Greatness
-	5 Brood War
-	5 Fraid, Once Banished
-	5 Saba, the First Champion
-	10 Conflicting Minds
-	5 Archmage's Gambit
-	5 Obeka, Bracket Breaker
-	5 The Living Dream
-	5 Field Designer
-	5 The Champion's Prize
-	10 Sind Herald
-	10 Sunstan Mage
-	10 Host Seeker
-	10 Tournament Host
-	10 Challenge Seeker
-	10 Afterthought
-	10 Trophy Hunter
-	10 Trophyless
-	10 Changemancer
-	10 Palace Councillor
-	10 Remove the Competition
-	10 Brood Rivalbreaker
-	10 Everwing Phoenix
-	10 King of the House
-	10 Rex, Two-Time Champion
-	10 Event Helper
-	10 Nari, Possibility Archmage
-	10 Eve's Will
-	10 Wade Through Chaos
-	10 Next Challenge
-	10 Merciless Reaver
-	10 Anvy, Thorns of Sefol
-	10 Api's Assessor
-	5 A Queen is Waiting
-	10 Ba, the Sixth Sense
-	10 Sih, the Fourth Season
-	10 Tarase, the Third Charm
-	10 Ael, the Second Chance
-	10 Cenari, the Fifth Desire
-	10 Api, the First Thought
-	10 Embrace the Chaos
-	5 Grist and Cenari
-	10 Eve, the Paradoxical
-	10 Supreme Blast
-	10 Take Fate
-	10 Victims of Fate
-	10 Order of the Tribunal
-	10 Underdog Story
-	10 Born for Entertainment
-	10 Let It Commence
-	10 Dragon of the Springs
-	5 Soul Painter
-	5 Path to Victory
-	5 Grist, the World Hunger
-	5 Seto San, the Defending
-[uncommon(4)]
-	10 Peak Performer
-	10 Competitor's Hammer
-	10 Rookie's Mentor
-	10 Sweetsong Whisperer
-	10 Overseer of the Show
-	10 Streetsmart Gambler
-	10 Acewing Striker
-	10 Chosen Eye
-	10 Matthue, Forever Dreaming
-	10 Morgan, Hexetic Leader
-	10 Jaroh, the Dearing
-	10 Det, Cenari's Favorite
-	10 Sers, the Unbound
-	10 Harmon, the Messenger
-	10 Api's Wish
-	10 Talented Sentrysmith
-	10 Adversary's Navigator
-	10 Paragon of Competition
-	10 Victory Summoner
-	10 Tarase's Immortal
-	10 Mimi, Grounds Explorer
-	10 Seto San's Wake
-	10 Claimed by Trials
-	10 Vioradell Javelineer
-	10 Wide Receiver
-	10 Trophy Mage
-	10 Kryslavar Golem
-	10 Reality Referee
-	10 Master of Nari's Veil
-	10 Cravakian Ring Dancer
-	10 Reality Slip
-	10 Let the Games Begin
-	10 Lost Cause
-	10 Ael's Trial
-	10 Fortune's Favor
-	10 Corrupted Worker
-	10 Hiveheart Guardian
-	10 Last of the Lost
-	10 Guard Fixer
-	10 Verce, the Big Dreamer
-	10 Expendable Paladin
-	10 A House and a Brood
-	10 Forgotten Deity
-	10 Morgan's Order
-	10 Woven Lies
-	10 Kiss of Defeat
-	10 Tarase's Trial
-	10 Game Master
-	10 Self-Made Champ
-	10 Relentless Rival
-	10 Wild Invoker
-	10 Fortune's Channeler
-	10 Rage of the Warrior
-	10 Second Burst
-	10 Plan Bee
-	10 Competitive Spirit Tamer
-	10 Ba's Trial
-	10 Detached Finger
-	10 Aggressive Hazard
-	10 Sih's Servant
-	10 Hive Sentinel
-	10 Hive Explorer
-	10 Grist's Devoted
-	10 Power to Devour
-	10 Sih's Trial
-	10 Api's Trial
-	10 Catch the Show
-	10 Attention Grab
-	10 Sponsor's Decree
-	10 Overwhelming Offense
-	10 Host the Tournament
-	10 Shared Dreams
-	10 Mother's Touch
-	10 Risk and Reward
-	10 Deepest Desires
-	10 Sponsor's Gift
-	10 Aspire
-	10 Eye of Api
-	10 Vioradell, Sih's Haven
-	10 Xysth, Cenari's Nest
-	10 Sinis, Tarase's Network
-	10 Kaomor, Ba's Arena
-	10 Verrith, Ael's Illusion
-	10 Hexrena
-	10 Brood Infiltrator
-	10 Training Bot
-	10 Bound as Brothers
-	10 Arcane Rallier
-	10 Arena Boss
-	10 Opposing Form
-	10 Pit Hydra
-	10 Cross-Pollinate
-	10 Game Promoter
-	10 Praying Mantis
-	10 Victory Chimes
-	10 Reap Benefits
-	10 The Game Cube
-	10 Arena for the Fallen
-	10 One More Round
-	10 Ba's Prodigy
-	10 Thaloren Caretaker
-	10 Return from the Fallen
-	10 Strike the Moment
-	10 Medical Field
-	10 Out in the Cold
-	10 Brooding Pact
-	10 Opening Bout
-[common(9)]
-	30 Grand Hexetic
-	30 Practice Partners
-	30 Daring Combatant
-	30 Soaring Striker
-	30 Head Hunter
-	30 Battle Medic
-	30 House Guard
-	30 Tournament Favorite
-	30 Syld Avenger
-	30 Tarase's Collector
-	30 Frestith Heavyweight
-	30 Just Like We Practiced
-	30 Shake the Arena
-	30 Unmake
-	30 Team Spirit
-	30 Warrior's Bond
-	30 Display of Power
-	30 Answer the Call
-	30 Blade of the Fair
-	30 Hex-Event Broadcaster
-	30 Hex Seeker
-	30 Festive Jester
-	30 Rising Contender
-	30 Gateway Gambler
-	30 Verrith Imager
-	30 Vioradell Dragon
-	30 Take Your Chances
-	30 Kick Off
-	30 Aftershow
-	30 Unbroken Resolve
-	30 Gambler's Hex
-	30 Ward Off
-	30 Final Preperations
-	30 Acceptance
-	30 Cenari's Youngling
-	30 Undazzling Magician
-	30 Ael's Experiment
-	30 Challenger Mantis
-	30 Calerast Courtess
-	30 Honorable Duelist
-	30 Defender of the Brood
-	30 Sind's Rule Setter
-	30 Ex-House Dealer
-	30 Molted Juggernaut
-	30 Ulkk'Ther Mother
-	30 Bitter History
-	30 Concede
-	30 Tarase's Influence
-	30 Crowd's Favorite
-	30 Hexbound Duel
-	30 Waste None
-	30 Match Fix
-	30 Grim Salvage
-	30 Dribble Bomber
-	30 Child of Chance
-	30 Idow Symbol
-	30 Nari's Disciple
-	30 Worthy Opponent
-	30 Petty Adversary
-	30 Hex Mage
-	30 Mob's Ringleader
-	30 Kaomor Ex-Captain
-	30 Dragonborn Spear
-	30 Kaomor's Might
-	30 High-Roller's Blaze
-	30 Morgan's Teachings
-	30 Round Three
-	30 Reality Shatter
-	30 Personal Gain
-	30 Burning Desire
-	30 Experimental Research
-	30 Champion's Strike
-	30 Explorer of the Den
-	30 Lady's Favorite
-	30 Field Patrol
-	30 Wayfarer's Companion
-	30 Cenari's Pulverizer
-	30 Field Stitcher
-	30 Sticky Situation
-	30 Retired General
-	30 Rampant Charge
-	30 Api's Blessing
-	30 Little Victory
-	30 Nature's Awakening
-	30 Flight of the Bumblebee
-	30 Thorn In Your Side
-	30 Hexrena Golem
-	30 Desolate Barrens
-	30 Jagged Crag
-	30 Rainforest Spring
-	30 Roaring Cascade
-	30 Somber Marsh
-	30 Ba's Reward
-	30 Tarase's Reward
-	30 Sih's Reward
-	30 Ael's Reward
-	30 Cenari's Reward
-	30 Api's Reward
-	30 Shifting Arena
-	30 Stack the Odds
-	30 Ceremonial Opening
-	30 Gate's Inspector
-	30 Wayward Warrior
-	30 Training Regimen
-	30 Chaotic Pyromancer
-	30 Sefolian Acrobat
-	30 Will of Ba
-	30 Sih's Combatant
-	30 In This Together
-	30 Brood Grubbers
-	30 Kingdom's Champion
-	30 Natural End
-[ReminderSlot(1)]
-	1000 Trophy Reminder
+[rare(1)]
+	2 High-End Security
+	2 Comfy, the Final Game
+	2 Tunnel Keeper
+	2 Baroness of Calerast
+	2 Living Infestation
+	2 Brutal Victory
+	2 Price for Victory
+	2 Ascendant's Outburst
+	2 Overwhelming Verdict
+	2 Broodnest Raider
+	2 Xysth Guard
+	2 Fraid's Mercenary
+	2 Princess of the Hive
+	2 Royal Jewel
+	2 Glazed Palace
+	2 Grim Bastion
+	2 Sunlit Highland
+	2 Magmatic Torrent
+	2 Barren Desolation
+	2 Mysterious Cataract
+	2 Returning Roots
+	2 Impossible Oddsmaker
+	2 Patron of the Bold
+	2 Idolized Colossus
+	2 Finality
+	2 Vengeful Adversary
+	2 Tournament Recruiter
+	1 Ascendancy
+	1 The Competitive Spirit
+	1 Gift of Revelation
+	1 Pina, the Returned
+	1 Verce's Nightmare
+	1 Pactbound Contestant
+	1 All That Is Possible
+	2 Gigi, the Game Ender
+	1 Glimpse at Greatness
+	1 Brood War
+	1 Fraid, Once Banished
+	1 Saba, the First Champion
+	2 Conflicting Minds
+	1 Archmage's Gambit
+	1 Obeka, Bracket Breaker
+	1 The Living Dream
+	1 Field Designer
+	1 The Champion's Prize
+	2 Stoic Steward
+	2 Sunstan Mage
+	2 Host Seeker
+	2 Tournament Host
+	2 Challenge Seeker
+	2 Afterthought
+	2 Trophy Hunter
+	2 Trophyless
+	2 Changemancer
+	2 Palace Councillor
+	2 Remove the Competition
+	2 Brood Rivalbreaker
+	2 Everwing Phoenix
+	2 King of the House
+	2 Rex, Two-Time Champion
+	2 Event Helper
+	2 Nari, Possibility Archmage
+	2 Eve's Will
+	2 Wade Through Chaos
+	2 A New Challenger
+	2 Merciless Reaver
+	2 Anvy, Thorns of Sefol
+	2 Head Judge
+	1 A Queen is Waiting
+	2 Ba, the Sixth Sense
+	2 Sih, the Fourth Season
+	2 Tarase, the Third Charm
+	2 Ael, the Second Chance
+	2 Cenari, the Fifth Desire
+	2 Api, the First Thought
+	2 Embrace the Chaos
+	1 Grist and Cenari
+	2 Eve, the Paradoxical
+	2 Take Fate
+	2 Victims of Fate
+	2 Order of the Tribunal
+	2 Underdog Story
+	2 Born for Entertainment
+	2 Let It Commence
+	2 Dragon of the Springs
+	1 Soul Painter
+	1 Path to Victory
+	1 Grist, the World Hunger
+	1 Seto San, the Defending
+[uncommon(3)]
+	4 Peak Performer
+	4 Competitor's Hammer
+	4 Rookie's Mentor
+	4 Sweetsong Whisperer
+	4 Overseer of the Show
+	4 Streetsmart Gambler
+	4 Acewing Striker
+	4 Chosen Eye
+	4 Matthue, Forever Dreaming
+	4 Morgan, Hexetic Leader
+	4 Jaroh, the Dearing
+	4 Det, Cenari's Favorite
+	4 Sers, the Unbound
+	4 Harmon, the Messenger
+	4 Api's Wish
+	4 Talented Sentrysmith
+	4 Adversary's Navigator
+	4 Paragon of Competition
+	4 Victory Summoner
+	4 Tarase's Immortal
+	4 Mimi, Grounds Explorer
+	4 Seto San's Wake
+	4 Claimed by Trials
+	4 Vioradell Javelineer
+	4 Wide Receiver
+	4 Trophy Mage
+	4 Kryslavar Golem
+	4 Reality Referee
+	4 Master of Nari's Veil
+	4 Cravakian Ring Dancer
+	4 Reality Slip
+	4 Let the Games Begin
+	4 Lost Cause
+	4 Ael's Trial
+	4 Fortune's Favor
+	4 Corrupted Worker
+	4 Hiveheart Guardian
+	4 Last of the Lost
+	4 Battle Medic
+	4 Verce, the Big Dreamer
+	4 Expendable Paladin
+	4 A House and a Brood
+	4 Forgotten Deity
+	4 Morgan's Order
+	4 Woven Lies
+	4 Kiss of Defeat
+	4 Tarase's Trial
+	4 Game Master
+	4 Self-Made Champ
+	4 Relentless Rival
+	4 Wild Invoker
+	4 Fortune's Channeler
+	4 Rage of the Warrior
+	4 Second Burst
+	4 Plan Bee
+	4 Competitive Spirit Tamer
+	4 Ba's Trial
+	4 Detached Finger
+	4 Aggressive Hazard
+	4 Sih's Servant
+	4 Hive Sentinel
+	4 Hive Explorer
+	4 Grist's Devoted
+	4 Power to Devour
+	4 Sih's Trial
+	4 Api's Trial
+	4 Catch the Show
+	4 Attention Grab
+	4 Sponsor's Decree
+	4 Overwhelming Offense
+	4 Host the Tournament
+	4 Shared Dreams
+	4 Mother's Touch
+	4 Risk and Reward
+	4 Deepest Desires
+	4 Sponsor's Gift
+	4 Aspire
+	4 Meet Your Match
+	4 Eye of Api
+	4 Vioradell, Sih's Haven
+	4 Xysth, Cenari's Nest
+	4 Sinis, Tarase's Network
+	4 Kaomor, Ba's Arena
+	4 Verrith, Ael's Illusion
+	4 Hexrena
+	4 Brood Infiltrator
+	4 Training Bot
+	4 Bound as Brothers
+	4 Arcane Rallier
+	4 Arena Boss
+	4 Opposing Form
+	4 Pit Hydra
+	4 Cross-Pollinate
+	4 Game Promoter
+	4 Praying Mantis
+	4 Victory Chimes
+	4 Reap Benefits
+	4 The Game Cube
+	4 Arena for the Fallen
+	4 One More Round
+	4 Ba's Prodigy
+	4 Thaloren Caretaker
+	4 Return from the Fallen
+	4 A Moment to Strike
+	4 Medical Field
+	4 Out in the Cold
+	4 Brooding Pact
+	4 Opening Bout
+[common(7)]
+	8 Grand Hexetic
+	8 Practice Partners
+	8 Daring Combatant
+	8 Soaring Striker
+	8 Head Hunter
+	8 House Guard
+	8 Tournament Favorite
+	8 Isald Avenger
+	8 Tarase's Collector
+	8 Frestith Heavyweight
+	8 Just Like We Practiced
+	8 Shake the Arena
+	8 Unmake
+	8 Team Spirit
+	8 Warrior's Bond
+	8 Display of Power
+	8 Answer the Call
+	8 Blade of the Fair
+	8 Hex-Event Broadcaster
+	8 Festive Jester
+	8 Rising Contender
+	8 Gateway Gambler
+	8 Verrith Imager
+	8 Vioradell Dragon
+	8 Take Your Chances
+	8 Kick Off
+	8 Aftershow
+	8 Unbroken Resolve
+	8 Gambler's Hex
+	8 Ward Off
+	8 Final Preperations
+	8 Acceptance
+	8 Cenari's Youngling
+	8 Undazzling Magician
+	8 Ael's Experiment
+	8 Challenger Mantis
+	8 Calerast Courtess
+	8 Honorable Duelist
+	8 Sind's Rule Setter
+	8 Ex-House Dealer
+	8 Molted Juggernaut
+	8 Ulkk'Ther Mother
+	8 Bitter History
+	8 Concession
+	8 Tarase's Influence
+	8 Crowd's Favorite
+	8 Hexbound Duel
+	8 Waste None
+	8 Match Fix
+	8 Grim Salvage
+	8 Dribble Bomber
+	8 Child of Chance
+	8 Idow Tiebreaker
+	8 Nari's Disciple
+	8 Worthy Opponent
+	8 Petty Adversary
+	8 Hex Mage
+	8 Mob's Ringleader
+	8 Kaomor Ex-Captain
+	8 Dragonborn Spear
+	8 Kaomor's Might
+	8 Written In Fire
+	8 Morgan's Teachings
+	8 Reality Shatter
+	8 Personal Gain
+	8 Burning Desire
+	8 Experimental Research
+	8 Champion's Strike
+	8 Explorer of the Den
+	8 Lady's Favorite
+	8 Field Patrol
+	8 Cenari's Pulverizer
+	8 Field Stitcher
+	8 Sticky Situation
+	8 Retired General
+	8 Rampant Charge
+	8 Api's Blessing
+	8 Little Victory
+	8 Nature's Awakening
+	8 Flight of the Bumblebee
+	8 Thorn In Your Side
+	8 Hexrena Golem
+	8 Desolate Barrens
+	8 Jagged Crag
+	8 Rainforest Spring
+	8 Roaring Cascade
+	8 Somber Marsh
+	8 Ba's Reward
+	8 Tarase's Reward
+	8 Sih's Reward
+	8 Ael's Reward
+	8 Cenari's Reward
+	8 Api's Reward
+	8 Shifting Arena
+	8 Stack the Odds
+	8 Ceremonial Opening
+	8 Gate's Inspector
+	8 Wayward Warrior
+	8 Training Regimen
+	8 Chaotic Pyromancer
+	8 Sefolian Acrobat
+	8 Will of Ba
+	8 Sih's Combatant
+	8 In This Together
+	8 Brood Grubbers
+	8 Kingdom's Champion
+	8 Natural Conclusion
+[foil(1)]
+	12 Grand Hexetic
+	6 Peak Performer
+	12 Practice Partners
+	12 Daring Combatant
+	12 Soaring Striker
+	12 Head Hunter
+	12 House Guard
+	12 Tournament Favorite
+	12 Isald Avenger
+	12 Tarase's Collector
+	12 Frestith Heavyweight
+	6 Competitor's Hammer
+	12 Just Like We Practiced
+	12 Shake the Arena
+	12 Unmake
+	12 Team Spirit
+	12 Warrior's Bond
+	12 Display of Power
+	12 Answer the Call
+	12 Blade of the Fair
+	12 Hex-Event Broadcaster
+	12 Festive Jester
+	12 Rising Contender
+	12 Gateway Gambler
+	12 Verrith Imager
+	12 Vioradell Dragon
+	12 Take Your Chances
+	12 Kick Off
+	12 Aftershow
+	12 Unbroken Resolve
+	12 Gambler's Hex
+	12 Ward Off
+	12 Final Preperations
+	12 Acceptance
+	12 Cenari's Youngling
+	12 Undazzling Magician
+	12 Ael's Experiment
+	12 Challenger Mantis
+	12 Calerast Courtess
+	12 Honorable Duelist
+	12 Sind's Rule Setter
+	12 Ex-House Dealer
+	12 Molted Juggernaut
+	12 Ulkk'Ther Mother
+	12 Bitter History
+	12 Concession
+	12 Tarase's Influence
+	12 Crowd's Favorite
+	12 Hexbound Duel
+	12 Waste None
+	12 Match Fix
+	12 Grim Salvage
+	6 Rookie's Mentor
+	12 Dribble Bomber
+	12 Child of Chance
+	12 Idow Tiebreaker
+	12 Nari's Disciple
+	12 Worthy Opponent
+	12 Petty Adversary
+	12 Hex Mage
+	12 Mob's Ringleader
+	12 Kaomor Ex-Captain
+	12 Dragonborn Spear
+	12 Kaomor's Might
+	12 Written In Fire
+	12 Morgan's Teachings
+	12 Reality Shatter
+	12 Personal Gain
+	12 Burning Desire
+	12 Experimental Research
+	12 Champion's Strike
+	12 Explorer of the Den
+	12 Lady's Favorite
+	12 Field Patrol
+	12 Cenari's Pulverizer
+	12 Field Stitcher
+	12 Sticky Situation
+	12 Retired General
+	12 Rampant Charge
+	12 Api's Blessing
+	12 Little Victory
+	12 Nature's Awakening
+	12 Flight of the Bumblebee
+	12 Thorn In Your Side
+	12 Hexrena Golem
+	12 Desolate Barrens
+	12 Jagged Crag
+	12 Rainforest Spring
+	12 Roaring Cascade
+	12 Somber Marsh
+	12 Ba's Reward
+	12 Tarase's Reward
+	12 Sih's Reward
+	12 Ael's Reward
+	12 Cenari's Reward
+	12 Api's Reward
+	12 Shifting Arena
+	12 Stack the Odds
+	12 Ceremonial Opening
+	12 Gate's Inspector
+	6 Sweetsong Whisperer
+	6 Overseer of the Show
+	6 Streetsmart Gambler
+	6 Acewing Striker
+	6 Chosen Eye
+	6 Matthue, Forever Dreaming
+	6 Morgan, Hexetic Leader
+	6 Jaroh, the Dearing
+	6 Det, Cenari's Favorite
+	6 Sers, the Unbound
+	6 Harmon, the Messenger
+	6 Api's Wish
+	6 Talented Sentrysmith
+	12 Wayward Warrior
+	6 Adversary's Navigator
+	6 Paragon of Competition
+	6 Victory Summoner
+	6 Tarase's Immortal
+	12 Training Regimen
+	6 Mimi, Grounds Explorer
+	6 Seto San's Wake
+	6 Claimed by Trials
+	6 Vioradell Javelineer
+	6 Wide Receiver
+	6 Trophy Mage
+	6 Kryslavar Golem
+	6 Reality Referee
+	6 Master of Nari's Veil
+	6 Cravakian Ring Dancer
+	6 Reality Slip
+	6 Let the Games Begin
+	6 Lost Cause
+	6 Ael's Trial
+	6 Fortune's Favor
+	6 Corrupted Worker
+	6 Hiveheart Guardian
+	6 Last of the Lost
+	6 Battle Medic
+	6 Verce, the Big Dreamer
+	6 Expendable Paladin
+	6 A House and a Brood
+	6 Forgotten Deity
+	6 Morgan's Order
+	6 Woven Lies
+	6 Kiss of Defeat
+	6 Tarase's Trial
+	12 Chaotic Pyromancer
+	6 Game Master
+	6 Self-Made Champ
+	6 Relentless Rival
+	6 Wild Invoker
+	6 Fortune's Channeler
+	6 Rage of the Warrior
+	6 Second Burst
+	6 Plan Bee
+	6 Competitive Spirit Tamer
+	6 Ba's Trial
+	12 Sefolian Acrobat
+	6 Detached Finger
+	6 Aggressive Hazard
+	6 Sih's Servant
+	6 Hive Sentinel
+	6 Hive Explorer
+	6 Grist's Devoted
+	6 Power to Devour
+	6 Sih's Trial
+	6 Api's Trial
+	6 Catch the Show
+	6 Attention Grab
+	6 Sponsor's Decree
+	6 Overwhelming Offense
+	6 Host the Tournament
+	6 Shared Dreams
+	6 Mother's Touch
+	6 Risk and Reward
+	6 Deepest Desires
+	6 Sponsor's Gift
+	6 Aspire
+	2 High-End Security
+	2 Comfy, the Final Game
+	6 Meet Your Match
+	2 Tunnel Keeper
+	2 Baroness of Calerast
+	2 Living Infestation
+	2 Brutal Victory
+	2 Price for Victory
+	2 Ascendant's Outburst
+	2 Overwhelming Verdict
+	2 Broodnest Raider
+	2 Xysth Guard
+	2 Fraid's Mercenary
+	2 Princess of the Hive
+	2 Royal Jewel
+	2 Glazed Palace
+	6 Eye of Api
+	2 Grim Bastion
+	2 Sunlit Highland
+	2 Magmatic Torrent
+	2 Barren Desolation
+	2 Mysterious Cataract
+	6 Vioradell, Sih's Haven
+	6 Xysth, Cenari's Nest
+	6 Sinis, Tarase's Network
+	6 Kaomor, Ba's Arena
+	6 Verrith, Ael's Illusion
+	6 Hexrena
+	6 Brood Infiltrator
+	6 Training Bot
+	6 Bound as Brothers
+	6 Arcane Rallier
+	6 Arena Boss
+	6 Opposing Form
+	6 Pit Hydra
+	6 Cross-Pollinate
+	6 Game Promoter
+	6 Praying Mantis
+	6 Victory Chimes
+	6 Reap Benefits
+	6 The Game Cube
+	6 Arena for the Fallen
+	6 One More Round
+	2 Returning Roots
+	2 Impossible Oddsmaker
+	2 Patron of the Bold
+	2 Idolized Colossus
+	2 Finality
+	2 Vengeful Adversary
+	2 Tournament Recruiter
+	1 Ascendancy
+	1 The Competitive Spirit
+	1 Gift of Revelation
+	1 Pina, the Returned
+	1 Verce's Nightmare
+	1 Pactbound Contestant
+	1 All That Is Possible
+	2 Gigi, the Game Ender
+	1 Glimpse at Greatness
+	1 Brood War
+	1 Fraid, Once Banished
+	1 Saba, the First Champion
+	2 Conflicting Minds
+	1 Archmage's Gambit
+	1 Obeka, Bracket Breaker
+	1 The Living Dream
+	1 Field Designer
+	1 The Champion's Prize
+	2 Stoic Steward
+	2 Sunstan Mage
+	2 Host Seeker
+	2 Tournament Host
+	2 Challenge Seeker
+	2 Afterthought
+	2 Trophy Hunter
+	2 Trophyless
+	2 Changemancer
+	2 Palace Councillor
+	2 Remove the Competition
+	2 Brood Rivalbreaker
+	2 Everwing Phoenix
+	2 King of the House
+	2 Rex, Two-Time Champion
+	2 Event Helper
+	2 Nari, Possibility Archmage
+	2 Eve's Will
+	12 Will of Ba
+	2 Wade Through Chaos
+	2 A New Challenger
+	2 Merciless Reaver
+	2 Anvy, Thorns of Sefol
+	6 Ba's Prodigy
+	2 Head Judge
+	1 A Queen is Waiting
+	12 Sih's Combatant
+	6 Thaloren Caretaker
+	2 Ba, the Sixth Sense
+	2 Sih, the Fourth Season
+	2 Tarase, the Third Charm
+	2 Ael, the Second Chance
+	2 Cenari, the Fifth Desire
+	2 Api, the First Thought
+	2 Embrace the Chaos
+	1 Grist and Cenari
+	2 Eve, the Paradoxical
+	6 Return from the Fallen
+	6 A Moment to Strike
+	6 Medical Field
+	6 Out in the Cold
+	6 Brooding Pact
+	6 Opening Bout
+	2 Take Fate
+	2 Victims of Fate
+	2 Order of the Tribunal
+	2 Underdog Story
+	2 Born for Entertainment
+	2 Let It Commence
+	2 Dragon of the Springs
+	1 Soul Painter
+	1 Path to Victory
+	12 In This Together
+	12 Brood Grubbers
+	12 Kingdom's Champion
+	1 Grist, the World Hunger
+	1 Seto San, the Defending
+	12 Natural Conclusion
+[wildcard(1)]
+	6 Grand Hexetic
+	15 Peak Performer
+	6 Practice Partners
+	6 Daring Combatant
+	6 Soaring Striker
+	6 Head Hunter
+	6 House Guard
+	6 Tournament Favorite
+	6 Isald Avenger
+	6 Tarase's Collector
+	6 Frestith Heavyweight
+	15 Competitor's Hammer
+	6 Just Like We Practiced
+	6 Shake the Arena
+	6 Unmake
+	6 Team Spirit
+	6 Warrior's Bond
+	6 Display of Power
+	6 Answer the Call
+	6 Blade of the Fair
+	6 Hex-Event Broadcaster
+	6 Festive Jester
+	6 Rising Contender
+	6 Gateway Gambler
+	6 Verrith Imager
+	6 Vioradell Dragon
+	6 Take Your Chances
+	6 Kick Off
+	6 Aftershow
+	6 Unbroken Resolve
+	6 Gambler's Hex
+	6 Ward Off
+	6 Final Preperations
+	6 Acceptance
+	6 Cenari's Youngling
+	6 Undazzling Magician
+	6 Ael's Experiment
+	6 Challenger Mantis
+	6 Calerast Courtess
+	6 Honorable Duelist
+	6 Sind's Rule Setter
+	6 Ex-House Dealer
+	6 Molted Juggernaut
+	6 Ulkk'Ther Mother
+	6 Bitter History
+	6 Concession
+	6 Tarase's Influence
+	6 Crowd's Favorite
+	6 Hexbound Duel
+	6 Waste None
+	6 Match Fix
+	6 Grim Salvage
+	15 Rookie's Mentor
+	6 Dribble Bomber
+	6 Child of Chance
+	6 Idow Tiebreaker
+	6 Nari's Disciple
+	6 Worthy Opponent
+	6 Petty Adversary
+	6 Hex Mage
+	6 Mob's Ringleader
+	6 Kaomor Ex-Captain
+	6 Dragonborn Spear
+	6 Kaomor's Might
+	6 Written In Fire
+	6 Morgan's Teachings
+	6 Reality Shatter
+	6 Personal Gain
+	6 Burning Desire
+	6 Experimental Research
+	6 Champion's Strike
+	6 Explorer of the Den
+	6 Lady's Favorite
+	6 Field Patrol
+	6 Cenari's Pulverizer
+	6 Field Stitcher
+	6 Sticky Situation
+	6 Retired General
+	6 Rampant Charge
+	6 Api's Blessing
+	6 Little Victory
+	6 Nature's Awakening
+	6 Flight of the Bumblebee
+	6 Thorn In Your Side
+	6 Hexrena Golem
+	6 Desolate Barrens
+	6 Jagged Crag
+	6 Rainforest Spring
+	6 Roaring Cascade
+	6 Somber Marsh
+	6 Ba's Reward
+	6 Tarase's Reward
+	6 Sih's Reward
+	6 Ael's Reward
+	6 Cenari's Reward
+	6 Api's Reward
+	6 Shifting Arena
+	6 Stack the Odds
+	6 Ceremonial Opening
+	6 Gate's Inspector
+	15 Sweetsong Whisperer
+	15 Overseer of the Show
+	15 Streetsmart Gambler
+	15 Acewing Striker
+	15 Chosen Eye
+	15 Matthue, Forever Dreaming
+	15 Morgan, Hexetic Leader
+	15 Jaroh, the Dearing
+	15 Det, Cenari's Favorite
+	15 Sers, the Unbound
+	15 Harmon, the Messenger
+	15 Api's Wish
+	15 Talented Sentrysmith
+	6 Wayward Warrior
+	15 Adversary's Navigator
+	15 Paragon of Competition
+	15 Victory Summoner
+	15 Tarase's Immortal
+	6 Training Regimen
+	15 Mimi, Grounds Explorer
+	15 Seto San's Wake
+	15 Claimed by Trials
+	15 Vioradell Javelineer
+	15 Wide Receiver
+	15 Trophy Mage
+	15 Kryslavar Golem
+	15 Reality Referee
+	15 Master of Nari's Veil
+	15 Cravakian Ring Dancer
+	15 Reality Slip
+	15 Let the Games Begin
+	15 Lost Cause
+	15 Ael's Trial
+	15 Fortune's Favor
+	15 Corrupted Worker
+	15 Hiveheart Guardian
+	15 Last of the Lost
+	15 Battle Medic
+	15 Verce, the Big Dreamer
+	15 Expendable Paladin
+	15 A House and a Brood
+	15 Forgotten Deity
+	15 Morgan's Order
+	15 Woven Lies
+	15 Kiss of Defeat
+	15 Tarase's Trial
+	6 Chaotic Pyromancer
+	15 Game Master
+	15 Self-Made Champ
+	15 Relentless Rival
+	15 Wild Invoker
+	15 Fortune's Channeler
+	15 Rage of the Warrior
+	15 Second Burst
+	15 Plan Bee
+	15 Competitive Spirit Tamer
+	15 Ba's Trial
+	6 Sefolian Acrobat
+	15 Detached Finger
+	15 Aggressive Hazard
+	15 Sih's Servant
+	15 Hive Sentinel
+	15 Hive Explorer
+	15 Grist's Devoted
+	15 Power to Devour
+	15 Sih's Trial
+	15 Api's Trial
+	15 Catch the Show
+	15 Attention Grab
+	15 Sponsor's Decree
+	15 Overwhelming Offense
+	15 Host the Tournament
+	15 Shared Dreams
+	15 Mother's Touch
+	15 Risk and Reward
+	15 Deepest Desires
+	15 Sponsor's Gift
+	15 Aspire
+	7 High-End Security
+	7 Comfy, the Final Game
+	15 Meet Your Match
+	7 Tunnel Keeper
+	7 Baroness of Calerast
+	7 Living Infestation
+	7 Brutal Victory
+	7 Price for Victory
+	7 Ascendant's Outburst
+	7 Overwhelming Verdict
+	7 Broodnest Raider
+	7 Xysth Guard
+	7 Fraid's Mercenary
+	7 Princess of the Hive
+	7 Royal Jewel
+	7 Glazed Palace
+	15 Eye of Api
+	7 Grim Bastion
+	7 Sunlit Highland
+	7 Magmatic Torrent
+	7 Barren Desolation
+	7 Mysterious Cataract
+	15 Vioradell, Sih's Haven
+	15 Xysth, Cenari's Nest
+	15 Sinis, Tarase's Network
+	15 Kaomor, Ba's Arena
+	15 Verrith, Ael's Illusion
+	15 Hexrena
+	15 Brood Infiltrator
+	15 Training Bot
+	15 Bound as Brothers
+	15 Arcane Rallier
+	15 Arena Boss
+	15 Opposing Form
+	15 Pit Hydra
+	15 Cross-Pollinate
+	15 Game Promoter
+	15 Praying Mantis
+	15 Victory Chimes
+	15 Reap Benefits
+	15 The Game Cube
+	15 Arena for the Fallen
+	15 One More Round
+	7 Returning Roots
+	7 Impossible Oddsmaker
+	7 Patron of the Bold
+	7 Idolized Colossus
+	7 Finality
+	7 Vengeful Adversary
+	7 Tournament Recruiter
+	4 Ascendancy
+	4 The Competitive Spirit
+	4 Gift of Revelation
+	4 Pina, the Returned
+	4 Verce's Nightmare
+	4 Pactbound Contestant
+	4 All That Is Possible
+	7 Gigi, the Game Ender
+	4 Glimpse at Greatness
+	4 Brood War
+	4 Fraid, Once Banished
+	4 Saba, the First Champion
+	7 Conflicting Minds
+	4 Archmage's Gambit
+	4 Obeka, Bracket Breaker
+	4 The Living Dream
+	4 Field Designer
+	4 The Champion's Prize
+	7 Stoic Steward
+	7 Sunstan Mage
+	7 Host Seeker
+	7 Tournament Host
+	7 Challenge Seeker
+	7 Afterthought
+	7 Trophy Hunter
+	7 Trophyless
+	7 Changemancer
+	7 Palace Councillor
+	7 Remove the Competition
+	7 Brood Rivalbreaker
+	7 Everwing Phoenix
+	7 King of the House
+	7 Rex, Two-Time Champion
+	7 Event Helper
+	7 Nari, Possibility Archmage
+	7 Eve's Will
+	6 Will of Ba
+	7 Wade Through Chaos
+	7 A New Challenger
+	7 Merciless Reaver
+	7 Anvy, Thorns of Sefol
+	15 Ba's Prodigy
+	7 Head Judge
+	4 A Queen is Waiting
+	6 Sih's Combatant
+	15 Thaloren Caretaker
+	7 Ba, the Sixth Sense
+	7 Sih, the Fourth Season
+	7 Tarase, the Third Charm
+	7 Ael, the Second Chance
+	7 Cenari, the Fifth Desire
+	7 Api, the First Thought
+	7 Embrace the Chaos
+	4 Grist and Cenari
+	7 Eve, the Paradoxical
+	15 Return from the Fallen
+	15 A Moment to Strike
+	15 Medical Field
+	15 Out in the Cold
+	15 Brooding Pact
+	15 Opening Bout
+	7 Take Fate
+	7 Victims of Fate
+	7 Order of the Tribunal
+	7 Underdog Story
+	7 Born for Entertainment
+	7 Let It Commence
+	7 Dragon of the Springs
+	4 Soul Painter
+	4 Path to Victory
+	6 In This Together
+	6 Brood Grubbers
+	6 Kingdom's Champion
+	4 Grist, the World Hunger
+	4 Seto San, the Defending
+	6 Natural Conclusion

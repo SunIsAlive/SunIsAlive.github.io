@@ -3,7 +3,7 @@
     "formats": "",
     "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "none",
+    "draft_structure": "play booster",
     "unpreviewed": "card back",
     "cards": [
         {
@@ -6487,5 +6487,5 @@
             "notes": "!exportname red and white Warrior 11HEX\n\n!related Overhwhelming Verdict <1>;Born for Enternainment <1>;"
         }
     ],
-    "version": 30
+    "version": 31
 }

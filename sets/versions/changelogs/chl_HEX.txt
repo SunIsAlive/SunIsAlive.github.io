@@ -1,4 +1,9 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+No changes.
+
+VERSION 30 CHANGELOG
 ====================
 
 Isald Avenger added.
