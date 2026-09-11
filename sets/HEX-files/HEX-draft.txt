@@ -131,13 +131,13 @@
 			}
 		},
 		{
-			"name": "Shake the Arena",
+			"name": "Shaken by the Arena",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Instant",
+			"type": "Enchantment — Aura",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/38_Shake the Arena.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/38_Shaken by the Arena.png"
 			}
 		},
 		{
@@ -3632,7 +3632,7 @@
 	8 Tarase's Collector
 	8 Frestith Heavyweight
 	8 Just Like We Practiced
-	8 Shake the Arena
+	8 Shaken by the Arena
 	8 Unmake
 	8 Team Spirit
 	8 Warrior's Bond
@@ -3742,7 +3742,7 @@
 	12 Frestith Heavyweight
 	6 Competitor's Hammer
 	12 Just Like We Practiced
-	12 Shake the Arena
+	12 Shaken by the Arena
 	12 Unmake
 	12 Team Spirit
 	12 Warrior's Bond
@@ -4047,7 +4047,7 @@
 	6 Frestith Heavyweight
 	15 Competitor's Hammer
 	6 Just Like We Practiced
-	6 Shake the Arena
+	6 Shaken by the Arena
 	6 Unmake
 	6 Team Spirit
 	6 Warrior's Bond

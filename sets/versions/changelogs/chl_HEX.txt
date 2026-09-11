@@ -1,4 +1,28 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+Shaken by the Arena added.
+
+Shake the Arena removed.
+
+Just Like We Practiced
+
+Impossible Oddsmaker
+rules_text: As an additional cost to cast this spell, exile six cards from your graveyard.
+Trample
+At the beginning of your upkeep, choose a card exiled by this creature at random. You may cast that card until end of turn. => As an additional cost to cast this spell, exile six cards from your graveyard.
+Trample
+At the beginning of your upkeep, choose a card exiled by this creature at random. You may play that card until end of turn.
+
+Grist and Cenari
+rules_text: Trample
+As Grist and Cenari enters, choose a creature card name and a planeswalker card name.
+As long as Grist and Cenari is on the battlefield, it has all activated and triggered abilities of cards in your graveyard with the chosen names. => Trample
+As Grist and Cenari enters, choose a creature card name and a planeswalker card name.
+Grist and Cenari has all activated and triggered abilities of cards in your graveyard with the chosen names.
+
+
+VERSION 31 CHANGELOG
 ====================
 
 No changes.
