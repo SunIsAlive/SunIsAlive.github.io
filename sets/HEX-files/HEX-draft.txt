@@ -1802,7 +1802,7 @@
 		},
 		{
 			"name": "Meet Your Match",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "73",
@@ -3424,6 +3424,7 @@
 [rare(1)]
 	2 High-End Security
 	2 Comfy, the Final Game
+	2 Meet Your Match
 	2 Tunnel Keeper
 	2 Baroness of Calerast
 	2 Living Infestation
@@ -3589,7 +3590,6 @@
 	4 Deepest Desires
 	4 Sponsor's Gift
 	4 Aspire
-	4 Meet Your Match
 	4 Eye of Api
 	4 Vioradell, Sih's Haven
 	4 Xysth, Cenari's Nest
@@ -3909,7 +3909,7 @@
 	6 Aspire
 	2 High-End Security
 	2 Comfy, the Final Game
-	6 Meet Your Match
+	2 Meet Your Match
 	2 Tunnel Keeper
 	2 Baroness of Calerast
 	2 Living Infestation
@@ -4214,7 +4214,7 @@
 	15 Aspire
 	7 High-End Security
 	7 Comfy, the Final Game
-	15 Meet Your Match
+	7 Meet Your Match
 	7 Tunnel Keeper
 	7 Baroness of Calerast
 	7 Living Infestation

@@ -6657,7 +6657,7 @@
             "loyalty": "",
             "artist": "Ho Pin Ru",
             "alias": "",
-            "notes": "fix \u2014 Redesign\n\n",
+            "notes": "fix \u2014 Redesign\n",
             "image_type": "png"
         },
         {
@@ -7468,8 +7468,8 @@
             "number": 130,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i]Paradox[/i] \u2013 Whenever you cast a spell, if it's a noncreature spell this creature gets +1/+1 until end of turn. If it was from anywhere other than your hand, put a +1/+1 counter on this creature.",
-            "flavor_text": "[i]\u201cEven great mages leave it up to luck.\u201d[/i]",
+            "rules_text": "[i]Paradox[/i] \u2013 Whenever you cast a spell, if it's a noncreature spell, this creature gets +1/+1 until end of turn. If it was from anywhere other than your hand, put a +1/+1 counter on this creature instead.",
+            "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
@@ -7477,7 +7477,7 @@
             "loyalty": "",
             "artist": "Sandara Tang",
             "alias": "",
-            "notes": "",
+            "notes": "\u201cEven great mages leave it up to luck.\u201d",
             "image_type": "png"
         },
         {
@@ -9983,7 +9983,7 @@
         {
             "card_name": "Meet Your Match",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 73,
             "color_identity": "U",

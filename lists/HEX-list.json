@@ -216,8 +216,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Sunstan Mage",
-        "number": 79,
+        "card_name": "Meet Your Match",
+        "number": 73,
         "shape": "normal",
         "set": "HEX"
     },
@@ -246,8 +246,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Ael's Trial",
-        "number": 52,
+        "card_name": "Sunstan Mage",
+        "number": 79,
         "shape": "normal",
         "set": "HEX"
     },
@@ -276,8 +276,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Attention Grab",
-        "number": 56,
+        "card_name": "Ael's Trial",
+        "number": 52,
         "shape": "normal",
         "set": "HEX"
     },
@@ -306,8 +306,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Cravakian Ring Dancer",
-        "number": 59,
+        "card_name": "Attention Grab",
+        "number": 56,
         "shape": "normal",
         "set": "HEX"
     },
@@ -336,8 +336,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Fortune's Favor",
-        "number": 64,
+        "card_name": "Cravakian Ring Dancer",
+        "number": 59,
         "shape": "normal",
         "set": "HEX"
     },
@@ -366,8 +366,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Kryslavar Golem",
-        "number": 69,
+        "card_name": "Fortune's Favor",
+        "number": 64,
         "shape": "normal",
         "set": "HEX"
     },
@@ -396,8 +396,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Let the Games Begin",
-        "number": 70,
+        "card_name": "Kryslavar Golem",
+        "number": 69,
         "shape": "normal",
         "set": "HEX"
     },
@@ -426,8 +426,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Lost Cause",
-        "number": 71,
+        "card_name": "Let the Games Begin",
+        "number": 70,
         "shape": "normal",
         "set": "HEX"
     },
@@ -456,8 +456,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Master of Nari's Veil",
-        "number": 72,
+        "card_name": "Lost Cause",
+        "number": 71,
         "shape": "normal",
         "set": "HEX"
     },
@@ -486,8 +486,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Meet Your Match",
-        "number": 73,
+        "card_name": "Master of Nari's Veil",
+        "number": 72,
         "shape": "normal",
         "set": "HEX"
     },

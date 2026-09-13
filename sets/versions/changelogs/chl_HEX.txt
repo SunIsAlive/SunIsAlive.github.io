@@ -1,4 +1,17 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+
+
+Shaken by the Arena
+
+Child of Chance
+rules_text: [i]Paradox[/i] — Whenever you cast a spell, if it's a noncreature spell this creature gets +1/+1 until end of turn. If it was from anywhere other than your hand, put a +1/+1 counter on this creature. => [i]Paradox[/i] — Whenever you cast a spell, if it's a noncreature spell, this creature gets +1/+1 until end of turn. If it was from anywhere other than your hand, put a +1/+1 counter on this creature instead.
+
+Meet Your Match
+
+
+VERSION 32 CHANGELOG
 ====================
 
 Shaken by the Arena added.
