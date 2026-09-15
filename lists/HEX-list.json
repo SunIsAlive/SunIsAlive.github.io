@@ -2023,135 +2023,132 @@
     },
     {
         "card_name": "Warrior 22HEX",
-        "number": 17,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Chest of Desires HEX",
-        "number": 18,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Sigil of Conquest HEX",
-        "number": 19,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Sword of Victory HEX",
-        "number": 20,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Treasure HEX",
-        "number": 21,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Trophy Reminder",
-        "number": 22,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "white Angel 44HEX",
-        "number": 2,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "white Cleric 11HEX",
-        "number": 3,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "white Warrior 11HEX",
-        "number": 4,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "blue Illusion 11HEX",
-        "number": 5,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "black Zombie Insect 11HEX",
-        "number": 6,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "red Demon 44HEX",
-        "number": 7,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Dragon",
-        "number": 8,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Plant",
-        "number": 9,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "blue Illusion 11HEX",
-        "number": 10,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "blue and red Dice 33HEX",
-        "number": 11,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "black and green Insect 11HEX",
-        "number": 12,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "green Insect 11HEX",
-        "number": 13,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Saba's Trophy",
-        "number": 14,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "white and black Spirit Warrior 11HEX",
         "number": 15,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "red and white Warrior 11HEX",
+        "card_name": "Chest of Desires HEX",
         "number": 16,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "Emblem",
-        "number": 23,
+        "card_name": "colorless Insect Construct 11",
+        "number": 17,
         "shape": "token",
         "set": "HEX"
+    },
+    {
+        "card_name": "Sigil of Conquest HEX",
+        "number": 18,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Sword of Victory HEX",
+        "number": 19,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Treasure HEX",
+        "number": 20,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Trophy Reminder",
+        "number": 21,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "white Warrior 11HEX",
+        "number": 2,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "blue Illusion 11HEX",
+        "number": 3,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "black Zombie Insect 11HEX",
+        "number": 4,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Dragon",
+        "number": 5,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Plant",
+        "number": 6,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Call",
+        "number": 7,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "blue and red Dice 33HEX",
+        "number": 8,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "green and blue Elemental 00HEX",
+        "number": 9,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "black and green Insect 11HEX",
+        "number": 10,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "black and green Insect 11HEX",
+        "number": 11,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Saba's Trophy",
+        "number": 12,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "white and black Spirit Warrior 11HEX",
+        "number": 13,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "red and white Warrior 11HEX",
+        "number": 14,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Emblem",
+        "number": 22,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

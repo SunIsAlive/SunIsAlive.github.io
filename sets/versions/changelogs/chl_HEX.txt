@@ -1,4 +1,153 @@
-﻿VERSION 33 CHANGELOG
+﻿VERSION 35 CHANGELOG
+====================
+
+Shaken by the Arena added.
+
+Shake the Arena removed.
+
+Just Like We Practiced
+
+Child of Chance
+rules_text: [i]Paradox[/i] — Whenever you cast a spell, if it's a noncreature spell this creature gets +1/+1 until end of turn. If it was from anywhere other than your hand, put a +1/+1 counter on this creature. => [i]Paradox[/i] — Whenever you cast a spell, if it's a noncreature spell, this creature gets +1/+1 until end of turn. If it was from anywhere other than your hand, put a +1/+1 counter on this creature instead.
+
+Meet Your Match
+
+Impossible Oddsmaker
+rules_text: As an additional cost to cast this spell, exile six cards from your graveyard.
+Trample
+At the beginning of your upkeep, choose a card exiled by this creature at random. You may cast that card until end of turn. => As an additional cost to cast this spell, exile six cards from your graveyard.
+Trample
+At the beginning of your upkeep, choose a card exiled by this creature at random. You may play that card until end of turn.
+
+Grist and Cenari
+rules_text: Trample
+As Grist and Cenari enters, choose a creature card name and a planeswalker card name.
+As long as Grist and Cenari is on the battlefield, it has all activated and triggered abilities of cards in your graveyard with the chosen names. => Trample
+As Grist and Cenari enters, choose a creature card name and a planeswalker card name.
+Grist and Cenari has all activated and triggered abilities of cards in your graveyard with the chosen names.
+
+
+VERSION 34 CHANGELOG
+====================
+
+Shake the Arena added.
+black and green Insect 11HEX added.
+Call added.
+colorless Insect Construct 11 added.
+green and blue Elemental 00HEX added.
+
+Shaken by the Arena removed.
+green Insect 11HEX removed.
+white Cleric 11HEX removed.
+white Angel 44HEX removed.
+red Demon 44HEX removed.
+blue Illusion 11HEX removed.
+
+Peak Performer
+
+Just Like We Practiced
+
+Bitter History
+
+Child of Chance
+rules_text: [i]Paradox[/i] — Whenever you cast a spell, if it's a noncreature spell, this creature gets +1/+1 until end of turn. If it was from anywhere other than your hand, put a +1/+1 counter on this creature instead. => [i]Paradox[/i] — Whenever you cast a spell, if it's a noncreature spell this creature gets +1/+1 until end of turn. If it was from anywhere other than your hand, put a +1/+1 counter on this creature.
+
+Acewing Striker
+
+Jaroh, the Dearing
+
+A House and a Brood
+rules_text: When this creature enters, create a 0/0 black and green Insect with brood 1. Put a +1/+1 counter on it for each creature that died this turn. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+{2}{B}, {T}, Sacrifice another creature: Each opponent loses X life and you gain X life, where X is the sacrificed creature's power. => When this creature enters, create a 0/0 black and green Insect creature token with brood 1. Put a +1/+1 counter on it for each creature that died this turn. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+{2}{B}, {T}, Sacrifice another creature: Each opponent loses X life and you gain X life, where X is the sacrificed creature's power.
+
+Hive Explorer
+
+Meet Your Match
+
+Tunnel Keeper
+
+Living Infestation
+
+Overwhelming Verdict
+
+Xysth Guard
+
+Princess of the Hive
+
+Eye of Api
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{1}{S}{S}{S}: This land becomes a 4/4 Plant Eye creature that's all colors until end of turn. It's still a land. Whenever it attacks this turn, create a 1/1 colorless artifact Insect Construct creature token with flying that's tapped and attacking. [i](Spend a different color of mana on each {S}.)[/i] => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{1}{S}{S}{S}: This land becomes a 4/4 Plant Eye creature that's all colors until end of turn. It's still a land. Whenever it attacks this turn, create a 1/1 colorless Insect Construct artifact creature token with flying that's tapped and attacking. [i](Spend a different color of mana on each {S}.)[/i]
+
+Impossible Oddsmaker
+rules_text: As an additional cost to cast this spell, exile six cards from your graveyard.
+Trample
+At the beginning of your upkeep, choose a card exiled by this creature at random. You may play that card until end of turn. => As an additional cost to cast this spell, exile six cards from your graveyard.
+Trample
+At the beginning of your upkeep, choose a card exiled by this creature at random. You may cast that card until end of turn.
+
+Patron of the Bold
+
+Tournament Recruiter
+
+The Competitive Spirit
+
+Saba, the First Champion
+rules_text: Flying, first strike, haste
+When Saba enters, create a red and white legendary artifact Trophy token named Saba's Trophy with “{10}, {T}: This artifact deals 3 damage to any target and you gain 3 life.”
+Whenever Saba attacks, nonmana abilities you activate this turn cost {X} less to activate, where X is Saba's power. This effect can't reduce the mana in that cost to less than one mana. => Flying, first strike, haste
+When Saba enters, create Saba's Trophy, a legendary red and white Trophy artifact token with “{10}, {T}: This artifact deals 3 damage to any target and you gain 3 life.”
+Whenever Saba attacks, nonmana abilities you activate this turn cost {X} less to activate, where X is Saba's power. This effect can't reduce the mana in that cost to less than one mana.
+
+Afterthought
+
+Palace Councillor
+
+Remove the Competition
+
+Brood Rivalbreaker
+
+Rex, Two-Time Champion
+
+black and green Insect 11HEX
+
+Nari, Possibility Archmage
+rules_text: Flying
+When Nari enters, create Call, a 1/1 legendary blue and red Illusion creature token with flying.
+Whenever you cast a modal spell, Nari and Illusions you control get +1/+0 for each mode chosen until end of turn. => Flying
+When Nari enters, create Call, a legendary 1/1 blue and red Illusion creature token with flying.
+Whenever you cast a modal spell, Nari and Illusions you control get +1/+0 for each mode chosen until end of turn.
+
+Merciless Reaver
+
+A Queen is Waiting
+
+Sih, the Fourth Season
+
+Cenari, the Fifth Desire
+
+Embrace the Chaos
+
+Grist and Cenari
+rules_text: Trample
+As Grist and Cenari enters, choose a creature card name and a planeswalker card name.
+Grist and Cenari has all activated and triggered abilities of cards in your graveyard with the chosen names. => Trample
+As Grist and Cenari enters, choose a creature card name and a planeswalker card name.
+As long as Grist and Cenari is on the battlefield, it has all activated and triggered abilities of cards in your graveyard with the chosen names.
+
+Take Fate
+
+Victims of Fate
+
+Let It Commence
+
+Soul Painter
+
+
+VERSION 33 CHANGELOG
 ====================
 
 

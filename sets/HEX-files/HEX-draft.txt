@@ -2612,9 +2612,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact — Trophy",
-			"collector_number": "14",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/14_Saba's Trophy.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/12_Saba's Trophy.png"
 			}
 		},
 		{
@@ -2632,9 +2632,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Trophy",
-			"collector_number": "18",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/18_Chest of Desires HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/16_Chest of Desires HEX.png"
 			}
 		},
 		{
@@ -2642,9 +2642,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Trophy",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/20_Sword of Victory HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/19_Sword of Victory HEX.png"
 			}
 		},
 		{
@@ -2652,9 +2652,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Trophy",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/19_Sigil of Conquest HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/18_Sigil of Conquest HEX.png"
 			}
 		},
 		{
@@ -2668,13 +2668,13 @@
 			}
 		},
 		{
-			"name": "green Insect 11HEX",
+			"name": "black and green Insect 11HEX",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
-			"collector_number": "13",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/13_green Insect 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/10_black and green Insect 11HEX.png"
 			}
 		},
 		{
@@ -2682,9 +2682,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Zombie Insect",
-			"collector_number": "6",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/6_black Zombie Insect 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/4_black Zombie Insect 11HEX.png"
 			}
 		},
 		{
@@ -2692,9 +2692,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/12_black and green Insect 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/11_black and green Insect 11HEX.png"
 			}
 		},
 		{
@@ -2702,9 +2702,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/21_Treasure HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/20_Treasure HEX.png"
 			}
 		},
 		{
@@ -2712,39 +2712,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Warrior",
-			"collector_number": "17",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/17_Warrior 22HEX.png"
-			}
-		},
-		{
-			"name": "white Cleric 11HEX",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Cleric",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/3_white Cleric 11HEX.png"
-			}
-		},
-		{
-			"name": "white Angel 44HEX",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Angel",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/2_white Angel 44HEX.png"
-			}
-		},
-		{
-			"name": "red Demon 44HEX",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Demon",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/7_red Demon 44HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/15_Warrior 22HEX.png"
 			}
 		},
 		{
@@ -2752,9 +2722,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit Warrior",
-			"collector_number": "15",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/15_white and black Spirit Warrior 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/13_white and black Spirit Warrior 11HEX.png"
 			}
 		},
 		{
@@ -2842,9 +2812,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
-			"collector_number": "11",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/11_blue and red Dice 33HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/8_blue and red Dice 33HEX.png"
 			}
 		},
 		{
@@ -3054,9 +3024,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Dragon",
-			"collector_number": "8",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/8_Dragon.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/5_Dragon.png"
 			}
 		},
 		{
@@ -3064,9 +3034,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/22_Trophy Reminder.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/21_Trophy Reminder.png"
 			}
 		},
 		{
@@ -3254,9 +3224,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Warrior",
-			"collector_number": "4",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/4_white Warrior 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/2_white Warrior 11HEX.png"
 			}
 		},
 		{
@@ -3264,9 +3234,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Plant",
-			"collector_number": "9",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/9_Plant.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/6_Plant.png"
 			}
 		},
 		{
@@ -3274,9 +3244,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Illusion",
-			"collector_number": "5",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/5_blue Illusion 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/3_blue Illusion 11HEX.png"
 			}
 		},
 		{
@@ -3314,9 +3284,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Emblem — Grist",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/23_Emblem.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/22_Emblem.png"
 			}
 		},
 		{
@@ -3340,13 +3310,13 @@
 			}
 		},
 		{
-			"name": "blue Illusion 11HEX",
+			"name": "Call",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Illusion",
-			"collector_number": "10",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/10_blue Illusion 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/7_Call.png"
 			}
 		},
 		{
@@ -3414,9 +3384,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Warrior",
-			"collector_number": "16",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/16_red and white Warrior 11HEX.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/14_red and white Warrior 11HEX.png"
+			}
+		},
+		{
+			"name": "colorless Insect Construct 11",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Insect Construct",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/17_colorless Insect Construct 11.png"
+			}
+		},
+		{
+			"name": "green and blue Elemental 00HEX",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/9_green and blue Elemental 00HEX.png"
 			}
 		}
 	]
