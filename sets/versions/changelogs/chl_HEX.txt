@@ -1,4 +1,91 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 37 CHANGELOG
+====================
+
+
+
+All That Is Possible
+
+
+VERSION 36 CHANGELOG
+====================
+
+
+
+Aftershow
+rules_text: Flash
+Whenever this enchantment enters, surveil 1 then draw a card.
+Whenever your flourish 6, sacrifice this enchantment. When you do, surveil 1 then draw a card => Flash
+Whenever this enchantment enters, surveil 1 then draw a card.
+Whenever your flourish 6, sacrifice this enchantment. When you do, surveil 1 then draw a card. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Champion's Strike
+rules_text: Champion's Strike deals 4 damage to any target. If a permanent you don't control would be dealt damage this way, remove all counters from it.
+Proliferate [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Champion's Strike deals 4 damage to any target. If a permanent you don't control would be dealt damage this way, remove all counters from it.
+Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Talented Sentrysmith
+rules_text: [i](Spend a different color of mana on each [/i]V[i].)[/i]
+This creature is all colors.
+When this creature enters, you may activate its activated abilities without paying their mana cost.
+{S}{S}{S}{S}: Target artifact becomes a 4/4 artifact creature Construct with haste and trample that's all colors until end of turn. => [i](Spend a different color of mana on each [/i]V[i].)[/i]
+This creature is all colors.
+When this creature enters, you may activate the following ability without paying its cost.
+{S}{S}{S}{S}: Target artifact becomes a 4/4 artifact creature Construct with haste and trample that's all colors until end of turn.
+
+Master of Nari's Veil
+cost: {5}{U}{U} => {7}{U}{U}
+pt: 4/4 => 4/3
+
+Price for Victory
+cost: {2}{B} => {3}{B}
+
+Xysth Guard
+rules_text: Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+Whenever you cast a spell with mana value greater than this creature's power, put a +1/+1 counter on this creature. => Brood [i](When this creature dies, you may put its counters on target creature.)[/i]
+Whenever you cast a spell with mana value greater than this creature's power, put a +1/+1 counter on this creature.
+pt: 0/0 => 1/1
+
+Training Bot
+rules_text: When this creature enters, you may search your library for a land card and put it onto the battlefield tapped, then shuffle. 
+When this creature dies, put two +1/+1 counters on target creature you control. => When this creature enters, you may search your library for a basic land card and put it onto the battlefield tapped, then shuffle. 
+When this creature dies, put two +1/+1 counters on target creature you control.
+
+Returning Roots
+rules_text: When this enchantment enters, look at the top three cards of your library. You may put a land card onto the battlefield from among them. Put one of those cards into your graveyard and the rest into your hand.
+Whenever you flourish 6, return this enchantment from the battlefield to your hand. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => When this enchantment enters, look at the top three cards of your library. You may put a land card from among them onto the battlefield. Put one of those cards into your graveyard and the rest into your hand.
+Whenever you flourish 6, return this enchantment from the battlefield to your hand. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+All That Is Possible
+
+Conflicting Minds
+rules_text: Mill five cards. When you do, you may return up to two target permanent cards from your graveyard to your hand. => Mill five cards. When you do, you may return up to two target permanent cards from your graveyard to your hand. You lose 2 life.
+
+Sunstan Mage
+rules_text: Whenever you cast an instant or sorcery spell, if it was from anywhere other than your hand, draw a card. Otherwise, draw a card then discard a card. => Whenever you cast an instant or sorcery spell, draw a card, then discard a card unless that spell was cast from anywhere other than your hand.
+
+Ba, the Sixth Sense
+rules_text: When Ba enters, exile the top three cards of your library, you may play one of those cards until the end of your next turn.
+{4}{W}: Transform Ba. Activate only as a sorcery. => When Ba enters, exile the top three cards of your library. You may play one of those cards until the end of your next turn.
+{4}{W}: Transform Ba. Activate only as a sorcery.
+
+Let It Commence
+rules_text: [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever one or more defense counters are removed from this battle, look at that many cards from top card of your library. You may play any number of those cards without paying their mana cost. Put the ones you don't play into your hand. => [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever one or more defense counters are removed from this battle, look at that many cards from the top of your library. You may play any number of those cards without paying their mana cost. Put the ones you don't play into your hand.
+
+Path to Victory
+rules_text: If X is 1, you may discard a card. If you do, draw two cards.
+If {X} is 2, Path to Victory deals 2 damage to each creature and planeswalker.
+If X is 3, destroy target artifact or nonbasic land.
+If {X} is 4, create a 4/4 red Dragon creature token with flying.
+If X is 5 or more, do all of the above. => If X is 1, you may discard a card. If you do, draw two cards.
+If {X} is 2, Path to Victory deals 2 damage to each creature and planeswalker.
+If X is 3, destroy up to one target artifact or nonbasic land.
+If {X} is 4, create a 4/4 red Dragon creature token with flying.
+If X is 5 or more, do all of the above.
+
+
+VERSION 35 CHANGELOG
 ====================
 
 Shaken by the Arena added.

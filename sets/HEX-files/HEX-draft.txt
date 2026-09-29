@@ -1273,7 +1273,7 @@
 		{
 			"name": "Master of Nari's Veil",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{U}{U}",
+			"mana_cost": "{7}{U}{U}",
 			"type": "Creature — Demon Wizard",
 			"collector_number": "72",
 			"image_uris": {
@@ -1853,7 +1853,7 @@
 		{
 			"name": "Price for Victory",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
 			"collector_number": "111",
 			"image_uris": {
