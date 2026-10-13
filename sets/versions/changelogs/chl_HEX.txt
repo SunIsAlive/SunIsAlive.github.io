@@ -1,4 +1,270 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 42 CHANGELOG
+====================
+
+
+
+Grasp in the Dark
+
+Ascendancy
+rules_text: Whenever one or more creatures deal combat damage to an opponent, put an ascend counter on this enchantment. This ability triggers only once each turn.
+White creatures you control get +X/+X, where X is the number of ascend counters on this enchantment. => Whenever one or more creatures you control deal combat damage to an opponent, put an ascend counter on this enchantment.
+White creatures you control get +X/+X, where X is the number of ascend counters on this enchantment.
+
+
+VERSION 41 CHANGELOG
+====================
+
+No changes.
+
+VERSION 40 CHANGELOG
+====================
+
+Rookie's Mentor added.
+
+Self-Made Champ removed.
+
+
+VERSION 39 CHANGELOG
+====================
+
+
+
+Grasp in the Dark
+rules_text: Until end of turn, you may play the top card of your library. => Until end of turn, you may look at the top card of your library at any time, and you may play lands and cast spells from the top card of your library.
+
+Returning Roots
+rules_text: When this enchantment enters, if it was cast, draw two cards. You may put a land from your hand onto the battlefield tapped.
+Whenever you flourish 6, return this enchantment from the battlefield to your hand. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => When this enchantment enters, if it was cast, draw two cards, then you may put a land card from your hand onto the battlefield tapped.
+Whenever you flourish 6, return this enchantment from the battlefield to your hand. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+
+VERSION 38 CHANGELOG
+====================
+
+Up-And-Comer added.
+Grasp in the Dark added.
+
+Rookie's Mentor removed.
+Meet Your Match removed.
+
+Peak Performer
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+This creature gets +1/+0 as long as you have two or more score counters or control a Trophy. => Vigilance
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+
+Hex-Event Broadcaster
+rules_text: When this creature enters, draw a card. Then exile the top card of your library. You may play that card until the end of your next turn. => When this creature enters, exile the top two cards of your library. Put one of them into your hand. You may play the exiled card until the end of your next turn.
+
+Aftershow
+rules_text: Flash
+Whenever this enchantment enters, surveil 1 then draw a card.
+Whenever your flourish 6, sacrifice this enchantment. When you do, surveil 1 then draw a card. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Flash
+Whenever this enchantment enters, surveil 1 then draw a card.
+Whenever your flourish 6, sacrifice this enchantment. When you do, surveil 1, then draw a card. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Child of Chance
+rules_text: [i]Paradox[/i] — Whenever you cast a spell, if it's a noncreature spell, this creature gets +1/+1 until end of turn. If it was from anywhere other than your hand, put a +1/+1 counter on this creature instead. => [i]Paradox[/i] — Whenever you cast a spell, if it's a noncreature spell, this creature gets +1/+1 until end of turn. If the noncreature spell was cast from anywhere other than your hand, put a +1/+1 counter on this creature instead.
+
+Written In Fire
+rules_text: Written In Fire deals 2 damage to any nonplayer target.
+If a permanent dealt damage by Written In Fire would die this turn, exile it instead. => Written In Fire deals 2 damage to any nonplayer target.
+If a permanent you don't control dealt damage by Written In Fire would die this turn, exile it instead.
+
+Experimental Research
+cost: {UR} => {1}{UR}
+rules_text: Choose one —
+• Draw a card, then discard a card.
+• Create a tapped Treasure token.
+Double down {1}{UR}{UR} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Discard a card. If you do, draw two cards.
+• Create a 1/1 blue and red Elemental creature token with prowess.
+Double down {2}{UR}{UR} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Gate's Inspector
+
+Jaroh, the Dearing
+rules_text: Whenever you cast a spell from anywhere other than your hand, Jaroh gets +1/+1 until end of turn.
+[i]Paradox[/i] — Whenever this creature attacks, you may exile an instant or sorcery card from your graveyard. If you do, you may cast a copy of that exiled card this turn. => [i]Paradox[/i] — Whenever you cast a spell from anywhere other than your hand, Jaroh gets +1/+1 until end of turn.
+Whenever this creature attacks, you may exile an instant or sorcery card from your graveyard. If you do, you may cast a copy of that exiled card this turn.
+
+Wayward Warrior
+rules_text: Whenever another creature you control enters or dies, you gain 1 life. => Lifelink
+Whenever another creature you control dies, you gain 1 life.
+
+Self-Made Champ
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever this creature attacks alone, create a tapped Treasure token. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{T}: Target creature gains haste until end of turn.
+
+Relentless Rival
+
+Sih's Servant
+rules_text: Whenever an opponent plays a land, you may put a land card from your hand onto the battlefield. => Haste
+{T}: You may put a land card from your hand onto the battlefield.
+
+Mother's Touch
+rules_text: Choose one —
+• Choose a creature type, then create a 2/2 Warrior creature token that is all colors and has the chosen type.
+• Sacrifice a creature. Draw cards equal to the sacrificed creatures power.
+Double down {3}{B}{G} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Choose a creature type, then create a 2/2 Warrior creature token that is all colors and has the chosen type.
+• You may sacrifice a creature. If you do, draw cards equal to the sacrificed creatures power.
+Double down {3}{B}{G} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Aspire
+rules_text: Aspire is all colors.
+Choose one —
+• Add mana of any combination of colors equal to the mana spent to cast this spell.
+• Draw a card.
+Double down {X}{S}{S}{S} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it. Spend only mana of different colors on {S}.)[/i] => Aspire is all colors.
+Choose one —
+• Draw a card.
+• Add mana of any combination of colors equal to the mana spent to cast this spell.
+Double down {W}{U}{B}{R}{G} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Xysth Guard
+cost: {G} => {1}{G}
+rules_text: Brood [i](When this creature dies, you may put its counters on target creature.)[/i]
+Whenever you cast a spell with mana value greater than this creature's power, put a +1/+1 counter on this creature. => Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+Whenever you cast a spell with mana value greater than this creature's power, put a +1/+1 counter on this creature.
+pt: 1/1 => 0/0
+
+Eye of Api
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{1}{S}{S}{S}: This land becomes a 4/4 Plant Eye creature that's all colors until end of turn. It's still a land. Whenever it attacks this turn, create a 1/1 colorless Insect Construct artifact creature token with flying that's tapped and attacking. [i](Spend a different color of mana on each {S}.)[/i] => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{1}{S}{S}{S}: This land becomes a 3/3 Plant Eye creature that's all colors until end of turn. It's still a land. Whenever it attacks this turn, create a 1/1 colorless Insect Construct artifact creature token with flying that's tapped and attacking. [i](Spend a different color of mana on each {S}.)[/i]
+
+Reap Benefits
+
+The Game Cube
+rules_text: Noncreature spells you cast cost {1} less to cast.
+{6}, {T}: Create a 3/3 red and blue Elemental creature token. It can't block this turn. This costs {X} less to activate, where X is the number of noncreature cards you own in exile. => Noncreature spells you cast cost {1} less to cast.
+{6}, {T}: Create a 1/1 blue and red Elemental creature token with prowess. It can't block this turn. This costs {X} less to activate, where X is the number of noncreature cards you own in exile.
+
+Returning Roots
+rules_text: When this enchantment enters, look at the top three cards of your library. You may put a land card from among them onto the battlefield. Put one of those cards into your graveyard and the rest into your hand.
+Whenever you flourish 6, return this enchantment from the battlefield to your hand. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => When this enchantment enters, if it was cast, draw two cards. You may put a land from your hand onto the battlefield tapped.
+Whenever you flourish 6, return this enchantment from the battlefield to your hand. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+
+Ascendancy
+rules_text: Whenever a creature you control deals combat damage to an opponent, put an ascend counter on this enchantment. This ability triggers only once each turn.
+White creatures you control get +X/+X, where X is the number of ascend counters on this enchantment. => Whenever one or more creatures deal combat damage to an opponent, put an ascend counter on this enchantment. This ability triggers only once each turn.
+White creatures you control get +X/+X, where X is the number of ascend counters on this enchantment.
+
+Verce's Nightmare
+rules_text: Remove a counter from a nonenchantment permanent you control: Choose one. Activate only as a sorcery and only once each turn.
+• You draw a card and you lose 1 life.
+• Each opponent loses 2 life and you gain 2 life.
+• Exile up to three cards in a graveyard. => Remove a counter from a nonenchantment permanent you control: Choose one. Activate only as a sorcery and only once each turn.
+• You draw a card and you lose 1 life.
+• Each opponent loses 2 life and you gain 2 life.
+• Exile up to three target cards in a graveyard.
+
+Glimpse at Greatness
+rules_text: Look at the top X cards of your library. You may put a colorless permanent card and a card of each color with mana value X or less from among them onto the battlefield. Then put the rest into your graveyard. => Look at the top X cards of your library. You may put a colorless permanent card and a permanent card of each color with mana value X or less from among them onto the battlefield. Then put the rest into your graveyard.
+
+Brood War
+rules_text: At the beginning of your end step, mill up to two cards, then you may sacrifice a creature. When you do, return target creature card from your graveyard to the battlefield tapped, where X is 1 plus the sacrificed creature's mana value. => At the beginning of your end step, mill up to two cards, then you may sacrifice a creature. When you do, return target creature card with mana value X from your graveyard to the battlefield tapped, where X is 1 plus the sacrificed creature's mana value.
+
+Sunstan Mage
+
+Remove the Competition
+cost: {W}{B} => {1}{W}{B}
+rules_text: Choose one —
+• Destroy target creature.
+• Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card. => Choose one —
+• Exile target creature.
+• Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player exiles that card.
+
+Chest of Desires HEX
+rules_text: At the beginning of your end step, create a 1/1 colorless Spirit creature token.
+{4}, {T}: Search your library for a card, then shuffle and put that card on top. => {2}, {T}: Draw a card.
+
+Sword of Victory HEX
+rules_text: Creatures you control get +1/+1.
+{T}: Add {C}{C}. => {T}: Add two mana of any one color.
+
+Sigil of Conquest HEX
+rules_text: Whenever one or more creatures you control deals combat damage to a player, draw a card.
+{2}, {T}: Tap target creature. => {T}: Tap target creature.
+
+Treasure HEX
+rules_text: {T}, Sacrifice this artifact: Add one mana of any color. => {T}, Sacrifice this token: Add one mana of any color.
+
+blue and red Dice 33HEX
+rules_text:  => Prowess
+pt: 3/3 => 1/1
+
+Merciless Reaver
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever this creature deals combat damage to a player, exile the top card of that players library. As long as you control a Trophy or got a score counter this turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever this creature deals combat damage to a player, exile the top card of that player's library. As long as you control a Trophy or got a score counter this turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell.
+
+Ba, the Sixth Sense
+pt: 3/3 => 3/2
+
+Ael, the Second Chance
+rules_text: When Ael enters the battlefield, search your library a card, shuffle, then put it into your library third from the top.
+{4}{R}: Transform Ael. Activate only as a sorcery. => When Ael enters the battlefield, search your library for a card, shuffle, then put it into your library third from the top.
+{4}{R}: Transform Ael. Activate only as a sorcery.
+
+Api, the First Thought
+rules_text: Api is all colors.
+When Api enters, you may search your library for a land card and put it into your hand.
+{W}{U}{B}{R}{G}: Transform Api. Activate only as a sorcery. => Api is all colors.
+When Api enters, you may search your library for a land card, reveal it, put it into your hand, then shuffle.
+{W}{U}{B}{R}{G}: Transform Api. Activate only as a sorcery.
+
+Trophy Reminder
+rules_text: [i]You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.
+
+[/i][b]Chest of Desires[/b]
+Token Artifact — Trophy
+At the beginning of your end step, create a 1/1 colorless Spirit creature token.
+{4}, {T}: Search your library for a card, then shuffle and put that card on top.
+
+[b]Sword of Victory[/b]
+Token Artifact — Trophy
+Creatures you control get +1/+1.
+{T}: Add {C}{C}.
+
+[b]Sigil of Conquest
+[/b]Token Artifact — Trophy
+Whenever one or more creatures you control deals combat damage to a player, draw a card.
+{T}: Tap target creature. => [i]You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.
+
+[/i][b]Chest of Desires[/b]
+Token Artifact — Trophy
+{2}, {T}: Draw a card.
+
+[b]Mind of Matters[/b]
+Token Artifact — Trophy
+{T}: Tap target creature.
+
+[b]Sigil of Conquest
+[/b]Token Artifact — Trophy
+{T}: Add two mana of any one color.
+
+Grist, the World Hunger
+rules_text: Whenever a creature you control with a +1/+1 counter on it dies, put a loyalty counter on Grist.
+[0]: Create a 0/0 black and green Insect creature token with brood 1. [i](That creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+[-X]: Destroy target nonland permanent with mana value X or less. If you controlled it, draw a card.
+[-9]: You get an emblem with “At the beginning of your end step, search your library and/or graveyard for an Insect card and put it onto the battlefield. If you search your library this way, shuffle.” => Whenever a creature you control with a +1/+1 counter on it dies, put a loyalty counter on Grist.
+[0]: Create a 0/0 black and green Insect creature token with brood 1. [i](That creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+[-X]: Destroy target creature with mana value X or less. If you controlled it, draw a card.
+[-9]: You get an emblem with “At the beginning of your end step, search your library and/or graveyard for an Insect card and put it onto the battlefield. If you search your library this way, shuffle.”
+special_text: Whenever a creature you control with a +1/+1 counter on it dies, put a loyalty counter on Grist.
+[0]: Create a 0/0 black and green Insect creature token with brood 1. [i](That creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+[-X]: Destroy target nonland permanent with mana value X or less. If you controlled it, draw a card.
+[-9]: You get an emblem with “At the beginning of your end step, search your library and/or graveyard for an Insect card and put it onto the battlefield. If you search your library this way, shuffle.” => Whenever a creature you control with a +1/+1 counter on it dies, put a loyalty counter on Grist.
+[0]: Create a 0/0 black and green Insect creature token with brood 1. [i](That creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+[-X]: Destroy target creature with mana value X or less. If you controlled it, draw a card.
+[-9]: You get an emblem with “At the beginning of your end step, search your library and/or graveyard for an Insect card and put it onto the battlefield. If you search your library this way, shuffle.”
+
+
+VERSION 37 CHANGELOG
 ====================
 
 
