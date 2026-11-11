@@ -1,4 +1,196 @@
-﻿VERSION 42 CHANGELOG
+﻿VERSION 43 CHANGELOG
+====================
+
+green and blue Elemental 00HEX added.
+
+
+Rising Contender
+rules_text: Whenever this creature enters or you flourish 6, target creature gains flying until end of turn. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Whenever this creature enters or you become flourished 6, target creature gains flying until end of turn. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Vioradell Dragon
+rules_text: Defender, flying
+Whenever you flourish 6, this creature can attack as though it doesn't have defender until end of turn. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+Forestcycling {2}, islandcycling {2} [i]({2}, Discard this card: Search your library for an Forest or Island card, reveal it, and put it into your hand, then shuffle.)[/i] => Defender, flying
+Whenever you become flourished 6, this creature can attack as though it didn't have defender until end of turn. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+Forestcycling {2}, islandcycling {2} [i]({2}, Discard this card: Search your library for an Forest or Island card, reveal it, and put it into your hand, then shuffle.)[/i]
+
+Take Your Chances
+rules_text: Choose one —
+• Target player mills four cards.
+• Target player draws a card.
+Double down {3}{U} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Target player mills four cards.
+• Target player draws a card.
+Double down {2}{U}{U} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Kick Off
+rules_text: Return target creature to its owner's hand. If you've spent six or more mana this turn, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Return target creature to its owner's hand. 
+If you're flourished 6, proliferate. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn. To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Aftershow
+rules_text: Flash
+Whenever this enchantment enters, surveil 1 then draw a card.
+Whenever your flourish 6, sacrifice this enchantment. When you do, surveil 1, then draw a card. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Flash
+Whenever this enchantment enters, surveil 1 then draw a card.
+Sacrifice this enchantment: Surveil 1 then draw a card. Activate only if you're flourished 6. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Ward Off
+rules_text: Counter target spell unless its controller pays {2}. If you've spent six or more mana this turn, copy this spell twice. => Counter target spell unless its controller pays {2}. 
+If you're flourished 6, copy this spell twice. You may choose new targets for the copies. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Final Preperations
+rules_text: Choose one — 
+• Target player draws three cards, then discards a card.
+• The owner of target nonland, nontoken permanent puts it into their library third from the top or on the bottom.
+Double down {5}{U}{U} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Target player draws three cards, then discards a card.
+• The owner of target nonland, nontoken permanent puts it into their library third from the top or on the bottom.
+Double down {5}{U}{U} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Experimental Research
+rules_text: Choose one —
+• Discard a card. If you do, draw two cards.
+• Create a 1/1 blue and red Elemental creature token with prowess.
+Double down {2}{UR}{UR} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Discard a card. If you do, draw two cards.
+• Create a 1/1 blue and red Elemental creature token with prowess.
+Double down {3}{UR}{UR} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Field Stitcher
+rules_text: Whenever this creature enters or you flourish 6, choose one — [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+• Put a +1/+1 counter target creature you control.
+• You gain 2 life. => Whenever this creature enters or you become flourished 6, choose one — [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+• Put a +1/+1 counter target creature you control.
+• You gain 2 life.
+
+Flight of the Bumblebee
+rules_text: Choose one. If you control an Insect, you may choose both instead.
+• Prevent all damage that would be dealt this turn and players can't gain counters this turn.
+• Draw a card. => Choose one. If you control an Insect, you may choose both instead.
+• Prevent all damage that would be dealt this turn and players can't get counters this turn.
+• Draw a card.
+
+Api's Reward
+rules_text: This Trophy is all colors.
+{T}: Add one mana of any color
+{2}{S}{S}{S}{S}, {T}, Sacrifice this artifact: Draw three cards. [i](Spend a different color of mana on each {S}.)[/i] => This Trophy is all colors.
+{T}: Add one mana of any color.
+{2}{S}{S}{S}{S}, {T}, Sacrifice this artifact: Draw three cards. [i](Spend a different color of mana on each {S}.)[/i]
+
+Sweetsong Whisperer
+rules_text: Flying
+Other creatures you control have “{T}: Add one mana of any color.”
+Whenever you flourish 6, draw a card. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Flying
+Other creatures you control have “{T}: Add one mana of any color.”
+Whenever you become flourished 6, draw a card. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Matthue, Forever Dreaming
+rules_text: Whenever you flourish 6, you may have Matthue become a copy of another target creature or creature spell until end of turn. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Whenever you become flourished 6, you may have Matthue become a copy of another target creature or creature spell until end of turn. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Vioradell Javelineer
+rules_text: Whenever this creature enters or you flourish 6, tap target creature an opponent controls and put a stun counter on it. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Whenever this creature enters or you become flourished 6, tap target creature an opponent controls and put a stun counter on it. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Kryslavar Golem
+rules_text: {T}: Untap another target permanent.
+{2}{U}, {T}: Tap target nonland permanent.
+Whenever you flourish 6, untap this creature. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => {T}: Untap another target permanent.
+{2}{U}, {T}: Tap target nonland permanent.
+Whenever you become flourished 6, untap this creature. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Master of Nari's Veil
+rules_text: This spell costs {1} less to cast for each instant or sorcery card in your graveyard.
+When this creature enters, exile cards from the top of your library until you exile an instant or sorcery card with mane value 4 or less. You may cast that spell without paying its mana cost. Put the rest on the bottom in a random order => This spell costs {1} less to cast for each instant or sorcery card in your graveyard.
+When this creature enters, exile cards from the top of your library until you exile an instant or sorcery card with mane value 4 or less. You may cast that spell without paying its mana cost. Put the rest on the bottom in a random order.
+
+Let the Games Begin
+rules_text: Whenever you flourish 6, you may sacrifice this enchantment. If you do, discard your hand then draw that many cards plus one. Shuffle any number of cards from your graveyard into your library. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Sacrifice this enchantment: Discard your hand, then draw that many cards plus one. Shuffle any number of cards from your graveyard into your library. Activate only if you're flourished 6. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Fortune's Favor
+rules_text: Look at the top six cards of your library. You may cast a card not named Fortune's Favor from among them with with mana value 3 or less without paying its mana cost. Put the rest on the bottom of your library in a random order. => Look at the top six cards of your library. You may cast a card not named Fortune's Favor from among them with mana value 3 or less without paying its mana cost. Put the rest on the bottom of your library in a random order.
+
+Sefolian Acrobat
+rules_text: Flying
+Whenever you flourish 6, put two +1/+1 counters on this creature. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Flying
+Whenever you become flourished 6, put two +1/+1 counters on this creature. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Hive Sentinel
+rules_text: Whenever you flourish 6, target Insect you control gains trample and indestructible until end of turn. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Whenever you become flourished 6, target Insect you control gains trample and indestructible until end of turn. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Hive Explorer
+rules_text: At the beginning of each combat, if you flourished 6 this turn, creatures you control get +1/+1 and gain vigilance until end of turn.
+{1}{G}, {T}: Create a 0/0 black and green Insect creature token with brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i] => At the beginning of each combat, if you're flourished 6, creatures you control get +1/+1 and gain vigilance until end of turn. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+{1}{G}, {T}: Create a 0/0 black and green Insect creature token with brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+
+Deepest Desires
+rules_text: Choose one —
+• Destroy up to one target creature with mana value 2 or less.
+• Return up to one target creature card with mana value 2 or less from your graveyard to the battlefield.
+Double down {3}{W}{B} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Destroy up to one target creature with mana value 2 or less.
+• Return up to one target creature card with mana value 2 or less from your graveyard to the battlefield.
+Double down {4}{W}{B} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Ascendant's Outburst
+rules_text: Choose one —
+• Ascendant's Outburst deals 3 damage to any noncreature target.
+• Ascendant's Outburst deals 3 damage to target creature.
+Double down {3}{R}{R} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Ascendant's Outburst deals 3 damage to any noncreature target.
+• Ascendant's Outburst deals 3 damage to target creature.
+Double down {4}{R}{R} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Returning Roots
+rules_text: When this enchantment enters, if it was cast, draw two cards, then you may put a land card from your hand onto the battlefield tapped.
+Whenever you flourish 6, return this enchantment from the battlefield to your hand. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => When this enchantment enters, if it was cast, draw two cards, then you may put a land card from your hand onto the battlefield tapped.
+Whenever you become flourished 6, return this enchantment from the battlefield to its owner's hand. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Verce's Nightmare
+
+All That Is Possible
+
+The Champion's Prize
+rules_text: {T}: Exile target creature you control, then choose one —
+• Return that card to your hand.
+• Search your library for a creature card with the same mana value and a different name, put it into your hand, then shuffle. => {T}: Exile target creature you control, then choose one —
+• Return that card to your hand.
+• Search your library for a creature card with the same mana value and a different name, reveal it, put it into your hand, then shuffle.
+
+Everwing Phoenix
+rules_text: Flying
+Whenever you flourish 6, you may return this creature from your graveyard to the battlefield tapped. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Flying
+Whenever you become flourished 6, you may return this creature from your graveyard to the battlefield tapped. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Will of Ba
+rules_text: Choose one —
+• Target creature gets +2/+1 and gains haste until end of turn. 
+• Target creature gets +2/+1 and gains trample until end of turn.
+Double down {1}{R}{R} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Target creature gets +2/+1 and gains haste until end of turn. 
+• Target creature gets +2/+1 and gains trample until end of turn.
+Double down {2}{R}{R} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Anvy, Thorns of Sefol
+rules_text: Whenever this creature enters or you flourish 6, choose up to one — [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i]
+• Target noncreature permanent you control becomes a 3/3 green Treefolk creature. [i](It loses its other colors and types. This effect lasts indefinitely.)[/i]
+• Sacrifice a Treefolk. If you do, return up to one target creature card from your graveyard to your hand. => Whenever this creature enters or you become flourished 6, choose up to one — [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+• Target noncreature permanent you control becomes a 3/3 green Treefolk creature. [i](It loses its other colors and types. This effect lasts indefinitely.)[/i]
+• Sacrifice a Treefolk. If you do, return up to one target creature card from your graveyard to your hand.
+
+Sih, the Fourth Season
+rules_text: When Sih enters, you may sacrifice a land. If you do, search your library for up to two basic land cards and put them onto the battlefield tapped.
+{4}{U}: Transform Sih. Activate only as a sorcery. => When Sih enters, you may sacrifice a land. If you do, search your library for up to two basic land cards and put them onto the battlefield tapped, then shuffle.
+{4}{U}: Transform Sih. Activate only as a sorcery.
+
+Grist and Cenari
+type: Legendary Creature — Insect God => Creature — Elemental Spirit
+
+Dragon of the Springs
+rules_text: Flying
+Whenever you flourish 6, create a token that's a copy of this creature. [i](You flourish 6 as you spend your sixth total mana during a turn.)[/i] => Flying
+When you become flourished 6, create a token that's a copy of this creature. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+
+VERSION 42 CHANGELOG
 ====================
 
 
