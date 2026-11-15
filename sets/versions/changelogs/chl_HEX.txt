@@ -1,4 +1,108 @@
-﻿VERSION 45 CHANGELOG
+﻿VERSION 46 CHANGELOG
+====================
+
+
+green and blue Elemental 00HEX removed.
+
+Rising Contender
+
+Kick Off
+rules_text: Return target creature to its owner's hand. 
+If you're flourished 6, proliferate. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn. To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Return target creature to its owner's hand.
+If you're flourished 6, proliferate. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn. To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Aftershow
+rules_text: Flash
+Whenever this enchantment enters, surveil 1 then draw a card.
+Sacrifice this enchantment: Surveil 1 then draw a card. Activate only if you're flourished 6. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i] => Flash
+When this enchantment enters, surveil 1 then draw a card.
+Sacrifice this enchantment: Surveil 1 then draw a card. Activate only if you're flourished 6. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Ward Off
+rules_text: Counter target spell unless its controller pays {2}. 
+If you're flourished 6, copy this spell twice. You may choose new targets for the copies. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i] => Counter target spell unless its controller pays {2}.
+If you're flourished 6, copy this spell twice. You may choose new targets for the copies. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Acceptance
+rules_text: Choose one. If you've spent six or more mana this turn, you may choose both.
+• Counter target spell unless its controller pays {X}. 
+• Return target nonland permanent with mana value X or less to its owner's hand. => Choose one. If you're flourished 6, you may choose both instead. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+• Counter target spell unless its controller pays {X}.
+• Return target nonland permanent with mana value X or less to its owner's hand.
+
+Bitter History
+
+Explorer of the Den
+
+Little Victory
+rules_text: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. 
+Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Tarase's Immortal
+
+Claimed by Trials
+
+Verce, the Big Dreamer
+rules_text: Sacrifice a creature: Choose one. Activate only as a sorcery. 
+• Verce gets +2/+2 until end of turn.
+• You gain 2 life.
+• Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Sacrifice a creature: Choose one. Activate only as a sorcery.
+• Verce gets +2/+2 until end of turn.
+• You gain 2 life.
+• Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Morgan's Order
+
+Hive Explorer
+
+Fraid's Mercenary
+rules_text: When this creature enters, choose a color. Target player reveals their hand and you choose a card of that color from it. If you do, exile that card until this creature leaves the battlefield. => When this creature enters, choose a color. Target player reveals their hand and you choose a card of that color from it. Exile that card until this creature leaves the battlefield.
+
+Training Bot
+rules_text: When this creature enters, you may search your library for a basic land card and put it onto the battlefield tapped, then shuffle. 
+When this creature dies, put two +1/+1 counters on target creature you control. => When this creature enters, you may search your library for a basic land card and put it onto the battlefield tapped, then shuffle.
+When this creature dies, put two +1/+1 counters on target creature you control.
+
+Cross-Pollinate
+rules_text: Search your library for up to two basic land cards with different names and put them onto the battlefield tapped. Then you gain life equal to the number of colors among permanents you control. => Search your library for up to two basic land cards with different names, put them onto the battlefield tapped, then shuffle.
+You gain life equal to the number of colors among permanents you control.
+
+Praying Mantis
+type: Creature — Insect Assasin => Creature — Insect Assassin
+
+Gigi, the Game Ender
+
+Conflicting Minds
+
+Will of Ba
+rules_text: Choose one —
+• Target creature gets +2/+1 and gains haste until end of turn. 
+• Target creature gets +2/+1 and gains trample until end of turn.
+Double down {2}{R}{R} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Target creature gets +2/+1 and gains haste until end of turn.
+• Target creature gets +2/+1 and gains trample until end of turn.
+Double down {2}{R}{R} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Embrace the Chaos
+rules_text: Exile the top three cards of your library. You may play one of them this turn. 
+Add {R}{R}{R}{R}. Spend this mana only to cast spells from anywhere other than your hand. => Exile the top three cards of your library. You may play one of them this turn.
+Add {R}{R}{R}{R}. Spend this mana only to cast spells from anywhere other than your hand.
+
+Underdog Story
+rules_text: [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever one or more defense counters are removed from this battle, put that many +1/+1 counters on target creature you control. 
+When this battle is defeated, double the number of +1/+1 counters on each creature you control. => [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever one or more defense counters are removed from this battle, put that many +1/+1 counters on target creature you control.
+When this battle is defeated, double the number of +1/+1 counters on each creature you control.
+
+Emblem
+cost: {1}{B}{G} => 
+special_text:  => At the beginning of your end step, search your library and/or graveyard for an Insect card and put it onto the battlefield. If you search your library this way, shuffle.
+loyalty: 3 => 
+
+
+VERSION 45 CHANGELOG
 ====================
 
 No changes.

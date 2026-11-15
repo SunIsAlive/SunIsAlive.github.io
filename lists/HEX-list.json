@@ -2023,42 +2023,48 @@
     },
     {
         "card_name": "Warrior 22HEX",
-        "number": 16,
+        "number": 15,
         "shape": "token",
         "set": "HEX"
     },
     {
         "card_name": "Chest of Desires HEX",
-        "number": 17,
+        "number": 16,
         "shape": "token",
         "set": "HEX"
     },
     {
         "card_name": "colorless Insect Construct 11",
-        "number": 18,
+        "number": 17,
         "shape": "token",
         "set": "HEX"
     },
     {
         "card_name": "Mind of Matters HEX",
-        "number": 19,
+        "number": 18,
         "shape": "token",
         "set": "HEX"
     },
     {
         "card_name": "Sigil of Conquest HEX",
-        "number": 20,
+        "number": 19,
         "shape": "token",
         "set": "HEX"
     },
     {
         "card_name": "Treasure HEX",
-        "number": 21,
+        "number": 20,
         "shape": "token",
         "set": "HEX"
     },
     {
         "card_name": "Trophy Reminder",
+        "number": 21,
+        "shape": "token",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Emblem",
         "number": 22,
         "shape": "token",
         "set": "HEX"
@@ -2112,7 +2118,7 @@
         "set": "HEX"
     },
     {
-        "card_name": "green and blue Elemental 00HEX",
+        "card_name": "black and green Insect 11HEX",
         "number": 10,
         "shape": "token",
         "set": "HEX"
@@ -2124,34 +2130,25 @@
         "set": "HEX"
     },
     {
-        "card_name": "black and green Insect 11HEX",
+        "card_name": "Saba's Trophy",
         "number": 12,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "Saba's Trophy",
+        "card_name": "white and black Spirit Warrior 11HEX",
         "number": 13,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "white and black Spirit Warrior 11HEX",
+        "card_name": "red and white Warrior 11HEX",
         "number": 14,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "red and white Warrior 11HEX",
-        "number": 15,
-        "shape": "token",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Emblem",
-        "number": 23,
-        "shape": "token",
-        "set": "HEX"
+        "card_name": "e"
     },
     {
         "card_name": "e"
