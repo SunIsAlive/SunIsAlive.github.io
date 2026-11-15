@@ -1,4 +1,9 @@
-﻿VERSION 44 CHANGELOG
+﻿VERSION 45 CHANGELOG
+====================
+
+No changes.
+
+VERSION 44 CHANGELOG
 ====================
 
 Triumphant Strike added.
