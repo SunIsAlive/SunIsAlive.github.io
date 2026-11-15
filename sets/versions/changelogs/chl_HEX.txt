@@ -1,4 +1,136 @@
-﻿VERSION 43 CHANGELOG
+﻿VERSION 44 CHANGELOG
+====================
+
+Triumphant Strike added.
+Missed the Mark added.
+Champion's Wish added.
+Tournament Organizer added.
+Mind of Matters HEX added.
+
+Champion's Strike removed.
+Sticky Situation removed.
+Api's Wish removed.
+Tournament Host removed.
+Sword of Victory HEX removed.
+
+Peak Performer
+
+Practice Partners
+
+Soaring Striker
+
+Head Hunter
+
+Competitor's Hammer
+
+Hex-Event Broadcaster
+
+Honorable Duelist
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This creature is all colors.
+This creature's power is equal to the number of multicolored and Trophy permanents you control. => [i](Spend a different color of mana on each {S}.)[/i]
+This creature is all colors.
+This creature's power is equal to the number of different mana symbols in the mana costs of permanents you control. [i]({1} and {2} are different mana symbols.)[/i]
+
+Up-And-Comer
+
+Child of Chance
+
+Idow Tiebreaker
+
+Nari's Disciple
+
+Worthy Opponent
+
+Hex Mage
+
+Mob's Ringleader
+
+Kaomor Ex-Captain
+
+Field Patrol
+
+Retired General
+
+Ael's Reward
+
+Gate's Inspector
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This creature is all colors.
+Whenever another multicolored permanent or Trophy you control enters, this creature gets +1/+1 and gains first strike until end of turn. => [i](Spend a different color of mana on each {S}.)[/i]
+This creature is all colors.
+Whenever another multicolored permanent or artifact you control enters, this creature gets +1/+1 and gains first strike until end of turn.
+
+Overseer of the Show
+
+Streetsmart Gambler
+
+Acewing Striker
+rules_text: Flying
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you cast a Warrior spell, put a +1/+1 counter on this creature. => Flying
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you cast an artifact or Warrior spell, put a +1/+1 counter on this creature.
+
+Chosen Eye
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This creature is all colors.
+Whenever you cast a multicolored or Trophy spell, put a +1/+1 counter on this creature. Then if you've spent {W}{U}{B}{R}{G} to cast spells this turn, this creature gains flying and lifelink until end of turn. => [i](Spend a different color of mana on each {S}.)[/i]
+This creature is all colors.
+Whenever you cast a multicolored or an artifact spell, put a +1/+1 counter on this creature. Then if you've spent {W}{U}{B}{R}{G} to cast spells this turn, this creature gains flying and lifelink until end of turn.
+
+Harmon, the Messenger
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+Harmon is all colors.
+Vigilance
+{2}, {T}: Add {W}{U}{B}{R}{G}. Spend this mana only to cast multicolored or Trophy spells. => [i](Spend a different color of mana on each {S}.)[/i]
+Harmon is all colors.
+Vigilance
+{2}, {T}: Add {W}{U}{B}{R}{G}. Spend this mana only to cast multicolored or artifact spells.
+
+Wayward Warrior
+
+Claimed by Trials
+rules_text: When this enchantment enters, exile up to one other target nonland permanent until this enchantment leaves the battlefield.
+Sacrifice this enchantment: You gain life equal to the exiled permanent's mana value. => When this enchantment enters, exile up to one other target nonland permanent if you control a Trophy. Otherwise, exile it until this enchantment leaves the battlefield.
+
+Wide Receiver
+
+Reality Referee
+
+Ael's Trial
+
+Last of the Lost
+
+Game Master
+
+Rookie's Mentor
+
+Fortune's Channeler
+
+Catch the Show
+
+Attention Grab
+
+Fraid's Mercenary
+
+Royal Jewel
+
+Arena Boss
+
+Victory Chimes
+
+Impossible Oddsmaker
+
+Chest of Desires HEX
+
+Sigil of Conquest HEX
+rules_text: {T}: Tap target creature. => {T}: Add two mana of any one color.
+
+Thaloren Caretaker
+
+
+VERSION 43 CHANGELOG
 ====================
 
 green and blue Elemental 00HEX added.

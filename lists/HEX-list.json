@@ -49,7 +49,7 @@
     },
     {
         "card_name": "Path to Victory",
-        "number": 143,
+        "number": 142,
         "shape": "normal",
         "set": "HEX"
     },
@@ -139,7 +139,7 @@
     },
     {
         "card_name": "Embrace the Chaos",
-        "number": 134,
+        "number": 133,
         "shape": "normal",
         "set": "HEX"
     },
@@ -169,13 +169,13 @@
     },
     {
         "card_name": "Gigi, the Game Ender",
-        "number": 137,
+        "number": 136,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Palace Councillor",
-        "number": 180,
+        "number": 181,
         "shape": "normal",
         "set": "HEX"
     },
@@ -199,13 +199,13 @@
     },
     {
         "card_name": "Impossible Oddsmaker",
-        "number": 138,
+        "number": 137,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Sih, the Fourth Season",
-        "number": 186,
+        "number": 187,
         "shape": "modal double faced",
         "set": "HEX"
     },
@@ -229,7 +229,7 @@
     },
     {
         "card_name": "Merciless Reaver",
-        "number": 139,
+        "number": 138,
         "shape": "normal",
         "set": "HEX"
     },
@@ -349,7 +349,7 @@
     },
     {
         "card_name": "Competitive Spirit Tamer",
-        "number": 131,
+        "number": 130,
         "shape": "normal",
         "set": "HEX"
     },
@@ -379,7 +379,7 @@
     },
     {
         "card_name": "Fortune's Channeler",
-        "number": 135,
+        "number": 134,
         "shape": "normal",
         "set": "HEX"
     },
@@ -409,7 +409,7 @@
     },
     {
         "card_name": "Game Master",
-        "number": 136,
+        "number": 135,
         "shape": "normal",
         "set": "HEX"
     },
@@ -439,7 +439,7 @@
     },
     {
         "card_name": "A Moment to Strike",
-        "number": 140,
+        "number": 139,
         "shape": "battle split",
         "set": "HEX"
     },
@@ -469,7 +469,7 @@
     },
     {
         "card_name": "Overwhelming Offense",
-        "number": 142,
+        "number": 141,
         "shape": "normal",
         "set": "HEX"
     },
@@ -499,13 +499,13 @@
     },
     {
         "card_name": "Plan Bee",
-        "number": 146,
+        "number": 145,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Opposing Form",
-        "number": 179,
+        "number": 180,
         "shape": "normal",
         "set": "HEX"
     },
@@ -529,13 +529,13 @@
     },
     {
         "card_name": "Rage of the Warrior",
-        "number": 147,
+        "number": 146,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Pit Hydra",
-        "number": 181,
+        "number": 182,
         "shape": "normal",
         "set": "HEX"
     },
@@ -559,13 +559,13 @@
     },
     {
         "card_name": "Relentless Rival",
-        "number": 149,
+        "number": 148,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Power to Devour",
-        "number": 182,
+        "number": 183,
         "shape": "normal",
         "set": "HEX"
     },
@@ -589,13 +589,13 @@
     },
     {
         "card_name": "Rookie's Mentor",
-        "number": 150,
+        "number": 149,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Return from the Fallen",
-        "number": 185,
+        "number": 186,
         "shape": "battle split",
         "set": "HEX"
     },
@@ -619,13 +619,13 @@
     },
     {
         "card_name": "Second Burst",
-        "number": 151,
+        "number": 150,
         "shape": "normal",
         "set": "HEX"
     },
     {
         "card_name": "Sih's Servant",
-        "number": 187,
+        "number": 188,
         "shape": "normal",
         "set": "HEX"
     },
@@ -655,7 +655,7 @@
     },
     {
         "card_name": "Sih's Trial",
-        "number": 188,
+        "number": 189,
         "shape": "normal",
         "set": "HEX"
     },
@@ -738,7 +738,7 @@
         "set": "HEX"
     },
     {
-        "card_name": "Champion's Strike",
+        "card_name": "Chaotic Pyromancer",
         "number": 128,
         "shape": "normal",
         "set": "HEX"
@@ -768,7 +768,7 @@
         "set": "HEX"
     },
     {
-        "card_name": "Chaotic Pyromancer",
+        "card_name": "Child of Chance",
         "number": 129,
         "shape": "normal",
         "set": "HEX"
@@ -798,8 +798,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Child of Chance",
-        "number": 130,
+        "card_name": "Dragonborn Spear",
+        "number": 131,
         "shape": "normal",
         "set": "HEX"
     },
@@ -828,7 +828,7 @@
         "set": "HEX"
     },
     {
-        "card_name": "Dragonborn Spear",
+        "card_name": "Dribble Bomber",
         "number": 132,
         "shape": "normal",
         "set": "HEX"
@@ -858,8 +858,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Dribble Bomber",
-        "number": 133,
+        "card_name": "Nari's Disciple",
+        "number": 140,
         "shape": "normal",
         "set": "HEX"
     },
@@ -888,8 +888,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Nari's Disciple",
-        "number": 141,
+        "card_name": "Personal Gain",
+        "number": 143,
         "shape": "normal",
         "set": "HEX"
     },
@@ -918,7 +918,7 @@
         "set": "HEX"
     },
     {
-        "card_name": "Personal Gain",
+        "card_name": "Petty Adversary",
         "number": 144,
         "shape": "normal",
         "set": "HEX"
@@ -948,13 +948,13 @@
         "set": "HEX"
     },
     {
-        "card_name": "Petty Adversary",
-        "number": 145,
+        "card_name": "Reality Shatter",
+        "number": 147,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Natural Conclusion",
+        "card_name": "Missed the Mark",
         "number": 178,
         "shape": "normal",
         "set": "HEX"
@@ -978,14 +978,14 @@
         "set": "HEX"
     },
     {
-        "card_name": "Reality Shatter",
-        "number": 148,
+        "card_name": "Soaring Striker",
+        "number": 151,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Rampant Charge",
-        "number": 183,
+        "card_name": "Natural Conclusion",
+        "number": 179,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1008,13 +1008,13 @@
         "set": "HEX"
     },
     {
-        "card_name": "Soaring Striker",
+        "card_name": "Triumphant Strike",
         "number": 152,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Retired General",
+        "card_name": "Rampant Charge",
         "number": 184,
         "shape": "normal",
         "set": "HEX"
@@ -1044,8 +1044,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Sticky Situation",
-        "number": 189,
+        "card_name": "Retired General",
+        "number": 185,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1615,7 +1615,7 @@
         "set": "HEX"
     },
     {
-        "card_name": "Tournament Host",
+        "card_name": "Tournament Organizer",
         "number": 13,
         "shape": "normal",
         "set": "HEX"
@@ -1645,13 +1645,13 @@
         "set": "HEX"
     },
     {
-        "card_name": "Api's Wish",
+        "card_name": "Aspire",
         "number": 3,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Aspire",
+        "card_name": "Champion's Wish",
         "number": 4,
         "shape": "normal",
         "set": "HEX"
@@ -2040,13 +2040,13 @@
         "set": "HEX"
     },
     {
-        "card_name": "Sigil of Conquest HEX",
+        "card_name": "Mind of Matters HEX",
         "number": 19,
         "shape": "token",
         "set": "HEX"
     },
     {
-        "card_name": "Sword of Victory HEX",
+        "card_name": "Sigil of Conquest HEX",
         "number": 20,
         "shape": "token",
         "set": "HEX"
