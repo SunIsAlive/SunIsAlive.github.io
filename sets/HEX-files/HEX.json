@@ -1459,7 +1459,7 @@
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Put a +1/+1 counter on target creature. It gains reach and protection from instants and sorceries until end of turn. [i](It can't be blocked, targeted or dealt damage by instants and sorceries until end of turn.)[/i]",
-            "flavor_text": "[i]Message of Ael's betrayal reached the heavens, but not the other gods. Their eyes still fixed on the Games.[/i]",
+            "flavor_text": "[i]The message of Ael's betrayal reached the heavens, but not the gods. Their eyes were still fixed on the Games.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2617,8 +2617,8 @@
             "number": 88,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this creature enters, return target battle card, or creature card with mana value 2 or less from you graveyard to your hand.\nWhenever this creature attacks a battle, it gets +2/+2 until end of turn.",
-            "flavor_text": "[i]\u201cLet's get you back to The House.\u201d[/i]",
+            "rules_text": "Whenever this creature deals combat damage to a player or battle, you may return a creature card from your graveyard to your hand that wasn't put there this turn.\nWhenever this creature attacks a battle, it gets +2/+2 until end of turn.",
+            "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
             "shape": "normal",
@@ -2626,7 +2626,7 @@
             "loyalty": "",
             "artist": "Marcel Mercado",
             "alias": "",
-            "notes": "!watch\n\nWhen this creature enters, return target creature card with mana value 2 or less, or battle card from you graveyard to your hand."
+            "notes": "!watch\n\nWhen this creature enters, return target creature card with mana value 2 or less, or battle card from you graveyard to your hand.\n\nWhenever this creature enters, return target battle card from your graveyard to your hand.\n\nWhenever this creature attacks a battle, return target creature card with mana value 2 or less from your graveyard to your hand.\n\nWhenever this creature deals combat damage to a battle, return target creature card with mana value 2 or less from your graveyard to your hand.\n\nWhenever this creature enters, return target battle card from your graveyard to your hand.\n\nWhenever this creature deals combat damage to an opponent or battle, you may return a creature card from your graveyard to your hand that wasn't put there this turn."
         },
         {
             "card_name": "Verce, the Big Dreamer",
@@ -6468,5 +6468,5 @@
             "notes": "!exportname green and blue Elemental 00HEX\n\n!related Nature's Awakening;"
         }
     ],
-    "version": 46
+    "version": 47
 }
