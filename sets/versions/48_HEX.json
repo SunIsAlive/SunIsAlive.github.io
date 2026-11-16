@@ -2617,7 +2617,7 @@
             "number": 88,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Whenever this creature deals combat damage to a player or battle, you may return a creature card from your graveyard to your hand that wasn't put there this turn.\nWhenever this creature attacks a battle, it gets +2/+2 until end of turn.",
+            "rules_text": "Whenever this creature attacks a battle, it gets +2/+2 until end of turn.\nWhenever this creature deals combat damage to a player or battle, you may return a creature card from your graveyard to your hand that wasn't put there this turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
