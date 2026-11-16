@@ -855,9 +855,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "288",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/288_Desolate Barrens.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/287_Desolate Barrens.png"
 			}
 		},
 		{
@@ -865,9 +865,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "292",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/292_Jagged Crag.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/290_Jagged Crag.png"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "296",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/296_Rainforest Spring.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/292_Rainforest Spring.png"
 			}
 		},
 		{
@@ -885,9 +885,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "297",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/297_Roaring Cascade.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/298_Roaring Cascade.png"
 			}
 		},
 		{
@@ -895,9 +895,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "300",
+			"collector_number": "301",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/300_Somber Marsh.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/301_Somber Marsh.png"
 			}
 		},
 		{
@@ -965,9 +965,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "298",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/298_Shifting Arena.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/299_Shifting Arena.png"
 			}
 		},
 		{
@@ -1942,9 +1942,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "290",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/290_Glazed Palace.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/289_Glazed Palace.png"
 			}
 		},
 		{
@@ -1952,59 +1952,59 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "289",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/289_Eye of Api.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/288_Eye of Api.png"
 			}
 		},
 		{
-			"name": "Grim Bastion",
+			"name": "Repurposed Catacombs",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "291",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/291_Grim Bastion.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/293_Repurposed Catacombs.png"
 			}
 		},
 		{
-			"name": "Sunlit Highland",
+			"name": "Repurposed Grounds",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "301",
+			"collector_number": "296",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/301_Sunlit Highland.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/296_Repurposed Grounds.png"
 			}
 		},
 		{
-			"name": "Magmatic Torrent",
+			"name": "Repurposed Citadel",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/294_Magmatic Torrent.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/294_Repurposed Citadel.png"
 			}
 		},
 		{
-			"name": "Barren Desolation",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "287",
-			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/287_Barren Desolation.png"
-			}
-		},
-		{
-			"name": "Mysterious Cataract",
+			"name": "Repurposed Expanse",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/295_Mysterious Cataract.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/295_Repurposed Expanse.png"
+			}
+		},
+		{
+			"name": "Repurposed Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/297_Repurposed Sanctuary.png"
 			}
 		},
 		{
@@ -2032,9 +2032,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains",
-			"collector_number": "299",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/299_Sinis, Tarase's Network.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/300_Sinis, Tarase's Network.png"
 			}
 		},
 		{
@@ -2042,9 +2042,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain",
-			"collector_number": "293",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/293_Kaomor, Ba's Arena.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/291_Kaomor, Ba's Arena.png"
 			}
 		},
 		{
@@ -3428,11 +3428,11 @@
 	2 Princess of the Hive
 	2 Royal Jewel
 	2 Glazed Palace
-	2 Grim Bastion
-	2 Sunlit Highland
-	2 Magmatic Torrent
-	2 Barren Desolation
-	2 Mysterious Cataract
+	2 Repurposed Catacombs
+	2 Repurposed Grounds
+	2 Repurposed Citadel
+	2 Repurposed Expanse
+	2 Repurposed Sanctuary
 	2 Returning Roots
 	2 Impossible Oddsmaker
 	2 Patron of the Bold
@@ -3914,11 +3914,11 @@
 	2 Royal Jewel
 	2 Glazed Palace
 	6 Eye of Api
-	2 Grim Bastion
-	2 Sunlit Highland
-	2 Magmatic Torrent
-	2 Barren Desolation
-	2 Mysterious Cataract
+	2 Repurposed Catacombs
+	2 Repurposed Grounds
+	2 Repurposed Citadel
+	2 Repurposed Expanse
+	2 Repurposed Sanctuary
 	6 Vioradell, Sih's Haven
 	6 Xysth, Cenari's Nest
 	6 Sinis, Tarase's Network
@@ -4219,11 +4219,11 @@
 	7 Royal Jewel
 	7 Glazed Palace
 	15 Eye of Api
-	7 Grim Bastion
-	7 Sunlit Highland
-	7 Magmatic Torrent
-	7 Barren Desolation
-	7 Mysterious Cataract
+	7 Repurposed Catacombs
+	7 Repurposed Grounds
+	7 Repurposed Citadel
+	7 Repurposed Expanse
+	7 Repurposed Sanctuary
 	15 Vioradell, Sih's Haven
 	15 Xysth, Cenari's Nest
 	15 Sinis, Tarase's Network

@@ -1785,7 +1785,7 @@
     "a->land",
     {
         "card_name": "Sinis, Tarase's Network",
-        "number": 299,
+        "number": 300,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1803,7 +1803,7 @@
     },
     {
         "card_name": "Kaomor, Ba's Arena",
-        "number": 293,
+        "number": 291,
         "shape": "normal",
         "set": "HEX"
     },
@@ -1829,95 +1829,95 @@
         "card_name": "er"
     },
     {
-        "card_name": "Desolate Barrens",
-        "number": 288,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Roaring Cascade",
-        "number": 297,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Somber Marsh",
-        "number": 300,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Jagged Crag",
-        "number": 292,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Rainforest Spring",
-        "number": 296,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Barren Desolation",
-        "number": 287,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Glazed Palace",
-        "number": 290,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Grim Bastion",
-        "number": 291,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Magmatic Torrent",
-        "number": 294,
-        "shape": "normal",
-        "set": "HEX"
-    },
-    {
-        "card_name": "Mysterious Cataract",
+        "card_name": "Repurposed Expanse",
         "number": 295,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Sunlit Highland",
+        "card_name": "Repurposed Citadel",
+        "number": 294,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Repurposed Catacombs",
+        "number": 293,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Repurposed Grounds",
+        "number": 296,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Repurposed Sanctuary",
+        "number": 297,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Desolate Barrens",
+        "number": 287,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Roaring Cascade",
+        "number": 298,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Somber Marsh",
         "number": 301,
         "shape": "normal",
         "set": "HEX"
     },
     {
-        "card_name": "Eye of Api",
+        "card_name": "Jagged Crag",
+        "number": 290,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "Rainforest Spring",
+        "number": 292,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Glazed Palace",
         "number": 289,
         "shape": "normal",
         "set": "HEX"
     },
     {
+        "card_name": "Eye of Api",
+        "number": 288,
+        "shape": "normal",
+        "set": "HEX"
+    },
+    {
         "card_name": "Shifting Arena",
-        "number": 298,
+        "number": 299,
         "shape": "normal",
         "set": "HEX"
     },
