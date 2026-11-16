@@ -1,4 +1,19 @@
-﻿VERSION 53 CHANGELOG
+﻿VERSION 54 CHANGELOG
+====================
+
+
+
+A Queen is Waiting
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+A Queen is Waiting is all colors.
+As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value X or less, where X is 2 plus the number of unique non-generic mana symbols in the sacrificed creature's mana cost. Put that card onto the battlefield, then shuffle. Exile A Queen is Waiting. => [i](Spend a different color of mana on each {S}.)[/i]
+A Queen is Waiting is all colors.
+As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value X or less, where X is 2 plus the number of different non-generic mana symbols in the sacrificed creature's mana cost. Put that card onto the battlefield, then shuffle. Exile A Queen is Waiting.
+
+
+VERSION 53 CHANGELOG
 ====================
 
 
