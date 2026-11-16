@@ -2420,7 +2420,7 @@
 		{
 			"name": "Archmage's Gambit",
 			"rarity": "mythic",
-			"mana_cost": "{3}{U}{R}",
+			"mana_cost": "{2}{U}{R}",
 			"type": "Sorcery",
 			"collector_number": "195",
 			"image_uris": {
@@ -3053,7 +3053,7 @@
 			"name": "Grist and Cenari",
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}{G}{G}",
-			"type": "Creature — Elemental Spirit",
+			"type": "Legendary Creature — Insect God",
 			"collector_number": "211",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/211_Grist and Cenari.png"

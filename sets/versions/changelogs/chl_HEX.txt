@@ -1,4 +1,280 @@
-﻿VERSION 48 CHANGELOG
+﻿VERSION 51 CHANGELOG
+====================
+
+
+
+Honorable Duelist
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This creature is all colors.
+This creature's power is equal to the number of different mana symbols in the mana costs of permanents you control. [i]({1} and {2} are different mana symbols.)[/i] => [i](Spend a different color of mana on each {S}.)[/i]
+Honorable Duelist is all colors.
+This creature's power is equal to the number of different mana symbols in the mana costs of permanents you control. [i]({1} and {2} are different mana symbols.)[/i]
+
+Hexrena Golem
+rules_text: This creature is all colors.
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{S}{S}{S}{S}: This creature gets +4/+2 until end of turn. If you control a Trophy, instead this creature gets +6/+4 until end of turn. [i](Spend a different color of mana on each {S}.)[/i] => Hexrena Golem is all colors.
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{S}{S}{S}{S}: This creature gets +4/+2 until end of turn. If you control a Trophy, instead this creature gets +6/+4 until end of turn. [i](Spend a different color of mana on each {S}.)[/i]
+
+Api's Reward
+rules_text: This Trophy is all colors.
+{T}: Add one mana of any color.
+{2}{S}{S}{S}{S}, {T}, Sacrifice this artifact: Draw three cards. [i](Spend a different color of mana on each {S}.)[/i] => Api's Reward is all colors.
+{T}: Add one mana of any color.
+{2}{S}{S}{S}{S}, {T}, Sacrifice this artifact: Draw three cards. [i](Spend a different color of mana on each {S}.)[/i]
+
+Gate's Inspector
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+Whenever another multicolored permanent or artifact you control enters, this creature gets +1/+1 and gains first strike until end of turn. => [i](Spend a different color of mana on each {S}.)[/i]
+Gate's Inspector is all colors.
+Whenever another multicolored permanent or artifact you control enters, this creature gets +1/+1 and gains first strike until end of turn.
+
+Chosen Eye
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This creature is all colors.
+Whenever you cast a multicolored or an artifact spell, put a +1/+1 counter on this creature. Then if you've spent {W}{U}{B}{R}{G} to cast spells this turn, this creature gains flying and lifelink until end of turn. => [i](Spend a different color of mana on each {S}.)[/i]
+Chosen Eye is all colors.
+Whenever you cast a multicolored or an artifact spell, put a +1/+1 counter on this creature. Then if you've spent {W}{U}{B}{R}{G} to cast spells this turn, this creature gains flying and lifelink until end of turn.
+
+Harmon, the Messenger
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+Harmon is all colors.
+Vigilance
+{2}, {T}: Add {W}{U}{B}{R}{G}. Spend this mana only to cast multicolored or artifact spells. => [i](Spend a different color of mana on each {S}.)[/i]
+Harmon, the Messenger is all colors.
+Vigilance
+{2}, {T}: Add {W}{U}{B}{R}{G}. Spend this mana only to cast multicolored or artifact spells.
+
+Champion's Wish
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+You may cast a multicolored card you own from outside the game this turn. Exile Champion's Wish. => [i](Spend a different color of mana on each {S}.)[/i]
+Champion's Wish is all colors.
+You may cast a multicolored card you own from outside the game this turn. Exile Champion's Wish.
+
+Talented Sentrysmith
+rules_text: [i](Spend a different color of mana on each [/i]V[i].)[/i]
+This creature is all colors.
+When this creature enters, you may activate the following ability without paying its cost.
+{S}{S}{S}{S}: Target artifact becomes a 4/4 artifact creature Construct with haste and trample that's all colors until end of turn. => [i](Spend a different color of mana on each [/i]V[i].)[/i]
+Talented Sentrysmith is all colors.
+When this creature enters, you may activate the following ability without paying its cost.
+{S}{S}{S}{S}: Target artifact becomes a 4/4 artifact creature Construct with haste and trample that's all colors until end of turn.
+
+Api's Trial
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This enchantment is all colors.
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of your end step, if you've spent three or more different colors of mana this turn, draw a card. Then if you've spent five or more, proliferate twice. => [i](Spend a different color of mana on each {S}.)[/i]
+Api's Trial is all colors.
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of your end step, if you've spent three or more different colors of mana this turn, draw a card. Then if you've spent five or more, proliferate twice.
+
+Royal Jewel
+
+Game Promoter
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This Vehicle is all colors.
+Flying
+Whenever this Vehicle attacks, put a +1/+1 counter on it or create a tapped Treasure token.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => [i](Spend a different color of mana on each {S}.)[/i]
+Game Promoter is all colors.
+Flying
+Whenever this Vehicle attacks, put a +1/+1 counter on it or create a tapped Treasure token.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Idolized Colossus
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This creature is all colors.
+This spell costs {X} less to cast, where X is the total mana value among creatures you control.
+Trample => [i](Spend a different color of mana on each {S}.)[/i]
+Idolized Colossus is all colors.
+This spell costs {X} less to cast, where X is the total mana value among creatures you control.
+Trample
+
+Tournament Organizer
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+Flying
+Whenever you cast a multicolored or an artifact spell, proliferate. Then if there are no +1/+1 counters on this creature, put a +1/+1 counter on it. => [i](Spend a different color of mana on each {S}.)[/i]
+Tournament Organizer is all colors.
+Flying
+Whenever you cast a multicolored or an artifact spell, proliferate. Then if there are no +1/+1 counters on this creature, put a +1/+1 counter on it.
+
+Event Helper
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+Flying
+Whenever you cast a spell, if it's multicolored or you cast it from anywhere other than your hand, you may pay {S}{S}{S}. If you do, copy it. You may choose new target for the copies. => [i](Spend a different color of mana on each {S}.)[/i]
+Event Helper is all colors.
+Flying
+Whenever you cast a spell, if it's multicolored or you cast it from anywhere other than your hand, you may pay {S}{S}{S}. If you do, copy it. You may choose new target for the copies.
+
+Head Judge
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This creature is all colors.
+Flying
+When this creature enters, return up to one target artifact card with mana value 3 or less from your graveyard to the battlefield. If you don't, draw a card.
+Whenever one or more creatures you control attack, untap up to that many artifacts you control. => [i](Spend a different color of mana on each {S}.)[/i]
+Head Judge is all colors.
+Flying
+When this creature enters, return up to one target artifact card with mana value 3 or less from your graveyard to the battlefield. If you don't, draw a card.
+Whenever one or more creatures you control attack, untap up to that many artifacts you control.
+
+A Queen is Waiting
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value X or less, where X is 2 plus number of unique non-generic mana symbols in the creature's mana cost. Put that card onto the battlefield, then shuffle. Exile A Queen is Waiting. => [i](Spend a different color of mana on each {S}.)[/i]
+A Queen is Waiting is all colors.
+As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value X or less, where X is 2 plus number of unique non-generic mana symbols in the creature's mana cost. Put that card onto the battlefield, then shuffle. Exile A Queen is Waiting.
+
+Api, the First Thought
+rules_text: Api is all colors.
+When Api enters, you may search your library for a land card, reveal it, put it into your hand, then shuffle.
+{W}{U}{B}{R}{G}: Transform Api. Activate only as a sorcery. => Api, the First Thought is all colors.
+When Api enters, you may search your library for a land card, reveal it, put it into your hand, then shuffle.
+{W}{U}{B}{R}{G}: Transform Api. Activate only as a sorcery.
+
+Opening Bout
+rules_text: [i](Spend a different color of mana on each {S}, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+When this battle enters or is defeated, choose a creature type, then create a 2/2 Warrior creature token that is all colors and has the chosen type. => [i](Spend a different color of mana on each {S}, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Opening Bout is all colors.
+When this battle enters or is defeated, choose a creature type, then create a 2/2 Warrior creature token that is all colors and has the chosen type.
+
+In This Together
+rules_text: This card is all colors.
+Enchant creature
+Enchanted creature gets +1/+1 for each multicolored permanent you control. => In This Together is all colors.
+Enchant creature
+Enchanted creature gets +1/+1 for each multicolored permanent you control.
+
+Kingdom's Champion
+rules_text: This creature is all colors.
+Flying
+As long as you control a Trophy, this creature has vigilance. => Kingdom's Champion is all colors.
+Flying
+As long as you control a Trophy, this creature has vigilance.
+
+
+VERSION 50 CHANGELOG
+====================
+
+
+
+Gate's Inspector
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+Whenever another multicolored permanent or artifact you control enters, this creature gets +1/+1 and gains first strike until end of turn. => [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+Whenever another multicolored permanent or artifact you control enters, this creature gets +1/+1 and gains first strike until end of turn.
+
+Harmon, the Messenger
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+Vigilance
+{2}, {T}: Add {W}{U}{B}{R}{G}. Spend this mana only to cast multicolored or artifact spells. => [i](Spend a different color of mana on each {S}.)[/i]
+Harmon is all colors.
+Vigilance
+{2}, {T}: Add {W}{U}{B}{R}{G}. Spend this mana only to cast multicolored or artifact spells.
+
+Champion's Wish
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+You may cast a multicolored card you own from outside the game this turn. Exile Champion's Wish. => [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+You may cast a multicolored card you own from outside the game this turn. Exile Champion's Wish.
+
+Tournament Organizer
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+Flying
+This card is multicolored.
+Whenever you cast a multicolored or an artifact spell, proliferate. Then if there are no +1/+1 counters on this creature, put a +1/+1 counter on it. => [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+Flying
+Whenever you cast a multicolored or an artifact spell, proliferate. Then if there are no +1/+1 counters on this creature, put a +1/+1 counter on it.
+
+Event Helper
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+Flying
+Whenever you cast a spell, if it's multicolored or you cast it from anywhere other than your hand, you may pay {S}{S}{S}. If you do, copy it. You may choose new target for the copies. => [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+Flying
+Whenever you cast a spell, if it's multicolored or you cast it from anywhere other than your hand, you may pay {S}{S}{S}. If you do, copy it. You may choose new target for the copies.
+
+
+VERSION 49 CHANGELOG
+====================
+
+
+
+Gate's Inspector
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This creature is all colors.
+Whenever another multicolored permanent or artifact you control enters, this creature gets +1/+1 and gains first strike until end of turn. => [i](Spend a different color of mana on each {S}.)[/i]
+Whenever another multicolored permanent or artifact you control enters, this creature gets +1/+1 and gains first strike until end of turn.
+
+Harmon, the Messenger
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+Harmon is all colors.
+Vigilance
+{2}, {T}: Add {W}{U}{B}{R}{G}. Spend this mana only to cast multicolored or artifact spells. => [i](Spend a different color of mana on each {S}.)[/i]
+Vigilance
+{2}, {T}: Add {W}{U}{B}{R}{G}. Spend this mana only to cast multicolored or artifact spells.
+
+Champion's Wish
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+Champion's Wish is all colors.
+You may cast a multicolored card you own from outside the game this turn. Exile Champion's Wish. => [i](Spend a different color of mana on each {S}.)[/i]
+You may cast a multicolored card you own from outside the game this turn. Exile Champion's Wish.
+
+Ael's Trial
+
+Forgotten Deity
+
+Game Master
+
+Rookie's Mentor
+
+Archmage's Gambit
+cost: {3}{U}{R} => {2}{U}{R}
+
+Sunstan Mage
+rules_text: Whenever you cast an instant or sorcery spell, draw a card, then discard a card unless that spell was cast from anywhere other than your hand. => [i]Paradox[/i] — Whenever you cast an instant or sorcery spell, draw a card, then discard a card unless that spell was cast from anywhere other than your hand.
+
+Tournament Organizer
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+Flying
+Whenever you cast a multicolored or an artifact spell, proliferate. Then if there are no +1/+1 counters on this creature, put a +1/+1 counter on it. => [i](Spend a different color of mana on each {S}.)[/i]
+Flying
+This card is multicolored.
+Whenever you cast a multicolored or an artifact spell, proliferate. Then if there are no +1/+1 counters on this creature, put a +1/+1 counter on it.
+
+Event Helper
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This creature is all colors.
+Flying
+Whenever you cast a spell, if it's multicolored or you cast it from anywhere other than your hand, you may pay {S}{S}{S}. If you do, copy it. You may choose new target for the copies. => [i](Spend a different color of mana on each {S}.)[/i]
+Flying
+Whenever you cast a spell, if it's multicolored or you cast it from anywhere other than your hand, you may pay {S}{S}{S}. If you do, copy it. You may choose new target for the copies.
+
+A Queen is Waiting
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+As an additional cost to cast this spell, sacrifice a nontoken creature.
+Search your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature's number of colors. Put that card on to the battlefield, then shuffle. Exile A Queen is Waiting. => [i](Spend a different color of mana on each {S}.)[/i]
+This card is all colors.
+As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value X or less, where X is 2 plus number of unique non-generic mana symbols in the creature's mana cost. Put that card onto the battlefield, then shuffle. Exile A Queen is Waiting.
+
+Ba, the Sixth Sense
+
+Grist and Cenari
+type: Creature — Elemental Spirit => Legendary Creature — Insect God
+
+
+VERSION 48 CHANGELOG
 ====================
 
 
