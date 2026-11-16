@@ -755,7 +755,7 @@
             "number": 7,
             "color_identity": "WUBRG",
             "cost": "{1}{S}{S}",
-            "rules_text": "[i](Spend a different color of mana on each {S}.)[/i]\nHonorable Duelist is all colors.\nThis creature's power is equal to the number of different mana symbols in the mana costs of permanents you control. [i]({1} and {2} are different mana symbols.)[/i]",
+            "rules_text": "[i](Spend a different color of mana on each {S}.)[/i]\nHonorable Duelist is all colors.\nThis creature's power is equal to the number of nonland artifact and multicolored permanents you control.",
             "flavor_text": "[i]\u201cNo god will tip the scales of a fair duel. I will not be corrupted.\u201d[/i]",
             "pt": "*/3",
             "special_text": "",
@@ -764,7 +764,7 @@
             "loyalty": "",
             "artist": "Leon Hartmann",
             "alias": "",
-            "notes": ""
+            "notes": "This creature's power is equal to the number of different mana symbols in the mana costs of permanents you control. (1 and 2 are different mana symbols.)"
         },
         {
             "card_name": "Sind's Rule Setter",
@@ -5497,7 +5497,7 @@
             "number": 11,
             "color_identity": "WUBRG",
             "cost": "{S}{S}{S}",
-            "rules_text": "[i](Spend a different color of mana on each {S}.)[/i]\nA Queen is Waiting is all colors.\nAs an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a creature card with mana value X or less, where X is 2 plus number of unique non-generic mana symbols in the creature's mana cost. Put that card onto the battlefield, then shuffle. Exile A Queen is Waiting.",
+            "rules_text": "[i](Spend a different color of mana on each {S}.)[/i]\nA Queen is Waiting is all colors.\nAs an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a creature card with mana value X or less, where X is 2 plus the number of unique non-generic mana symbols in the sacrificed creature's mana cost. Put that card onto the battlefield, then shuffle. Exile A Queen is Waiting.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6171,8 +6171,8 @@
             "number": 8,
             "color_identity": "WUBRG",
             "cost": "{S}{S}",
-            "rules_text": "In This Together is all colors.\nEnchant creature\nEnchanted creature gets +1/+1 for each multicolored permanent you control.",
-            "flavor_text": "[i]Working together doesn't just increase your chances of winning, but of your survival.[/i]",
+            "rules_text": "In This Together is all colors.\nEnchant creature\nEnchanted creature gets +1/+1 for each different mana symbol in the mana costs of permanents you control. [i]({1} and {2} are different mana symbols.)[/i]",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -6180,7 +6180,7 @@
             "loyalty": "",
             "artist": "Aleksander Zawada",
             "alias": "",
-            "notes": ""
+            "notes": "Working together doesn't just increase your chances of winning, but of your survival."
         },
         {
             "card_name": "Brood Grubbers",
@@ -6468,5 +6468,5 @@
             "notes": "!exportname green and blue Elemental 00HEX\n\n!related Nature's Awakening;"
         }
     ],
-    "version": 51
+    "version": 53
 }

@@ -1,4 +1,39 @@
-﻿VERSION 51 CHANGELOG
+﻿VERSION 53 CHANGELOG
+====================
+
+
+
+Honorable Duelist
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+Honorable Duelist is all colors.
+This creature's power is equal to the number of different mana symbols in the mana costs of permanents you control. [i]({1} and {2} are different mana symbols.)[/i] => [i](Spend a different color of mana on each {S}.)[/i]
+Honorable Duelist is all colors.
+This creature's power is equal to the number of nonland artifact and multicolored permanents you control.
+
+In This Together
+rules_text: In This Together is all colors.
+Enchant creature
+Enchanted creature gets +1/+1 for each multicolored permanent you control. => In This Together is all colors.
+Enchant creature
+Enchanted creature gets +1/+1 for each different mana symbol in the mana costs of permanents you control. [i]({1} and {2} are different mana symbols.)[/i]
+
+
+VERSION 52 CHANGELOG
+====================
+
+
+
+A Queen is Waiting
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+A Queen is Waiting is all colors.
+As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value X or less, where X is 2 plus number of unique non-generic mana symbols in the creature's mana cost. Put that card onto the battlefield, then shuffle. Exile A Queen is Waiting. => [i](Spend a different color of mana on each {S}.)[/i]
+A Queen is Waiting is all colors.
+As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value X or less, where X is 2 plus the number of unique non-generic mana symbols in the sacrificed creature's mana cost. Put that card onto the battlefield, then shuffle. Exile A Queen is Waiting.
+
+
+VERSION 51 CHANGELOG
 ====================
 
 
