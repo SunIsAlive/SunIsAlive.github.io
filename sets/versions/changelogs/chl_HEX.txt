@@ -1,4 +1,415 @@
-﻿VERSION 56 CHANGELOG
+﻿VERSION 57 CHANGELOG
+====================
+
+Overwhelming Display added.
+Vioradell Rangers added.
+Closing Possibilities added.
+Crowd's Support added.
+Supernatural Stamina added.
+Wildpact Spear added.
+Vioradell's Awakening added.
+Cenari's Trial added.
+Chimes of Victory added.
+Prize Hoarder added.
+Demanded Rematch added.
+A Grand Finale added.
+
+Display of Power removed.
+Vioradell Dragon removed.
+Acceptance removed.
+Crowd's Favorite removed.
+Waste None removed.
+Dragonborn Spear removed.
+Nature's Awakening removed.
+Claimed by Trials removed.
+Game Promoter removed.
+Victory Chimes removed.
+Trophy Hunter removed.
+Return from the Fallen removed.
+Let It Commence removed.
+
+Head Hunter
+rules_text: Whenever this creature attacks, another target creature gains +1/+0 and indestructible until end of turn. => Whenever this creature attacks, another target creature gets +1/+0 and gains indestructible until end of turn.
+
+House Guard
+rules_text: Whenever another creature you control dies, you may put your choice of a menace or lifelink counter on this creature. If you don't, this creature gets +1/+1 until end of turn.
+{1}, Sacrifice a creature: Scry 1. => Whenever another creature you control dies, this creature gains menace and lifelink until end of turn.
+{1}, Sacrifice a creature: Scry 1.
+
+Tarase's Collector
+rules_text: Flying
+Whenever a creature you control dies, create a Treasure token. => Flying
+Whenever another creature you control dies, create a Treasure token. This ability triggers only once each turn.
+
+Answer the Call
+cost: {1}{U} => {2}{U}
+rules_text: Choose one —
+• Choose a creature type, then create a 2/2 Warrior creature token that is all colors and has the chosen type.
+• Tap target creature an opponent controls and put two stun counters on it.
+Double down {4}{U}{U} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Choose a creature type, then create a 2/2 Warrior creature token that is all colors and has the chosen type.
+• Tap target creature an opponent controls and put three stun counters on it.
+Double down {4}{U}{U} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Rising Contender
+rules_text: Whenever this creature enters or you become flourished 6, target creature gains flying until end of turn. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i] => When this creature enters and whenever you become flourished 6, target creature gains flying until end of turn. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Gateway Gambler
+rules_text: [i]Paradox[/i] — Whenever you cast a spell from anywhere other than your hand, create a tapped Treasure token.
+{1}{U}{R}: Target creature gets +2/+0 until end of turn. Activate only once each turn. => [i]Paradox[/i] — Whenever you cast a spell from anywhere other than your hand, create a tapped Treasure token.
+{1}{U}{R}: This creature gets +2/+0 until end of turn. Activate only as a sorcery.
+
+Verrith Imager
+rules_text: When this creature enters, exile target instant or sorcery card in your graveyard. You may cast it for as long as you control this creature.
+Islandcycling {2}, mountaincycling {2} [i]({2}, Discard this card: Search your library for an Island or Mountain card, reveal it, and put it into your hand, then shuffle.)[/i] => When this creature enters, exile target instant or sorcery card from your graveyard. You may cast it for as long as you control this creature.
+Islandcycling {2}, mountaincycling {2} [i]({2}, Discard this card: Search your library for an Island or Mountain card, reveal it, and put it into your hand, then shuffle.)[/i]
+
+Final Preperations
+rules_text: Choose one —
+• Target player draws three cards, then discards a card.
+• The owner of target nonland, nontoken permanent puts it into their library third from the top or on the bottom.
+Double down {5}{U}{U} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Target player draws two cards.
+• The owner of target creature an opponent controls puts it into their library second from the top or on the bottom.
+Double down {5}{U}{U} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Cenari's Youngling
+cost: {B} => {1}{B}
+
+Honorable Duelist
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+Honorable Duelist is all colors.
+This creature's power is equal to the number of nonland artifact and multicolored permanents you control. => [i](Spend a different color of mana on each {S}.)[/i]
+Honorable Duelist is all colors.
+This creature's power is equal to the number of multicolored and Trophy permanents you control.
+
+Sind's Rule Setter
+rules_text: Menace
+{1}{B}, Sacrifice a creature: Put a +1/+1 counter on this creature. If a Warrior was sacrificed this way, create a tapped Treasure token. => Menace
+{1}{B}, Sacrifice another creature: Put a +1/+1 counter on this creature. If a Warrior was sacrificed this way, create a tapped Treasure token.
+
+Ex-House Dealer
+rules_text: Flash
+Whenever another creature dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Flash
+Whenever another creature dies, surveil 1. This ability triggers only once each turn. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Molted Juggernaut
+cost: {X}{2}{B}{G} => {2}{B}{G}
+rules_text: Menace
+Brood X [i](This creature enters with X +1/+1 counters on it. When it dies, you may put its counters on target creature.)[/i] => As an additional cost to cast this spell, you may sacrifice a creature.
+Menace
+This creature enters with a +1/+1 counter on it if a creature you controlled died this turn.
+pt: 4/2 => 3/2
+
+Hexbound Duel
+type: Instant => Sorcery
+
+Match Fix
+rules_text: Enchant creature you control
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Enchanted creature gets +2/-2.
+Whenever enchanted creature dies, return a creature card from your graveyard to the battlefield. => Enchant creature you control
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever enchanted creature dies, return a creature card from your graveyard to the battlefield.
+
+Grim Salvage
+
+Up-And-Comer
+rules_text: Menace
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i] => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever this creature dies, create a Treasure token.
+
+Petty Adversary
+
+Kaomor's Might
+
+Burning Desire
+rules_text: Enchant creature
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever enchanted creature attacks, exile the top card of your library. You may play it until the end of your next turn. => Enchant creature you control
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever enchanted creature attacks, exile the top card of your library. You may play it until the end of your next turn.
+
+Field Patrol
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{3}{U}: This creature gains flying until end of turn. Untap this creature. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+{3}{U}: This creature gains flying until end of turn. If it's your turn, untap this creature.
+
+Cenari's Pulverizer
+rules_text: Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+When this creature enters, mill three cards. You may put a land card from among the milled cards into your hand. If you do, remove a +1/+1 counter from this creature. => Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+When this creature enters, mill three cards, then you may remove a +1/+1 counter from this creature. If you do, put a land card milled this way into your hand.
+
+Field Stitcher
+rules_text: Whenever this creature enters or you become flourished 6, choose one — [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+• Put a +1/+1 counter target creature you control.
+• You gain 2 life. => When this creature enters and whenever you become flourished 6, choose one — [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+• Put a +1/+1 counter target creature you control.
+• You gain 2 life.
+
+Retired General
+pt: 2/2 => 2/1
+
+Rampant Charge
+rules_text: Enchant creature
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Enchanted creature gets +2/+1 and gains trample and haste. => Enchant creature
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Enchanted creature gets +2/+1 and has trample.
+
+Gate's Inspector
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+Gate's Inspector is all colors.
+Whenever another multicolored permanent or artifact you control enters, this creature gets +1/+1 and gains first strike until end of turn. => [i](Spend a different color of mana on each {S}.)[/i]
+Gate's Inspector is all colors.
+Whenever you cast a multicolored or artifact spell, this creature gets +1/+1 and gains first strike until end of turn.
+
+Tarase's Immortal
+rules_text: Vigilance
+You mast cast this card from your graveyard as long as you've dealt damage to a battle you control this turn. => Vigilance
+You may cast this card from your graveyard as long as you've dealt damage to a battle you control this turn.
+
+Mimi, Grounds Explorer
+rules_text: You may look at the top card of your library at any time.
+Once each turn, you may cast a nonland permanent spell with mana value 2 or less from the top of your library. => You may look at the top card of your library any time.
+Once each turn, you may cast a nonland permanent spell with mana value 2 or less from the top of your library.
+
+Tarase's Trial
+cost: {1}{B} => {2}{W}
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, any number of target players sacrifice a creature. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this enchantment enters, exile up to one target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+
+Vioradell Javelineer
+rules_text: Whenever this creature enters or you become flourished 6, tap target creature an opponent controls and put a stun counter on it. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i] => Whenever this creature enters and whenever you become flourished 6, tap target creature an opponent controls and put a stun counter on it. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Wide Receiver
+rules_text: This creature can't be blocked.
+Whenever this creature deals combat damage to an opponent, draw a card. Then discard a card unless you've cast a spell from anywhere other than your hand this turn. => [i]Paradox[/i] — Whenever you cast a spell from anywhere other than your hand, this creature can't be blocked until end of turn.
+Whenever this creature deals combat damage to a player, draw a card, then discard a card.
+pt: 1/1 => 1/2
+
+Ael's Trial
+rules_text: Flash
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Other nonland permanents lose all abilities as long as this enchantment entered this turn. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever you attack, surveil 1.
+
+Fortune's Favor
+cost: {1}{U}{U} => {2}{U}{U}
+rules_text: Look at the top six cards of your library. You may cast a card not named Fortune's Favor from among them with mana value 3 or less without paying its mana cost. Put the rest on the bottom of your library in a random order. => Look at the top six cards of your library. You may cast a spell from among them with mana value 3 or less without paying its mana cost. Put the rest on the bottom of your library in a random order.
+
+Expendable Paladin
+rules_text: Flying
+Brood 2 [i](This creature enters with two +1/+1 counters on it. When it dies, you may put its counters on target creature.)[/i]
+Whenever one or more +1/+1 counters would be put on another creature you control, you may instead create that many 1/1 black Zombie Insect creature token with flying. => Flying
+Brood 2 [i](This creature enters with two +1/+1 counters on it. When it dies, you may put its counters on target creature.)[/i]
+If one or more +1/+1 counters would be put on another creature you control, you may instead create that many 1/1 black Zombie Insect creature token with flying.
+
+A House and a Brood
+
+Relentless Rival
+rules_text: Haste
+You may cast this card from your graveyard by paying {5}{R}. If you do, it enters with a +1/+1 and finality counter on it. => Haste
+You may cast this card from your graveyard by paying {5}{R}. If you do, it enters with a +1/+1 and a finality counter on it.
+
+Fortune's Channeler
+rules_text: When this creature enters, you may discard any number of cards from your hand. If you do, you may exile that many cards from the top of your library plus one. You may play one of them until the end of your next turn. => When this creature enters, discard any number of cards from your hand. Exile that many cards from the top of your library plus one. You may play one of them until the end of your next turn.
+
+Plan Bee
+rules_text: Whenever one or more creatures you control attack, you may exile the top card of your library. When you do, choose one —
+• Creatures you control get +1/+1 until end of turn.
+• You may play that card this turn. => Whenever you attack, you may exile the top card of your library. When you do, choose one —
+• Creatures you control get +1/+1 until end of turn.
+• You may play that card this turn.
+
+Sefolian Acrobat
+rules_text: Flying
+Whenever you become flourished 6, put two +1/+1 counters on this creature. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i] => Flying
+Whenever you become flourished 6, put a +1/+1 counter on this creature. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Hive Explorer
+rules_text: At the beginning of each combat, if you're flourished 6, creatures you control get +1/+1 and gain vigilance until end of turn. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+{1}{G}, {T}: Create a 0/0 black and green Insect creature token with brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i] => At the beginning of your combat, if you're flourished 6, creatures you control get +1/+1 and gain vigilance until end of turn. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+{1}{G}, {T}: Create a 0/0 black and green Insect creature token with brood 1. [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+
+Sih's Trial
+cost: {1}{G} => {2}{G}
+
+Api's Trial
+cost: {1}{S}{S} => {S}{S}
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+Api's Trial is all colors.
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of your end step, if you've spent three or more different colors of mana this turn, draw a card. Then if you've spent five or more, proliferate twice. => [i](Spend a different color of mana on each {S}.)[/i]
+Api's Trial is all colors.
+Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+At the beginning of your end step, if you've spent three or more colors of mana this turn, proliferate.
+
+Catch the Show
+rules_text: Exile any number of target nonland permanents you control that share a single card type. Return them to the battlefield under your control.
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i] => Exile any number of target nonland permanents you control that share a single card type. Return them to the battlefield their owner's control.
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Mother's Touch
+rules_text: Choose one —
+• Choose a creature type, then create a 2/2 Warrior creature token that is all colors and has the chosen type.
+• You may sacrifice a creature. If you do, draw cards equal to the sacrificed creatures power.
+Double down {3}{B}{G} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Choose a creature type, then create a 2/2 Warrior creature token that is all colors and has the chosen type.
+• You may sacrifice a creature. If you do, you draw X cards and you lose X life. Where X is that creature's power. 
+Double down {3}{B}{G} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Risk and Reward
+rules_text: Choose one —
+• Discard up to two cards. Exile that many cards from the top of your library. You may play them until the end of your next turn.
+• Exile an instant or sorcery card in your graveyard. You may play it until the end of your next turn.
+Double down {3}{U}{R} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Discard up to two cards. Exile that many cards from the top of your library. You may play them until the end of your next turn.
+• Exile an instant or sorcery card from your graveyard. You may play it until the end of your next turn.
+Double down {3}{U}{R} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Grasp in the Dark
+rules_text: Until end of turn, you may look at the top card of your library at any time, and you may play lands and cast spells from the top card of your library. => Until end of turn, you may look at the top card of your library any time, and you may play lands and cast spells from the top card of your library.
+
+Living Infestation
+rules_text: Trample
+Whenever this creature is dealt damage, create that many 1/1 black Zombie Insect creature tokens with flying. => Trample
+Whenever this creature is dealt damage, create a 1/1 black Zombie Insect creature token with flying.
+
+Price for Victory
+
+Overwhelming Verdict
+rules_text: Overwhelming Verdict deals 4 damage to any target. Create a number of 1/1 red and white Warrior creature tokens with lifelink and haste that can't block equal to the excess damage dealt this way. => Overwhelming Verdict deals 4 damage to any target. Create a number of 1/1 red and white Warrior creature tokens with haste that can't block equal to the excess damage dealt this way.
+
+Fraid's Mercenary
+pt: 2/3 => 2/2
+
+Princess of the Hive
+
+Brood Infiltrator
+rules_text: Flying
+{S}{S}{S}: Mill two cards. You may return a card milled this way from your graveyard to your hand. [i](Spend a different color of mana on each {S}.)[/i] => Flying
+{S}{S}{S}{S}: Mill two cards. You may return a card milled this way from your graveyard to your hand. [i](Spend a different color of mana on each {S}.)[/i]
+
+Arena Boss
+type: Creature — Seal Warrior => Creature — Beast Warrior
+
+Opposing Form
+cost: {2}{S}{S}{G} => {2}{G}{G}{G}
+rules_text: [i](This card is green. Spend a different color of mana on each {S}.)[/i]
+Deathtouch
+When this creature enters, destroy up to one target noncreature permanent with mana value 2 or greater. => Deathtouch
+When this creature enters, destroy up to one target noncreature permanent with mana value 2 or greater.
+
+Praying Mantis
+cost: {2}{B}{G} => {3}{B}{G}
+pt: 4/5 => 4/4
+
+Pina, the Returned
+rules_text: Whenever you cast an instant or sorcery spell, copy it for each card in your graveyard with the same name. You may reselect modes and choose new targets for each copy.
+[+2]: Mill four cards. You may return a card milled this way from your graveyard to your hand.
+[0]: Tap or untap up to one target nonland permanent, then tap or untap up to one other target nonland permanent. Put a stun counter on up to two of them.
+[-X]: Exile target instant or sorcery card in a graveyard with mana value X or less. Copy it. You may cast the copy without paying its mana cost. => Whenever you cast an instant or sorcery spell, copy it for each card in your graveyard with the same name. You may reselect modes and choose new targets for each copy.
+[+2]: Mill four cards. You may return a card milled this way from your graveyard to your hand.
+[0]: Choose up to two target nonland permanents. For each of them, you may untap it or tap it and put a stun counter on it.
+[-X]: Exile target instant or sorcery card in a graveyard with mana value X or less. Copy it. You may cast the copy without paying its mana cost.
+special_text: Whenever you cast an instant or sorcery spell, copy it for each card in your graveyard with the same name. You may reselect modes and choose new targets for each copy.
+[+2]: Mill four cards. You may return a card milled this way from your graveyard to your hand.
+[0]: Tap or untap up to one target nonland permanent, then tap or untap up to one other target nonland permanent. Put a stun counter on up to two of them.
+[-X]: Exile target instant or sorcery card in a graveyard with mana value X or less. Copy it. You may cast the copy without paying its mana cost. => Whenever you cast an instant or sorcery spell, copy it for each card in your graveyard with the same name. You may reselect modes and choose new targets for each copy.
+[+2]: Mill four cards. You may return a card milled this way from your graveyard to your hand.
+[0]: Choose up to two target nonland permanents. For each of them, you may untap it or tap it and put a stun counter on it.
+[-X]: Exile target instant or sorcery card in a graveyard with mana value X or less. Copy it. You may cast the copy without paying its mana cost.
+
+Glimpse at Greatness
+rules_text: Look at the top X cards of your library. You may put a colorless permanent card and a permanent card of each color with mana value X or less from among them onto the battlefield. Then put the rest into your graveyard. => Reveal the top X cards of your library. You may put a colorless permanent card and a permanent card of each color with mana value X or less from among them onto the battlefield. Then put the rest into your graveyard.
+
+Conflicting Minds
+rules_text: Mill five cards. When you do, you may return up to two target permanent cards from your graveyard to your hand. You lose 2 life. => Mill four cards. When you do, you may return up to two target permanent cards from your graveyard to your hand.
+
+Field Designer
+
+Remove the Competition
+
+Event Helper
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+Event Helper is all colors.
+Flying
+Whenever you cast a spell, if it's multicolored or you cast it from anywhere other than your hand, you may pay {S}{S}{S}. If you do, copy it. You may choose new target for the copies. => [i](Spend a different color of mana on each {S}.)[/i]
+Event Helper is all colors.
+Flying
+Whenever you cast a spell, if it's multicolored or you cast it from anywhere other than your hand, you may pay {S}{S}{S}. If you do, copy it. You may choose new targets for the copies.
+
+Wade Through Chaos
+rules_text: [i]Paradox[/i] — Whenever you cast a card from anywhere other than your hand, you may cast a card with equal or less mana value from your hand without paying its mana cost. => [i]Paradox[/i] — Whenever you cast a card from anywhere other than your hand, you may cast a card with equal or lesser mana value from your hand without paying its mana cost.
+
+Anvy, Thorns of Sefol
+rules_text: Whenever this creature enters or you become flourished 6, choose up to one — [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+• Target noncreature permanent you control becomes a 3/3 green Treefolk creature. [i](It loses its other colors and types. This effect lasts indefinitely.)[/i]
+• Sacrifice a Treefolk. If you do, return up to one target creature card from your graveyard to your hand. => When Anvy enters and whenever you become flourished 6, choose up to one — [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+• Target noncreature permanent you control becomes a 3/3 green Treefolk creature. [i](It loses its other colors and types. This effect lasts indefinitely.)[/i]
+• Sacrifice a Treefolk. Draw cards equal to that creature's power.
+
+Head Judge
+rules_text: [i](Spend a different color of mana on each {S}.)[/i]
+Head Judge is all colors.
+Flying
+When this creature enters, return up to one target artifact card with mana value 3 or less from your graveyard to the battlefield. If you don't, draw a card.
+Whenever one or more creatures you control attack, untap up to that many artifacts you control. => [i](Spend a different color of mana on each {S}.)[/i]
+Head Judge is all colors.
+Flying
+When this creature enters, return up to one target artifact card with mana value 3 or less from your graveyard to the battlefield. If you didn't put a card onto the battlefield this way, draw a card.
+Whenever one or more creatures you control attack, untap up to that many artifacts you control.
+
+Ael, the Second Chance
+rules_text: When Ael enters the battlefield, search your library for a card, shuffle, then put it into your library third from the top.
+{4}{R}: Transform Ael. Activate only as a sorcery. => When Ael enters, search your library for a card, shuffle, then put it into your library third from the top.
+{4}{R}: Transform Ael. Activate only as a sorcery.
+
+Out in the Cold
+loyalty: 5 => 3
+
+Opening Bout
+rules_text: [i](Spend a different color of mana on each {S}, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Opening Bout is all colors.
+When this battle enters or is defeated, choose a creature type, then create a 2/2 Warrior creature token that is all colors and has the chosen type. => [i](Spend a different color of mana on each {S}. Choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Opening Bout is all colors.
+When this battle enters or is defeated, choose a creature type, then create a 2/2 Warrior creature token that is all colors and has the chosen type.
+
+Victims of Fate
+rules_text: [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever this battle is defeated, return all nonland permanents to their owner's hand, then each player may put a permanent card from your hand onto the battlefield. => [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever this battle is defeated, return all nonland permanents to their owner's hand.
+loyalty: 6 => 3
+
+Born for Entertainment
+rules_text: [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever one or more defense counters are removed from this battle, create that many 1/1 red and white Warrior creature tokens with lifelink and haste that can't block. => [i](As a Fate enters, choose an opponent to protect it. At the beginning of your upkeep, remove a defense counter.)[/i]
+Whenever one or more defense counters are removed from this battle, create that many 1/1 red and white Warrior creature tokens with haste that can't block.
+
+Dragon of the Springs
+pt: 3/3 => 3/4
+
+Brood Grubbers
+type: Creature — Insect Citizen => Creature — Insect
+rules_text: Brood 2 [i](This creature enters with two +1/+1 counters on it. When it dies, you may put its counters on target creature.)[/i] => Brood 1 [i](This creature enters with a +1/+1 counter on it. When it dies, you may put its counters on target creature.)[/i]
+pt: 1/1 => 2/1
+
+Kingdom's Champion
+
+Grist, the World Hunger
+
+red and white Warrior 11HEX
+rules_text: Lifelink, haste
+This creature can't block. => Haste
+This creature can't block.
+
+green and blue Elemental 00HEX
+type: Token Creature — Elemental => Token Creature — Dryad
+
+
+VERSION 56 CHANGELOG
 ====================
 
 
