@@ -2523,7 +2523,7 @@
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]\nWhenever you attack, surveil 1.",
-            "flavor_text": "[i]\u201cOne champion shall claim our greatest prize and wish. I need only guide them to it.\u201d[/i]",
+            "flavor_text": "[i]\u201cOne champion shall claim our greatest prize and wish. I need only guide her to it.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -3053,8 +3053,8 @@
             "type": "Creature \u2014 Dryad",
             "number": 188,
             "color_identity": "G",
-            "cost": "{2}{G}",
-            "rules_text": "Haste\n{T}: You may put a land card from your hand onto the battlefield.",
+            "cost": "{1}{G}",
+            "rules_text": "When this creature enters, surveil 2.\n{T}: Return target land card from your graveyard to your hand.",
             "flavor_text": "[i]\u201cWhen the seasons change every day, it's easy to miss the kingdom's beauty. But every second here is beautiful, so why not live in its moment?\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4793,7 +4793,7 @@
             "type": "Creature \u2014 Dragon",
             "number": 145,
             "color_identity": "R",
-            "cost": "{4}{R}",
+            "cost": "{3}{R}{R}",
             "rules_text": "Flying, haste\nWhenever this creature attacks, you may exchange control of two artifacts controlled by different players. If you don't, create a Treasure token.",
             "flavor_text": "[i]It goes for gold, and only gold.[/i]",
             "pt": "5/5",
@@ -6449,5 +6449,5 @@
             "notes": "!exportname green and blue Elemental 00HEX\n\n!related Nature's Awakening;"
         }
     ],
-    "version": 58
+    "version": 59
 }

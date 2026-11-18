@@ -1,4 +1,21 @@
-﻿VERSION 58 CHANGELOG
+﻿VERSION 59 CHANGELOG
+====================
+
+
+
+Ael's Trial
+
+Sih's Servant
+cost: {2}{G} => {1}{G}
+rules_text: Haste
+{T}: You may put a land card from your hand onto the battlefield. => When this creature enters, surveil 2.
+{T}: Return target land card from your graveyard to your hand.
+
+Prize Hoarder
+cost: {4}{R} => {3}{R}{R}
+
+
+VERSION 58 CHANGELOG
 ====================
 
 A Point to Prove added.

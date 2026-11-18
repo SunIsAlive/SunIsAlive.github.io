@@ -1603,7 +1603,7 @@
 		{
 			"name": "Sih's Servant",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Creature — Dryad",
 			"collector_number": "188",
 			"image_uris": {
@@ -2520,7 +2520,7 @@
 		{
 			"name": "Prize Hoarder",
 			"rarity": "rare",
-			"mana_cost": "{4}{R}",
+			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Dragon",
 			"collector_number": "145",
 			"image_uris": {
