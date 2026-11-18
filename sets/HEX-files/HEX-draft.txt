@@ -25,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/35_Practice Partners.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/36_Practice Partners.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Noble",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/43_Tournament Favorite.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/44_Tournament Favorite.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/37_Shaken by the Arena.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/38_Shaken by the Arena.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/42_Team Spirit.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/43_Team Spirit.png"
 			}
 		},
 		{
@@ -1175,19 +1175,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "40",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/40_Tarase's Immortal.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/41_Tarase's Immortal.png"
 			}
 		},
 		{
-			"name": "Training Regimen",
+			"name": "A Point to Prove",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "45",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/45_Training Regimen.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/35_A Point to Prove.png"
 			}
 		},
 		{
@@ -1205,9 +1205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/36_Seto San's Wake.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/37_Seto San's Wake.png"
 			}
 		},
 		{
@@ -1215,9 +1215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "41",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/41_Tarase's Trial.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/42_Tarase's Trial.png"
 			}
 		},
 		{
@@ -2272,9 +2272,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/44_Tournament Recruiter.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/45_Tournament Recruiter.png"
 			}
 		},
 		{
@@ -2462,9 +2462,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/38_Stoic Steward.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/39_Stoic Steward.png"
 			}
 		},
 		{
@@ -2946,16 +2946,16 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "39",
+			"collector_number": "40",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://sunisalive.github.io/sets/HEX-files/img/39_Tarase, the Third Charm_back.png"
+					"en": "https://sunisalive.github.io/sets/HEX-files/img/40_Tarase, the Third Charm_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://sunisalive.github.io/sets/HEX-files/img/39_Tarase, the Third Charm_front.png"
+				"en": "https://sunisalive.github.io/sets/HEX-files/img/40_Tarase, the Third Charm_front.png"
 			}
 		},
 		{
@@ -3273,7 +3273,7 @@
 			"name": "Emblem",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Emblem — Grist",
+			"type": "Emblem",
 			"collector_number": "22",
 			"image_uris": {
 				"en": "https://sunisalive.github.io/sets/HEX-files/img/22_Emblem.png"
@@ -3698,7 +3698,7 @@
 	8 Ceremonial Opening
 	8 Gate's Inspector
 	8 Wayward Warrior
-	8 Training Regimen
+	8 A Point to Prove
 	8 Chaotic Pyromancer
 	8 Sefolian Acrobat
 	8 Will of Ba
@@ -3826,7 +3826,7 @@
 	6 Paragon of Competition
 	6 Victory Summoner
 	6 Tarase's Immortal
-	12 Training Regimen
+	12 A Point to Prove
 	6 Mimi, Grounds Explorer
 	6 Seto San's Wake
 	6 Tarase's Trial
@@ -4130,7 +4130,7 @@
 	15 Paragon of Competition
 	15 Victory Summoner
 	15 Tarase's Immortal
-	6 Training Regimen
+	6 A Point to Prove
 	15 Mimi, Grounds Explorer
 	15 Seto San's Wake
 	15 Tarase's Trial

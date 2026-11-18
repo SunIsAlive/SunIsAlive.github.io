@@ -181,7 +181,7 @@
     },
     {
         "card_name": "Stoic Steward",
-        "number": 38,
+        "number": 39,
         "shape": "normal",
         "set": "HEX"
     },
@@ -211,7 +211,7 @@
     },
     {
         "card_name": "Tarase, the Third Charm",
-        "number": 39,
+        "number": 40,
         "shape": "modal double faced",
         "set": "HEX"
     },
@@ -241,7 +241,7 @@
     },
     {
         "card_name": "Tournament Recruiter",
-        "number": 44,
+        "number": 45,
         "shape": "normal",
         "set": "HEX"
     },
@@ -571,7 +571,7 @@
     },
     {
         "card_name": "Seto San's Wake",
-        "number": 36,
+        "number": 37,
         "shape": "normal",
         "set": "HEX"
     },
@@ -601,7 +601,7 @@
     },
     {
         "card_name": "Tarase's Immortal",
-        "number": 40,
+        "number": 41,
         "shape": "normal",
         "set": "HEX"
     },
@@ -631,7 +631,7 @@
     },
     {
         "card_name": "Tarase's Trial",
-        "number": 41,
+        "number": 42,
         "shape": "normal",
         "set": "HEX"
     },
@@ -840,7 +840,7 @@
         "set": "HEX"
     },
     {
-        "card_name": "Practice Partners",
+        "card_name": "A Point to Prove",
         "number": 35,
         "shape": "normal",
         "set": "HEX"
@@ -870,8 +870,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Shaken by the Arena",
-        "number": 37,
+        "card_name": "Practice Partners",
+        "number": 36,
         "shape": "normal",
         "set": "HEX"
     },
@@ -900,8 +900,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Team Spirit",
-        "number": 42,
+        "card_name": "Shaken by the Arena",
+        "number": 38,
         "shape": "normal",
         "set": "HEX"
     },
@@ -930,7 +930,7 @@
         "set": "HEX"
     },
     {
-        "card_name": "Tournament Favorite",
+        "card_name": "Team Spirit",
         "number": 43,
         "shape": "normal",
         "set": "HEX"
@@ -960,8 +960,8 @@
         "set": "HEX"
     },
     {
-        "card_name": "Training Regimen",
-        "number": 45,
+        "card_name": "Tournament Favorite",
+        "number": 44,
         "shape": "normal",
         "set": "HEX"
     },

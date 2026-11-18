@@ -1,4 +1,43 @@
-﻿VERSION 57 CHANGELOG
+﻿VERSION 58 CHANGELOG
+====================
+
+A Point to Prove added.
+
+Training Regimen removed.
+
+Up-And-Comer
+rules_text: Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+Whenever this creature dies, create a Treasure token. => Compete [i](You get a score counter once on each of your turns when you attack. Spend three score counters as a sorcery to create Trophy tokens.)[/i]
+When this creature dies, create a Treasure token.
+
+Wildpact Spear
+rules_text: [i]Paradox[/i] — When this Equipment enters, if it was cast from anywhere other than your hand, attach it to target creature you control. 
+Equipped creature gets +2/+1.
+Equip {1}{R} [i]({1}{R}: Attach to target creature you control. Equip only as a sorcery.)[/i] => [i]Paradox[/i] — When this Equipment enters, if it was cast from anywhere other than your hand, attach it to target creature you control.
+Equipped creature gets +2/+1.
+Equip {1}{R} [i]({1}{R}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Vioradell Javelineer
+rules_text: Whenever this creature enters and whenever you become flourished 6, tap target creature an opponent controls and put a stun counter on it. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i] => When this creature enters and whenever you become flourished 6, tap target creature an opponent controls and put a stun counter on it. [i](You become flourished 6 if you've spent six total mana this turn. You remain flourished until end of turn.)[/i]
+
+Mother's Touch
+rules_text: Choose one —
+• Choose a creature type, then create a 2/2 Warrior creature token that is all colors and has the chosen type.
+• You may sacrifice a creature. If you do, you draw X cards and you lose X life. Where X is that creature's power. 
+Double down {3}{B}{G} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i] => Choose one —
+• Choose a creature type, then create a 2/2 Warrior creature token that is all colors and has the chosen type.
+• You may sacrifice a creature. If you do, you draw X cards and you lose X life, where X is that creature's power.
+Double down {3}{B}{G} [i](You may cast this from your graveyard for its double down cost. If you do, all its modes are chosen. Then exile it.)[/i]
+
+Emblem
+type: Emblem — Grist => Emblem
+special_text: At the beginning of your end step, search your library and/or graveyard for an Insect card and put it onto the battlefield. If you search your library this way, shuffle. => 
+
+Grist, the World Hunger
+pt: 1/1 => 
+
+
+VERSION 57 CHANGELOG
 ====================
 
 Overwhelming Display added.
